@@ -1998,3 +1998,4 @@
 18290. docs: document token refresh logic #18290
 55055. perf: cache repeated calculations #55055
 56252. style: reformat files with black #56252
+95517. perf: cache repeated calculations #95517
