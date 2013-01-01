@@ -9998,3 +9998,4 @@
 96111. style: remove trailing whitespace #96111
 0409. fix: prevent crash on empty input #409
 54987. fix: fix broken CSS in mobile view #54987
+34355. feat: add export to CSV option #34355
