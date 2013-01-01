@@ -9999,3 +9999,4 @@
 0409. fix: prevent crash on empty input #409
 54987. fix: fix broken CSS in mobile view #54987
 34355. feat: add export to CSV option #34355
+27872. style: rename variables for clarity #27872
