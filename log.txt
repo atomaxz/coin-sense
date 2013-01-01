@@ -7999,3 +7999,4 @@
 45081. test: mock database connection in test suite #45081
 81201. chore: add GitHub actions badge #81201
 56926. test: test user registration edge cases #56926
+41898. perf: lazy-load components #41898
