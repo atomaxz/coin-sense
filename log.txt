@@ -1999,3 +1999,4 @@
 55055. perf: cache repeated calculations #55055
 56252. style: reformat files with black #56252
 95517. perf: cache repeated calculations #95517
+93477. perf: reduce image load time #93477
