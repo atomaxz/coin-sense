@@ -2999,3 +2999,4 @@
 78517. test: add integration test for /submit endpoint #78517
 31891. docs: document token refresh logic #31891
 9009. docs: add API usage examples #9009
+10319. test: increase coverage on auth module #10319
