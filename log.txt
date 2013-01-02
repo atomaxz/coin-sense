@@ -8005,3 +8005,4 @@
 63226. docs: write FAQ section #63226
 95602. fix: fix null pointer exception on login #95602
 16149. fix: fix null pointer exception on login #16149
+3667. fix: correct typo in registration form #3667
