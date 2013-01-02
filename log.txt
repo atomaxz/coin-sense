@@ -2,3 +2,4 @@
 2311. docs: improve code comments in utils #2311
 47383. docs: improve code comments in utils #47383
 1347. refactor: remove redundant code blocks #1347
+7734. feat: support email verification #7734
