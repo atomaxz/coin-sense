@@ -1003,3 +1003,4 @@
 37070. refactor: clean up auth middleware #37070
 25600. refactor: remove redundant code blocks #25600
 77302. chore: clean up unused files #77302
+81191. docs: update README with setup steps #81191
