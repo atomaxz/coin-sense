@@ -7001,3 +7001,4 @@
 69266. fix: prevent crash on empty input #69266
 59664. chore: bump dependencies #59664
 95436. style: reformat files with black #95436
+99155. refactor: organize models into subfolders #99155
