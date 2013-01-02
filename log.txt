@@ -1001,3 +1001,4 @@
 6533. refactor: split large controller into smaller functions #6533
 6205. feat: create admin dashboard #6205
 37070. refactor: clean up auth middleware #37070
+25600. refactor: remove redundant code blocks #25600
