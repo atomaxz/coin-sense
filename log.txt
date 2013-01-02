@@ -1004,3 +1004,4 @@
 25600. refactor: remove redundant code blocks #25600
 77302. chore: clean up unused files #77302
 81191. docs: update README with setup steps #81191
+39812. docs: clarify environment setup #39812
