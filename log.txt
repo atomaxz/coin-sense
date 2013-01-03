@@ -5004,3 +5004,4 @@
 52805. style: rename variables for clarity #52805
 78440. test: mock database connection in test suite #78440
 5328. refactor: remove redundant code blocks #5328
+72955. refactor: split large controller into smaller functions #72955
