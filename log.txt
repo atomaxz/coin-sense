@@ -10005,3 +10005,4 @@
 23606. chore: clean up unused files #23606
 73845. perf: cache repeated calculations #73845
 20898. feat: add export to CSV option #20898
+58806. test: mock database connection in test suite #58806
