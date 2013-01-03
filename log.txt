@@ -1006,3 +1006,4 @@
 81191. docs: update README with setup steps #81191
 39812. docs: clarify environment setup #39812
 34519. perf: cache repeated calculations #34519
+28231. fix: correct typo in registration form #28231
