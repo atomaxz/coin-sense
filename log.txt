@@ -1011,3 +1011,4 @@
 37321. fix: fix broken CSS in mobile view #37321
 40104. feat: enable dark mode toggle #40104
 70986. perf: reduce image load time #70986
+84700. test: mock database connection in test suite #84700
