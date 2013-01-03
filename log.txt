@@ -2002,3 +2002,4 @@
 93477. perf: reduce image load time #93477
 48826. feat: enable dark mode toggle #48826
 97051. refactor: refactor quiz grading logic #97051
+60183. chore: add GitHub actions badge #60183
