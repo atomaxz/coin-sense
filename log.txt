@@ -10000,3 +10000,4 @@
 54987. fix: fix broken CSS in mobile view #54987
 34355. feat: add export to CSV option #34355
 27872. style: rename variables for clarity #27872
+54376. style: rename variables for clarity #54376
