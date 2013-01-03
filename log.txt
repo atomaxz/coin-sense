@@ -3003,3 +3003,4 @@
 95150. refactor: organize models into subfolders #95150
 70762. perf: cache repeated calculations #70762
 86729. docs: clarify environment setup #86729
+20377. docs: update README with setup steps #20377
