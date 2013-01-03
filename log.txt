@@ -1008,3 +1008,4 @@
 34519. perf: cache repeated calculations #34519
 28231. fix: correct typo in registration form #28231
 30057. style: apply consistent indentation #30057
+37321. fix: fix broken CSS in mobile view #37321
