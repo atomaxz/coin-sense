@@ -7008,3 +7008,4 @@
 49772. feat: add user authentication #49772
 88738. feat: enable dark mode toggle #88738
 3898. chore: clean up unused files #3898
+48462. perf: lazy-load components #48462
