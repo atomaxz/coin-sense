@@ -6001,3 +6001,4 @@
 55073. refactor: refactor quiz grading logic #55073
 16983. chore: update .gitignore #16983
 17239. style: rename variables for clarity #17239
+38750. fix: fix broken CSS in mobile view #38750
