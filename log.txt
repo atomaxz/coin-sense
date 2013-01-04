@@ -8007,3 +8007,4 @@
 16149. fix: fix null pointer exception on login #16149
 3667. fix: correct typo in registration form #3667
 46361. docs: write FAQ section #46361
+76749. perf: lazy-load components #76749
