@@ -3004,3 +3004,4 @@
 70762. perf: cache repeated calculations #70762
 86729. docs: clarify environment setup #86729
 20377. docs: update README with setup steps #20377
+78726. docs: add API usage examples #78726
