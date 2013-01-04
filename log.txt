@@ -10006,3 +10006,4 @@
 73845. perf: cache repeated calculations #73845
 20898. feat: add export to CSV option #20898
 58806. test: mock database connection in test suite #58806
+73817. docs: write FAQ section #73817
