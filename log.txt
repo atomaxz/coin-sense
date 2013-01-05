@@ -4007,3 +4007,4 @@
 7120. refactor: clean up auth middleware #7120
 26964. perf: cache repeated calculations #26964
 52499. refactor: split large controller into smaller functions #52499
+1782. perf: lazy-load components #1782
