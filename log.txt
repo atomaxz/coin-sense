@@ -2004,3 +2004,4 @@
 97051. refactor: refactor quiz grading logic #97051
 60183. chore: add GitHub actions badge #60183
 89492. perf: reduce image load time #89492
+54794. fix: handle 500 error in quiz API #54794
