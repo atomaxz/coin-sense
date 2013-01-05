@@ -9,3 +9,4 @@
 73148. feat: create admin dashboard #73148
 65002. perf: cache repeated calculations #65002
 19105. docs: clarify environment setup #19105
+86843. test: mock database connection in test suite #86843
