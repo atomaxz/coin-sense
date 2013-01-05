@@ -7,3 +7,4 @@
 7081. test: add unit test for quiz service #7081
 86369. perf: cache repeated calculations #86369
 73148. feat: create admin dashboard #73148
+65002. perf: cache repeated calculations #65002
