@@ -4008,3 +4008,4 @@
 26964. perf: cache repeated calculations #26964
 52499. refactor: split large controller into smaller functions #52499
 1782. perf: lazy-load components #1782
+5833. fix: handle 500 error in quiz API #5833
