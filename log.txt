@@ -10008,3 +10008,4 @@
 58806. test: mock database connection in test suite #58806
 73817. docs: write FAQ section #73817
 80838. perf: cache repeated calculations #80838
+50268. perf: lazy-load components #50268
