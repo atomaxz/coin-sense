@@ -2007,3 +2007,4 @@
 54794. fix: handle 500 error in quiz API #54794
 13095. fix: resolve issue with date parsing #13095
 8717. perf: cache repeated calculations #8717
+79948. feat: add export to CSV option #79948
