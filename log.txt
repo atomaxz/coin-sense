@@ -8009,3 +8009,4 @@
 46361. docs: write FAQ section #46361
 76749. perf: lazy-load components #76749
 88146. refactor: refactor quiz grading logic #88146
+56345. feat: support email verification #56345
