@@ -6003,3 +6003,4 @@
 17239. style: rename variables for clarity #17239
 38750. fix: fix broken CSS in mobile view #38750
 55517. fix: fix broken CSS in mobile view #55517
+20777. refactor: split large controller into smaller functions #20777
