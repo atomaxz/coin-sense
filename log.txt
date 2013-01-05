@@ -9013,3 +9013,4 @@
 59769. chore: bump dependencies #59769
 33380. fix: fix broken CSS in mobile view #33380
 95295. feat: implement quiz timer feature #95295
+73813. test: test user registration edge cases #73813
