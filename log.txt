@@ -10012,3 +10012,4 @@
 72004. style: reformat files with black #72004
 41501. refactor: organize models into subfolders #41501
 47100. docs: document token refresh logic #47100
+10093. fix: correct typo in registration form #10093
