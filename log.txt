@@ -8012,3 +8012,4 @@
 56345. feat: support email verification #56345
 87777. feat: add export to CSV option #87777
 12278. feat: implement quiz timer feature #12278
+1422. docs: write FAQ section #1422
