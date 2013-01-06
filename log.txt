@@ -1018,3 +1018,4 @@
 30511. perf: reduce image load time #30511
 4596. refactor: organize models into subfolders #4596
 72506. chore: clean up unused files #72506
+94514. test: test user registration edge cases #94514
