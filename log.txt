@@ -10010,3 +10010,4 @@
 80838. perf: cache repeated calculations #80838
 50268. perf: lazy-load components #50268
 72004. style: reformat files with black #72004
+41501. refactor: organize models into subfolders #41501
