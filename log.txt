@@ -10013,3 +10013,4 @@
 41501. refactor: organize models into subfolders #41501
 47100. docs: document token refresh logic #47100
 10093. fix: correct typo in registration form #10093
+46852. test: increase coverage on auth module #46852
