@@ -6009,3 +6009,4 @@
 4676. feat: add export to CSV option #4676
 70288. style: apply consistent indentation #70288
 20288. style: apply consistent indentation #20288
+24690. refactor: remove redundant code blocks #24690
