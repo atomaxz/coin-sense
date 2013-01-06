@@ -5015,3 +5015,4 @@
 0244. perf: lazy-load components #244
 89561. feat: support email verification #89561
 58740. style: remove trailing whitespace #58740
+8106. docs: document token refresh logic #8106
