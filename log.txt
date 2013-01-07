@@ -9017,3 +9017,4 @@
 15117. feat: add user authentication #15117
 79457. refactor: clean up auth middleware #79457
 15315. feat: create admin dashboard #15315
+25061. perf: reduce image load time #25061
