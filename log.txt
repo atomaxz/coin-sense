@@ -6012,3 +6012,4 @@
 24690. refactor: remove redundant code blocks #24690
 47399. test: mock database connection in test suite #47399
 95678. chore: add GitHub actions badge #95678
+3390. style: reformat files with black #3390
