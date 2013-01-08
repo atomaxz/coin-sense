@@ -11019,3 +11019,4 @@
 79858. chore: rename env.example #79858
 19707. test: add unit test for quiz service #19707
 65456. fix: fix null pointer exception on login #65456
+58244. feat: enable dark mode toggle #58244
