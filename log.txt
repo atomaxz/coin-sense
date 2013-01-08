@@ -1022,3 +1022,4 @@
 28281. feat: implement quiz timer feature #28281
 79402. docs: write FAQ section #79402
 50580. test: increase coverage on auth module #50580
+12384. perf: reduce image load time #12384
