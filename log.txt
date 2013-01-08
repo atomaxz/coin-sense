@@ -3018,3 +3018,4 @@
 47064. refactor: organize models into subfolders #47064
 95658. perf: reduce image load time #95658
 58657. style: reformat files with black #58657
+11595. perf: lazy-load components #11595
