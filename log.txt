@@ -9019,3 +9019,4 @@
 15315. feat: create admin dashboard #15315
 25061. perf: reduce image load time #25061
 95382. feat: add user authentication #95382
+41368. style: standardize quote style #41368
