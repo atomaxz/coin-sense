@@ -6018,3 +6018,4 @@
 56396. perf: optimize database query for quiz results #56396
 6656. refactor: split large controller into smaller functions #6656
 74386. refactor: remove redundant code blocks #74386
+49501. perf: lazy-load components #49501
