@@ -4020,3 +4020,4 @@
 47521. chore: bump dependencies #47521
 96844. test: increase coverage on auth module #96844
 49474. fix: correct typo in registration form #49474
+84400. perf: optimize database query for quiz results #84400
