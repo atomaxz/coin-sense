@@ -11022,3 +11022,4 @@
 58244. feat: enable dark mode toggle #58244
 23414. perf: optimize database query for quiz results #23414
 1433. feat: enable dark mode toggle #1433
+29682. feat: support email verification #29682
