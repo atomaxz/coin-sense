@@ -1031,3 +1031,4 @@
 53620. style: apply consistent indentation #53620
 41552. perf: lazy-load components #41552
 39470. perf: cache repeated calculations #39470
+77320. fix: handle 500 error in quiz API #77320
