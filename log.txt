@@ -4019,3 +4019,4 @@
 80049. style: apply consistent indentation #80049
 47521. chore: bump dependencies #47521
 96844. test: increase coverage on auth module #96844
+49474. fix: correct typo in registration form #49474
