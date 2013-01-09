@@ -19,3 +19,4 @@
 74859. style: apply consistent indentation #74859
 3347. feat: implement quiz timer feature #3347
 72521. test: increase coverage on auth module #72521
+60816. test: test user registration edge cases #60816
