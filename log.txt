@@ -4018,3 +4018,4 @@
 77018. test: mock database connection in test suite #77018
 80049. style: apply consistent indentation #80049
 47521. chore: bump dependencies #47521
+96844. test: increase coverage on auth module #96844
