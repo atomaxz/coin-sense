@@ -10018,3 +10018,4 @@
 91272. perf: optimize database query for quiz results #91272
 99308. chore: clean up unused files #99308
 99997. test: increase coverage on auth module #99997
+50953. fix: fix broken CSS in mobile view #50953
