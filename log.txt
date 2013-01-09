@@ -1026,3 +1026,4 @@
 99325. feat: support email verification #99325
 15360. perf: cache repeated calculations #15360
 79909. feat: add export to CSV option #79909
+66679. docs: write FAQ section #66679
