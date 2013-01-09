@@ -3023,3 +3023,4 @@
 7646. perf: lazy-load components #7646
 79999. chore: update .gitignore #79999
 1841. fix: handle 500 error in quiz API #1841
+25810. refactor: split large controller into smaller functions #25810
