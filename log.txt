@@ -2016,3 +2016,4 @@
 75423. style: reformat files with black #75423
 73410. docs: write FAQ section #73410
 0143. chore: update .gitignore #143
+71900. refactor: clean up auth middleware #71900
