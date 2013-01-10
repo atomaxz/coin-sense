@@ -10019,3 +10019,4 @@
 99308. chore: clean up unused files #99308
 99997. test: increase coverage on auth module #99997
 50953. fix: fix broken CSS in mobile view #50953
+36380. fix: handle 500 error in quiz API #36380
