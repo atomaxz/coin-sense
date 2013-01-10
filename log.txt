@@ -7026,3 +7026,4 @@
 98167. test: add integration test for /submit endpoint #98167
 85760. style: rename variables for clarity #85760
 58667. refactor: organize models into subfolders #58667
+48406. test: add unit test for quiz service #48406
