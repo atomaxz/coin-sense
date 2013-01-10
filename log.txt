@@ -7029,3 +7029,4 @@
 48406. test: add unit test for quiz service #48406
 8196. test: add integration test for /submit endpoint #8196
 60682. fix: correct typo in registration form #60682
+27890. test: test user registration edge cases #27890
