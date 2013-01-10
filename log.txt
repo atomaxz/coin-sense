@@ -6020,3 +6020,4 @@
 74386. refactor: remove redundant code blocks #74386
 49501. perf: lazy-load components #49501
 84703. feat: support email verification #84703
+32249. test: increase coverage on auth module #32249
