@@ -10020,3 +10020,4 @@
 99997. test: increase coverage on auth module #99997
 50953. fix: fix broken CSS in mobile view #50953
 36380. fix: handle 500 error in quiz API #36380
+69889. feat: add export to CSV option #69889
