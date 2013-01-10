@@ -20,3 +20,4 @@
 3347. feat: implement quiz timer feature #3347
 72521. test: increase coverage on auth module #72521
 60816. test: test user registration edge cases #60816
+26929. feat: enable dark mode toggle #26929
