@@ -1034,3 +1034,4 @@
 77320. fix: handle 500 error in quiz API #77320
 10486. test: increase coverage on auth module #10486
 21709. chore: update .gitignore #21709
+35451. chore: clean up unused files #35451
