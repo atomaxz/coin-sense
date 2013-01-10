@@ -6021,3 +6021,4 @@
 49501. perf: lazy-load components #49501
 84703. feat: support email verification #84703
 32249. test: increase coverage on auth module #32249
+17966. test: mock database connection in test suite #17966
