@@ -26,3 +26,4 @@
 6549. test: mock database connection in test suite #6549
 17936. test: add integration test for /submit endpoint #17936
 40255. test: add unit test for quiz service #40255
+31100. chore: add GitHub actions badge #31100
