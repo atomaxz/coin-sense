@@ -3026,3 +3026,4 @@
 25810. refactor: split large controller into smaller functions #25810
 14860. test: test user registration edge cases #14860
 20949. chore: add GitHub actions badge #20949
+67612. fix: prevent crash on empty input #67612
