@@ -9029,3 +9029,4 @@
 46590. style: apply consistent indentation #46590
 87438. feat: implement quiz timer feature #87438
 76685. feat: add export to CSV option #76685
+78262. test: add unit test for quiz service #78262
