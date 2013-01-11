@@ -3028,3 +3028,4 @@
 20949. chore: add GitHub actions badge #20949
 67612. fix: prevent crash on empty input #67612
 90033. fix: correct typo in registration form #90033
+33385. feat: enable dark mode toggle #33385
