@@ -3027,3 +3027,4 @@
 14860. test: test user registration edge cases #14860
 20949. chore: add GitHub actions badge #20949
 67612. fix: prevent crash on empty input #67612
+90033. fix: correct typo in registration form #90033
