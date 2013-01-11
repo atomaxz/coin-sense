@@ -1038,3 +1038,4 @@
 48850. fix: fix null pointer exception on login #48850
 36131. refactor: organize models into subfolders #36131
 35807. refactor: clean up auth middleware #35807
+73017. fix: correct typo in registration form #73017
