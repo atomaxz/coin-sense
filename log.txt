@@ -25,3 +25,4 @@
 20329. docs: update README with setup steps #20329
 6549. test: mock database connection in test suite #6549
 17936. test: add integration test for /submit endpoint #17936
+40255. test: add unit test for quiz service #40255
