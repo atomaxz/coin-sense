@@ -23,3 +23,4 @@
 26929. feat: enable dark mode toggle #26929
 45971. chore: bump dependencies #45971
 20329. docs: update README with setup steps #20329
+6549. test: mock database connection in test suite #6549
