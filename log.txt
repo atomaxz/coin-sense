@@ -7031,3 +7031,4 @@
 60682. fix: correct typo in registration form #60682
 27890. test: test user registration edge cases #27890
 38569. fix: fix broken CSS in mobile view #38569
+4287. feat: create admin dashboard #4287
