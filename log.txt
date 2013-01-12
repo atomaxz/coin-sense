@@ -3030,3 +3030,4 @@
 90033. fix: correct typo in registration form #90033
 33385. feat: enable dark mode toggle #33385
 92849. style: apply consistent indentation #92849
+97452. test: test user registration edge cases #97452
