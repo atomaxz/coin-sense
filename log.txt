@@ -8026,3 +8026,4 @@
 99762. chore: add GitHub actions badge #99762
 66252. test: add unit test for quiz service #66252
 51037. fix: fix broken CSS in mobile view #51037
+12958. style: remove trailing whitespace #12958
