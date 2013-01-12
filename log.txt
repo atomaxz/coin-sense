@@ -7032,3 +7032,4 @@
 27890. test: test user registration edge cases #27890
 38569. fix: fix broken CSS in mobile view #38569
 4287. feat: create admin dashboard #4287
+8410. refactor: remove redundant code blocks #8410
