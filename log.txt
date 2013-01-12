@@ -27,3 +27,4 @@
 17936. test: add integration test for /submit endpoint #17936
 40255. test: add unit test for quiz service #40255
 31100. chore: add GitHub actions badge #31100
+94984. perf: cache repeated calculations #94984
