@@ -29,3 +29,4 @@
 31100. chore: add GitHub actions badge #31100
 94984. perf: cache repeated calculations #94984
 0938. feat: enable dark mode toggle #938
+79824. docs: clarify environment setup #79824
