@@ -1040,3 +1040,4 @@
 35807. refactor: clean up auth middleware #35807
 73017. fix: correct typo in registration form #73017
 13039. docs: document token refresh logic #13039
+24591. fix: resolve issue with date parsing #24591
