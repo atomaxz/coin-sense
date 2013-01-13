@@ -8030,3 +8030,4 @@
 89995. fix: correct typo in registration form #89995
 56067. refactor: remove redundant code blocks #56067
 97847. refactor: refactor quiz grading logic #97847
+32730. style: standardize quote style #32730
