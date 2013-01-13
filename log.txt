@@ -2019,3 +2019,4 @@
 71900. refactor: clean up auth middleware #71900
 23691. perf: optimize database query for quiz results #23691
 70380. fix: fix null pointer exception on login #70380
+60807. perf: optimize database query for quiz results #60807
