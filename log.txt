@@ -11033,3 +11033,4 @@
 11894. test: add integration test for /submit endpoint #11894
 64263. perf: lazy-load components #64263
 93783. test: increase coverage on auth module #93783
+98065. test: add unit test for quiz service #98065
