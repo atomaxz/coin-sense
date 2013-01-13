@@ -8028,3 +8028,4 @@
 51037. fix: fix broken CSS in mobile view #51037
 12958. style: remove trailing whitespace #12958
 89995. fix: correct typo in registration form #89995
+56067. refactor: remove redundant code blocks #56067
