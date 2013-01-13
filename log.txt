@@ -11034,3 +11034,4 @@
 64263. perf: lazy-load components #64263
 93783. test: increase coverage on auth module #93783
 98065. test: add unit test for quiz service #98065
+30746. refactor: remove redundant code blocks #30746
