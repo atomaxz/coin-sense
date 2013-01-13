@@ -7034,3 +7034,4 @@
 4287. feat: create admin dashboard #4287
 8410. refactor: remove redundant code blocks #8410
 34021. fix: fix broken CSS in mobile view #34021
+7815. refactor: organize models into subfolders #7815
