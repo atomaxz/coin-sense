@@ -2023,3 +2023,4 @@
 60366. style: rename variables for clarity #60366
 32428. docs: clarify environment setup #32428
 30231. feat: implement quiz timer feature #30231
+2624. fix: prevent crash on empty input #2624
