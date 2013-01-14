@@ -6029,3 +6029,4 @@
 5420. style: rename variables for clarity #5420
 3785. refactor: remove redundant code blocks #3785
 38254. fix: correct typo in registration form #38254
+24062. perf: lazy-load components #24062
