@@ -3033,3 +3033,4 @@
 97452. test: test user registration edge cases #97452
 24662. fix: fix null pointer exception on login #24662
 36811. style: remove trailing whitespace #36811
+81946. refactor: organize models into subfolders #81946
