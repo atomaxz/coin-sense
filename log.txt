@@ -10030,3 +10030,4 @@
 46996. feat: enable dark mode toggle #46996
 86273. feat: create admin dashboard #86273
 44669. fix: fix null pointer exception on login #44669
+10596. fix: prevent crash on empty input #10596
