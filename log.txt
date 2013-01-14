@@ -8034,3 +8034,4 @@
 20271. test: add integration test for /submit endpoint #20271
 33849. test: add unit test for quiz service #33849
 66302. perf: cache repeated calculations #66302
+12935. refactor: refactor quiz grading logic #12935
