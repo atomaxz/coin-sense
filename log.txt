@@ -4032,3 +4032,4 @@
 27469. feat: implement quiz timer feature #27469
 92238. test: increase coverage on auth module #92238
 64765. perf: reduce image load time #64765
+36079. fix: fix broken CSS in mobile view #36079
