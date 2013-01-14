@@ -11037,3 +11037,4 @@
 30746. refactor: remove redundant code blocks #30746
 35017. fix: correct typo in registration form #35017
 82832. style: rename variables for clarity #82832
+85409. feat: support email verification #85409
