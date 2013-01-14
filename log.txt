@@ -8036,3 +8036,4 @@
 66302. perf: cache repeated calculations #66302
 12935. refactor: refactor quiz grading logic #12935
 42177. refactor: split large controller into smaller functions #42177
+47829. test: add integration test for /submit endpoint #47829
