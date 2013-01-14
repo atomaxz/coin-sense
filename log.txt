@@ -6031,3 +6031,4 @@
 38254. fix: correct typo in registration form #38254
 24062. perf: lazy-load components #24062
 61233. perf: reduce image load time #61233
+83924. feat: enable dark mode toggle #83924
