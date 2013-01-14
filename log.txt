@@ -8032,3 +8032,4 @@
 97847. refactor: refactor quiz grading logic #97847
 32730. style: standardize quote style #32730
 20271. test: add integration test for /submit endpoint #20271
+33849. test: add unit test for quiz service #33849
