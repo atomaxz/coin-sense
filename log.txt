@@ -3035,3 +3035,4 @@
 36811. style: remove trailing whitespace #36811
 81946. refactor: organize models into subfolders #81946
 3570. perf: cache repeated calculations #3570
+30711. fix: handle 500 error in quiz API #30711
