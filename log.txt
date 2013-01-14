@@ -3032,3 +3032,4 @@
 92849. style: apply consistent indentation #92849
 97452. test: test user registration edge cases #97452
 24662. fix: fix null pointer exception on login #24662
+36811. style: remove trailing whitespace #36811
