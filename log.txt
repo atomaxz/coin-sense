@@ -4037,3 +4037,4 @@
 71965. test: add unit test for quiz service #71965
 79347. fix: resolve issue with date parsing #79347
 33069. refactor: clean up auth middleware #33069
+94368. fix: fix broken CSS in mobile view #94368
