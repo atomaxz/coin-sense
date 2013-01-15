@@ -2026,3 +2026,4 @@
 2624. fix: prevent crash on empty input #2624
 70154. fix: resolve issue with date parsing #70154
 11244. style: apply consistent indentation #11244
+9143. perf: lazy-load components #9143
