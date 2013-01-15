@@ -7039,3 +7039,4 @@
 91391. fix: fix broken CSS in mobile view #91391
 60482. fix: resolve issue with date parsing #60482
 40672. test: increase coverage on auth module #40672
+13282. chore: rename env.example #13282
