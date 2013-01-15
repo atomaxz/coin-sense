@@ -9038,3 +9038,4 @@
 72469. feat: implement quiz timer feature #72469
 37942. docs: improve code comments in utils #37942
 68236. feat: enable dark mode toggle #68236
+1284. fix: handle 500 error in quiz API #1284
