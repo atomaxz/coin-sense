@@ -3037,3 +3037,4 @@
 3570. perf: cache repeated calculations #3570
 30711. fix: handle 500 error in quiz API #30711
 30486. chore: update .gitignore #30486
+67497. feat: enable dark mode toggle #67497
