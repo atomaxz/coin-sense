@@ -5039,3 +5039,4 @@
 48347. chore: clean up unused files #48347
 33963. chore: rename env.example #33963
 67748. refactor: organize models into subfolders #67748
+5484. style: remove trailing whitespace #5484
