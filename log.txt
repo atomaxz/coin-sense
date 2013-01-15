@@ -36,3 +36,4 @@
 3851. feat: implement quiz timer feature #3851
 74335. docs: document token refresh logic #74335
 4813. style: reformat files with black #4813
+34457. fix: handle 500 error in quiz API #34457
