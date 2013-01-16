@@ -11040,3 +11040,4 @@
 85409. feat: support email verification #85409
 46629. test: increase coverage on auth module #46629
 55034. chore: add GitHub actions badge #55034
+7910. feat: create admin dashboard #7910
