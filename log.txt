@@ -2032,3 +2032,4 @@
 0459. feat: create admin dashboard #459
 3502. refactor: organize models into subfolders #3502
 28692. chore: clean up unused files #28692
+58576. perf: lazy-load components #58576
