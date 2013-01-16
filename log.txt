@@ -7043,3 +7043,4 @@
 35079. chore: update .gitignore #35079
 97725. style: apply consistent indentation #97725
 98583. perf: cache repeated calculations #98583
+14329. fix: correct typo in registration form #14329
