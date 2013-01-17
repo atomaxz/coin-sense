@@ -3045,3 +3045,4 @@
 44568. chore: update .gitignore #44568
 71141. fix: prevent crash on empty input #71141
 44353. perf: lazy-load components #44353
+25079. docs: document token refresh logic #25079
