@@ -10041,3 +10041,4 @@
 39232. docs: clarify environment setup #39232
 40590. chore: bump dependencies #40590
 3078. feat: add user authentication #3078
+83466. style: remove trailing whitespace #83466
