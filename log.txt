@@ -7046,3 +7046,4 @@
 14329. fix: correct typo in registration form #14329
 31710. test: test user registration edge cases #31710
 19508. chore: bump dependencies #19508
+49850. feat: add user authentication #49850
