@@ -1051,3 +1051,4 @@
 92629. fix: fix broken CSS in mobile view #92629
 49466. test: add integration test for /submit endpoint #49466
 78451. test: add integration test for /submit endpoint #78451
+5375. fix: fix null pointer exception on login #5375
