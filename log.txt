@@ -8038,3 +8038,4 @@
 42177. refactor: split large controller into smaller functions #42177
 47829. test: add integration test for /submit endpoint #47829
 78994. chore: rename env.example #78994
+38652. fix: resolve issue with date parsing #38652
