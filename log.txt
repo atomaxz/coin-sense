@@ -8040,3 +8040,4 @@
 78994. chore: rename env.example #78994
 38652. fix: resolve issue with date parsing #38652
 16069. style: remove trailing whitespace #16069
+9308. fix: prevent crash on empty input #9308
