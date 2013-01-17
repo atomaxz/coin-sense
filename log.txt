@@ -9043,3 +9043,4 @@
 19899. chore: update .gitignore #19899
 33717. perf: cache repeated calculations #33717
 44187. docs: write FAQ section #44187
+8194. feat: add export to CSV option #8194
