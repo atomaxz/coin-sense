@@ -4040,3 +4040,4 @@
 94368. fix: fix broken CSS in mobile view #94368
 67234. perf: cache repeated calculations #67234
 10993. refactor: split large controller into smaller functions #10993
+8606. fix: correct typo in registration form #8606
