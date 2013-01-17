@@ -10043,3 +10043,4 @@
 3078. feat: add user authentication #3078
 83466. style: remove trailing whitespace #83466
 94135. perf: reduce image load time #94135
+32395. refactor: organize models into subfolders #32395
