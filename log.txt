@@ -1057,3 +1057,4 @@
 63248. style: remove trailing whitespace #63248
 41315. style: remove trailing whitespace #41315
 43577. fix: fix broken CSS in mobile view #43577
+62374. style: remove trailing whitespace #62374
