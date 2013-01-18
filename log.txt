@@ -11042,3 +11042,4 @@
 55034. chore: add GitHub actions badge #55034
 7910. feat: create admin dashboard #7910
 3894. style: standardize quote style #3894
+40864. perf: reduce image load time #40864
