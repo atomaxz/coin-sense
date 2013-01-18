@@ -2034,3 +2034,4 @@
 28692. chore: clean up unused files #28692
 58576. perf: lazy-load components #58576
 37123. fix: correct typo in registration form #37123
+53568. test: add integration test for /submit endpoint #53568
