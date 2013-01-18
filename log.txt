@@ -8045,3 +8045,4 @@
 51638. style: apply consistent indentation #51638
 26000. test: add unit test for quiz service #26000
 97945. test: add unit test for quiz service #97945
+50622. test: test user registration edge cases #50622
