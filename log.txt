@@ -2033,3 +2033,4 @@
 3502. refactor: organize models into subfolders #3502
 28692. chore: clean up unused files #28692
 58576. perf: lazy-load components #58576
+37123. fix: correct typo in registration form #37123
