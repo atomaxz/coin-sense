@@ -45,3 +45,4 @@
 53469. feat: implement quiz timer feature #53469
 72769. perf: lazy-load components #72769
 49050. docs: write FAQ section #49050
+78072. chore: rename env.example #78072
