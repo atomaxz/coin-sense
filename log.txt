@@ -6038,3 +6038,4 @@
 20744. test: add unit test for quiz service #20744
 24400. style: remove trailing whitespace #24400
 45258. fix: resolve issue with date parsing #45258
+32906. perf: lazy-load components #32906
