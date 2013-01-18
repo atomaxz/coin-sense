@@ -44,3 +44,4 @@
 44780. chore: update .gitignore #44780
 53469. feat: implement quiz timer feature #53469
 72769. perf: lazy-load components #72769
+49050. docs: write FAQ section #49050
