@@ -2036,3 +2036,4 @@
 37123. fix: correct typo in registration form #37123
 53568. test: add integration test for /submit endpoint #53568
 17573. style: reformat files with black #17573
+91371. docs: write FAQ section #91371
