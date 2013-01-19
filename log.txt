@@ -10045,3 +10045,4 @@
 94135. perf: reduce image load time #94135
 32395. refactor: organize models into subfolders #32395
 10422. chore: rename env.example #10422
+74706. perf: lazy-load components #74706
