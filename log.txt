@@ -2037,3 +2037,4 @@
 53568. test: add integration test for /submit endpoint #53568
 17573. style: reformat files with black #17573
 91371. docs: write FAQ section #91371
+40376. feat: support email verification #40376
