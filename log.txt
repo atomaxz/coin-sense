@@ -5044,3 +5044,4 @@
 30348. refactor: split large controller into smaller functions #30348
 93424. refactor: refactor quiz grading logic #93424
 36648. chore: clean up unused files #36648
+88994. test: mock database connection in test suite #88994
