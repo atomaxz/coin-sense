@@ -2038,3 +2038,4 @@
 17573. style: reformat files with black #17573
 91371. docs: write FAQ section #91371
 40376. feat: support email verification #40376
+19897. style: standardize quote style #19897
