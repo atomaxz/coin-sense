@@ -3047,3 +3047,4 @@
 44353. perf: lazy-load components #44353
 25079. docs: document token refresh logic #25079
 46143. test: mock database connection in test suite #46143
+79136. perf: lazy-load components #79136
