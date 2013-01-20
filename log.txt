@@ -6044,3 +6044,4 @@
 0467. chore: update .gitignore #467
 93200. test: add unit test for quiz service #93200
 32339. refactor: split large controller into smaller functions #32339
+48835. fix: fix null pointer exception on login #48835
