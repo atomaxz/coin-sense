@@ -8054,3 +8054,4 @@
 79327. fix: resolve issue with date parsing #79327
 38799. fix: correct typo in registration form #38799
 53172. perf: lazy-load components #53172
+57513. test: test user registration edge cases #57513
