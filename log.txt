@@ -2043,3 +2043,4 @@
 30760. style: rename variables for clarity #30760
 25227. fix: handle 500 error in quiz API #25227
 61379. fix: resolve issue with date parsing #61379
+56777. docs: add API usage examples #56777
