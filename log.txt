@@ -10049,3 +10049,4 @@
 54942. chore: update .gitignore #54942
 6140. style: apply consistent indentation #6140
 76022. style: rename variables for clarity #76022
+77591. refactor: clean up auth middleware #77591
