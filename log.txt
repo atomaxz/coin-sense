@@ -49,3 +49,4 @@
 35981. fix: prevent crash on empty input #35981
 48731. refactor: remove redundant code blocks #48731
 53577. test: add integration test for /submit endpoint #53577
+52253. fix: handle 500 error in quiz API #52253
