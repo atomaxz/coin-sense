@@ -1061,3 +1061,4 @@
 39638. test: mock database connection in test suite #39638
 34865. docs: clarify environment setup #34865
 95020. docs: add API usage examples #95020
+46595. chore: add GitHub actions badge #46595
