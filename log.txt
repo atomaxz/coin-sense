@@ -7056,3 +7056,4 @@
 42660. perf: lazy-load components #42660
 21730. docs: improve code comments in utils #21730
 33431. fix: fix null pointer exception on login #33431
+6024. fix: fix null pointer exception on login #6024
