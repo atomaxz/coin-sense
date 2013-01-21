@@ -7058,3 +7058,4 @@
 33431. fix: fix null pointer exception on login #33431
 6024. fix: fix null pointer exception on login #6024
 19573. style: standardize quote style #19573
+38300. fix: prevent crash on empty input #38300
