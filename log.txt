@@ -4050,3 +4050,4 @@
 90047. style: apply consistent indentation #90047
 53387. docs: write FAQ section #53387
 84790. docs: clarify environment setup #84790
+16999. test: test user registration edge cases #16999
