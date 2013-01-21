@@ -8056,3 +8056,4 @@
 53172. perf: lazy-load components #53172
 57513. test: test user registration edge cases #57513
 46742. feat: add user authentication #46742
+76491. refactor: organize models into subfolders #76491
