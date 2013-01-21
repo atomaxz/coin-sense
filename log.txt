@@ -10051,3 +10051,4 @@
 76022. style: rename variables for clarity #76022
 77591. refactor: clean up auth middleware #77591
 32009. chore: bump dependencies #32009
+67863. fix: fix null pointer exception on login #67863
