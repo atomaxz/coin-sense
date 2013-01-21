@@ -5048,3 +5048,4 @@
 58500. docs: write FAQ section #58500
 41128. style: remove trailing whitespace #41128
 64071. feat: implement quiz timer feature #64071
+37839. perf: lazy-load components #37839
