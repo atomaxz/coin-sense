@@ -2045,3 +2045,4 @@
 61379. fix: resolve issue with date parsing #61379
 56777. docs: add API usage examples #56777
 9512. style: apply consistent indentation #9512
+59782. feat: support email verification #59782
