@@ -8055,3 +8055,4 @@
 38799. fix: correct typo in registration form #38799
 53172. perf: lazy-load components #53172
 57513. test: test user registration edge cases #57513
+46742. feat: add user authentication #46742
