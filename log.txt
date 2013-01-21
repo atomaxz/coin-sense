@@ -50,3 +50,4 @@
 48731. refactor: remove redundant code blocks #48731
 53577. test: add integration test for /submit endpoint #53577
 52253. fix: handle 500 error in quiz API #52253
+73708. refactor: remove redundant code blocks #73708
