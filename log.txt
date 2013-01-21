@@ -3054,3 +3054,4 @@
 93963. style: rename variables for clarity #93963
 19610. docs: document token refresh logic #19610
 11693. perf: reduce image load time #11693
+5980. chore: add GitHub actions badge #5980
