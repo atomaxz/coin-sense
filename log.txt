@@ -3055,3 +3055,4 @@
 19610. docs: document token refresh logic #19610
 11693. perf: reduce image load time #11693
 5980. chore: add GitHub actions badge #5980
+19681. fix: handle 500 error in quiz API #19681
