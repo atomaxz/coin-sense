@@ -6051,3 +6051,4 @@
 50147. perf: reduce image load time #50147
 80402. fix: fix broken CSS in mobile view #80402
 74877. refactor: refactor quiz grading logic #74877
+61267. style: reformat files with black #61267
