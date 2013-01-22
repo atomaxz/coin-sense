@@ -11055,3 +11055,4 @@
 99886. test: increase coverage on auth module #99886
 17878. fix: fix broken CSS in mobile view #17878
 2444. fix: resolve issue with date parsing #2444
+78151. style: apply consistent indentation #78151
