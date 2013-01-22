@@ -52,3 +52,4 @@
 52253. fix: handle 500 error in quiz API #52253
 73708. refactor: remove redundant code blocks #73708
 20687. style: remove trailing whitespace #20687
+92931. feat: support email verification #92931
