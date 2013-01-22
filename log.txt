@@ -4051,3 +4051,4 @@
 53387. docs: write FAQ section #53387
 84790. docs: clarify environment setup #84790
 16999. test: test user registration edge cases #16999
+48483. docs: document token refresh logic #48483
