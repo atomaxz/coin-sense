@@ -1064,3 +1064,4 @@
 46595. chore: add GitHub actions badge #46595
 90908. test: test user registration edge cases #90908
 94922. style: remove trailing whitespace #94922
+6573. fix: fix null pointer exception on login #6573
