@@ -5051,3 +5051,4 @@
 37839. perf: lazy-load components #37839
 17976. feat: add export to CSV option #17976
 6834. refactor: clean up auth middleware #6834
+27884. test: increase coverage on auth module #27884
