@@ -54,3 +54,4 @@
 20687. style: remove trailing whitespace #20687
 92931. feat: support email verification #92931
 63346. test: test user registration edge cases #63346
+76945. style: rename variables for clarity #76945
