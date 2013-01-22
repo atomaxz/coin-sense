@@ -8057,3 +8057,4 @@
 57513. test: test user registration edge cases #57513
 46742. feat: add user authentication #46742
 76491. refactor: organize models into subfolders #76491
+20684. fix: handle 500 error in quiz API #20684
