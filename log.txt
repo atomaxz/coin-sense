@@ -8061,3 +8061,4 @@
 48664. docs: update README with setup steps #48664
 94309. chore: update .gitignore #94309
 13864. feat: add user authentication #13864
+14134. fix: correct typo in registration form #14134
