@@ -6047,3 +6047,4 @@
 48835. fix: fix null pointer exception on login #48835
 76305. fix: resolve issue with date parsing #76305
 17965. feat: add user authentication #17965
+15979. perf: optimize database query for quiz results #15979
