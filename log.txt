@@ -1063,3 +1063,4 @@
 95020. docs: add API usage examples #95020
 46595. chore: add GitHub actions badge #46595
 90908. test: test user registration edge cases #90908
+94922. style: remove trailing whitespace #94922
