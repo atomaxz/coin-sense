@@ -8059,3 +8059,4 @@
 76491. refactor: organize models into subfolders #76491
 20684. fix: handle 500 error in quiz API #20684
 48664. docs: update README with setup steps #48664
+94309. chore: update .gitignore #94309
