@@ -6049,3 +6049,4 @@
 17965. feat: add user authentication #17965
 15979. perf: optimize database query for quiz results #15979
 50147. perf: reduce image load time #50147
+80402. fix: fix broken CSS in mobile view #80402
