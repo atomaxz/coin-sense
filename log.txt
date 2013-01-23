@@ -4057,3 +4057,4 @@
 32453. fix: fix null pointer exception on login #32453
 31022. fix: fix null pointer exception on login #31022
 98158. docs: document token refresh logic #98158
+86974. perf: optimize database query for quiz results #86974
