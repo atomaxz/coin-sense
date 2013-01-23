@@ -3062,3 +3062,4 @@
 8867. fix: correct typo in registration form #8867
 20328. perf: optimize database query for quiz results #20328
 36339. test: increase coverage on auth module #36339
+70791. docs: add API usage examples #70791
