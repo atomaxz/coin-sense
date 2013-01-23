@@ -3061,3 +3061,4 @@
 0298. style: apply consistent indentation #298
 8867. fix: correct typo in registration form #8867
 20328. perf: optimize database query for quiz results #20328
+36339. test: increase coverage on auth module #36339
