@@ -11057,3 +11057,4 @@
 2444. fix: resolve issue with date parsing #2444
 78151. style: apply consistent indentation #78151
 13891. fix: fix null pointer exception on login #13891
+73354. fix: prevent crash on empty input #73354
