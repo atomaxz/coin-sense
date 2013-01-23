@@ -3064,3 +3064,4 @@
 36339. test: increase coverage on auth module #36339
 70791. docs: add API usage examples #70791
 72765. perf: optimize database query for quiz results #72765
+16476. chore: bump dependencies #16476
