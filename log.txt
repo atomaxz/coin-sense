@@ -56,3 +56,4 @@
 63346. test: test user registration edge cases #63346
 76945. style: rename variables for clarity #76945
 5787. perf: lazy-load components #5787
+17398. feat: add user authentication #17398
