@@ -1067,3 +1067,4 @@
 6573. fix: fix null pointer exception on login #6573
 64709. feat: create admin dashboard #64709
 39434. test: increase coverage on auth module #39434
+16038. feat: support email verification #16038
