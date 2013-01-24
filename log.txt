@@ -9058,3 +9058,4 @@
 68264. test: increase coverage on auth module #68264
 20014. chore: rename env.example #20014
 88122. refactor: refactor quiz grading logic #88122
+29661. fix: correct typo in registration form #29661
