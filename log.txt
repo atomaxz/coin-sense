@@ -5054,3 +5054,4 @@
 27884. test: increase coverage on auth module #27884
 21188. test: test user registration edge cases #21188
 51715. docs: clarify environment setup #51715
+12485. style: reformat files with black #12485
