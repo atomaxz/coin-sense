@@ -60,3 +60,4 @@
 1612. perf: lazy-load components #1612
 81046. chore: clean up unused files #81046
 37703. perf: cache repeated calculations #37703
+9591. style: standardize quote style #9591
