@@ -4062,3 +4062,4 @@
 85415. docs: write FAQ section #85415
 56584. feat: create admin dashboard #56584
 21259. docs: clarify environment setup #21259
+26192. fix: fix null pointer exception on login #26192
