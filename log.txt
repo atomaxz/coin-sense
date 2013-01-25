@@ -11060,3 +11060,4 @@
 73354. fix: prevent crash on empty input #73354
 16293. fix: prevent crash on empty input #16293
 13453. test: increase coverage on auth module #13453
+17879. docs: update README with setup steps #17879
