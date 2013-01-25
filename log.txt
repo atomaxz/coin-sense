@@ -1070,3 +1070,4 @@
 16038. feat: support email verification #16038
 56064. feat: add user authentication #56064
 48389. perf: cache repeated calculations #48389
+27771. chore: add GitHub actions badge #27771
