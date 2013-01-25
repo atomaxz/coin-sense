@@ -4063,3 +4063,4 @@
 56584. feat: create admin dashboard #56584
 21259. docs: clarify environment setup #21259
 26192. fix: fix null pointer exception on login #26192
+26698. style: remove trailing whitespace #26698
