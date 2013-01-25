@@ -9062,3 +9062,4 @@
 14001. refactor: clean up auth middleware #14001
 8443. style: standardize quote style #8443
 87481. style: reformat files with black #87481
+96154. perf: lazy-load components #96154
