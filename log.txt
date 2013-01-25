@@ -11061,3 +11061,4 @@
 16293. fix: prevent crash on empty input #16293
 13453. test: increase coverage on auth module #13453
 17879. docs: update README with setup steps #17879
+84850. test: test user registration edge cases #84850
