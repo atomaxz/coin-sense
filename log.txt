@@ -10058,3 +10058,4 @@
 98673. chore: bump dependencies #98673
 52104. style: rename variables for clarity #52104
 28929. refactor: refactor quiz grading logic #28929
+73898. feat: add user authentication #73898
