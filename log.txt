@@ -3071,3 +3071,4 @@
 96158. refactor: split large controller into smaller functions #96158
 31374. feat: support email verification #31374
 6248. refactor: refactor quiz grading logic #6248
+75831. style: remove trailing whitespace #75831
