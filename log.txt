@@ -11065,3 +11065,4 @@
 13979. docs: add API usage examples #13979
 52737. refactor: refactor quiz grading logic #52737
 88582. fix: fix broken CSS in mobile view #88582
+6981. feat: add user authentication #6981
