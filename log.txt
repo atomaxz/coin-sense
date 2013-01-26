@@ -5060,3 +5060,4 @@
 4108. fix: fix null pointer exception on login #4108
 79616. chore: rename env.example #79616
 63866. test: test user registration edge cases #63866
+34290. chore: update .gitignore #34290
