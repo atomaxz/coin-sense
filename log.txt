@@ -6060,3 +6060,4 @@
 29455. docs: improve code comments in utils #29455
 60651. fix: correct typo in registration form #60651
 92736. refactor: clean up auth middleware #92736
+96451. perf: reduce image load time #96451
