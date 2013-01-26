@@ -4065,3 +4065,4 @@
 26192. fix: fix null pointer exception on login #26192
 26698. style: remove trailing whitespace #26698
 9920. docs: clarify environment setup #9920
+59207. test: add integration test for /submit endpoint #59207
