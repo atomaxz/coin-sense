@@ -8068,3 +8068,4 @@
 77289. refactor: refactor quiz grading logic #77289
 52846. feat: add user authentication #52846
 27640. chore: rename env.example #27640
+33525. test: add integration test for /submit endpoint #33525
