@@ -11064,3 +11064,4 @@
 84850. test: test user registration edge cases #84850
 13979. docs: add API usage examples #13979
 52737. refactor: refactor quiz grading logic #52737
+88582. fix: fix broken CSS in mobile view #88582
