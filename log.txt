@@ -5058,3 +5058,4 @@
 89113. style: reformat files with black #89113
 51424. chore: bump dependencies #51424
 4108. fix: fix null pointer exception on login #4108
+79616. chore: rename env.example #79616
