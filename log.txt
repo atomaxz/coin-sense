@@ -3074,3 +3074,4 @@
 75831. style: remove trailing whitespace #75831
 75777. style: remove trailing whitespace #75777
 19064. perf: reduce image load time #19064
+98382. test: increase coverage on auth module #98382
