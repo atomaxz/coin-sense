@@ -6058,3 +6058,4 @@
 31475. docs: document token refresh logic #31475
 19519. feat: create admin dashboard #19519
 29455. docs: improve code comments in utils #29455
+60651. fix: correct typo in registration form #60651
