@@ -9064,3 +9064,4 @@
 87481. style: reformat files with black #87481
 96154. perf: lazy-load components #96154
 6492. perf: lazy-load components #6492
+45147. docs: update README with setup steps #45147
