@@ -6062,3 +6062,4 @@
 92736. refactor: clean up auth middleware #92736
 96451. perf: reduce image load time #96451
 34473. refactor: clean up auth middleware #34473
+68930. chore: update .gitignore #68930
