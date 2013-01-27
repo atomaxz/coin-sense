@@ -1078,3 +1078,4 @@
 32070. feat: create admin dashboard #32070
 93065. chore: clean up unused files #93065
 61813. test: add integration test for /submit endpoint #61813
+62545. test: increase coverage on auth module #62545
