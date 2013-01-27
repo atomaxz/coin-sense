@@ -8070,3 +8070,4 @@
 27640. chore: rename env.example #27640
 33525. test: add integration test for /submit endpoint #33525
 35430. feat: support email verification #35430
+78808. refactor: clean up auth middleware #78808
