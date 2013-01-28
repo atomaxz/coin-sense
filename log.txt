@@ -76,3 +76,4 @@
 77845. fix: prevent crash on empty input #77845
 55199. test: mock database connection in test suite #55199
 21171. perf: reduce image load time #21171
+78277. chore: rename env.example #78277
