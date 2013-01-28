@@ -7070,3 +7070,4 @@
 19674. fix: fix null pointer exception on login #19674
 64064. test: test user registration edge cases #64064
 38593. refactor: organize models into subfolders #38593
+78505. fix: fix broken CSS in mobile view #78505
