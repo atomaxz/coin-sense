@@ -3081,3 +3081,4 @@
 52876. docs: update README with setup steps #52876
 15149. refactor: split large controller into smaller functions #15149
 86687. style: standardize quote style #86687
+75695. feat: add user authentication #75695
