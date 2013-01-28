@@ -1080,3 +1080,4 @@
 61813. test: add integration test for /submit endpoint #61813
 62545. test: increase coverage on auth module #62545
 16383. chore: rename env.example #16383
+65744. fix: prevent crash on empty input #65744
