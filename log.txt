@@ -73,3 +73,4 @@
 72270. refactor: split large controller into smaller functions #72270
 95515. feat: implement quiz timer feature #95515
 18835. style: remove trailing whitespace #18835
+77845. fix: prevent crash on empty input #77845
