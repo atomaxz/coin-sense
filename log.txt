@@ -74,3 +74,4 @@
 95515. feat: implement quiz timer feature #95515
 18835. style: remove trailing whitespace #18835
 77845. fix: prevent crash on empty input #77845
+55199. test: mock database connection in test suite #55199
