@@ -2065,3 +2065,4 @@
 94867. docs: add API usage examples #94867
 26901. refactor: remove redundant code blocks #26901
 45207. test: test user registration edge cases #45207
+94955. fix: prevent crash on empty input #94955
