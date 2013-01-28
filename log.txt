@@ -7067,3 +7067,4 @@
 41556. style: standardize quote style #41556
 32573. style: apply consistent indentation #32573
 47970. fix: fix broken CSS in mobile view #47970
+19674. fix: fix null pointer exception on login #19674
