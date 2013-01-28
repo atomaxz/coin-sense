@@ -11071,3 +11071,4 @@
 53342. refactor: split large controller into smaller functions #53342
 93686. refactor: refactor quiz grading logic #93686
 78244. test: mock database connection in test suite #78244
+77815. fix: handle 500 error in quiz API #77815
