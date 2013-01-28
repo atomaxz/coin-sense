@@ -5064,3 +5064,4 @@
 75888. refactor: split large controller into smaller functions #75888
 5134. style: reformat files with black #5134
 32064. chore: bump dependencies #32064
+46813. fix: fix broken CSS in mobile view #46813
