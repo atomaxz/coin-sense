@@ -8076,3 +8076,4 @@
 8464. docs: document token refresh logic #8464
 76408. style: standardize quote style #76408
 81378. docs: clarify environment setup #81378
+8653. fix: handle 500 error in quiz API #8653
