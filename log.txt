@@ -4071,3 +4071,4 @@
 80961. refactor: split large controller into smaller functions #80961
 36310. fix: handle 500 error in quiz API #36310
 57554. test: increase coverage on auth module #57554
+1858. chore: update .gitignore #1858
