@@ -1083,3 +1083,4 @@
 65744. fix: prevent crash on empty input #65744
 18145. perf: cache repeated calculations #18145
 91126. feat: support email verification #91126
+67103. fix: prevent crash on empty input #67103
