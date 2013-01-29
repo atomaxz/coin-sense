@@ -2068,3 +2068,4 @@
 94955. fix: prevent crash on empty input #94955
 30139. fix: fix broken CSS in mobile view #30139
 3945. docs: write FAQ section #3945
+86551. chore: add GitHub actions badge #86551
