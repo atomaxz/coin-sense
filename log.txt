@@ -4072,3 +4072,4 @@
 36310. fix: handle 500 error in quiz API #36310
 57554. test: increase coverage on auth module #57554
 1858. chore: update .gitignore #1858
+5627. feat: support email verification #5627
