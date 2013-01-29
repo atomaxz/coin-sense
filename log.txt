@@ -6080,3 +6080,4 @@
 89234. style: remove trailing whitespace #89234
 65223. docs: write FAQ section #65223
 62449. style: remove trailing whitespace #62449
+69722. docs: update README with setup steps #69722
