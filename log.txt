@@ -4073,3 +4073,4 @@
 57554. test: increase coverage on auth module #57554
 1858. chore: update .gitignore #1858
 5627. feat: support email verification #5627
+61860. fix: resolve issue with date parsing #61860
