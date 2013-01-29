@@ -6076,3 +6076,4 @@
 79075. feat: add export to CSV option #79075
 98750. fix: handle 500 error in quiz API #98750
 58930. docs: clarify environment setup #58930
+85059. refactor: clean up auth middleware #85059
