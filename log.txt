@@ -6077,3 +6077,4 @@
 98750. fix: handle 500 error in quiz API #98750
 58930. docs: clarify environment setup #58930
 85059. refactor: clean up auth middleware #85059
+89234. style: remove trailing whitespace #89234
