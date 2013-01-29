@@ -8078,3 +8078,4 @@
 81378. docs: clarify environment setup #81378
 8653. fix: handle 500 error in quiz API #8653
 93771. perf: cache repeated calculations #93771
+31108. feat: add user authentication #31108
