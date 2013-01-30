@@ -2071,3 +2071,4 @@
 86551. chore: add GitHub actions badge #86551
 81627. feat: create admin dashboard #81627
 74258. refactor: refactor quiz grading logic #74258
+27319. perf: reduce image load time #27319
