@@ -8083,3 +8083,4 @@
 72593. perf: reduce image load time #72593
 90303. feat: add export to CSV option #90303
 20491. style: reformat files with black #20491
+14212. perf: lazy-load components #14212
