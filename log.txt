@@ -8082,3 +8082,4 @@
 22622. feat: create admin dashboard #22622
 72593. perf: reduce image load time #72593
 90303. feat: add export to CSV option #90303
+20491. style: reformat files with black #20491
