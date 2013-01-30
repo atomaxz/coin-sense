@@ -1086,3 +1086,4 @@
 67103. fix: prevent crash on empty input #67103
 41416. test: add integration test for /submit endpoint #41416
 17679. feat: add export to CSV option #17679
+73232. perf: cache repeated calculations #73232
