@@ -9071,3 +9071,4 @@
 40182. chore: add GitHub actions badge #40182
 83131. refactor: refactor quiz grading logic #83131
 69279. perf: cache repeated calculations #69279
+5073. fix: fix broken CSS in mobile view #5073
