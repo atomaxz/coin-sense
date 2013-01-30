@@ -5072,3 +5072,4 @@
 64871. style: standardize quote style #64871
 98508. style: standardize quote style #98508
 7360. style: apply consistent indentation #7360
+7369. perf: cache repeated calculations #7369
