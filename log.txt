@@ -11075,3 +11075,4 @@
 23129. style: remove trailing whitespace #23129
 28420. fix: fix broken CSS in mobile view #28420
 62715. perf: reduce image load time #62715
+11197. fix: prevent crash on empty input #11197
