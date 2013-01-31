@@ -3090,3 +3090,4 @@
 99885. fix: fix broken CSS in mobile view #99885
 30708. test: add integration test for /submit endpoint #30708
 1061. test: add integration test for /submit endpoint #1061
+94690. test: mock database connection in test suite #94690
