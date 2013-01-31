@@ -1088,3 +1088,4 @@
 17679. feat: add export to CSV option #17679
 73232. perf: cache repeated calculations #73232
 24839. chore: clean up unused files #24839
+6824. feat: create admin dashboard #6824
