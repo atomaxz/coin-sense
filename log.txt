@@ -6085,3 +6085,4 @@
 15112. feat: enable dark mode toggle #15112
 27747. docs: add API usage examples #27747
 42977. perf: reduce image load time #42977
+35406. feat: add user authentication #35406
