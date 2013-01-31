@@ -2074,3 +2074,4 @@
 27319. perf: reduce image load time #27319
 66870. feat: enable dark mode toggle #66870
 24502. perf: cache repeated calculations #24502
+88413. refactor: clean up auth middleware #88413
