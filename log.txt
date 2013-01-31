@@ -5073,3 +5073,4 @@
 98508. style: standardize quote style #98508
 7360. style: apply consistent indentation #7360
 7369. perf: cache repeated calculations #7369
+35348. refactor: clean up auth middleware #35348
