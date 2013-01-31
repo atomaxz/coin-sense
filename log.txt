@@ -3091,3 +3091,4 @@
 30708. test: add integration test for /submit endpoint #30708
 1061. test: add integration test for /submit endpoint #1061
 94690. test: mock database connection in test suite #94690
+38620. refactor: clean up auth middleware #38620
