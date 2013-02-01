@@ -10073,3 +10073,4 @@
 24768. feat: implement quiz timer feature #24768
 54374. docs: add API usage examples #54374
 35227. refactor: organize models into subfolders #35227
+15983. fix: fix broken CSS in mobile view #15983
