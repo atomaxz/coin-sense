@@ -3093,3 +3093,4 @@
 94690. test: mock database connection in test suite #94690
 38620. refactor: clean up auth middleware #38620
 97926. test: add unit test for quiz service #97926
+99076. feat: add user authentication #99076
