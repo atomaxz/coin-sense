@@ -4075,3 +4075,4 @@
 5627. feat: support email verification #5627
 61860. fix: resolve issue with date parsing #61860
 74344. refactor: clean up auth middleware #74344
+72510. fix: fix broken CSS in mobile view #72510
