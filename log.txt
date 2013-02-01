@@ -6090,3 +6090,4 @@
 4914. test: add unit test for quiz service #4914
 78696. feat: create admin dashboard #78696
 6393. refactor: split large controller into smaller functions #6393
+2919. fix: prevent crash on empty input #2919
