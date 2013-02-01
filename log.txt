@@ -9079,3 +9079,4 @@
 28617. test: mock database connection in test suite #28617
 22247. chore: clean up unused files #22247
 23544. fix: resolve issue with date parsing #23544
+48649. refactor: split large controller into smaller functions #48649
