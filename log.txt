@@ -3095,3 +3095,4 @@
 97926. test: add unit test for quiz service #97926
 99076. feat: add user authentication #99076
 2931. chore: update .gitignore #2931
+67898. chore: add GitHub actions badge #67898
