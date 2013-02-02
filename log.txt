@@ -7075,3 +7075,4 @@
 64988. perf: cache repeated calculations #64988
 90809. feat: support email verification #90809
 10781. docs: clarify environment setup #10781
+85237. docs: add API usage examples #85237
