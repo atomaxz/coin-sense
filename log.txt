@@ -4078,3 +4078,4 @@
 72510. fix: fix broken CSS in mobile view #72510
 91866. style: standardize quote style #91866
 97838. chore: clean up unused files #97838
+78962. feat: support email verification #78962
