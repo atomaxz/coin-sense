@@ -9081,3 +9081,4 @@
 23544. fix: resolve issue with date parsing #23544
 48649. refactor: split large controller into smaller functions #48649
 47125. refactor: organize models into subfolders #47125
+28657. perf: lazy-load components #28657
