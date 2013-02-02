@@ -8090,3 +8090,4 @@
 1466. docs: document token refresh logic #1466
 73054. feat: add export to CSV option #73054
 66188. style: reformat files with black #66188
+51498. test: increase coverage on auth module #51498
