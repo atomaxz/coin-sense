@@ -85,3 +85,4 @@
 54399. refactor: refactor quiz grading logic #54399
 15520. refactor: remove redundant code blocks #15520
 1752. chore: bump dependencies #1752
+26345. style: reformat files with black #26345
