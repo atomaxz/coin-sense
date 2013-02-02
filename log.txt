@@ -8092,3 +8092,4 @@
 66188. style: reformat files with black #66188
 51498. test: increase coverage on auth module #51498
 28976. style: rename variables for clarity #28976
+33861. fix: correct typo in registration form #33861
