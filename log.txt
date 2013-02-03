@@ -1095,3 +1095,4 @@
 49219. docs: document token refresh logic #49219
 68047. perf: optimize database query for quiz results #68047
 28034. refactor: clean up auth middleware #28034
+60825. style: remove trailing whitespace #60825
