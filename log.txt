@@ -9090,3 +9090,4 @@
 58298. style: rename variables for clarity #58298
 97042. style: remove trailing whitespace #97042
 67224. style: reformat files with black #67224
+3363. perf: optimize database query for quiz results #3363
