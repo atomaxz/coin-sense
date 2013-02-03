@@ -4080,3 +4080,4 @@
 97838. chore: clean up unused files #97838
 78962. feat: support email verification #78962
 47773. test: add unit test for quiz service #47773
+94108. fix: prevent crash on empty input #94108
