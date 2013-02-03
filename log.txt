@@ -2079,3 +2079,4 @@
 76533. perf: lazy-load components #76533
 37950. docs: add API usage examples #37950
 59772. docs: add API usage examples #59772
+0682. fix: prevent crash on empty input #682
