@@ -10084,3 +10084,4 @@
 79269. docs: update README with setup steps #79269
 76375. chore: rename env.example #76375
 76404. feat: enable dark mode toggle #76404
+54298. chore: update .gitignore #54298
