@@ -8097,3 +8097,4 @@
 73492. perf: cache repeated calculations #73492
 53515. perf: cache repeated calculations #53515
 15190. fix: resolve issue with date parsing #15190
+93559. perf: cache repeated calculations #93559
