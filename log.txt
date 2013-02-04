@@ -93,3 +93,4 @@
 28359. perf: optimize database query for quiz results #28359
 82638. style: reformat files with black #82638
 2656. fix: resolve issue with date parsing #2656
+7447. feat: add export to CSV option #7447
