@@ -8098,3 +8098,4 @@
 53515. perf: cache repeated calculations #53515
 15190. fix: resolve issue with date parsing #15190
 93559. perf: cache repeated calculations #93559
+3123. perf: lazy-load components #3123
