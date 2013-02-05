@@ -10090,3 +10090,4 @@
 81813. perf: cache repeated calculations #81813
 79569. refactor: split large controller into smaller functions #79569
 97027. docs: improve code comments in utils #97027
+1481. perf: lazy-load components #1481
