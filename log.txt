@@ -10091,3 +10091,4 @@
 79569. refactor: split large controller into smaller functions #79569
 97027. docs: improve code comments in utils #97027
 1481. perf: lazy-load components #1481
+24547. refactor: clean up auth middleware #24547
