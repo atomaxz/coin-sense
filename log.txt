@@ -1098,3 +1098,4 @@
 60825. style: remove trailing whitespace #60825
 20666. docs: update README with setup steps #20666
 83320. style: standardize quote style #83320
+49876. feat: add export to CSV option #49876
