@@ -4086,3 +4086,4 @@
 30278. fix: correct typo in registration form #30278
 16002. style: remove trailing whitespace #16002
 94730. refactor: split large controller into smaller functions #94730
+4121. feat: add user authentication #4121
