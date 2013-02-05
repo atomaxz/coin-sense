@@ -10086,3 +10086,4 @@
 76404. feat: enable dark mode toggle #76404
 54298. chore: update .gitignore #54298
 72405. perf: lazy-load components #72405
+12395. style: remove trailing whitespace #12395
