@@ -96,3 +96,4 @@
 7447. feat: add export to CSV option #7447
 39666. chore: rename env.example #39666
 62946. test: test user registration edge cases #62946
+16501. perf: lazy-load components #16501
