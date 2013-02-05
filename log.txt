@@ -3103,3 +3103,4 @@
 89630. test: increase coverage on auth module #89630
 39631. fix: correct typo in registration form #39631
 48974. feat: support email verification #48974
+6378. feat: enable dark mode toggle #6378
