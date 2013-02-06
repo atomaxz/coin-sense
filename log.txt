@@ -9096,3 +9096,4 @@
 79750. docs: document token refresh logic #79750
 99456. style: remove trailing whitespace #99456
 37276. perf: reduce image load time #37276
+21146. chore: update .gitignore #21146
