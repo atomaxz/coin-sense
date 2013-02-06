@@ -4087,3 +4087,4 @@
 16002. style: remove trailing whitespace #16002
 94730. refactor: split large controller into smaller functions #94730
 4121. feat: add user authentication #4121
+43350. test: test user registration edge cases #43350
