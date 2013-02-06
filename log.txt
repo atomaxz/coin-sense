@@ -99,3 +99,4 @@
 16501. perf: lazy-load components #16501
 74190. test: test user registration edge cases #74190
 33552. style: standardize quote style #33552
+35004. style: remove trailing whitespace #35004
