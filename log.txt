@@ -2083,3 +2083,4 @@
 84869. refactor: remove redundant code blocks #84869
 75641. refactor: split large controller into smaller functions #75641
 10346. style: reformat files with black #10346
+84734. test: mock database connection in test suite #84734
