@@ -10092,3 +10092,4 @@
 97027. docs: improve code comments in utils #97027
 1481. perf: lazy-load components #1481
 24547. refactor: clean up auth middleware #24547
+17294. perf: lazy-load components #17294
