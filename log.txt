@@ -2085,3 +2085,4 @@
 10346. style: reformat files with black #10346
 84734. test: mock database connection in test suite #84734
 14767. test: add unit test for quiz service #14767
+37754. perf: optimize database query for quiz results #37754
