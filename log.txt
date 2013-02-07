@@ -10097,3 +10097,4 @@
 46448. perf: reduce image load time #46448
 63205. feat: add export to CSV option #63205
 46068. perf: reduce image load time #46068
+24896. perf: optimize database query for quiz results #24896
