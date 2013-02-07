@@ -5085,3 +5085,4 @@
 13284. docs: write FAQ section #13284
 57921. perf: reduce image load time #57921
 38401. fix: fix null pointer exception on login #38401
+48673. fix: prevent crash on empty input #48673
