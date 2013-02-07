@@ -4089,3 +4089,4 @@
 4121. feat: add user authentication #4121
 43350. test: test user registration edge cases #43350
 55411. perf: cache repeated calculations #55411
+36429. feat: support email verification #36429
