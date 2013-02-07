@@ -8104,3 +8104,4 @@
 25960. feat: add user authentication #25960
 36169. perf: reduce image load time #36169
 36095. perf: optimize database query for quiz results #36095
+39668. refactor: organize models into subfolders #39668
