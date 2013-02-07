@@ -102,3 +102,4 @@
 35004. style: remove trailing whitespace #35004
 48489. chore: clean up unused files #48489
 48329. feat: implement quiz timer feature #48329
+30554. fix: prevent crash on empty input #30554
