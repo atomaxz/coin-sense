@@ -7089,3 +7089,4 @@
 21557. fix: fix null pointer exception on login #21557
 0610. feat: support email verification #610
 47518. style: remove trailing whitespace #47518
+55273. test: test user registration edge cases #55273
