@@ -1105,3 +1105,4 @@
 63309. style: apply consistent indentation #63309
 30550. docs: document token refresh logic #30550
 70485. docs: clarify environment setup #70485
+77913. fix: fix null pointer exception on login #77913
