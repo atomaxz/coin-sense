@@ -1107,3 +1107,4 @@
 70485. docs: clarify environment setup #70485
 77913. fix: fix null pointer exception on login #77913
 67504. docs: improve code comments in utils #67504
+91675. perf: lazy-load components #91675
