@@ -8103,3 +8103,4 @@
 62139. refactor: remove redundant code blocks #62139
 25960. feat: add user authentication #25960
 36169. perf: reduce image load time #36169
+36095. perf: optimize database query for quiz results #36095
