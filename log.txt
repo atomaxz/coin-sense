@@ -8106,3 +8106,4 @@
 36095. perf: optimize database query for quiz results #36095
 39668. refactor: organize models into subfolders #39668
 7709. docs: document token refresh logic #7709
+47738. feat: enable dark mode toggle #47738
