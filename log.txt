@@ -1111,3 +1111,4 @@
 19825. refactor: clean up auth middleware #19825
 6184. chore: update .gitignore #6184
 65352. perf: reduce image load time #65352
+95578. fix: fix null pointer exception on login #95578
