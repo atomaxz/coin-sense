@@ -2089,3 +2089,4 @@
 19804. docs: write FAQ section #19804
 14886. docs: document token refresh logic #14886
 99404. refactor: split large controller into smaller functions #99404
+71350. docs: document token refresh logic #71350
