@@ -8107,3 +8107,4 @@
 39668. refactor: organize models into subfolders #39668
 7709. docs: document token refresh logic #7709
 47738. feat: enable dark mode toggle #47738
+3973. chore: bump dependencies #3973
