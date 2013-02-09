@@ -2096,3 +2096,4 @@
 78432. perf: cache repeated calculations #78432
 24494. style: apply consistent indentation #24494
 48646. style: apply consistent indentation #48646
+56984. style: reformat files with black #56984
