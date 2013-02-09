@@ -7094,3 +7094,4 @@
 35466. feat: create admin dashboard #35466
 62393. style: remove trailing whitespace #62393
 2113. perf: optimize database query for quiz results #2113
+15926. style: apply consistent indentation #15926
