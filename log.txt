@@ -105,3 +105,4 @@
 30554. fix: prevent crash on empty input #30554
 39793. perf: reduce image load time #39793
 88213. perf: lazy-load components #88213
+46864. style: reformat files with black #46864
