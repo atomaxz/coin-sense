@@ -5088,3 +5088,4 @@
 48673. fix: prevent crash on empty input #48673
 17296. docs: clarify environment setup #17296
 31122. docs: write FAQ section #31122
+42300. test: test user registration edge cases #42300
