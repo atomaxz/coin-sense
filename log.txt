@@ -4093,3 +4093,4 @@
 45199. test: mock database connection in test suite #45199
 55127. style: remove trailing whitespace #55127
 96056. docs: document token refresh logic #96056
+37864. feat: enable dark mode toggle #37864
