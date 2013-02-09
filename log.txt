@@ -2093,3 +2093,4 @@
 16251. refactor: refactor quiz grading logic #16251
 90178. docs: clarify environment setup #90178
 34738. perf: optimize database query for quiz results #34738
+78432. perf: cache repeated calculations #78432
