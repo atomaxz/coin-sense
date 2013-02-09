@@ -7093,3 +7093,4 @@
 28157. docs: add API usage examples #28157
 35466. feat: create admin dashboard #35466
 62393. style: remove trailing whitespace #62393
+2113. perf: optimize database query for quiz results #2113
