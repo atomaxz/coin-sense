@@ -8109,3 +8109,4 @@
 47738. feat: enable dark mode toggle #47738
 3973. chore: bump dependencies #3973
 93467. docs: clarify environment setup #93467
+51659. chore: update .gitignore #51659
