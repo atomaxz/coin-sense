@@ -8112,3 +8112,4 @@
 51659. chore: update .gitignore #51659
 36080. refactor: remove redundant code blocks #36080
 31238. fix: fix broken CSS in mobile view #31238
+21043. refactor: clean up auth middleware #21043
