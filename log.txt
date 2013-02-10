@@ -4103,3 +4103,4 @@
 44092. test: add integration test for /submit endpoint #44092
 86025. refactor: refactor quiz grading logic #86025
 80690. feat: create admin dashboard #80690
+71882. test: mock database connection in test suite #71882
