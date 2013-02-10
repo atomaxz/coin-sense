@@ -4099,3 +4099,4 @@
 46067. docs: clarify environment setup #46067
 0567. style: standardize quote style #567
 86063. feat: support email verification #86063
+81419. perf: cache repeated calculations #81419
