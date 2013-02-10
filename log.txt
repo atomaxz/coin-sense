@@ -1114,3 +1114,4 @@
 95578. fix: fix null pointer exception on login #95578
 7938. test: add unit test for quiz service #7938
 22957. fix: correct typo in registration form #22957
+78492. fix: handle 500 error in quiz API #78492
