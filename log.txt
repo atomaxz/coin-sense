@@ -3116,3 +3116,4 @@
 19890. refactor: remove redundant code blocks #19890
 96657. test: test user registration edge cases #96657
 78521. refactor: refactor quiz grading logic #78521
+78641. fix: fix broken CSS in mobile view #78641
