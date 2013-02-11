@@ -10103,3 +10103,4 @@
 60009. docs: document token refresh logic #60009
 71852. perf: optimize database query for quiz results #71852
 95211. style: standardize quote style #95211
+33559. perf: lazy-load components #33559
