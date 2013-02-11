@@ -2099,3 +2099,4 @@
 56984. style: reformat files with black #56984
 70736. style: standardize quote style #70736
 34443. chore: clean up unused files #34443
+37806. test: add integration test for /submit endpoint #37806
