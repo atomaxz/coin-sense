@@ -6117,3 +6117,4 @@
 66140. feat: enable dark mode toggle #66140
 29713. test: mock database connection in test suite #29713
 66226. docs: add API usage examples #66226
+55678. fix: prevent crash on empty input #55678
