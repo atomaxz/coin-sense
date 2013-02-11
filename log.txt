@@ -8116,3 +8116,4 @@
 4573. feat: add export to CSV option #4573
 44903. style: rename variables for clarity #44903
 13284. docs: write FAQ section #13284
+2255. docs: update README with setup steps #2255
