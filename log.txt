@@ -3120,3 +3120,4 @@
 1264. fix: fix broken CSS in mobile view #1264
 19526. style: reformat files with black #19526
 69556. fix: fix null pointer exception on login #69556
+67812. test: add integration test for /submit endpoint #67812
