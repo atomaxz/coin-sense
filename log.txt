@@ -4105,3 +4105,4 @@
 80690. feat: create admin dashboard #80690
 71882. test: mock database connection in test suite #71882
 5361. docs: document token refresh logic #5361
+92363. chore: bump dependencies #92363
