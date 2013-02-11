@@ -6114,3 +6114,4 @@
 83212. feat: create admin dashboard #83212
 64015. docs: write FAQ section #64015
 22313. test: increase coverage on auth module #22313
+66140. feat: enable dark mode toggle #66140
