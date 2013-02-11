@@ -6113,3 +6113,4 @@
 12626. chore: rename env.example #12626
 83212. feat: create admin dashboard #83212
 64015. docs: write FAQ section #64015
+22313. test: increase coverage on auth module #22313
