@@ -9116,3 +9116,4 @@
 28015. test: mock database connection in test suite #28015
 23899. fix: prevent crash on empty input #23899
 44723. perf: lazy-load components #44723
+96134. test: increase coverage on auth module #96134
