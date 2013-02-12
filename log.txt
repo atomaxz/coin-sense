@@ -9114,3 +9114,4 @@
 20580. refactor: refactor quiz grading logic #20580
 96305. chore: bump dependencies #96305
 28015. test: mock database connection in test suite #28015
+23899. fix: prevent crash on empty input #23899
