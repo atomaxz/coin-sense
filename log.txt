@@ -5094,3 +5094,4 @@
 24409. docs: clarify environment setup #24409
 58429. chore: clean up unused files #58429
 42313. docs: document token refresh logic #42313
+0985. fix: fix broken CSS in mobile view #985
