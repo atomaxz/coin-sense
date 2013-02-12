@@ -8117,3 +8117,4 @@
 44903. style: rename variables for clarity #44903
 13284. docs: write FAQ section #13284
 2255. docs: update README with setup steps #2255
+17647. refactor: clean up auth middleware #17647
