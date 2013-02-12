@@ -110,3 +110,4 @@
 90222. fix: resolve issue with date parsing #90222
 32235. refactor: refactor quiz grading logic #32235
 54941. chore: update .gitignore #54941
+47978. refactor: clean up auth middleware #47978
