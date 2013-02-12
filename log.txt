@@ -9115,3 +9115,4 @@
 96305. chore: bump dependencies #96305
 28015. test: mock database connection in test suite #28015
 23899. fix: prevent crash on empty input #23899
+44723. perf: lazy-load components #44723
