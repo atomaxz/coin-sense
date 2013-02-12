@@ -1120,3 +1120,4 @@
 45662. fix: prevent crash on empty input #45662
 30648. docs: improve code comments in utils #30648
 0561. style: remove trailing whitespace #561
+43985. fix: handle 500 error in quiz API #43985
