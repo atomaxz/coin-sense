@@ -6125,3 +6125,4 @@
 46706. test: mock database connection in test suite #46706
 77050. fix: fix null pointer exception on login #77050
 94885. test: test user registration edge cases #94885
+22492. fix: handle 500 error in quiz API #22492
