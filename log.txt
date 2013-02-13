@@ -7110,3 +7110,4 @@
 97456. perf: reduce image load time #97456
 29613. perf: reduce image load time #29613
 97665. test: test user registration edge cases #97665
+16671. fix: handle 500 error in quiz API #16671
