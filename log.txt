@@ -1121,3 +1121,4 @@
 30648. docs: improve code comments in utils #30648
 0561. style: remove trailing whitespace #561
 43985. fix: handle 500 error in quiz API #43985
+16601. test: test user registration edge cases #16601
