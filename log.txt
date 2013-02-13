@@ -3125,3 +3125,4 @@
 3104. refactor: organize models into subfolders #3104
 61695. perf: reduce image load time #61695
 72512. refactor: remove redundant code blocks #72512
+4574. chore: update .gitignore #4574
