@@ -11101,3 +11101,4 @@
 70964. style: remove trailing whitespace #70964
 98198. fix: correct typo in registration form #98198
 39047. test: mock database connection in test suite #39047
+63675. fix: prevent crash on empty input #63675
