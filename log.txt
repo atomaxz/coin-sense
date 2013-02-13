@@ -3128,3 +3128,4 @@
 4574. chore: update .gitignore #4574
 23436. chore: bump dependencies #23436
 63853. style: remove trailing whitespace #63853
+0773. perf: lazy-load components #773
