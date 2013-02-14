@@ -6128,3 +6128,4 @@
 22492. fix: handle 500 error in quiz API #22492
 33336. fix: handle 500 error in quiz API #33336
 33872. style: rename variables for clarity #33872
+36910. refactor: clean up auth middleware #36910
