@@ -4115,3 +4115,4 @@
 20137. chore: rename env.example #20137
 48401. fix: fix null pointer exception on login #48401
 88813. docs: clarify environment setup #88813
+67319. feat: add user authentication #67319
