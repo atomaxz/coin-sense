@@ -3131,3 +3131,4 @@
 0773. perf: lazy-load components #773
 17114. feat: create admin dashboard #17114
 78638. test: mock database connection in test suite #78638
+86282. refactor: clean up auth middleware #86282
