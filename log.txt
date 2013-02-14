@@ -4113,3 +4113,4 @@
 81925. test: add integration test for /submit endpoint #81925
 98146. refactor: organize models into subfolders #98146
 20137. chore: rename env.example #20137
+48401. fix: fix null pointer exception on login #48401
