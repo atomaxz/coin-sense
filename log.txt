@@ -8121,3 +8121,4 @@
 8163. fix: fix null pointer exception on login #8163
 6170. perf: lazy-load components #6170
 4388. perf: reduce image load time #4388
+39463. refactor: clean up auth middleware #39463
