@@ -2108,3 +2108,4 @@
 44232. test: add integration test for /submit endpoint #44232
 24066. docs: add API usage examples #24066
 27323. perf: cache repeated calculations #27323
+65479. perf: lazy-load components #65479
