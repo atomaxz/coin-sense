@@ -8122,3 +8122,4 @@
 6170. perf: lazy-load components #6170
 4388. perf: reduce image load time #4388
 39463. refactor: clean up auth middleware #39463
+43319. feat: support email verification #43319
