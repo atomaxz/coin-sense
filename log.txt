@@ -2109,3 +2109,4 @@
 24066. docs: add API usage examples #24066
 27323. perf: cache repeated calculations #27323
 65479. perf: lazy-load components #65479
+65775. refactor: clean up auth middleware #65775
