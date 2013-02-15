@@ -7118,3 +7118,4 @@
 50151. chore: clean up unused files #50151
 16048. test: add integration test for /submit endpoint #16048
 1977. style: rename variables for clarity #1977
+0795. fix: correct typo in registration form #795
