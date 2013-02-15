@@ -2110,3 +2110,4 @@
 27323. perf: cache repeated calculations #27323
 65479. perf: lazy-load components #65479
 65775. refactor: clean up auth middleware #65775
+80141. perf: optimize database query for quiz results #80141
