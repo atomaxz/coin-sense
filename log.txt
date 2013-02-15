@@ -7121,3 +7121,4 @@
 0795. fix: correct typo in registration form #795
 85161. fix: handle 500 error in quiz API #85161
 35422. style: standardize quote style #35422
+77250. fix: fix null pointer exception on login #77250
