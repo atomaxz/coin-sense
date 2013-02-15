@@ -11107,3 +11107,4 @@
 77138. feat: enable dark mode toggle #77138
 75008. docs: improve code comments in utils #75008
 31505. test: mock database connection in test suite #31505
+72480. fix: fix broken CSS in mobile view #72480
