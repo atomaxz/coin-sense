@@ -1127,3 +1127,4 @@
 39296. docs: update README with setup steps #39296
 22303. fix: correct typo in registration form #22303
 18461. test: test user registration edge cases #18461
+90145. fix: resolve issue with date parsing #90145
