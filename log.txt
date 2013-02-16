@@ -1130,3 +1130,4 @@
 90145. fix: resolve issue with date parsing #90145
 62285. test: test user registration edge cases #62285
 65799. perf: optimize database query for quiz results #65799
+10230. fix: correct typo in registration form #10230
