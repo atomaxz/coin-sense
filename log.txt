@@ -1131,3 +1131,4 @@
 62285. test: test user registration edge cases #62285
 65799. perf: optimize database query for quiz results #65799
 10230. fix: correct typo in registration form #10230
+56331. chore: clean up unused files #56331
