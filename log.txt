@@ -120,3 +120,4 @@
 3365. perf: optimize database query for quiz results #3365
 80917. perf: lazy-load components #80917
 89857. test: add unit test for quiz service #89857
+17671. chore: update .gitignore #17671
