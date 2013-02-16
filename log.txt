@@ -10111,3 +10111,4 @@
 26201. refactor: split large controller into smaller functions #26201
 0972. chore: add GitHub actions badge #972
 99630. perf: cache repeated calculations #99630
+30909. fix: fix null pointer exception on login #30909
