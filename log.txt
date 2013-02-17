@@ -10114,3 +10114,4 @@
 30909. fix: fix null pointer exception on login #30909
 58155. fix: correct typo in registration form #58155
 27072. test: test user registration edge cases #27072
+16371. fix: correct typo in registration form #16371
