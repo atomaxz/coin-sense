@@ -6138,3 +6138,4 @@
 18247. test: test user registration edge cases #18247
 86443. chore: clean up unused files #86443
 60017. fix: correct typo in registration form #60017
+83587. test: increase coverage on auth module #83587
