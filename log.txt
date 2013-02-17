@@ -8127,3 +8127,4 @@
 59042. fix: handle 500 error in quiz API #59042
 53507. perf: cache repeated calculations #53507
 66913. chore: add GitHub actions badge #66913
+46543. test: increase coverage on auth module #46543
