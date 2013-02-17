@@ -11112,3 +11112,4 @@
 60267. perf: optimize database query for quiz results #60267
 23309. perf: optimize database query for quiz results #23309
 53741. chore: update .gitignore #53741
+61158. chore: add GitHub actions badge #61158
