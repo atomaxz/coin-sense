@@ -127,3 +127,4 @@
 95131. chore: add GitHub actions badge #95131
 89666. refactor: remove redundant code blocks #89666
 39723. feat: add export to CSV option #39723
+59482. chore: bump dependencies #59482
