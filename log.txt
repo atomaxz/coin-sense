@@ -123,3 +123,4 @@
 17671. chore: update .gitignore #17671
 60604. chore: clean up unused files #60604
 29249. docs: add API usage examples #29249
+93462. feat: support email verification #93462
