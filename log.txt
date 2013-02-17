@@ -6135,3 +6135,4 @@
 9326. style: standardize quote style #9326
 0637. chore: bump dependencies #637
 92466. docs: write FAQ section #92466
+18247. test: test user registration edge cases #18247
