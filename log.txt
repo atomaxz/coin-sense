@@ -2118,3 +2118,4 @@
 8276. style: rename variables for clarity #8276
 9937. fix: resolve issue with date parsing #9937
 99431. style: standardize quote style #99431
+74316. test: increase coverage on auth module #74316
