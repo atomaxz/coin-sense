@@ -10116,3 +10116,4 @@
 27072. test: test user registration edge cases #27072
 16371. fix: correct typo in registration form #16371
 12690. feat: add user authentication #12690
+12595. fix: prevent crash on empty input #12595
