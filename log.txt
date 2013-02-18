@@ -4129,3 +4129,4 @@
 66276. refactor: organize models into subfolders #66276
 32798. test: increase coverage on auth module #32798
 6500. style: reformat files with black #6500
+34287. test: add unit test for quiz service #34287
