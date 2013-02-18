@@ -4131,3 +4131,4 @@
 6500. style: reformat files with black #6500
 34287. test: add unit test for quiz service #34287
 61920. style: reformat files with black #61920
+16503. fix: prevent crash on empty input #16503
