@@ -8130,3 +8130,4 @@
 46543. test: increase coverage on auth module #46543
 63172. style: rename variables for clarity #63172
 90096. docs: clarify environment setup #90096
+82017. perf: lazy-load components #82017
