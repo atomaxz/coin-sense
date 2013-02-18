@@ -11116,3 +11116,4 @@
 80506. chore: rename env.example #80506
 24129. chore: clean up unused files #24129
 46782. fix: correct typo in registration form #46782
+3964. chore: bump dependencies #3964
