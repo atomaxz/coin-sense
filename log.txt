@@ -2119,3 +2119,4 @@
 9937. fix: resolve issue with date parsing #9937
 99431. style: standardize quote style #99431
 74316. test: increase coverage on auth module #74316
+34232. test: add integration test for /submit endpoint #34232
