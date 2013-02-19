@@ -4134,3 +4134,4 @@
 16503. fix: prevent crash on empty input #16503
 99001. fix: correct typo in registration form #99001
 72580. feat: add user authentication #72580
+20807. test: add integration test for /submit endpoint #20807
