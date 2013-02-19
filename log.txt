@@ -1138,3 +1138,4 @@
 2028. feat: enable dark mode toggle #2028
 95721. docs: update README with setup steps #95721
 74398. style: remove trailing whitespace #74398
+26025. refactor: refactor quiz grading logic #26025
