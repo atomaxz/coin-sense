@@ -9129,3 +9129,4 @@
 30813. test: add integration test for /submit endpoint #30813
 63138. fix: resolve issue with date parsing #63138
 88782. test: increase coverage on auth module #88782
+0359. refactor: split large controller into smaller functions #359
