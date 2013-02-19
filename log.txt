@@ -5112,3 +5112,4 @@
 65080. feat: create admin dashboard #65080
 45793. perf: lazy-load components #45793
 87507. feat: enable dark mode toggle #87507
+82471. perf: optimize database query for quiz results #82471
