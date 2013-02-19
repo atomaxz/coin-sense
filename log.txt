@@ -3142,3 +3142,4 @@
 1016. docs: add API usage examples #1016
 16100. perf: cache repeated calculations #16100
 21112. style: apply consistent indentation #21112
+84145. perf: optimize database query for quiz results #84145
