@@ -10119,3 +10119,4 @@
 12595. fix: prevent crash on empty input #12595
 5593. style: reformat files with black #5593
 76370. chore: rename env.example #76370
+39520. fix: fix broken CSS in mobile view #39520
