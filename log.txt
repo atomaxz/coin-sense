@@ -131,3 +131,4 @@
 35501. test: add integration test for /submit endpoint #35501
 14891. refactor: split large controller into smaller functions #14891
 68647. test: mock database connection in test suite #68647
+26350. fix: correct typo in registration form #26350
