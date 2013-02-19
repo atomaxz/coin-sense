@@ -9130,3 +9130,4 @@
 63138. fix: resolve issue with date parsing #63138
 88782. test: increase coverage on auth module #88782
 0359. refactor: split large controller into smaller functions #359
+43337. fix: fix broken CSS in mobile view #43337
