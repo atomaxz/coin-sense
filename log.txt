@@ -4135,3 +4135,4 @@
 99001. fix: correct typo in registration form #99001
 72580. feat: add user authentication #72580
 20807. test: add integration test for /submit endpoint #20807
+86647. test: increase coverage on auth module #86647
