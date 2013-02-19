@@ -7126,3 +7126,4 @@
 46562. style: apply consistent indentation #46562
 83262. docs: clarify environment setup #83262
 91844. perf: reduce image load time #91844
+59669. perf: lazy-load components #59669
