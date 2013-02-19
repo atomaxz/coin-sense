@@ -8135,3 +8135,4 @@
 85250. refactor: split large controller into smaller functions #85250
 25408. docs: document token refresh logic #25408
 89410. test: mock database connection in test suite #89410
+77057. chore: bump dependencies #77057
