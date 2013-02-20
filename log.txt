@@ -11125,3 +11125,4 @@
 80969. test: add unit test for quiz service #80969
 32005. refactor: remove redundant code blocks #32005
 46641. style: apply consistent indentation #46641
+41954. test: increase coverage on auth module #41954
