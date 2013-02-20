@@ -7128,3 +7128,4 @@
 91844. perf: reduce image load time #91844
 59669. perf: lazy-load components #59669
 22938. docs: document token refresh logic #22938
+77307. fix: fix broken CSS in mobile view #77307
