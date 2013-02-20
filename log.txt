@@ -2125,3 +2125,4 @@
 74913. feat: create admin dashboard #74913
 60370. feat: implement quiz timer feature #60370
 56688. refactor: remove redundant code blocks #56688
+74971. docs: write FAQ section #74971
