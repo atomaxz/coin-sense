@@ -10121,3 +10121,4 @@
 76370. chore: rename env.example #76370
 39520. fix: fix broken CSS in mobile view #39520
 70704. feat: enable dark mode toggle #70704
+94575. style: remove trailing whitespace #94575
