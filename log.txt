@@ -3147,3 +3147,4 @@
 12558. test: add unit test for quiz service #12558
 16846. style: reformat files with black #16846
 94438. fix: correct typo in registration form #94438
+42389. chore: update .gitignore #42389
