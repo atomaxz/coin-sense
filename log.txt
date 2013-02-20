@@ -3148,3 +3148,4 @@
 16846. style: reformat files with black #16846
 94438. fix: correct typo in registration form #94438
 42389. chore: update .gitignore #42389
+3798. docs: add API usage examples #3798
