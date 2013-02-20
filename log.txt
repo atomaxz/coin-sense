@@ -5114,3 +5114,4 @@
 87507. feat: enable dark mode toggle #87507
 82471. perf: optimize database query for quiz results #82471
 91416. docs: write FAQ section #91416
+22860. test: mock database connection in test suite #22860
