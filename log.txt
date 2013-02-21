@@ -138,3 +138,4 @@
 33593. refactor: clean up auth middleware #33593
 83353. chore: add GitHub actions badge #83353
 95012. refactor: split large controller into smaller functions #95012
+75074. style: rename variables for clarity #75074
