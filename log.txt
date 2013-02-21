@@ -1143,3 +1143,4 @@
 98744. chore: bump dependencies #98744
 30848. style: remove trailing whitespace #30848
 49171. refactor: refactor quiz grading logic #49171
+34477. fix: handle 500 error in quiz API #34477
