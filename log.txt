@@ -3151,3 +3151,4 @@
 3798. docs: add API usage examples #3798
 30923. style: standardize quote style #30923
 57475. test: test user registration edge cases #57475
+72520. style: apply consistent indentation #72520
