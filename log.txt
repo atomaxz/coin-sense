@@ -2127,3 +2127,4 @@
 56688. refactor: remove redundant code blocks #56688
 74971. docs: write FAQ section #74971
 86309. test: add integration test for /submit endpoint #86309
+97036. fix: fix broken CSS in mobile view #97036
