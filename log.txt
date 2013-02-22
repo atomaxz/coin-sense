@@ -5118,3 +5118,4 @@
 27516. refactor: split large controller into smaller functions #27516
 50350. perf: reduce image load time #50350
 0586. test: add integration test for /submit endpoint #586
+77235. chore: update .gitignore #77235
