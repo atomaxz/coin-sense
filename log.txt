@@ -10129,3 +10129,4 @@
 43311. chore: bump dependencies #43311
 89043. feat: create admin dashboard #89043
 86202. feat: add export to CSV option #86202
+38740. perf: lazy-load components #38740
