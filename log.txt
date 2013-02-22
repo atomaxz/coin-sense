@@ -4143,3 +4143,4 @@
 32006. test: add integration test for /submit endpoint #32006
 83414. test: test user registration edge cases #83414
 89516. style: reformat files with black #89516
+73780. perf: cache repeated calculations #73780
