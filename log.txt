@@ -6154,3 +6154,4 @@
 14871. test: test user registration edge cases #14871
 10947. feat: enable dark mode toggle #10947
 4169. perf: lazy-load components #4169
+74795. refactor: refactor quiz grading logic #74795
