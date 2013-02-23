@@ -3155,3 +3155,4 @@
 53840. test: add unit test for quiz service #53840
 54258. chore: clean up unused files #54258
 42567. test: increase coverage on auth module #42567
+53512. test: mock database connection in test suite #53512
