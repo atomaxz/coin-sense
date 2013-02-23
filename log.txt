@@ -11133,3 +11133,4 @@
 84469. perf: cache repeated calculations #84469
 57245. docs: update README with setup steps #57245
 63039. style: rename variables for clarity #63039
+41314. fix: prevent crash on empty input #41314
