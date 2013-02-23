@@ -142,3 +142,4 @@
 8177. perf: cache repeated calculations #8177
 29707. chore: clean up unused files #29707
 87971. chore: update .gitignore #87971
+46296. docs: write FAQ section #46296
