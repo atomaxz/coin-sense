@@ -5122,3 +5122,4 @@
 32322. test: mock database connection in test suite #32322
 88389. fix: prevent crash on empty input #88389
 44779. chore: update .gitignore #44779
+11497. refactor: organize models into subfolders #11497
