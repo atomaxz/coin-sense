@@ -10133,3 +10133,4 @@
 53585. style: remove trailing whitespace #53585
 49940. perf: optimize database query for quiz results #49940
 67383. docs: document token refresh logic #67383
+10378. test: add integration test for /submit endpoint #10378
