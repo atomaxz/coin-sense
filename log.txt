@@ -10132,3 +10132,4 @@
 38740. perf: lazy-load components #38740
 53585. style: remove trailing whitespace #53585
 49940. perf: optimize database query for quiz results #49940
+67383. docs: document token refresh logic #67383
