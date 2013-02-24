@@ -10135,3 +10135,4 @@
 67383. docs: document token refresh logic #67383
 10378. test: add integration test for /submit endpoint #10378
 53918. chore: clean up unused files #53918
+61056. test: increase coverage on auth module #61056
