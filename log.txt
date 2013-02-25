@@ -7141,3 +7141,4 @@
 64775. refactor: split large controller into smaller functions #64775
 15284. docs: write FAQ section #15284
 32917. refactor: refactor quiz grading logic #32917
+95261. perf: lazy-load components #95261
