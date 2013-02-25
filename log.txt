@@ -6159,3 +6159,4 @@
 42194. docs: clarify environment setup #42194
 40961. perf: optimize database query for quiz results #40961
 52905. chore: clean up unused files #52905
+73762. fix: fix null pointer exception on login #73762
