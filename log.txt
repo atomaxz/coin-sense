@@ -5124,3 +5124,4 @@
 44779. chore: update .gitignore #44779
 11497. refactor: organize models into subfolders #11497
 64396. feat: add user authentication #64396
+41489. fix: fix null pointer exception on login #41489
