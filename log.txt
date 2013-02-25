@@ -147,3 +147,4 @@
 3492. fix: prevent crash on empty input #3492
 57418. docs: clarify environment setup #57418
 69879. style: standardize quote style #69879
+0685. fix: prevent crash on empty input #685
