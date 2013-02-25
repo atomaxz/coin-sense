@@ -2133,3 +2133,4 @@
 54506. refactor: clean up auth middleware #54506
 70059. fix: fix broken CSS in mobile view #70059
 21098. perf: cache repeated calculations #21098
+31981. style: apply consistent indentation #31981
