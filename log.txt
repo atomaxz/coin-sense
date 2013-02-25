@@ -10138,3 +10138,4 @@
 61056. test: increase coverage on auth module #61056
 29791. docs: clarify environment setup #29791
 34469. refactor: split large controller into smaller functions #34469
+2027. fix: correct typo in registration form #2027
