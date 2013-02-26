@@ -4155,3 +4155,4 @@
 66947. docs: update README with setup steps #66947
 88332. refactor: split large controller into smaller functions #88332
 84395. feat: support email verification #84395
+86209. feat: add user authentication #86209
