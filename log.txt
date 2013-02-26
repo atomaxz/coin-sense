@@ -2140,3 +2140,4 @@
 9569. test: add integration test for /submit endpoint #9569
 11677. style: apply consistent indentation #11677
 73892. docs: update README with setup steps #73892
+25670. fix: resolve issue with date parsing #25670
