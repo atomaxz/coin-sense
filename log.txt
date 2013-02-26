@@ -4158,3 +4158,4 @@
 86209. feat: add user authentication #86209
 74994. test: increase coverage on auth module #74994
 94840. test: test user registration edge cases #94840
+72641. chore: rename env.example #72641
