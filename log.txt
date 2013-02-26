@@ -3163,3 +3163,4 @@
 11241. fix: prevent crash on empty input #11241
 38305. fix: correct typo in registration form #38305
 73335. docs: document token refresh logic #73335
+40122. feat: create admin dashboard #40122
