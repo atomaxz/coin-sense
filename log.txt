@@ -8153,3 +8153,4 @@
 86077. fix: fix null pointer exception on login #86077
 46731. chore: add GitHub actions badge #46731
 87368. fix: resolve issue with date parsing #87368
+11190. test: mock database connection in test suite #11190
