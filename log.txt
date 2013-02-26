@@ -4154,3 +4154,4 @@
 51998. feat: enable dark mode toggle #51998
 66947. docs: update README with setup steps #66947
 88332. refactor: split large controller into smaller functions #88332
+84395. feat: support email verification #84395
