@@ -2135,3 +2135,4 @@
 21098. perf: cache repeated calculations #21098
 31981. style: apply consistent indentation #31981
 84452. refactor: refactor quiz grading logic #84452
+16503. fix: prevent crash on empty input #16503
