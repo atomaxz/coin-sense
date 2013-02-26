@@ -11144,3 +11144,4 @@
 31896. refactor: remove redundant code blocks #31896
 19764. fix: correct typo in registration form #19764
 44915. docs: clarify environment setup #44915
+57315. refactor: clean up auth middleware #57315
