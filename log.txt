@@ -1157,3 +1157,4 @@
 29588. refactor: organize models into subfolders #29588
 33378. refactor: split large controller into smaller functions #33378
 2768. chore: clean up unused files #2768
+77441. docs: update README with setup steps #77441
