@@ -150,3 +150,4 @@
 0685. fix: prevent crash on empty input #685
 89556. perf: cache repeated calculations #89556
 53782. refactor: refactor quiz grading logic #53782
+74509. fix: prevent crash on empty input #74509
