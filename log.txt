@@ -10142,3 +10142,4 @@
 56789. perf: lazy-load components #56789
 26132. perf: lazy-load components #26132
 1436. perf: optimize database query for quiz results #1436
+36599. docs: update README with setup steps #36599
