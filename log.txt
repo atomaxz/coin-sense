@@ -1159,3 +1159,4 @@
 2768. chore: clean up unused files #2768
 77441. docs: update README with setup steps #77441
 33891. chore: update .gitignore #33891
+72356. fix: correct typo in registration form #72356
