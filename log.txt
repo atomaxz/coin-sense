@@ -5129,3 +5129,4 @@
 23902. refactor: organize models into subfolders #23902
 71184. refactor: split large controller into smaller functions #71184
 42495. perf: reduce image load time #42495
+62301. fix: prevent crash on empty input #62301
