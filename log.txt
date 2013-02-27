@@ -5128,3 +5128,4 @@
 83076. fix: fix broken CSS in mobile view #83076
 23902. refactor: organize models into subfolders #23902
 71184. refactor: split large controller into smaller functions #71184
+42495. perf: reduce image load time #42495
