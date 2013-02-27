@@ -5131,3 +5131,4 @@
 42495. perf: reduce image load time #42495
 62301. fix: prevent crash on empty input #62301
 73725. test: add integration test for /submit endpoint #73725
+73917. test: increase coverage on auth module #73917
