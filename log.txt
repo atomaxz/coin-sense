@@ -5134,3 +5134,4 @@
 73917. test: increase coverage on auth module #73917
 37407. chore: clean up unused files #37407
 28010. test: test user registration edge cases #28010
+49743. perf: optimize database query for quiz results #49743
