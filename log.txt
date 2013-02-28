@@ -10148,3 +10148,4 @@
 28192. chore: update .gitignore #28192
 62876. fix: prevent crash on empty input #62876
 94579. fix: fix broken CSS in mobile view #94579
+5788. refactor: organize models into subfolders #5788
