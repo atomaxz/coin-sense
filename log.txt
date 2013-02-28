@@ -1162,3 +1162,4 @@
 72356. fix: correct typo in registration form #72356
 57480. fix: fix null pointer exception on login #57480
 21143. fix: correct typo in registration form #21143
+7706. docs: improve code comments in utils #7706
