@@ -10149,3 +10149,4 @@
 62876. fix: prevent crash on empty input #62876
 94579. fix: fix broken CSS in mobile view #94579
 5788. refactor: organize models into subfolders #5788
+18531. refactor: clean up auth middleware #18531
