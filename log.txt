@@ -156,3 +156,4 @@
 45518. test: mock database connection in test suite #45518
 25478. chore: clean up unused files #25478
 85757. feat: create admin dashboard #85757
+39155. style: remove trailing whitespace #39155
