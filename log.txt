@@ -3166,3 +3166,4 @@
 40122. feat: create admin dashboard #40122
 19759. docs: write FAQ section #19759
 58609. perf: optimize database query for quiz results #58609
+97881. perf: cache repeated calculations #97881
