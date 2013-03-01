@@ -159,3 +159,4 @@
 39155. style: remove trailing whitespace #39155
 75481. feat: implement quiz timer feature #75481
 98294. fix: fix null pointer exception on login #98294
+88195. perf: optimize database query for quiz results #88195
