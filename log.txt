@@ -5136,3 +5136,4 @@
 28010. test: test user registration edge cases #28010
 49743. perf: optimize database query for quiz results #49743
 58254. fix: resolve issue with date parsing #58254
+82974. fix: fix broken CSS in mobile view #82974
