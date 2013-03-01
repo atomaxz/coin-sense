@@ -3170,3 +3170,4 @@
 19240. chore: add GitHub actions badge #19240
 40471. test: mock database connection in test suite #40471
 56369. fix: resolve issue with date parsing #56369
+30889. feat: support email verification #30889
