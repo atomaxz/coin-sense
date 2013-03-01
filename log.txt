@@ -5138,3 +5138,4 @@
 58254. fix: resolve issue with date parsing #58254
 82974. fix: fix broken CSS in mobile view #82974
 47801. feat: implement quiz timer feature #47801
+6155. fix: fix broken CSS in mobile view #6155
