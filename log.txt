@@ -1166,3 +1166,4 @@
 97054. fix: fix broken CSS in mobile view #97054
 39799. perf: cache repeated calculations #39799
 15563. perf: lazy-load components #15563
+58227. docs: update README with setup steps #58227
