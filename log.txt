@@ -3168,3 +3168,4 @@
 58609. perf: optimize database query for quiz results #58609
 97881. perf: cache repeated calculations #97881
 19240. chore: add GitHub actions badge #19240
+40471. test: mock database connection in test suite #40471
