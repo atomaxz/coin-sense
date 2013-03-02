@@ -5143,3 +5143,4 @@
 48667. perf: reduce image load time #48667
 30904. chore: rename env.example #30904
 95790. refactor: refactor quiz grading logic #95790
+95204. chore: bump dependencies #95204
