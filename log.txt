@@ -10156,3 +10156,4 @@
 79998. refactor: organize models into subfolders #79998
 81227. chore: rename env.example #81227
 60871. style: rename variables for clarity #60871
+13059. perf: lazy-load components #13059
