@@ -10158,3 +10158,4 @@
 60871. style: rename variables for clarity #60871
 13059. perf: lazy-load components #13059
 75799. refactor: organize models into subfolders #75799
+71935. perf: reduce image load time #71935
