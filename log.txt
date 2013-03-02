@@ -8158,3 +8158,4 @@
 89959. fix: fix broken CSS in mobile view #89959
 21000. perf: lazy-load components #21000
 65432. refactor: remove redundant code blocks #65432
+5861. perf: reduce image load time #5861
