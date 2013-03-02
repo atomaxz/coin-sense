@@ -9156,3 +9156,4 @@
 12179. style: reformat files with black #12179
 29542. refactor: split large controller into smaller functions #29542
 82493. fix: fix broken CSS in mobile view #82493
+58725. test: mock database connection in test suite #58725
