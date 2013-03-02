@@ -9155,3 +9155,4 @@
 45588. refactor: remove redundant code blocks #45588
 12179. style: reformat files with black #12179
 29542. refactor: split large controller into smaller functions #29542
+82493. fix: fix broken CSS in mobile view #82493
