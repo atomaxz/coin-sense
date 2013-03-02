@@ -5140,3 +5140,4 @@
 47801. feat: implement quiz timer feature #47801
 6155. fix: fix broken CSS in mobile view #6155
 13527. style: standardize quote style #13527
+48667. perf: reduce image load time #48667
