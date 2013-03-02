@@ -2149,3 +2149,4 @@
 47499. chore: rename env.example #47499
 89197. test: add unit test for quiz service #89197
 76893. refactor: split large controller into smaller functions #76893
+59033. feat: support email verification #59033
