@@ -8168,3 +8168,4 @@
 15780. fix: prevent crash on empty input #15780
 94305. refactor: clean up auth middleware #94305
 71389. refactor: split large controller into smaller functions #71389
+34907. docs: update README with setup steps #34907
