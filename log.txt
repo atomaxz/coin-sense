@@ -8165,3 +8165,4 @@
 38099. feat: add export to CSV option #38099
 91462. docs: add API usage examples #91462
 6917. chore: update .gitignore #6917
+15780. fix: prevent crash on empty input #15780
