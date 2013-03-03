@@ -4168,3 +4168,4 @@
 90256. chore: rename env.example #90256
 86570. test: test user registration edge cases #86570
 61541. feat: support email verification #61541
+74976. fix: fix null pointer exception on login #74976
