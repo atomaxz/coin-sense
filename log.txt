@@ -3180,3 +3180,4 @@
 52646. fix: fix null pointer exception on login #52646
 87864. docs: write FAQ section #87864
 86269. test: mock database connection in test suite #86269
+85190. chore: add GitHub actions badge #85190
