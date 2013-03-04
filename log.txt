@@ -162,3 +162,4 @@
 88195. perf: optimize database query for quiz results #88195
 61659. style: remove trailing whitespace #61659
 17241. fix: resolve issue with date parsing #17241
+24703. test: test user registration edge cases #24703
