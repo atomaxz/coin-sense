@@ -8173,3 +8173,4 @@
 2147. chore: clean up unused files #2147
 11980. chore: clean up unused files #11980
 37472. perf: reduce image load time #37472
+72281. test: mock database connection in test suite #72281
