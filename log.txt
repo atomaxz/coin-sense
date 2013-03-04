@@ -163,3 +163,4 @@
 61659. style: remove trailing whitespace #61659
 17241. fix: resolve issue with date parsing #17241
 24703. test: test user registration edge cases #24703
+88460. style: apply consistent indentation #88460
