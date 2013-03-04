@@ -7159,3 +7159,4 @@
 62901. test: mock database connection in test suite #62901
 76942. refactor: remove redundant code blocks #76942
 4575. perf: lazy-load components #4575
+78284. chore: bump dependencies #78284
