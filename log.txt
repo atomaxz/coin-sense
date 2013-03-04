@@ -10164,3 +10164,4 @@
 28129. chore: rename env.example #28129
 66636. refactor: clean up auth middleware #66636
 30383. perf: optimize database query for quiz results #30383
+26022. fix: fix null pointer exception on login #26022
