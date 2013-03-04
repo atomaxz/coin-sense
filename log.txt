@@ -1174,3 +1174,4 @@
 59477. fix: correct typo in registration form #59477
 91864. refactor: clean up auth middleware #91864
 18671. docs: document token refresh logic #18671
+49589. docs: update README with setup steps #49589
