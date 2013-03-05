@@ -9168,3 +9168,4 @@
 1802. test: mock database connection in test suite #1802
 31475. docs: document token refresh logic #31475
 49430. docs: write FAQ section #49430
+23964. perf: lazy-load components #23964
