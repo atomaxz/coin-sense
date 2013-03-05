@@ -8175,3 +8175,4 @@
 37472. perf: reduce image load time #37472
 72281. test: mock database connection in test suite #72281
 90998. fix: resolve issue with date parsing #90998
+74988. docs: update README with setup steps #74988
