@@ -169,3 +169,4 @@
 28371. style: apply consistent indentation #28371
 79555. feat: implement quiz timer feature #79555
 81023. fix: prevent crash on empty input #81023
+87389. fix: correct typo in registration form #87389
