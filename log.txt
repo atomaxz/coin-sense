@@ -11161,3 +11161,4 @@
 20338. docs: clarify environment setup #20338
 60601. perf: optimize database query for quiz results #60601
 38263. test: add integration test for /submit endpoint #38263
+62492. fix: correct typo in registration form #62492
