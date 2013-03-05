@@ -2158,3 +2158,4 @@
 68752. style: reformat files with black #68752
 17444. feat: create admin dashboard #17444
 72977. chore: rename env.example #72977
+70901. fix: fix broken CSS in mobile view #70901
