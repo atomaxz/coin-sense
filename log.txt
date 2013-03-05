@@ -1178,3 +1178,4 @@
 29041. test: increase coverage on auth module #29041
 82553. docs: write FAQ section #82553
 54530. chore: clean up unused files #54530
+3878. perf: optimize database query for quiz results #3878
