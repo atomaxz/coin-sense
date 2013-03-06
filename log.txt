@@ -2160,3 +2160,4 @@
 72977. chore: rename env.example #72977
 70901. fix: fix broken CSS in mobile view #70901
 46997. docs: document token refresh logic #46997
+40247. chore: add GitHub actions badge #40247
