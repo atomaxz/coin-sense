@@ -9172,3 +9172,4 @@
 94766. chore: update .gitignore #94766
 96524. feat: implement quiz timer feature #96524
 97948. refactor: remove redundant code blocks #97948
+58120. perf: optimize database query for quiz results #58120
