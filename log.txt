@@ -7164,3 +7164,4 @@
 37887. style: apply consistent indentation #37887
 28832. fix: fix null pointer exception on login #28832
 6247. docs: document token refresh logic #6247
+75569. style: remove trailing whitespace #75569
