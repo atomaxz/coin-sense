@@ -7162,3 +7162,4 @@
 78284. chore: bump dependencies #78284
 18063. feat: add export to CSV option #18063
 37887. style: apply consistent indentation #37887
+28832. fix: fix null pointer exception on login #28832
