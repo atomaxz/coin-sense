@@ -4178,3 +4178,4 @@
 81674. test: add integration test for /submit endpoint #81674
 2371. style: remove trailing whitespace #2371
 89104. fix: handle 500 error in quiz API #89104
+34621. test: add unit test for quiz service #34621
