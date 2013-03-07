@@ -4177,3 +4177,4 @@
 55986. chore: rename env.example #55986
 81674. test: add integration test for /submit endpoint #81674
 2371. style: remove trailing whitespace #2371
+89104. fix: handle 500 error in quiz API #89104
