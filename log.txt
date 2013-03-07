@@ -11165,3 +11165,4 @@
 60132. fix: resolve issue with date parsing #60132
 17200. refactor: split large controller into smaller functions #17200
 8764. fix: fix null pointer exception on login #8764
+84481. perf: optimize database query for quiz results #84481
