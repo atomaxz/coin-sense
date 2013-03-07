@@ -2167,3 +2167,4 @@
 44469. test: mock database connection in test suite #44469
 34624. chore: update .gitignore #34624
 52394. feat: enable dark mode toggle #52394
+19504. fix: handle 500 error in quiz API #19504
