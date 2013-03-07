@@ -8180,3 +8180,4 @@
 91242. fix: correct typo in registration form #91242
 49629. fix: fix null pointer exception on login #49629
 26125. docs: update README with setup steps #26125
+91460. test: test user registration edge cases #91460
