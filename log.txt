@@ -5153,3 +5153,4 @@
 64646. feat: add export to CSV option #64646
 37802. chore: bump dependencies #37802
 73028. test: test user registration edge cases #73028
+45629. chore: update .gitignore #45629
