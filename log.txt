@@ -1182,3 +1182,4 @@
 56329. style: reformat files with black #56329
 5062. refactor: refactor quiz grading logic #5062
 59292. refactor: refactor quiz grading logic #59292
+92861. fix: prevent crash on empty input #92861
