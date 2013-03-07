@@ -11164,3 +11164,4 @@
 62492. fix: correct typo in registration form #62492
 60132. fix: resolve issue with date parsing #60132
 17200. refactor: split large controller into smaller functions #17200
+8764. fix: fix null pointer exception on login #8764
