@@ -173,3 +173,4 @@
 86882. test: add unit test for quiz service #86882
 8637. feat: create admin dashboard #8637
 91841. fix: correct typo in registration form #91841
+61422. feat: support email verification #61422
