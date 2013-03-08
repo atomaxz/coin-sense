@@ -4182,3 +4182,4 @@
 52069. fix: resolve issue with date parsing #52069
 97107. fix: handle 500 error in quiz API #97107
 54620. test: increase coverage on auth module #54620
+59976. fix: correct typo in registration form #59976
