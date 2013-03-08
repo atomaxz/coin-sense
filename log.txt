@@ -10179,3 +10179,4 @@
 12278. feat: implement quiz timer feature #12278
 8244. style: remove trailing whitespace #8244
 59482. chore: bump dependencies #59482
+73390. feat: add user authentication #73390
