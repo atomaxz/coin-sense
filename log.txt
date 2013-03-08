@@ -3192,3 +3192,4 @@
 0844. feat: implement quiz timer feature #844
 23217. docs: clarify environment setup #23217
 15147. chore: clean up unused files #15147
+67688. refactor: clean up auth middleware #67688
