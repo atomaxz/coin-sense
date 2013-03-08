@@ -178,3 +178,4 @@
 49580. style: reformat files with black #49580
 86210. style: standardize quote style #86210
 81199. style: apply consistent indentation #81199
+70376. fix: fix broken CSS in mobile view #70376
