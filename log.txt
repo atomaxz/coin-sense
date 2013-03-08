@@ -176,3 +176,4 @@
 61422. feat: support email verification #61422
 84401. feat: add export to CSV option #84401
 49580. style: reformat files with black #49580
+86210. style: standardize quote style #86210
