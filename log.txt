@@ -2170,3 +2170,4 @@
 19504. fix: handle 500 error in quiz API #19504
 33085. style: reformat files with black #33085
 64612. docs: update README with setup steps #64612
+18398. feat: support email verification #18398
