@@ -8182,3 +8182,4 @@
 26125. docs: update README with setup steps #26125
 91460. test: test user registration edge cases #91460
 33641. perf: cache repeated calculations #33641
+21938. refactor: clean up auth middleware #21938
