@@ -9182,3 +9182,4 @@
 8735. refactor: refactor quiz grading logic #8735
 94904. docs: write FAQ section #94904
 58362. refactor: clean up auth middleware #58362
+83395. fix: correct typo in registration form #83395
