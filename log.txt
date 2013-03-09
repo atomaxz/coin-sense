@@ -8184,3 +8184,4 @@
 33641. perf: cache repeated calculations #33641
 21938. refactor: clean up auth middleware #21938
 11267. docs: document token refresh logic #11267
+33901. perf: optimize database query for quiz results #33901
