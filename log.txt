@@ -5158,3 +5158,4 @@
 47503. docs: clarify environment setup #47503
 94883. style: reformat files with black #94883
 40052. fix: fix null pointer exception on login #40052
+19214. refactor: clean up auth middleware #19214
