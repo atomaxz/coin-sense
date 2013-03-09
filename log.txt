@@ -5157,3 +5157,4 @@
 46929. fix: resolve issue with date parsing #46929
 47503. docs: clarify environment setup #47503
 94883. style: reformat files with black #94883
+40052. fix: fix null pointer exception on login #40052
