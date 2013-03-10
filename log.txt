@@ -9185,3 +9185,4 @@
 83395. fix: correct typo in registration form #83395
 87708. chore: clean up unused files #87708
 68095. chore: rename env.example #68095
+78043. style: standardize quote style #78043
