@@ -2176,3 +2176,4 @@
 3301. chore: add GitHub actions badge #3301
 18118. refactor: split large controller into smaller functions #18118
 84972. chore: clean up unused files #84972
+73698. style: remove trailing whitespace #73698
