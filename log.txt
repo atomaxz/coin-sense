@@ -10186,3 +10186,4 @@
 56600. feat: enable dark mode toggle #56600
 31443. refactor: refactor quiz grading logic #31443
 22146. test: test user registration edge cases #22146
+13024. fix: handle 500 error in quiz API #13024
