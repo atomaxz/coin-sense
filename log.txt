@@ -1189,3 +1189,4 @@
 7076. chore: rename env.example #7076
 43573. feat: add user authentication #43573
 75632. perf: reduce image load time #75632
+2368. docs: update README with setup steps #2368
