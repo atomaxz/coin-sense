@@ -186,3 +186,4 @@
 49776. style: reformat files with black #49776
 71024. chore: bump dependencies #71024
 52757. docs: improve code comments in utils #52757
+45203. refactor: remove redundant code blocks #45203
