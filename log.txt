@@ -8188,3 +8188,4 @@
 91211. perf: lazy-load components #91211
 83347. test: increase coverage on auth module #83347
 49489. docs: document token refresh logic #49489
+78783. fix: fix broken CSS in mobile view #78783
