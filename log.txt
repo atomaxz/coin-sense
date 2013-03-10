@@ -8186,3 +8186,4 @@
 11267. docs: document token refresh logic #11267
 33901. perf: optimize database query for quiz results #33901
 91211. perf: lazy-load components #91211
+83347. test: increase coverage on auth module #83347
