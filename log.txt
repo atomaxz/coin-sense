@@ -9188,3 +9188,4 @@
 78043. style: standardize quote style #78043
 44354. docs: document token refresh logic #44354
 28910. test: mock database connection in test suite #28910
+65525. refactor: clean up auth middleware #65525
