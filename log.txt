@@ -11174,3 +11174,4 @@
 47894. style: reformat files with black #47894
 8621. perf: cache repeated calculations #8621
 94400. fix: handle 500 error in quiz API #94400
+29730. docs: write FAQ section #29730
