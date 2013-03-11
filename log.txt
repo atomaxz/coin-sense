@@ -10189,3 +10189,4 @@
 13024. fix: handle 500 error in quiz API #13024
 58357. fix: resolve issue with date parsing #58357
 0369. docs: update README with setup steps #369
+27832. test: test user registration edge cases #27832
