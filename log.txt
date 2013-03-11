@@ -2177,3 +2177,4 @@
 18118. refactor: split large controller into smaller functions #18118
 84972. chore: clean up unused files #84972
 73698. style: remove trailing whitespace #73698
+52523. docs: document token refresh logic #52523
