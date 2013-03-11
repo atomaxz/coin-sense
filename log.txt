@@ -6186,3 +6186,4 @@
 18027. chore: rename env.example #18027
 14828. fix: correct typo in registration form #14828
 33103. style: reformat files with black #33103
+38197. perf: lazy-load components #38197
