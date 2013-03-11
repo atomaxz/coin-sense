@@ -1192,3 +1192,4 @@
 2368. docs: update README with setup steps #2368
 93892. style: rename variables for clarity #93892
 41343. test: increase coverage on auth module #41343
+19261. docs: clarify environment setup #19261
