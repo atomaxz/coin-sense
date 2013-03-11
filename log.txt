@@ -192,3 +192,4 @@
 14502. refactor: organize models into subfolders #14502
 87600. chore: rename env.example #87600
 16222. test: add integration test for /submit endpoint #16222
+82840. refactor: clean up auth middleware #82840
