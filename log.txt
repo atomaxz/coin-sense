@@ -9190,3 +9190,4 @@
 28910. test: mock database connection in test suite #28910
 65525. refactor: clean up auth middleware #65525
 48217. style: rename variables for clarity #48217
+85655. docs: write FAQ section #85655
