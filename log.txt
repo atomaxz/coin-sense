@@ -3196,3 +3196,4 @@
 84583. docs: write FAQ section #84583
 30355. refactor: remove redundant code blocks #30355
 55251. docs: document token refresh logic #55251
+29236. refactor: clean up auth middleware #29236
