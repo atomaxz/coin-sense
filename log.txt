@@ -9193,3 +9193,4 @@
 85655. docs: write FAQ section #85655
 38929. perf: reduce image load time #38929
 73344. style: apply consistent indentation #73344
+23854. test: test user registration edge cases #23854
