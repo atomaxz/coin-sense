@@ -7173,3 +7173,4 @@
 76743. style: reformat files with black #76743
 85582. style: remove trailing whitespace #85582
 33296. docs: add API usage examples #33296
+7505. refactor: split large controller into smaller functions #7505
