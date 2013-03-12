@@ -193,3 +193,4 @@
 87600. chore: rename env.example #87600
 16222. test: add integration test for /submit endpoint #16222
 82840. refactor: clean up auth middleware #82840
+16215. docs: write FAQ section #16215
