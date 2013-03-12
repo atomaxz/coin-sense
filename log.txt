@@ -1194,3 +1194,4 @@
 41343. test: increase coverage on auth module #41343
 19261. docs: clarify environment setup #19261
 0061. refactor: organize models into subfolders #61
+49084. feat: add user authentication #49084
