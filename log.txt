@@ -8195,3 +8195,4 @@
 85842. chore: clean up unused files #85842
 15652. chore: update .gitignore #15652
 54416. docs: update README with setup steps #54416
+64279. feat: create admin dashboard #64279
