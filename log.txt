@@ -5165,3 +5165,4 @@
 46337. test: add integration test for /submit endpoint #46337
 58052. style: rename variables for clarity #58052
 44623. docs: add API usage examples #44623
+78439. test: test user registration edge cases #78439
