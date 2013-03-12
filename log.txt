@@ -194,3 +194,4 @@
 16222. test: add integration test for /submit endpoint #16222
 82840. refactor: clean up auth middleware #82840
 16215. docs: write FAQ section #16215
+39620. feat: add user authentication #39620
