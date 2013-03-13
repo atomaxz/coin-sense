@@ -8198,3 +8198,4 @@
 64279. feat: create admin dashboard #64279
 96149. style: reformat files with black #96149
 24880. perf: optimize database query for quiz results #24880
+32132. refactor: clean up auth middleware #32132
