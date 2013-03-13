@@ -7176,3 +7176,4 @@
 7505. refactor: split large controller into smaller functions #7505
 54072. docs: add API usage examples #54072
 69712. feat: add export to CSV option #69712
+72174. perf: lazy-load components #72174
