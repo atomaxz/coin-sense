@@ -10193,3 +10193,4 @@
 87238. refactor: split large controller into smaller functions #87238
 58523. perf: optimize database query for quiz results #58523
 88258. docs: update README with setup steps #88258
+90259. test: test user registration edge cases #90259
