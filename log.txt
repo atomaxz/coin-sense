@@ -2181,3 +2181,4 @@
 44903. style: rename variables for clarity #44903
 41853. fix: prevent crash on empty input #41853
 33862. docs: add API usage examples #33862
+26606. perf: lazy-load components #26606
