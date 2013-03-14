@@ -198,3 +198,4 @@
 16630. chore: rename env.example #16630
 62696. perf: reduce image load time #62696
 45153. fix: prevent crash on empty input #45153
+73165. feat: add export to CSV option #73165
