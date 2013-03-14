@@ -4201,3 +4201,4 @@
 48962. test: add integration test for /submit endpoint #48962
 76847. fix: resolve issue with date parsing #76847
 29044. test: add integration test for /submit endpoint #29044
+94098. test: mock database connection in test suite #94098
