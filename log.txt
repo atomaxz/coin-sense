@@ -195,3 +195,4 @@
 82840. refactor: clean up auth middleware #82840
 16215. docs: write FAQ section #16215
 39620. feat: add user authentication #39620
+16630. chore: rename env.example #16630
