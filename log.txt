@@ -8204,3 +8204,4 @@
 4555. test: increase coverage on auth module #4555
 34322. test: test user registration edge cases #34322
 6216. fix: prevent crash on empty input #6216
+38840. docs: document token refresh logic #38840
