@@ -200,3 +200,4 @@
 45153. fix: prevent crash on empty input #45153
 73165. feat: add export to CSV option #73165
 33237. feat: enable dark mode toggle #33237
+43088. test: add unit test for quiz service #43088
