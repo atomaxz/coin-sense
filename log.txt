@@ -9200,3 +9200,4 @@
 7902. test: test user registration edge cases #7902
 16062. test: mock database connection in test suite #16062
 51891. docs: improve code comments in utils #51891
+5274. docs: document token refresh logic #5274
