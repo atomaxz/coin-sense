@@ -5171,3 +5171,4 @@
 42137. docs: write FAQ section #42137
 97874. chore: rename env.example #97874
 43500. feat: create admin dashboard #43500
+83907. fix: fix broken CSS in mobile view #83907
