@@ -8207,3 +8207,4 @@
 38840. docs: document token refresh logic #38840
 27568. docs: clarify environment setup #27568
 54164. style: remove trailing whitespace #54164
+74523. perf: lazy-load components #74523
