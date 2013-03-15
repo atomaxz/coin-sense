@@ -7191,3 +7191,4 @@
 53687. test: mock database connection in test suite #53687
 68082. docs: document token refresh logic #68082
 29294. refactor: clean up auth middleware #29294
+9406. fix: fix null pointer exception on login #9406
