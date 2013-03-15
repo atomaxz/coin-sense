@@ -1203,3 +1203,4 @@
 66807. chore: add GitHub actions badge #66807
 79875. perf: cache repeated calculations #79875
 89462. feat: support email verification #89462
+39331. fix: prevent crash on empty input #39331
