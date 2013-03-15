@@ -10196,3 +10196,4 @@
 90259. test: test user registration edge cases #90259
 56479. test: increase coverage on auth module #56479
 52339. style: apply consistent indentation #52339
+80279. fix: correct typo in registration form #80279
