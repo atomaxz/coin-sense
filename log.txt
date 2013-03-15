@@ -1200,3 +1200,4 @@
 14905. perf: cache repeated calculations #14905
 52329. chore: update .gitignore #52329
 76126. chore: update .gitignore #76126
+66807. chore: add GitHub actions badge #66807
