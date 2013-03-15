@@ -7190,3 +7190,4 @@
 36087. refactor: remove redundant code blocks #36087
 53687. test: mock database connection in test suite #53687
 68082. docs: document token refresh logic #68082
+29294. refactor: clean up auth middleware #29294
