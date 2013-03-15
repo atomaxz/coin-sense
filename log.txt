@@ -7187,3 +7187,4 @@
 7536. style: reformat files with black #7536
 76581. test: add integration test for /submit endpoint #76581
 89856. fix: fix null pointer exception on login #89856
+36087. refactor: remove redundant code blocks #36087
