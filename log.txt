@@ -10195,3 +10195,4 @@
 88258. docs: update README with setup steps #88258
 90259. test: test user registration edge cases #90259
 56479. test: increase coverage on auth module #56479
+52339. style: apply consistent indentation #52339
