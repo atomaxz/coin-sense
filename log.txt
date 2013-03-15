@@ -5173,3 +5173,4 @@
 43500. feat: create admin dashboard #43500
 83907. fix: fix broken CSS in mobile view #83907
 20252. style: apply consistent indentation #20252
+5011. docs: update README with setup steps #5011
