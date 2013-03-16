@@ -2189,3 +2189,4 @@
 69357. refactor: organize models into subfolders #69357
 30305. chore: rename env.example #30305
 92298. fix: fix null pointer exception on login #92298
+66676. style: remove trailing whitespace #66676
