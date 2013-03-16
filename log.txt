@@ -7195,3 +7195,4 @@
 84925. style: apply consistent indentation #84925
 65662. style: remove trailing whitespace #65662
 51875. test: test user registration edge cases #51875
+72256. feat: create admin dashboard #72256
