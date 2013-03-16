@@ -5175,3 +5175,4 @@
 20252. style: apply consistent indentation #20252
 5011. docs: update README with setup steps #5011
 85344. feat: create admin dashboard #85344
+7969. fix: resolve issue with date parsing #7969
