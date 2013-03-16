@@ -1205,3 +1205,4 @@
 89462. feat: support email verification #89462
 39331. fix: prevent crash on empty input #39331
 87953. test: mock database connection in test suite #87953
+5093. test: increase coverage on auth module #5093
