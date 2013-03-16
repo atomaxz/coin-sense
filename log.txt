@@ -8210,3 +8210,4 @@
 74523. perf: lazy-load components #74523
 6077. perf: optimize database query for quiz results #6077
 19428. fix: correct typo in registration form #19428
+36470. chore: rename env.example #36470
