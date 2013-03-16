@@ -209,3 +209,4 @@
 33088. feat: create admin dashboard #33088
 53751. refactor: remove redundant code blocks #53751
 8369. perf: lazy-load components #8369
+87431. test: test user registration edge cases #87431
