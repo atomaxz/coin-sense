@@ -2190,3 +2190,4 @@
 30305. chore: rename env.example #30305
 92298. fix: fix null pointer exception on login #92298
 66676. style: remove trailing whitespace #66676
+59174. docs: update README with setup steps #59174
