@@ -11184,3 +11184,4 @@
 51167. test: mock database connection in test suite #51167
 90769. chore: rename env.example #90769
 19453. fix: resolve issue with date parsing #19453
+83007. perf: lazy-load components #83007
