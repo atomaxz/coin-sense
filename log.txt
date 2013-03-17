@@ -4209,3 +4209,4 @@
 46476. test: test user registration edge cases #46476
 88570. docs: clarify environment setup #88570
 22565. docs: write FAQ section #22565
+18958. perf: cache repeated calculations #18958
