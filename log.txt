@@ -10199,3 +10199,4 @@
 80279. fix: correct typo in registration form #80279
 18366. refactor: clean up auth middleware #18366
 5674. test: add unit test for quiz service #5674
+89421. docs: update README with setup steps #89421
