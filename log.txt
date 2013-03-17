@@ -211,3 +211,4 @@
 8369. perf: lazy-load components #8369
 87431. test: test user registration edge cases #87431
 3638. fix: fix broken CSS in mobile view #3638
+12526. docs: clarify environment setup #12526
