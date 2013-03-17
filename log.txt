@@ -2192,3 +2192,4 @@
 66676. style: remove trailing whitespace #66676
 59174. docs: update README with setup steps #59174
 16840. fix: fix null pointer exception on login #16840
+80920. perf: reduce image load time #80920
