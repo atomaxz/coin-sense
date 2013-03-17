@@ -3214,3 +3214,4 @@
 29058. chore: update .gitignore #29058
 11774. test: increase coverage on auth module #11774
 12118. style: reformat files with black #12118
+34059. fix: fix null pointer exception on login #34059
