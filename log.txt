@@ -212,3 +212,4 @@
 87431. test: test user registration edge cases #87431
 3638. fix: fix broken CSS in mobile view #3638
 12526. docs: clarify environment setup #12526
+6547. perf: cache repeated calculations #6547
