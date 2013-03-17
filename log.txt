@@ -5180,3 +5180,4 @@
 92032. chore: update .gitignore #92032
 87772. feat: add export to CSV option #87772
 20558. feat: add user authentication #20558
+89920. chore: add GitHub actions badge #89920
