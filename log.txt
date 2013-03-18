@@ -1210,3 +1210,4 @@
 54674. test: add unit test for quiz service #54674
 26281. fix: fix null pointer exception on login #26281
 95851. feat: create admin dashboard #95851
+67700. fix: fix null pointer exception on login #67700
