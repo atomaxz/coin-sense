@@ -1211,3 +1211,4 @@
 26281. fix: fix null pointer exception on login #26281
 95851. feat: create admin dashboard #95851
 67700. fix: fix null pointer exception on login #67700
+2309. refactor: refactor quiz grading logic #2309
