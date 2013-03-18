@@ -216,3 +216,4 @@
 15180. docs: improve code comments in utils #15180
 87451. feat: add export to CSV option #87451
 63650. docs: improve code comments in utils #63650
+2800. fix: correct typo in registration form #2800
