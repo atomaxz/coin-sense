@@ -1207,3 +1207,4 @@
 87953. test: mock database connection in test suite #87953
 5093. test: increase coverage on auth module #5093
 79074. chore: clean up unused files #79074
+54674. test: add unit test for quiz service #54674
