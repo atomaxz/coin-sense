@@ -2193,3 +2193,4 @@
 59174. docs: update README with setup steps #59174
 16840. fix: fix null pointer exception on login #16840
 80920. perf: reduce image load time #80920
+16171. fix: fix broken CSS in mobile view #16171
