@@ -219,3 +219,4 @@
 2800. fix: correct typo in registration form #2800
 62093. style: remove trailing whitespace #62093
 76592. docs: clarify environment setup #76592
+86268. feat: enable dark mode toggle #86268
