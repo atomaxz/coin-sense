@@ -11190,3 +11190,4 @@
 73198. refactor: remove redundant code blocks #73198
 5051. chore: rename env.example #5051
 15824. test: increase coverage on auth module #15824
+3463. fix: fix broken CSS in mobile view #3463
