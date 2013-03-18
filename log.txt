@@ -6203,3 +6203,4 @@
 80057. perf: lazy-load components #80057
 29337. feat: add export to CSV option #29337
 91872. style: rename variables for clarity #91872
+75541. perf: cache repeated calculations #75541
