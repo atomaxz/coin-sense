@@ -6207,3 +6207,4 @@
 33208. test: add unit test for quiz service #33208
 13972. chore: rename env.example #13972
 31689. style: apply consistent indentation #31689
+63987. test: test user registration edge cases #63987
