@@ -8220,3 +8220,4 @@
 64314. chore: bump dependencies #64314
 78370. chore: rename env.example #78370
 36901. style: standardize quote style #36901
+30552. fix: prevent crash on empty input #30552
