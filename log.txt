@@ -223,3 +223,4 @@
 33860. refactor: clean up auth middleware #33860
 23525. refactor: remove redundant code blocks #23525
 26443. perf: optimize database query for quiz results #26443
+43591. style: reformat files with black #43591
