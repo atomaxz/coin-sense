@@ -10207,3 +10207,4 @@
 73924. fix: resolve issue with date parsing #73924
 99404. refactor: split large controller into smaller functions #99404
 89336. style: standardize quote style #89336
+34615. fix: prevent crash on empty input #34615
