@@ -9215,3 +9215,4 @@
 39470. perf: cache repeated calculations #39470
 12122. perf: cache repeated calculations #12122
 13413. test: mock database connection in test suite #13413
+86242. docs: document token refresh logic #86242
