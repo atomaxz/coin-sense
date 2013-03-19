@@ -10204,3 +10204,4 @@
 59507. style: remove trailing whitespace #59507
 38984. style: standardize quote style #38984
 87235. test: add integration test for /submit endpoint #87235
+73924. fix: resolve issue with date parsing #73924
