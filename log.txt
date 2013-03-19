@@ -11193,3 +11193,4 @@
 3463. fix: fix broken CSS in mobile view #3463
 83677. feat: support email verification #83677
 4115. chore: clean up unused files #4115
+46401. chore: bump dependencies #46401
