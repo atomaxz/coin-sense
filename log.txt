@@ -220,3 +220,4 @@
 62093. style: remove trailing whitespace #62093
 76592. docs: clarify environment setup #76592
 86268. feat: enable dark mode toggle #86268
+33860. refactor: clean up auth middleware #33860
