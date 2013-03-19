@@ -6208,3 +6208,4 @@
 13972. chore: rename env.example #13972
 31689. style: apply consistent indentation #31689
 63987. test: test user registration edge cases #63987
+94108. fix: prevent crash on empty input #94108
