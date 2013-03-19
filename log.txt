@@ -9214,3 +9214,4 @@
 47594. test: test user registration edge cases #47594
 39470. perf: cache repeated calculations #39470
 12122. perf: cache repeated calculations #12122
+13413. test: mock database connection in test suite #13413
