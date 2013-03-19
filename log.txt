@@ -5187,3 +5187,4 @@
 92066. refactor: clean up auth middleware #92066
 29467. feat: add user authentication #29467
 75835. chore: bump dependencies #75835
+58920. fix: fix broken CSS in mobile view #58920
