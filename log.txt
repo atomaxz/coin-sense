@@ -5189,3 +5189,4 @@
 75835. chore: bump dependencies #75835
 58920. fix: fix broken CSS in mobile view #58920
 1144. feat: create admin dashboard #1144
+10172. feat: add export to CSV option #10172
