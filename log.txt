@@ -227,3 +227,4 @@
 17017. style: reformat files with black #17017
 63391. fix: handle 500 error in quiz API #63391
 96620. feat: add user authentication #96620
+55006. refactor: organize models into subfolders #55006
