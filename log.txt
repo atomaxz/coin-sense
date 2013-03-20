@@ -7201,3 +7201,4 @@
 30030. docs: clarify environment setup #30030
 20414. test: test user registration edge cases #20414
 49370. feat: add user authentication #49370
+64862. chore: add GitHub actions badge #64862
