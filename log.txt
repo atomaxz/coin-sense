@@ -11197,3 +11197,4 @@
 21078. style: rename variables for clarity #21078
 21377. perf: cache repeated calculations #21377
 10132. style: rename variables for clarity #10132
+83455. fix: fix broken CSS in mobile view #83455
