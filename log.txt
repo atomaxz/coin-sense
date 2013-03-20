@@ -4217,3 +4217,4 @@
 29489. chore: bump dependencies #29489
 62359. refactor: split large controller into smaller functions #62359
 19588. test: add integration test for /submit endpoint #19588
+16236. fix: handle 500 error in quiz API #16236
