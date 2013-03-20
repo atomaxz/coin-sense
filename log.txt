@@ -7199,3 +7199,4 @@
 90726. test: increase coverage on auth module #90726
 65552. feat: support email verification #65552
 30030. docs: clarify environment setup #30030
+20414. test: test user registration edge cases #20414
