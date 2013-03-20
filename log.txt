@@ -5188,3 +5188,4 @@
 29467. feat: add user authentication #29467
 75835. chore: bump dependencies #75835
 58920. fix: fix broken CSS in mobile view #58920
+1144. feat: create admin dashboard #1144
