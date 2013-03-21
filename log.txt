@@ -3224,3 +3224,4 @@
 7694. test: add unit test for quiz service #7694
 35186. chore: clean up unused files #35186
 15379. fix: prevent crash on empty input #15379
+55293. test: increase coverage on auth module #55293
