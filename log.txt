@@ -230,3 +230,4 @@
 55006. refactor: organize models into subfolders #55006
 52781. refactor: organize models into subfolders #52781
 48882. style: rename variables for clarity #48882
+59151. chore: update .gitignore #59151
