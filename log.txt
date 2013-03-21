@@ -8225,3 +8225,4 @@
 94338. refactor: clean up auth middleware #94338
 53765. refactor: split large controller into smaller functions #53765
 0492. fix: handle 500 error in quiz API #492
+61598. style: reformat files with black #61598
