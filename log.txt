@@ -229,3 +229,4 @@
 96620. feat: add user authentication #96620
 55006. refactor: organize models into subfolders #55006
 52781. refactor: organize models into subfolders #52781
+48882. style: rename variables for clarity #48882
