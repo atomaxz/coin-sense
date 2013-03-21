@@ -9223,3 +9223,4 @@
 56911. chore: rename env.example #56911
 5490. docs: write FAQ section #5490
 87502. fix: correct typo in registration form #87502
+18139. fix: fix null pointer exception on login #18139
