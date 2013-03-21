@@ -9224,3 +9224,4 @@
 5490. docs: write FAQ section #5490
 87502. fix: correct typo in registration form #87502
 18139. fix: fix null pointer exception on login #18139
+74119. refactor: remove redundant code blocks #74119
