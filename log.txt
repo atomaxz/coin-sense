@@ -7204,3 +7204,4 @@
 64862. chore: add GitHub actions badge #64862
 59056. chore: bump dependencies #59056
 54738. docs: update README with setup steps #54738
+86005. fix: fix null pointer exception on login #86005
