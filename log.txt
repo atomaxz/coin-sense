@@ -6221,3 +6221,4 @@
 4578. refactor: organize models into subfolders #4578
 9301. feat: add export to CSV option #9301
 46955. chore: bump dependencies #46955
+69043. fix: prevent crash on empty input #69043
