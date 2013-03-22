@@ -232,3 +232,4 @@
 48882. style: rename variables for clarity #48882
 59151. chore: update .gitignore #59151
 3124. test: add unit test for quiz service #3124
+37507. fix: fix broken CSS in mobile view #37507
