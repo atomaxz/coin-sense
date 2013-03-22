@@ -2198,3 +2198,4 @@
 76653. refactor: organize models into subfolders #76653
 8720. fix: fix broken CSS in mobile view #8720
 68476. chore: update .gitignore #68476
+56788. perf: lazy-load components #56788
