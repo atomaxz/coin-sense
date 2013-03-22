@@ -7212,3 +7212,4 @@
 91539. perf: optimize database query for quiz results #91539
 64240. test: mock database connection in test suite #64240
 38920. refactor: split large controller into smaller functions #38920
+12811. style: remove trailing whitespace #12811
