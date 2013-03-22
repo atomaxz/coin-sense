@@ -5194,3 +5194,4 @@
 52196. feat: add export to CSV option #52196
 59529. chore: clean up unused files #59529
 46902. chore: add GitHub actions badge #46902
+10538. chore: update .gitignore #10538
