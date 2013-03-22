@@ -6222,3 +6222,4 @@
 9301. feat: add export to CSV option #9301
 46955. chore: bump dependencies #46955
 69043. fix: prevent crash on empty input #69043
+46931. chore: add GitHub actions badge #46931
