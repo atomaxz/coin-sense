@@ -3226,3 +3226,4 @@
 15379. fix: prevent crash on empty input #15379
 55293. test: increase coverage on auth module #55293
 66902. test: test user registration edge cases #66902
+65315. perf: optimize database query for quiz results #65315
