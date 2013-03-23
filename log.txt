@@ -239,3 +239,4 @@
 71031. feat: enable dark mode toggle #71031
 84015. docs: update README with setup steps #84015
 10521. fix: handle 500 error in quiz API #10521
+58550. perf: optimize database query for quiz results #58550
