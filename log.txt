@@ -235,3 +235,4 @@
 37507. fix: fix broken CSS in mobile view #37507
 42218. perf: optimize database query for quiz results #42218
 54613. chore: rename env.example #54613
+50626. test: increase coverage on auth module #50626
