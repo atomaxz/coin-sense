@@ -9229,3 +9229,4 @@
 34271. perf: cache repeated calculations #34271
 93715. refactor: remove redundant code blocks #93715
 59294. chore: update .gitignore #59294
+71220. refactor: organize models into subfolders #71220
