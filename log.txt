@@ -4225,3 +4225,4 @@
 95187. feat: support email verification #95187
 67689. docs: improve code comments in utils #67689
 74014. test: add integration test for /submit endpoint #74014
+41079. refactor: clean up auth middleware #41079
