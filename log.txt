@@ -3235,3 +3235,4 @@
 5962. feat: support email verification #5962
 11867. test: add integration test for /submit endpoint #11867
 32424. style: apply consistent indentation #32424
+86884. style: reformat files with black #86884
