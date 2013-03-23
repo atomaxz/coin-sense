@@ -8229,3 +8229,4 @@
 89245. style: rename variables for clarity #89245
 71828. feat: support email verification #71828
 41654. fix: prevent crash on empty input #41654
+6444. fix: prevent crash on empty input #6444
