@@ -4233,3 +4233,4 @@
 80970. refactor: refactor quiz grading logic #80970
 29676. test: add integration test for /submit endpoint #29676
 41181. test: add unit test for quiz service #41181
+24331. refactor: remove redundant code blocks #24331
