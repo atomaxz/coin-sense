@@ -241,3 +241,4 @@
 10521. fix: handle 500 error in quiz API #10521
 58550. perf: optimize database query for quiz results #58550
 80466. fix: resolve issue with date parsing #80466
+73140. refactor: clean up auth middleware #73140
