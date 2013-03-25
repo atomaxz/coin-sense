@@ -243,3 +243,4 @@
 80466. fix: resolve issue with date parsing #80466
 73140. refactor: clean up auth middleware #73140
 97615. refactor: clean up auth middleware #97615
+21825. test: test user registration edge cases #21825
