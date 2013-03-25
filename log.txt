@@ -11208,3 +11208,4 @@
 27083. test: mock database connection in test suite #27083
 58880. style: reformat files with black #58880
 60015. style: reformat files with black #60015
+16347. feat: support email verification #16347
