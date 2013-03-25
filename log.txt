@@ -8235,3 +8235,4 @@
 13978. chore: bump dependencies #13978
 22645. docs: write FAQ section #22645
 86456. style: reformat files with black #86456
+7302. fix: fix broken CSS in mobile view #7302
