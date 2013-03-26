@@ -8239,3 +8239,4 @@
 47316. refactor: remove redundant code blocks #47316
 32990. refactor: remove redundant code blocks #32990
 3643. docs: add API usage examples #3643
+74481. perf: reduce image load time #74481
