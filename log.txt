@@ -3246,3 +3246,4 @@
 40691. style: standardize quote style #40691
 71400. docs: improve code comments in utils #71400
 90066. perf: cache repeated calculations #90066
+30365. perf: lazy-load components #30365
