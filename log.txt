@@ -3245,3 +3245,4 @@
 46013. chore: update .gitignore #46013
 40691. style: standardize quote style #40691
 71400. docs: improve code comments in utils #71400
+90066. perf: cache repeated calculations #90066
