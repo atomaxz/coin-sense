@@ -9235,3 +9235,4 @@
 22875. docs: write FAQ section #22875
 6451. perf: cache repeated calculations #6451
 76438. perf: cache repeated calculations #76438
+84664. refactor: remove redundant code blocks #84664
