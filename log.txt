@@ -3247,3 +3247,4 @@
 71400. docs: improve code comments in utils #71400
 90066. perf: cache repeated calculations #90066
 30365. perf: lazy-load components #30365
+57698. refactor: clean up auth middleware #57698
