@@ -8240,3 +8240,4 @@
 32990. refactor: remove redundant code blocks #32990
 3643. docs: add API usage examples #3643
 74481. perf: reduce image load time #74481
+58942. refactor: split large controller into smaller functions #58942
