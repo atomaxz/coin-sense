@@ -4236,3 +4236,4 @@
 24331. refactor: remove redundant code blocks #24331
 88223. fix: handle 500 error in quiz API #88223
 91271. test: add integration test for /submit endpoint #91271
+2400. chore: update .gitignore #2400
