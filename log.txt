@@ -11213,3 +11213,4 @@
 73887. style: reformat files with black #73887
 57112. test: test user registration edge cases #57112
 95903. style: remove trailing whitespace #95903
+77187. fix: prevent crash on empty input #77187
