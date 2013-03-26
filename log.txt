@@ -10221,3 +10221,4 @@
 32534. fix: fix null pointer exception on login #32534
 70792. perf: optimize database query for quiz results #70792
 17134. style: remove trailing whitespace #17134
+13662. refactor: refactor quiz grading logic #13662
