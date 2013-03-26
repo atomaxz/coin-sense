@@ -4235,3 +4235,4 @@
 41181. test: add unit test for quiz service #41181
 24331. refactor: remove redundant code blocks #24331
 88223. fix: handle 500 error in quiz API #88223
+91271. test: add integration test for /submit endpoint #91271
