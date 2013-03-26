@@ -246,3 +246,4 @@
 21825. test: test user registration edge cases #21825
 8258. test: add unit test for quiz service #8258
 59799. refactor: refactor quiz grading logic #59799
+90671. feat: support email verification #90671
