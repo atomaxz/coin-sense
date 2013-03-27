@@ -1231,3 +1231,4 @@
 24736. refactor: remove redundant code blocks #24736
 90353. docs: clarify environment setup #90353
 64387. test: add unit test for quiz service #64387
+34274. chore: add GitHub actions badge #34274
