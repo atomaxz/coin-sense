@@ -249,3 +249,4 @@
 90671. feat: support email verification #90671
 86915. chore: clean up unused files #86915
 42924. perf: reduce image load time #42924
+78238. style: standardize quote style #78238
