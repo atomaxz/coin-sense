@@ -254,3 +254,4 @@
 61938. test: add integration test for /submit endpoint #61938
 83963. fix: fix null pointer exception on login #83963
 45590. chore: update .gitignore #45590
+68032. style: apply consistent indentation #68032
