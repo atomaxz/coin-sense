@@ -10228,3 +10228,4 @@
 35632. docs: document token refresh logic #35632
 59845. chore: add GitHub actions badge #59845
 55973. docs: update README with setup steps #55973
+88553. fix: handle 500 error in quiz API #88553
