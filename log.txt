@@ -10226,3 +10226,4 @@
 85113. test: test user registration edge cases #85113
 2596. test: increase coverage on auth module #2596
 35632. docs: document token refresh logic #35632
+59845. chore: add GitHub actions badge #59845
