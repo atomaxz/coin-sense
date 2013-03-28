@@ -2212,3 +2212,4 @@
 91249. style: rename variables for clarity #91249
 58670. docs: add API usage examples #58670
 80701. feat: create admin dashboard #80701
+77887. docs: update README with setup steps #77887
