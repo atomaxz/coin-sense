@@ -10229,3 +10229,4 @@
 59845. chore: add GitHub actions badge #59845
 55973. docs: update README with setup steps #55973
 88553. fix: handle 500 error in quiz API #88553
+0040. feat: support email verification #40
