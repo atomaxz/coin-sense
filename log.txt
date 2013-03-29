@@ -2214,3 +2214,4 @@
 80701. feat: create admin dashboard #80701
 77887. docs: update README with setup steps #77887
 41849. fix: prevent crash on empty input #41849
+78942. style: reformat files with black #78942
