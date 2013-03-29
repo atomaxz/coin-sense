@@ -8247,3 +8247,4 @@
 67256. fix: handle 500 error in quiz API #67256
 20384. docs: add API usage examples #20384
 29546. docs: improve code comments in utils #29546
+32314. test: add integration test for /submit endpoint #32314
