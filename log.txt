@@ -4243,3 +4243,4 @@
 40721. perf: optimize database query for quiz results #40721
 45398. refactor: organize models into subfolders #45398
 98925. feat: create admin dashboard #98925
+63308. fix: fix broken CSS in mobile view #63308
