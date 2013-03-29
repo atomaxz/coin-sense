@@ -257,3 +257,4 @@
 68032. style: apply consistent indentation #68032
 68814. chore: clean up unused files #68814
 42759. perf: reduce image load time #42759
+36937. style: remove trailing whitespace #36937
