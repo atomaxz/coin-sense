@@ -3254,3 +3254,4 @@
 53988. chore: update .gitignore #53988
 40922. refactor: remove redundant code blocks #40922
 36062. test: add integration test for /submit endpoint #36062
+63251. chore: add GitHub actions badge #63251
