@@ -6241,3 +6241,4 @@
 12674. refactor: clean up auth middleware #12674
 35310. perf: reduce image load time #35310
 90751. perf: reduce image load time #90751
+7130. chore: bump dependencies #7130
