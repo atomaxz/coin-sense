@@ -9239,3 +9239,4 @@
 54397. style: rename variables for clarity #54397
 61324. feat: enable dark mode toggle #61324
 56364. chore: bump dependencies #56364
+1295. perf: lazy-load components #1295
