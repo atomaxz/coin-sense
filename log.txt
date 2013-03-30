@@ -6244,3 +6244,4 @@
 7130. chore: bump dependencies #7130
 41507. fix: fix null pointer exception on login #41507
 43250. style: remove trailing whitespace #43250
+40757. style: apply consistent indentation #40757
