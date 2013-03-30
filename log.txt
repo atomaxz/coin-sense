@@ -5211,3 +5211,4 @@
 5685. feat: enable dark mode toggle #5685
 44464. style: remove trailing whitespace #44464
 73590. fix: fix broken CSS in mobile view #73590
+86368. fix: correct typo in registration form #86368
