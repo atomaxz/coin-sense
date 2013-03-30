@@ -6242,3 +6242,4 @@
 35310. perf: reduce image load time #35310
 90751. perf: reduce image load time #90751
 7130. chore: bump dependencies #7130
+41507. fix: fix null pointer exception on login #41507
