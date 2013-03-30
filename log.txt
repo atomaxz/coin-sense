@@ -2217,3 +2217,4 @@
 78942. style: reformat files with black #78942
 51357. fix: handle 500 error in quiz API #51357
 79415. perf: optimize database query for quiz results #79415
+97704. refactor: clean up auth middleware #97704
