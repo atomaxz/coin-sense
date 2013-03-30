@@ -8251,3 +8251,4 @@
 97777. docs: add API usage examples #97777
 88355. perf: optimize database query for quiz results #88355
 96987. feat: implement quiz timer feature #96987
+51510. fix: fix broken CSS in mobile view #51510
