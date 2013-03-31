@@ -5213,3 +5213,4 @@
 73590. fix: fix broken CSS in mobile view #73590
 86368. fix: correct typo in registration form #86368
 75921. feat: support email verification #75921
+86370. chore: rename env.example #86370
