@@ -264,3 +264,4 @@
 4096. test: add unit test for quiz service #4096
 47508. chore: add GitHub actions badge #47508
 23947. refactor: refactor quiz grading logic #23947
+46618. feat: add user authentication #46618
