@@ -11228,3 +11228,4 @@
 95732. perf: cache repeated calculations #95732
 46853. fix: prevent crash on empty input #46853
 92886. perf: reduce image load time #92886
+38173. perf: reduce image load time #38173
