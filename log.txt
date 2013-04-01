@@ -8254,3 +8254,4 @@
 51510. fix: fix broken CSS in mobile view #51510
 91876. docs: write FAQ section #91876
 76791. test: add integration test for /submit endpoint #76791
+65317. perf: lazy-load components #65317
