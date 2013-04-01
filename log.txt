@@ -3263,3 +3263,4 @@
 15939. perf: cache repeated calculations #15939
 3886. refactor: refactor quiz grading logic #3886
 39069. docs: add API usage examples #39069
+51875. test: test user registration edge cases #51875
