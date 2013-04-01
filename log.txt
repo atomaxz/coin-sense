@@ -5215,3 +5215,4 @@
 75921. feat: support email verification #75921
 86370. chore: rename env.example #86370
 13526. fix: fix broken CSS in mobile view #13526
+12750. feat: add export to CSV option #12750
