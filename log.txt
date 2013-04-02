@@ -9254,3 +9254,4 @@
 47455. test: add unit test for quiz service #47455
 41758. chore: bump dependencies #41758
 64738. refactor: remove redundant code blocks #64738
+91319. style: remove trailing whitespace #91319
