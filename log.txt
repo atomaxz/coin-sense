@@ -8256,3 +8256,4 @@
 76791. test: add integration test for /submit endpoint #76791
 65317. perf: lazy-load components #65317
 55309. fix: fix broken CSS in mobile view #55309
+4984. style: apply consistent indentation #4984
