@@ -1246,3 +1246,4 @@
 15324. fix: fix broken CSS in mobile view #15324
 81072. feat: implement quiz timer feature #81072
 52042. chore: clean up unused files #52042
+81267. style: reformat files with black #81267
