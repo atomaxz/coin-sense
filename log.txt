@@ -2229,3 +2229,4 @@
 82830. docs: write FAQ section #82830
 1270. docs: improve code comments in utils #1270
 83047. test: test user registration edge cases #83047
+72727. style: reformat files with black #72727
