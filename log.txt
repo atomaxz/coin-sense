@@ -9256,3 +9256,4 @@
 64738. refactor: remove redundant code blocks #64738
 91319. style: remove trailing whitespace #91319
 83227. test: add unit test for quiz service #83227
+64617. test: increase coverage on auth module #64617
