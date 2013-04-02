@@ -5219,3 +5219,4 @@
 83888. chore: rename env.example #83888
 16985. test: test user registration edge cases #16985
 5188. fix: fix null pointer exception on login #5188
+39306. test: test user registration edge cases #39306
