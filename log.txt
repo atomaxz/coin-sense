@@ -5218,3 +5218,4 @@
 12750. feat: add export to CSV option #12750
 83888. chore: rename env.example #83888
 16985. test: test user registration edge cases #16985
+5188. fix: fix null pointer exception on login #5188
