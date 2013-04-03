@@ -7237,3 +7237,4 @@
 70246. fix: prevent crash on empty input #70246
 69604. chore: update .gitignore #69604
 50068. docs: update README with setup steps #50068
+23048. feat: support email verification #23048
