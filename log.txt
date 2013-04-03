@@ -6252,3 +6252,4 @@
 90954. test: test user registration edge cases #90954
 24250. refactor: split large controller into smaller functions #24250
 29020. test: mock database connection in test suite #29020
+55270. perf: optimize database query for quiz results #55270
