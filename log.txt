@@ -2232,3 +2232,4 @@
 72727. style: reformat files with black #72727
 27033. refactor: clean up auth middleware #27033
 3264. fix: handle 500 error in quiz API #3264
+28262. test: increase coverage on auth module #28262
