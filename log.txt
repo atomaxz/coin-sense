@@ -7239,3 +7239,4 @@
 50068. docs: update README with setup steps #50068
 23048. feat: support email verification #23048
 22827. docs: document token refresh logic #22827
+75007. perf: lazy-load components #75007
