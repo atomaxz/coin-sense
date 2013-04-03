@@ -1250,3 +1250,4 @@
 94261. refactor: clean up auth middleware #94261
 41426. fix: correct typo in registration form #41426
 96503. chore: bump dependencies #96503
+94359. fix: fix broken CSS in mobile view #94359
