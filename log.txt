@@ -1249,3 +1249,4 @@
 81267. style: reformat files with black #81267
 94261. refactor: clean up auth middleware #94261
 41426. fix: correct typo in registration form #41426
+96503. chore: bump dependencies #96503
