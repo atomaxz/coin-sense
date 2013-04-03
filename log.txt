@@ -274,3 +274,4 @@
 14746. style: apply consistent indentation #14746
 82001. feat: add user authentication #82001
 67656. docs: clarify environment setup #67656
+44316. perf: lazy-load components #44316
