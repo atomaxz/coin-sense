@@ -275,3 +275,4 @@
 82001. feat: add user authentication #82001
 67656. docs: clarify environment setup #67656
 44316. perf: lazy-load components #44316
+84929. test: test user registration edge cases #84929
