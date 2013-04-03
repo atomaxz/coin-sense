@@ -277,3 +277,4 @@
 44316. perf: lazy-load components #44316
 84929. test: test user registration edge cases #84929
 63846. chore: update .gitignore #63846
+93254. docs: write FAQ section #93254
