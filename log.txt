@@ -2231,3 +2231,4 @@
 83047. test: test user registration edge cases #83047
 72727. style: reformat files with black #72727
 27033. refactor: clean up auth middleware #27033
+3264. fix: handle 500 error in quiz API #3264
