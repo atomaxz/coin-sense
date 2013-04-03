@@ -3270,3 +3270,4 @@
 54010. style: apply consistent indentation #54010
 10030. feat: enable dark mode toggle #10030
 74581. fix: correct typo in registration form #74581
+41597. test: add integration test for /submit endpoint #41597
