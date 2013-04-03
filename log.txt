@@ -9261,3 +9261,4 @@
 24380. docs: improve code comments in utils #24380
 53176. perf: cache repeated calculations #53176
 33582. chore: update .gitignore #33582
+93832. perf: optimize database query for quiz results #93832
