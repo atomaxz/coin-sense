@@ -2238,3 +2238,4 @@
 35721. fix: fix broken CSS in mobile view #35721
 46265. style: remove trailing whitespace #46265
 14482. fix: fix null pointer exception on login #14482
+7999. perf: cache repeated calculations #7999
