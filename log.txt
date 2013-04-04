@@ -7242,3 +7242,4 @@
 75007. perf: lazy-load components #75007
 79994. test: test user registration edge cases #79994
 33196. refactor: clean up auth middleware #33196
+99466. chore: update .gitignore #99466
