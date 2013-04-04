@@ -1252,3 +1252,4 @@
 96503. chore: bump dependencies #96503
 94359. fix: fix broken CSS in mobile view #94359
 56326. refactor: remove redundant code blocks #56326
+5135. style: apply consistent indentation #5135
