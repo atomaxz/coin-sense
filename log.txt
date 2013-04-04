@@ -10252,3 +10252,4 @@
 79037. perf: reduce image load time #79037
 54909. refactor: refactor quiz grading logic #54909
 68751. perf: optimize database query for quiz results #68751
+73205. feat: support email verification #73205
