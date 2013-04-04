@@ -2237,3 +2237,4 @@
 35100. feat: support email verification #35100
 35721. fix: fix broken CSS in mobile view #35721
 46265. style: remove trailing whitespace #46265
+14482. fix: fix null pointer exception on login #14482
