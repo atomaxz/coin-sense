@@ -11238,3 +11238,4 @@
 57439. feat: create admin dashboard #57439
 52581. feat: add user authentication #52581
 90855. docs: update README with setup steps #90855
+62315. chore: update .gitignore #62315
