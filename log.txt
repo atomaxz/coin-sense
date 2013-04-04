@@ -11236,3 +11236,4 @@
 59100. fix: resolve issue with date parsing #59100
 88344. refactor: refactor quiz grading logic #88344
 57439. feat: create admin dashboard #57439
+52581. feat: add user authentication #52581
