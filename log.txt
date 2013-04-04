@@ -7241,3 +7241,4 @@
 22827. docs: document token refresh logic #22827
 75007. perf: lazy-load components #75007
 79994. test: test user registration edge cases #79994
+33196. refactor: clean up auth middleware #33196
