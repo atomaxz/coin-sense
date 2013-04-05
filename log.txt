@@ -8267,3 +8267,4 @@
 1626. refactor: organize models into subfolders #1626
 97285. chore: clean up unused files #97285
 96241. style: reformat files with black #96241
+17155. fix: handle 500 error in quiz API #17155
