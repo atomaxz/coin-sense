@@ -5224,3 +5224,4 @@
 60375. test: test user registration edge cases #60375
 36987. refactor: split large controller into smaller functions #36987
 3217. feat: implement quiz timer feature #3217
+51738. perf: lazy-load components #51738
