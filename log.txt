@@ -2239,3 +2239,4 @@
 46265. style: remove trailing whitespace #46265
 14482. fix: fix null pointer exception on login #14482
 7999. perf: cache repeated calculations #7999
+51679. test: increase coverage on auth module #51679
