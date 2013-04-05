@@ -1253,3 +1253,4 @@
 94359. fix: fix broken CSS in mobile view #94359
 56326. refactor: remove redundant code blocks #56326
 5135. style: apply consistent indentation #5135
+92449. test: add integration test for /submit endpoint #92449
