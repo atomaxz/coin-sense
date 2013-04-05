@@ -6257,3 +6257,4 @@
 92911. refactor: remove redundant code blocks #92911
 73191. feat: create admin dashboard #73191
 64528. test: add integration test for /submit endpoint #64528
+38331. fix: fix null pointer exception on login #38331
