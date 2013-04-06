@@ -2242,3 +2242,4 @@
 51679. test: increase coverage on auth module #51679
 57839. feat: implement quiz timer feature #57839
 30190. feat: support email verification #30190
+28711. refactor: remove redundant code blocks #28711
