@@ -5225,3 +5225,4 @@
 36987. refactor: split large controller into smaller functions #36987
 3217. feat: implement quiz timer feature #3217
 51738. perf: lazy-load components #51738
+73630. feat: support email verification #73630
