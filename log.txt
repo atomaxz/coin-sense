@@ -8269,3 +8269,4 @@
 96241. style: reformat files with black #96241
 17155. fix: handle 500 error in quiz API #17155
 33374. feat: implement quiz timer feature #33374
+60765. feat: enable dark mode toggle #60765
