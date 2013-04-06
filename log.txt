@@ -11247,3 +11247,4 @@
 65470. perf: cache repeated calculations #65470
 23759. chore: clean up unused files #23759
 22671. fix: fix broken CSS in mobile view #22671
+33883. style: remove trailing whitespace #33883
