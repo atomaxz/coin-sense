@@ -3275,3 +3275,4 @@
 14896. feat: create admin dashboard #14896
 44765. docs: improve code comments in utils #44765
 48491. docs: improve code comments in utils #48491
+55082. feat: support email verification #55082
