@@ -6260,3 +6260,4 @@
 38331. fix: fix null pointer exception on login #38331
 39224. style: standardize quote style #39224
 13967. docs: document token refresh logic #13967
+39349. test: test user registration edge cases #39349
