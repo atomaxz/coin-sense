@@ -9268,3 +9268,4 @@
 43347. test: increase coverage on auth module #43347
 28462. fix: fix broken CSS in mobile view #28462
 39815. feat: create admin dashboard #39815
+52272. feat: add user authentication #52272
