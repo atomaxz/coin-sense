@@ -11248,3 +11248,4 @@
 23759. chore: clean up unused files #23759
 22671. fix: fix broken CSS in mobile view #22671
 33883. style: remove trailing whitespace #33883
+84327. fix: prevent crash on empty input #84327
