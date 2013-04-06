@@ -5227,3 +5227,4 @@
 51738. perf: lazy-load components #51738
 73630. feat: support email verification #73630
 34304. test: add unit test for quiz service #34304
+41605. feat: add export to CSV option #41605
