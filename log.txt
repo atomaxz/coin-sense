@@ -11251,3 +11251,4 @@
 84327. fix: prevent crash on empty input #84327
 47317. style: rename variables for clarity #47317
 0879. feat: create admin dashboard #879
+71898. refactor: clean up auth middleware #71898
