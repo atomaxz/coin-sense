@@ -5228,3 +5228,4 @@
 73630. feat: support email verification #73630
 34304. test: add unit test for quiz service #34304
 41605. feat: add export to CSV option #41605
+68351. refactor: clean up auth middleware #68351
