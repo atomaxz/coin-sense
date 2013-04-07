@@ -5231,3 +5231,4 @@
 68351. refactor: clean up auth middleware #68351
 59691. style: reformat files with black #59691
 42072. refactor: organize models into subfolders #42072
+16929. fix: fix broken CSS in mobile view #16929
