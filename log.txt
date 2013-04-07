@@ -8272,3 +8272,4 @@
 60765. feat: enable dark mode toggle #60765
 2868. feat: add user authentication #2868
 2410. chore: bump dependencies #2410
+56116. chore: clean up unused files #56116
