@@ -9271,3 +9271,4 @@
 52272. feat: add user authentication #52272
 85616. perf: reduce image load time #85616
 23331. docs: update README with setup steps #23331
+51446. chore: update .gitignore #51446
