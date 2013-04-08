@@ -8277,3 +8277,4 @@
 10350. style: remove trailing whitespace #10350
 88678. style: apply consistent indentation #88678
 23711. test: increase coverage on auth module #23711
+12470. perf: lazy-load components #12470
