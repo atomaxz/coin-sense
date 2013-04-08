@@ -2247,3 +2247,4 @@
 37242. style: rename variables for clarity #37242
 79042. refactor: clean up auth middleware #79042
 82451. refactor: remove redundant code blocks #82451
+95608. perf: lazy-load components #95608
