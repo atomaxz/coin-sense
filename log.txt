@@ -11255,3 +11255,4 @@
 82745. test: mock database connection in test suite #82745
 89314. docs: write FAQ section #89314
 89390. feat: support email verification #89390
+63197. test: mock database connection in test suite #63197
