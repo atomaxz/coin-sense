@@ -3277,3 +3277,4 @@
 48491. docs: improve code comments in utils #48491
 55082. feat: support email verification #55082
 95284. test: add unit test for quiz service #95284
+7884. feat: enable dark mode toggle #7884
