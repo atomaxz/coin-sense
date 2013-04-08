@@ -9272,3 +9272,4 @@
 85616. perf: reduce image load time #85616
 23331. docs: update README with setup steps #23331
 51446. chore: update .gitignore #51446
+89848. docs: write FAQ section #89848
