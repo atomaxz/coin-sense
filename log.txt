@@ -6266,3 +6266,4 @@
 55055. perf: cache repeated calculations #55055
 25901. chore: add GitHub actions badge #25901
 29813. perf: lazy-load components #29813
+10509. feat: create admin dashboard #10509
