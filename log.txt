@@ -4272,3 +4272,4 @@
 86489. perf: optimize database query for quiz results #86489
 28844. perf: cache repeated calculations #28844
 62273. refactor: remove redundant code blocks #62273
+18165. test: test user registration edge cases #18165
