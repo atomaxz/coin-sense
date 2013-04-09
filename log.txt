@@ -288,3 +288,4 @@
 37969. refactor: refactor quiz grading logic #37969
 16303. fix: fix broken CSS in mobile view #16303
 59511. fix: fix null pointer exception on login #59511
+36256. docs: clarify environment setup #36256
