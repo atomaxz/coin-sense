@@ -9273,3 +9273,4 @@
 23331. docs: update README with setup steps #23331
 51446. chore: update .gitignore #51446
 89848. docs: write FAQ section #89848
+37345. chore: update .gitignore #37345
