@@ -10266,3 +10266,4 @@
 71423. chore: bump dependencies #71423
 29399. style: standardize quote style #29399
 0632. feat: support email verification #632
+70369. fix: handle 500 error in quiz API #70369
