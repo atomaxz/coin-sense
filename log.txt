@@ -290,3 +290,4 @@
 59511. fix: fix null pointer exception on login #59511
 36256. docs: clarify environment setup #36256
 3029. test: mock database connection in test suite #3029
+84587. docs: add API usage examples #84587
