@@ -1262,3 +1262,4 @@
 16372. test: increase coverage on auth module #16372
 35278. perf: cache repeated calculations #35278
 77372. style: apply consistent indentation #77372
+74464. docs: add API usage examples #74464
