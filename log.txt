@@ -2250,3 +2250,4 @@
 95608. perf: lazy-load components #95608
 84597. feat: add user authentication #84597
 38028. test: test user registration edge cases #38028
+6832. feat: enable dark mode toggle #6832
