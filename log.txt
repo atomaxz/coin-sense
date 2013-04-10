@@ -293,3 +293,4 @@
 84587. docs: add API usage examples #84587
 27141. test: increase coverage on auth module #27141
 31673. chore: bump dependencies #31673
+83608. feat: enable dark mode toggle #83608
