@@ -1268,3 +1268,4 @@
 28646. chore: add GitHub actions badge #28646
 20609. fix: fix null pointer exception on login #20609
 60324. style: rename variables for clarity #60324
+23628. test: add integration test for /submit endpoint #23628
