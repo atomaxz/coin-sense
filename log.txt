@@ -3281,3 +3281,4 @@
 22753. docs: write FAQ section #22753
 51173. refactor: split large controller into smaller functions #51173
 11121. style: reformat files with black #11121
+67842. test: increase coverage on auth module #67842
