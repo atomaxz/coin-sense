@@ -10268,3 +10268,4 @@
 0632. feat: support email verification #632
 70369. fix: handle 500 error in quiz API #70369
 70935. feat: implement quiz timer feature #70935
+75778. docs: write FAQ section #75778
