@@ -8280,3 +8280,4 @@
 12470. perf: lazy-load components #12470
 62552. docs: add API usage examples #62552
 82752. refactor: remove redundant code blocks #82752
+77785. perf: reduce image load time #77785
