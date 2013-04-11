@@ -6280,3 +6280,4 @@
 33443. style: apply consistent indentation #33443
 33414. refactor: split large controller into smaller functions #33414
 19264. docs: add API usage examples #19264
+33314. style: remove trailing whitespace #33314
