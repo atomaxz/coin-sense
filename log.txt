@@ -297,3 +297,4 @@
 35254. fix: resolve issue with date parsing #35254
 36960. feat: support email verification #36960
 5613. test: add unit test for quiz service #5613
+2582. feat: create admin dashboard #2582
