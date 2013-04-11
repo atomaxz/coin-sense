@@ -6284,3 +6284,4 @@
 74611. refactor: split large controller into smaller functions #74611
 49430. docs: write FAQ section #49430
 4063. fix: fix broken CSS in mobile view #4063
+97712. docs: write FAQ section #97712
