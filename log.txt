@@ -3285,3 +3285,4 @@
 48303. fix: fix null pointer exception on login #48303
 14022. refactor: split large controller into smaller functions #14022
 97540. test: mock database connection in test suite #97540
+44046. style: remove trailing whitespace #44046
