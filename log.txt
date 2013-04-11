@@ -1272,3 +1272,4 @@
 83428. docs: write FAQ section #83428
 53883. chore: rename env.example #53883
 22350. style: standardize quote style #22350
+24711. test: increase coverage on auth module #24711
