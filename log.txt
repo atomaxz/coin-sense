@@ -298,3 +298,4 @@
 36960. feat: support email verification #36960
 5613. test: add unit test for quiz service #5613
 2582. feat: create admin dashboard #2582
+78732. style: apply consistent indentation #78732
