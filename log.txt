@@ -8281,3 +8281,4 @@
 62552. docs: add API usage examples #62552
 82752. refactor: remove redundant code blocks #82752
 77785. perf: reduce image load time #77785
+74529. style: reformat files with black #74529
