@@ -5244,3 +5244,4 @@
 48160. feat: implement quiz timer feature #48160
 55987. fix: handle 500 error in quiz API #55987
 22785. chore: bump dependencies #22785
+28091. chore: add GitHub actions badge #28091
