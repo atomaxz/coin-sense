@@ -2254,3 +2254,4 @@
 31946. test: mock database connection in test suite #31946
 88754. feat: implement quiz timer feature #88754
 92045. chore: clean up unused files #92045
+17285. perf: lazy-load components #17285
