@@ -5251,3 +5251,4 @@
 99402. style: remove trailing whitespace #99402
 5701. feat: create admin dashboard #5701
 87253. test: add unit test for quiz service #87253
+54266. test: test user registration edge cases #54266
