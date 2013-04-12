@@ -1274,3 +1274,4 @@
 22350. style: standardize quote style #22350
 24711. test: increase coverage on auth module #24711
 20039. style: apply consistent indentation #20039
+18164. style: remove trailing whitespace #18164
