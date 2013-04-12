@@ -3287,3 +3287,4 @@
 97540. test: mock database connection in test suite #97540
 44046. style: remove trailing whitespace #44046
 67416. feat: add export to CSV option #67416
+68229. refactor: remove redundant code blocks #68229
