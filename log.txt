@@ -8285,3 +8285,4 @@
 36719. fix: prevent crash on empty input #36719
 41508. fix: prevent crash on empty input #41508
 2723. chore: update .gitignore #2723
+50520. chore: rename env.example #50520
