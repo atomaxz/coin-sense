@@ -6286,3 +6286,4 @@
 4063. fix: fix broken CSS in mobile view #4063
 97712. docs: write FAQ section #97712
 96674. refactor: remove redundant code blocks #96674
+90983. style: remove trailing whitespace #90983
