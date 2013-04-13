@@ -300,3 +300,4 @@
 2582. feat: create admin dashboard #2582
 78732. style: apply consistent indentation #78732
 92977. perf: cache repeated calculations #92977
+59839. chore: update .gitignore #59839
