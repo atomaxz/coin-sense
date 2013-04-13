@@ -9282,3 +9282,4 @@
 52344. refactor: remove redundant code blocks #52344
 86465. test: add unit test for quiz service #86465
 64188. test: test user registration edge cases #64188
+57274. style: reformat files with black #57274
