@@ -6289,3 +6289,4 @@
 90983. style: remove trailing whitespace #90983
 49833. refactor: remove redundant code blocks #49833
 53793. refactor: remove redundant code blocks #53793
+92527. test: add unit test for quiz service #92527
