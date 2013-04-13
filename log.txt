@@ -8288,3 +8288,4 @@
 50520. chore: rename env.example #50520
 57195. perf: lazy-load components #57195
 72547. fix: fix null pointer exception on login #72547
+77336. style: apply consistent indentation #77336
