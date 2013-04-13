@@ -5255,3 +5255,4 @@
 74892. perf: optimize database query for quiz results #74892
 34276. test: add unit test for quiz service #34276
 63626. chore: add GitHub actions badge #63626
+37761. perf: lazy-load components #37761
