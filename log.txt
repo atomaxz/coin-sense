@@ -301,3 +301,4 @@
 78732. style: apply consistent indentation #78732
 92977. perf: cache repeated calculations #92977
 59839. chore: update .gitignore #59839
+14083. fix: prevent crash on empty input #14083
