@@ -8289,3 +8289,4 @@
 57195. perf: lazy-load components #57195
 72547. fix: fix null pointer exception on login #72547
 77336. style: apply consistent indentation #77336
+32039. test: increase coverage on auth module #32039
