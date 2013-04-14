@@ -7273,3 +7273,4 @@
 86710. test: mock database connection in test suite #86710
 52836. chore: update .gitignore #52836
 66857. feat: create admin dashboard #66857
+2723. chore: update .gitignore #2723
