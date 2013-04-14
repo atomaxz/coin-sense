@@ -6290,3 +6290,4 @@
 49833. refactor: remove redundant code blocks #49833
 53793. refactor: remove redundant code blocks #53793
 92527. test: add unit test for quiz service #92527
+92150. fix: handle 500 error in quiz API #92150
