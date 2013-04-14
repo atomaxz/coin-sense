@@ -304,3 +304,4 @@
 14083. fix: prevent crash on empty input #14083
 0588. refactor: organize models into subfolders #588
 73281. style: standardize quote style #73281
+27012. test: mock database connection in test suite #27012
