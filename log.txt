@@ -7274,3 +7274,4 @@
 52836. chore: update .gitignore #52836
 66857. feat: create admin dashboard #66857
 2723. chore: update .gitignore #2723
+48969. fix: prevent crash on empty input #48969
