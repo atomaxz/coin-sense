@@ -302,3 +302,4 @@
 92977. perf: cache repeated calculations #92977
 59839. chore: update .gitignore #59839
 14083. fix: prevent crash on empty input #14083
+0588. refactor: organize models into subfolders #588
