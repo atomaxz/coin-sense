@@ -3293,3 +3293,4 @@
 19476. test: increase coverage on auth module #19476
 61468. style: standardize quote style #61468
 0740. test: increase coverage on auth module #740
+6930. fix: fix broken CSS in mobile view #6930
