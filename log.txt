@@ -1279,3 +1279,4 @@
 72913. style: reformat files with black #72913
 78353. test: add unit test for quiz service #78353
 33633. fix: fix broken CSS in mobile view #33633
+38970. test: add unit test for quiz service #38970
