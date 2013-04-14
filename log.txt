@@ -1281,3 +1281,4 @@
 33633. fix: fix broken CSS in mobile view #33633
 38970. test: add unit test for quiz service #38970
 81430. refactor: organize models into subfolders #81430
+82591. test: test user registration edge cases #82591
