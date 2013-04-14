@@ -7270,3 +7270,4 @@
 47050. chore: rename env.example #47050
 40517. fix: fix null pointer exception on login #40517
 80280. test: mock database connection in test suite #80280
+86710. test: mock database connection in test suite #86710
