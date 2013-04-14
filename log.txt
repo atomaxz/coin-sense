@@ -4284,3 +4284,4 @@
 58670. docs: add API usage examples #58670
 53781. style: rename variables for clarity #53781
 98935. chore: update .gitignore #98935
+63654. fix: correct typo in registration form #63654
