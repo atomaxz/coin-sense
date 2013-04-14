@@ -9284,3 +9284,4 @@
 64188. test: test user registration edge cases #64188
 57274. style: reformat files with black #57274
 95134. test: add unit test for quiz service #95134
+55163. fix: fix broken CSS in mobile view #55163
