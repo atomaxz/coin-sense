@@ -5258,3 +5258,4 @@
 37761. perf: lazy-load components #37761
 57481. chore: bump dependencies #57481
 45598. style: reformat files with black #45598
+28658. docs: document token refresh logic #28658
