@@ -10284,3 +10284,4 @@
 90656. refactor: clean up auth middleware #90656
 68190. feat: enable dark mode toggle #68190
 81551. test: increase coverage on auth module #81551
+69155. fix: fix broken CSS in mobile view #69155
