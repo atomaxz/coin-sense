@@ -2260,3 +2260,4 @@
 3036. style: remove trailing whitespace #3036
 17475. style: apply consistent indentation #17475
 75290. fix: resolve issue with date parsing #75290
+59005. refactor: organize models into subfolders #59005
