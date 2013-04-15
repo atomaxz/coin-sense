@@ -6292,3 +6292,4 @@
 92527. test: add unit test for quiz service #92527
 92150. fix: handle 500 error in quiz API #92150
 12635. perf: cache repeated calculations #12635
+81100. test: add integration test for /submit endpoint #81100
