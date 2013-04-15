@@ -305,3 +305,4 @@
 0588. refactor: organize models into subfolders #588
 73281. style: standardize quote style #73281
 27012. test: mock database connection in test suite #27012
+1039. fix: fix null pointer exception on login #1039
