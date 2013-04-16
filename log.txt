@@ -5260,3 +5260,4 @@
 45598. style: reformat files with black #45598
 28658. docs: document token refresh logic #28658
 3186. fix: fix null pointer exception on login #3186
+66004. refactor: remove redundant code blocks #66004
