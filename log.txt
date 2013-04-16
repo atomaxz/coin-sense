@@ -4289,3 +4289,4 @@
 47723. docs: add API usage examples #47723
 72360. refactor: clean up auth middleware #72360
 83562. style: remove trailing whitespace #83562
+51139. perf: lazy-load components #51139
