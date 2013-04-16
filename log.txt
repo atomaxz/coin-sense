@@ -4288,3 +4288,4 @@
 79959. docs: add API usage examples #79959
 47723. docs: add API usage examples #47723
 72360. refactor: clean up auth middleware #72360
+83562. style: remove trailing whitespace #83562
