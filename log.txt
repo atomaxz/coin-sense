@@ -10286,3 +10286,4 @@
 81551. test: increase coverage on auth module #81551
 69155. fix: fix broken CSS in mobile view #69155
 53194. refactor: organize models into subfolders #53194
+66618. docs: update README with setup steps #66618
