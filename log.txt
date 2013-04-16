@@ -308,3 +308,4 @@
 1039. fix: fix null pointer exception on login #1039
 99523. perf: cache repeated calculations #99523
 37173. test: add integration test for /submit endpoint #37173
+30898. docs: update README with setup steps #30898
