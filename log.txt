@@ -2264,3 +2264,4 @@
 18418. test: mock database connection in test suite #18418
 65477. perf: lazy-load components #65477
 63062. perf: optimize database query for quiz results #63062
+20165. style: standardize quote style #20165
