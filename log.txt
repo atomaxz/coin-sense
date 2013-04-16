@@ -8295,3 +8295,4 @@
 79377. perf: reduce image load time #79377
 88535. chore: update .gitignore #88535
 99003. test: add unit test for quiz service #99003
+64416. chore: add GitHub actions badge #64416
