@@ -6297,3 +6297,4 @@
 44944. feat: enable dark mode toggle #44944
 57830. refactor: split large controller into smaller functions #57830
 88618. fix: fix null pointer exception on login #88618
+81757. feat: support email verification #81757
