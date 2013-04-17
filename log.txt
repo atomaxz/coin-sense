@@ -310,3 +310,4 @@
 37173. test: add integration test for /submit endpoint #37173
 30898. docs: update README with setup steps #30898
 96634. chore: rename env.example #96634
+99976. fix: correct typo in registration form #99976
