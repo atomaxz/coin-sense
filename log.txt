@@ -1289,3 +1289,4 @@
 20310. perf: optimize database query for quiz results #20310
 71209. style: rename variables for clarity #71209
 63144. refactor: organize models into subfolders #63144
+98524. test: add unit test for quiz service #98524
