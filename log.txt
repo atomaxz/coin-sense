@@ -6299,3 +6299,4 @@
 88618. fix: fix null pointer exception on login #88618
 81757. feat: support email verification #81757
 36751. test: increase coverage on auth module #36751
+12832. refactor: clean up auth middleware #12832
