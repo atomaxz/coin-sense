@@ -5263,3 +5263,4 @@
 66004. refactor: remove redundant code blocks #66004
 34386. chore: clean up unused files #34386
 78107. feat: implement quiz timer feature #78107
+39028. test: add integration test for /submit endpoint #39028
