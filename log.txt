@@ -6298,3 +6298,4 @@
 57830. refactor: split large controller into smaller functions #57830
 88618. fix: fix null pointer exception on login #88618
 81757. feat: support email verification #81757
+36751. test: increase coverage on auth module #36751
