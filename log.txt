@@ -7280,3 +7280,4 @@
 69240. refactor: refactor quiz grading logic #69240
 76502. feat: create admin dashboard #76502
 82831. fix: resolve issue with date parsing #82831
+22711. feat: support email verification #22711
