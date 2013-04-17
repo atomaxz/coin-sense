@@ -4294,3 +4294,4 @@
 28277. fix: prevent crash on empty input #28277
 39822. docs: write FAQ section #39822
 69984. feat: support email verification #69984
+32828. chore: bump dependencies #32828
