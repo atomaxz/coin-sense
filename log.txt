@@ -7283,3 +7283,4 @@
 22711. feat: support email verification #22711
 53668. test: add unit test for quiz service #53668
 28061. style: apply consistent indentation #28061
+24576. perf: reduce image load time #24576
