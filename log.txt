@@ -311,3 +311,4 @@
 30898. docs: update README with setup steps #30898
 96634. chore: rename env.example #96634
 99976. fix: correct typo in registration form #99976
+45805. perf: lazy-load components #45805
