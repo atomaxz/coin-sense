@@ -4296,3 +4296,4 @@
 69984. feat: support email verification #69984
 32828. chore: bump dependencies #32828
 9480. docs: document token refresh logic #9480
+56877. docs: clarify environment setup #56877
