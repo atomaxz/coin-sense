@@ -6304,3 +6304,4 @@
 17521. style: reformat files with black #17521
 81822. docs: document token refresh logic #81822
 72163. feat: add user authentication #72163
+31786. docs: add API usage examples #31786
