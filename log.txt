@@ -6302,3 +6302,4 @@
 12832. refactor: clean up auth middleware #12832
 12077. docs: improve code comments in utils #12077
 17521. style: reformat files with black #17521
+81822. docs: document token refresh logic #81822
