@@ -1293,3 +1293,4 @@
 88864. style: standardize quote style #88864
 68316. refactor: organize models into subfolders #68316
 73668. fix: prevent crash on empty input #73668
+62251. test: increase coverage on auth module #62251
