@@ -6301,3 +6301,4 @@
 36751. test: increase coverage on auth module #36751
 12832. refactor: clean up auth middleware #12832
 12077. docs: improve code comments in utils #12077
+17521. style: reformat files with black #17521
