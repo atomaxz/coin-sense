@@ -8298,3 +8298,4 @@
 64416. chore: add GitHub actions badge #64416
 97364. chore: clean up unused files #97364
 61060. style: rename variables for clarity #61060
+13017. fix: fix null pointer exception on login #13017
