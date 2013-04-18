@@ -2274,3 +2274,4 @@
 27585. refactor: clean up auth middleware #27585
 51460. style: standardize quote style #51460
 41301. chore: add GitHub actions badge #41301
+37208. style: reformat files with black #37208
