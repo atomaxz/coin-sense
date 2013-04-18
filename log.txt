@@ -6303,3 +6303,4 @@
 12077. docs: improve code comments in utils #12077
 17521. style: reformat files with black #17521
 81822. docs: document token refresh logic #81822
+72163. feat: add user authentication #72163
