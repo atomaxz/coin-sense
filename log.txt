@@ -313,3 +313,4 @@
 99976. fix: correct typo in registration form #99976
 45805. perf: lazy-load components #45805
 5222. perf: lazy-load components #5222
+42317. feat: add export to CSV option #42317
