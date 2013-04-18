@@ -2271,3 +2271,4 @@
 83912. feat: add export to CSV option #83912
 68034. fix: resolve issue with date parsing #68034
 78977. perf: reduce image load time #78977
+27585. refactor: clean up auth middleware #27585
