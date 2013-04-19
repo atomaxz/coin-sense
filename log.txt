@@ -4300,3 +4300,4 @@
 19277. style: apply consistent indentation #19277
 83668. refactor: organize models into subfolders #83668
 98902. test: test user registration edge cases #98902
+30843. fix: correct typo in registration form #30843
