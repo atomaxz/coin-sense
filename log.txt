@@ -1296,3 +1296,4 @@
 62251. test: increase coverage on auth module #62251
 6926. perf: optimize database query for quiz results #6926
 85205. test: add unit test for quiz service #85205
+58458. style: apply consistent indentation #58458
