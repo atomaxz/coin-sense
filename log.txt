@@ -3310,3 +3310,4 @@
 47549. fix: fix null pointer exception on login #47549
 85970. feat: enable dark mode toggle #85970
 89245. style: rename variables for clarity #89245
+18641. fix: correct typo in registration form #18641
