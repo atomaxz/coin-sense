@@ -9296,3 +9296,4 @@
 72305. refactor: organize models into subfolders #72305
 95339. test: add integration test for /submit endpoint #95339
 56672. perf: reduce image load time #56672
+5056. perf: optimize database query for quiz results #5056
