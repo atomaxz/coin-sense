@@ -3308,3 +3308,4 @@
 53001. chore: update .gitignore #53001
 82609. chore: bump dependencies #82609
 47549. fix: fix null pointer exception on login #47549
+85970. feat: enable dark mode toggle #85970
