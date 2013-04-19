@@ -10289,3 +10289,4 @@
 66618. docs: update README with setup steps #66618
 28257. style: standardize quote style #28257
 91002. perf: reduce image load time #91002
+71393. docs: update README with setup steps #71393
