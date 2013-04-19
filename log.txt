@@ -9298,3 +9298,4 @@
 56672. perf: reduce image load time #56672
 5056. perf: optimize database query for quiz results #5056
 68061. feat: add user authentication #68061
+47372. chore: rename env.example #47372
