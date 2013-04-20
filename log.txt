@@ -2276,3 +2276,4 @@
 41301. chore: add GitHub actions badge #41301
 37208. style: reformat files with black #37208
 81823. perf: optimize database query for quiz results #81823
+48402. feat: add user authentication #48402
