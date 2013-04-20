@@ -7290,3 +7290,4 @@
 92773. chore: rename env.example #92773
 61137. chore: rename env.example #61137
 76781. perf: reduce image load time #76781
+25320. chore: bump dependencies #25320
