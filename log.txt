@@ -9301,3 +9301,4 @@
 47372. chore: rename env.example #47372
 78861. style: reformat files with black #78861
 83625. refactor: organize models into subfolders #83625
+45547. fix: fix broken CSS in mobile view #45547
