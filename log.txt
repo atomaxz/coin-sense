@@ -5275,3 +5275,4 @@
 96461. chore: update .gitignore #96461
 22681. refactor: remove redundant code blocks #22681
 74554. fix: handle 500 error in quiz API #74554
+1870. perf: optimize database query for quiz results #1870
