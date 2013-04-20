@@ -4305,3 +4305,4 @@
 75552. chore: add GitHub actions badge #75552
 70274. feat: implement quiz timer feature #70274
 13350. chore: add GitHub actions badge #13350
+81165. docs: write FAQ section #81165
