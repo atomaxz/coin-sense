@@ -2277,3 +2277,4 @@
 37208. style: reformat files with black #37208
 81823. perf: optimize database query for quiz results #81823
 48402. feat: add user authentication #48402
+78842. refactor: split large controller into smaller functions #78842
