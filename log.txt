@@ -8304,3 +8304,4 @@
 36794. style: remove trailing whitespace #36794
 47044. chore: bump dependencies #47044
 26342. feat: support email verification #26342
+9201. docs: update README with setup steps #9201
