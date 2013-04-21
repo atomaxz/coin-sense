@@ -7291,3 +7291,4 @@
 61137. chore: rename env.example #61137
 76781. perf: reduce image load time #76781
 25320. chore: bump dependencies #25320
+61282. test: add integration test for /submit endpoint #61282
