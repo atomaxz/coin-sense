@@ -9304,3 +9304,4 @@
 45547. fix: fix broken CSS in mobile view #45547
 37929. refactor: split large controller into smaller functions #37929
 69543. chore: clean up unused files #69543
+27282. fix: prevent crash on empty input #27282
