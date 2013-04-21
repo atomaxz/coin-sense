@@ -8306,3 +8306,4 @@
 26342. feat: support email verification #26342
 9201. docs: update README with setup steps #9201
 8961. test: add integration test for /submit endpoint #8961
+94262. test: increase coverage on auth module #94262
