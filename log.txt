@@ -2282,3 +2282,4 @@
 54515. style: apply consistent indentation #54515
 6297. fix: fix broken CSS in mobile view #6297
 55256. perf: reduce image load time #55256
+4488. feat: create admin dashboard #4488
