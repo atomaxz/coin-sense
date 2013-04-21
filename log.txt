@@ -3314,3 +3314,4 @@
 68412. perf: optimize database query for quiz results #68412
 23584. test: mock database connection in test suite #23584
 82176. test: add integration test for /submit endpoint #82176
+76255. feat: add user authentication #76255
