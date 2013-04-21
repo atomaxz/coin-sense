@@ -318,3 +318,4 @@
 68936. refactor: clean up auth middleware #68936
 80412. refactor: refactor quiz grading logic #80412
 77440. docs: update README with setup steps #77440
+7209. fix: fix broken CSS in mobile view #7209
