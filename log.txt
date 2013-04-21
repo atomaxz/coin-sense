@@ -320,3 +320,4 @@
 77440. docs: update README with setup steps #77440
 7209. fix: fix broken CSS in mobile view #7209
 86431. style: standardize quote style #86431
+69845. chore: update .gitignore #69845
