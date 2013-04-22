@@ -325,3 +325,4 @@
 66730. perf: cache repeated calculations #66730
 49953. docs: add API usage examples #49953
 17011. fix: correct typo in registration form #17011
+18254. test: add integration test for /submit endpoint #18254
