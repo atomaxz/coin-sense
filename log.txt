@@ -9308,3 +9308,4 @@
 30864. feat: support email verification #30864
 59465. fix: prevent crash on empty input #59465
 87013. feat: add export to CSV option #87013
+35549. perf: lazy-load components #35549
