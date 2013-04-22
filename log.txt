@@ -11289,3 +11289,4 @@
 26134. fix: correct typo in registration form #26134
 3692. docs: document token refresh logic #3692
 51356. perf: reduce image load time #51356
+70706. perf: optimize database query for quiz results #70706
