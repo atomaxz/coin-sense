@@ -5278,3 +5278,4 @@
 1870. perf: optimize database query for quiz results #1870
 62668. perf: cache repeated calculations #62668
 20104. style: remove trailing whitespace #20104
+92079. fix: correct typo in registration form #92079
