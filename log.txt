@@ -4312,3 +4312,4 @@
 1566. perf: cache repeated calculations #1566
 77678. fix: prevent crash on empty input #77678
 42595. chore: clean up unused files #42595
+45737. docs: write FAQ section #45737
