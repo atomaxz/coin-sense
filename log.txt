@@ -10297,3 +10297,4 @@
 82405. feat: create admin dashboard #82405
 86697. feat: add export to CSV option #86697
 2782. perf: optimize database query for quiz results #2782
+27431. perf: lazy-load components #27431
