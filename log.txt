@@ -9307,3 +9307,4 @@
 27282. fix: prevent crash on empty input #27282
 30864. feat: support email verification #30864
 59465. fix: prevent crash on empty input #59465
+87013. feat: add export to CSV option #87013
