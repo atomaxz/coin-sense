@@ -6311,3 +6311,4 @@
 3804. test: add integration test for /submit endpoint #3804
 75151. test: increase coverage on auth module #75151
 39557. refactor: refactor quiz grading logic #39557
+34546. feat: support email verification #34546
