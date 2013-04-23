@@ -11294,3 +11294,4 @@
 75639. feat: enable dark mode toggle #75639
 53038. style: reformat files with black #53038
 86591. refactor: clean up auth middleware #86591
+75246. test: increase coverage on auth module #75246
