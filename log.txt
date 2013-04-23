@@ -8312,3 +8312,4 @@
 13858. feat: add user authentication #13858
 12694. chore: update .gitignore #12694
 0199. docs: add API usage examples #199
+88071. fix: prevent crash on empty input #88071
