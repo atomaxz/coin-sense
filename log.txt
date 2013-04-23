@@ -2290,3 +2290,4 @@
 10625. style: reformat files with black #10625
 40350. refactor: remove redundant code blocks #40350
 73425. fix: handle 500 error in quiz API #73425
+40264. docs: document token refresh logic #40264
