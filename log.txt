@@ -326,3 +326,4 @@
 49953. docs: add API usage examples #49953
 17011. fix: correct typo in registration form #17011
 18254. test: add integration test for /submit endpoint #18254
+76586. refactor: split large controller into smaller functions #76586
