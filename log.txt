@@ -10300,3 +10300,4 @@
 27431. perf: lazy-load components #27431
 72328. refactor: refactor quiz grading logic #72328
 4525. feat: create admin dashboard #4525
+50093. chore: add GitHub actions badge #50093
