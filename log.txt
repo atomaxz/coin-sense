@@ -2289,3 +2289,4 @@
 75319. style: apply consistent indentation #75319
 10625. style: reformat files with black #10625
 40350. refactor: remove redundant code blocks #40350
+73425. fix: handle 500 error in quiz API #73425
