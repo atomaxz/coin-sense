@@ -10299,3 +10299,4 @@
 2782. perf: optimize database query for quiz results #2782
 27431. perf: lazy-load components #27431
 72328. refactor: refactor quiz grading logic #72328
+4525. feat: create admin dashboard #4525
