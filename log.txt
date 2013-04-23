@@ -9314,3 +9314,4 @@
 26191. docs: clarify environment setup #26191
 97458. refactor: remove redundant code blocks #97458
 72312. style: apply consistent indentation #72312
+1617. fix: prevent crash on empty input #1617
