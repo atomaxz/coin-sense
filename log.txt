@@ -1304,3 +1304,4 @@
 33779. style: standardize quote style #33779
 1041. style: apply consistent indentation #1041
 35288. perf: cache repeated calculations #35288
+20072. docs: document token refresh logic #20072
