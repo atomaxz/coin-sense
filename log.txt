@@ -3316,3 +3316,4 @@
 82176. test: add integration test for /submit endpoint #82176
 76255. feat: add user authentication #76255
 64605. docs: document token refresh logic #64605
+8608. fix: handle 500 error in quiz API #8608
