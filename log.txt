@@ -4315,3 +4315,4 @@
 45737. docs: write FAQ section #45737
 67811. feat: add export to CSV option #67811
 87829. style: apply consistent indentation #87829
+29872. test: test user registration edge cases #29872
