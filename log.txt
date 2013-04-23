@@ -4313,3 +4313,4 @@
 77678. fix: prevent crash on empty input #77678
 42595. chore: clean up unused files #42595
 45737. docs: write FAQ section #45737
+67811. feat: add export to CSV option #67811
