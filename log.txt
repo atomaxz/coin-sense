@@ -2298,3 +2298,4 @@
 48218. style: apply consistent indentation #48218
 62965. docs: document token refresh logic #62965
 96089. perf: optimize database query for quiz results #96089
+20802. test: increase coverage on auth module #20802
