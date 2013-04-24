@@ -5285,3 +5285,4 @@
 87021. feat: create admin dashboard #87021
 12241. test: add integration test for /submit endpoint #12241
 74795. refactor: refactor quiz grading logic #74795
+77787. fix: handle 500 error in quiz API #77787
