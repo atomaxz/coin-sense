@@ -3319,3 +3319,4 @@
 8608. fix: handle 500 error in quiz API #8608
 99651. perf: reduce image load time #99651
 77219. fix: prevent crash on empty input #77219
+23768. fix: prevent crash on empty input #23768
