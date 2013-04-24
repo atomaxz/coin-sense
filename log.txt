@@ -6312,3 +6312,4 @@
 75151. test: increase coverage on auth module #75151
 39557. refactor: refactor quiz grading logic #39557
 34546. feat: support email verification #34546
+12673. perf: lazy-load components #12673
