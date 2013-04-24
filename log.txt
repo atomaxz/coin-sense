@@ -4319,3 +4319,4 @@
 5281. fix: fix broken CSS in mobile view #5281
 30938. refactor: remove redundant code blocks #30938
 1500. docs: update README with setup steps #1500
+71634. feat: enable dark mode toggle #71634
