@@ -7295,3 +7295,4 @@
 30493. test: add unit test for quiz service #30493
 61924. style: apply consistent indentation #61924
 8514. perf: lazy-load components #8514
+4413. refactor: clean up auth middleware #4413
