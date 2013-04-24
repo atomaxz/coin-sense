@@ -11296,3 +11296,4 @@
 86591. refactor: clean up auth middleware #86591
 75246. test: increase coverage on auth module #75246
 74142. refactor: refactor quiz grading logic #74142
+62212. perf: lazy-load components #62212
