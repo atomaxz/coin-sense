@@ -4317,3 +4317,4 @@
 87829. style: apply consistent indentation #87829
 29872. test: test user registration edge cases #29872
 5281. fix: fix broken CSS in mobile view #5281
+30938. refactor: remove redundant code blocks #30938
