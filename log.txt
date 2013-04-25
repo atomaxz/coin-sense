@@ -9319,3 +9319,4 @@
 94621. chore: rename env.example #94621
 20053. feat: create admin dashboard #20053
 76548. fix: fix null pointer exception on login #76548
+0740. test: increase coverage on auth module #740
