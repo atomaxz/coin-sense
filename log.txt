@@ -9318,3 +9318,4 @@
 53016. chore: add GitHub actions badge #53016
 94621. chore: rename env.example #94621
 20053. feat: create admin dashboard #20053
+76548. fix: fix null pointer exception on login #76548
