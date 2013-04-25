@@ -5288,3 +5288,4 @@
 77787. fix: handle 500 error in quiz API #77787
 82888. chore: rename env.example #82888
 24859. feat: enable dark mode toggle #24859
+16914. refactor: clean up auth middleware #16914
