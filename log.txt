@@ -7298,3 +7298,4 @@
 4413. refactor: clean up auth middleware #4413
 54502. feat: add user authentication #54502
 86780. fix: resolve issue with date parsing #86780
+29814. feat: support email verification #29814
