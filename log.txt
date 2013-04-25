@@ -1307,3 +1307,4 @@
 20072. docs: document token refresh logic #20072
 67428. feat: enable dark mode toggle #67428
 67323. style: remove trailing whitespace #67323
+7249. docs: update README with setup steps #7249
