@@ -11302,3 +11302,4 @@
 97104. perf: optimize database query for quiz results #97104
 25229. refactor: organize models into subfolders #25229
 23999. refactor: split large controller into smaller functions #23999
+36485. style: remove trailing whitespace #36485
