@@ -4326,3 +4326,4 @@
 96827. docs: write FAQ section #96827
 3726. chore: add GitHub actions badge #3726
 12498. test: test user registration edge cases #12498
+67490. feat: enable dark mode toggle #67490
