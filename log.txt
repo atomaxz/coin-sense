@@ -4325,3 +4325,4 @@
 9468. perf: optimize database query for quiz results #9468
 96827. docs: write FAQ section #96827
 3726. chore: add GitHub actions badge #3726
+12498. test: test user registration edge cases #12498
