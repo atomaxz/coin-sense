@@ -8321,3 +8321,4 @@
 75350. perf: lazy-load components #75350
 69285. refactor: clean up auth middleware #69285
 29966. style: standardize quote style #29966
+86557. refactor: split large controller into smaller functions #86557
