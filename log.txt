@@ -7300,3 +7300,4 @@
 86780. fix: resolve issue with date parsing #86780
 29814. feat: support email verification #29814
 22294. refactor: refactor quiz grading logic #22294
+31794. perf: lazy-load components #31794
