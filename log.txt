@@ -332,3 +332,4 @@
 11122. style: rename variables for clarity #11122
 92723. chore: bump dependencies #92723
 66401. feat: create admin dashboard #66401
+60090. chore: update .gitignore #60090
