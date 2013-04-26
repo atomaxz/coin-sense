@@ -5291,3 +5291,4 @@
 16914. refactor: clean up auth middleware #16914
 41358. style: reformat files with black #41358
 88203. test: increase coverage on auth module #88203
+50070. test: mock database connection in test suite #50070
