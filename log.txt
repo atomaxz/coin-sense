@@ -2300,3 +2300,4 @@
 96089. perf: optimize database query for quiz results #96089
 20802. test: increase coverage on auth module #20802
 49891. fix: fix null pointer exception on login #49891
+68374. feat: add user authentication #68374
