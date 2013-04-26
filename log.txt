@@ -9320,3 +9320,4 @@
 20053. feat: create admin dashboard #20053
 76548. fix: fix null pointer exception on login #76548
 0740. test: increase coverage on auth module #740
+25042. fix: resolve issue with date parsing #25042
