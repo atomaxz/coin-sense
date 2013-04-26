@@ -8323,3 +8323,4 @@
 29966. style: standardize quote style #29966
 86557. refactor: split large controller into smaller functions #86557
 11779. chore: rename env.example #11779
+18137. test: increase coverage on auth module #18137
