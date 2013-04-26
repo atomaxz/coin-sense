@@ -6315,3 +6315,4 @@
 12673. perf: lazy-load components #12673
 44271. chore: bump dependencies #44271
 10470. docs: clarify environment setup #10470
+5787. perf: lazy-load components #5787
