@@ -9322,3 +9322,4 @@
 0740. test: increase coverage on auth module #740
 25042. fix: resolve issue with date parsing #25042
 39279. test: add integration test for /submit endpoint #39279
+44480. chore: add GitHub actions badge #44480
