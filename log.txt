@@ -2302,3 +2302,4 @@
 49891. fix: fix null pointer exception on login #49891
 68374. feat: add user authentication #68374
 83224. perf: lazy-load components #83224
+67475. test: add integration test for /submit endpoint #67475
