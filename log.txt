@@ -6316,3 +6316,4 @@
 44271. chore: bump dependencies #44271
 10470. docs: clarify environment setup #10470
 5787. perf: lazy-load components #5787
+32156. fix: fix null pointer exception on login #32156
