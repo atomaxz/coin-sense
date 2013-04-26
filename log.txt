@@ -5292,3 +5292,4 @@
 41358. style: reformat files with black #41358
 88203. test: increase coverage on auth module #88203
 50070. test: mock database connection in test suite #50070
+58467. test: test user registration edge cases #58467
