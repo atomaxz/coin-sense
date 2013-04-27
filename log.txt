@@ -7303,3 +7303,4 @@
 31794. perf: lazy-load components #31794
 79678. docs: improve code comments in utils #79678
 31671. chore: clean up unused files #31671
+48918. docs: document token refresh logic #48918
