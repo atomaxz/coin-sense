@@ -5297,3 +5297,4 @@
 58008. chore: bump dependencies #58008
 65783. fix: fix broken CSS in mobile view #65783
 74167. docs: clarify environment setup #74167
+23813. fix: correct typo in registration form #23813
