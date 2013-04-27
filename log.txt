@@ -4330,3 +4330,4 @@
 88664. refactor: clean up auth middleware #88664
 68370. test: test user registration edge cases #68370
 8809. test: mock database connection in test suite #8809
+35821. chore: bump dependencies #35821
