@@ -3326,3 +3326,4 @@
 12539. fix: fix null pointer exception on login #12539
 89891. feat: support email verification #89891
 51741. docs: add API usage examples #51741
+86603. docs: document token refresh logic #86603
