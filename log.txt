@@ -11306,3 +11306,4 @@
 20311. test: add unit test for quiz service #20311
 62491. refactor: refactor quiz grading logic #62491
 60427. feat: implement quiz timer feature #60427
+89298. perf: optimize database query for quiz results #89298
