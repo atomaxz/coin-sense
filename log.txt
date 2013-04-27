@@ -4329,3 +4329,4 @@
 67490. feat: enable dark mode toggle #67490
 88664. refactor: clean up auth middleware #88664
 68370. test: test user registration edge cases #68370
+8809. test: mock database connection in test suite #8809
