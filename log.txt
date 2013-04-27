@@ -9329,3 +9329,4 @@
 99920. fix: resolve issue with date parsing #99920
 3613. fix: prevent crash on empty input #3613
 3220. perf: cache repeated calculations #3220
+36399. test: increase coverage on auth module #36399
