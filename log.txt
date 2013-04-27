@@ -5299,3 +5299,4 @@
 74167. docs: clarify environment setup #74167
 23813. fix: correct typo in registration form #23813
 34774. chore: clean up unused files #34774
+40620. fix: resolve issue with date parsing #40620
