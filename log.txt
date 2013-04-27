@@ -1310,3 +1310,4 @@
 7249. docs: update README with setup steps #7249
 89017. style: reformat files with black #89017
 55045. fix: fix null pointer exception on login #55045
+29240. style: remove trailing whitespace #29240
