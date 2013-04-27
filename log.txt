@@ -5295,3 +5295,4 @@
 58467. test: test user registration edge cases #58467
 80233. fix: fix null pointer exception on login #80233
 58008. chore: bump dependencies #58008
+65783. fix: fix broken CSS in mobile view #65783
