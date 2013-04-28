@@ -4333,3 +4333,4 @@
 35821. chore: bump dependencies #35821
 81931. docs: clarify environment setup #81931
 5592. fix: prevent crash on empty input #5592
+71211. refactor: remove redundant code blocks #71211
