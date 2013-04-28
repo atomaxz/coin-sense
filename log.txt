@@ -11307,3 +11307,4 @@
 62491. refactor: refactor quiz grading logic #62491
 60427. feat: implement quiz timer feature #60427
 89298. perf: optimize database query for quiz results #89298
+6270. chore: bump dependencies #6270
