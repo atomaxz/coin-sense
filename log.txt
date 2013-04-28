@@ -335,3 +335,4 @@
 60090. chore: update .gitignore #60090
 52983. style: rename variables for clarity #52983
 83266. feat: create admin dashboard #83266
+56848. feat: add user authentication #56848
