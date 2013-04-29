@@ -8333,3 +8333,4 @@
 56470. style: apply consistent indentation #56470
 6489. refactor: split large controller into smaller functions #6489
 81445. docs: clarify environment setup #81445
+8214. fix: correct typo in registration form #8214
