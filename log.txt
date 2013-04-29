@@ -11311,3 +11311,4 @@
 13052. test: test user registration edge cases #13052
 14352. perf: reduce image load time #14352
 82626. style: remove trailing whitespace #82626
+74919. docs: document token refresh logic #74919
