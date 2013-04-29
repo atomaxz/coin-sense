@@ -5303,3 +5303,4 @@
 22482. test: add integration test for /submit endpoint #22482
 46396. docs: add API usage examples #46396
 37716. perf: lazy-load components #37716
+75154. refactor: clean up auth middleware #75154
