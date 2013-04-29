@@ -1313,3 +1313,4 @@
 29240. style: remove trailing whitespace #29240
 52096. style: remove trailing whitespace #52096
 60317. style: apply consistent indentation #60317
+64678. docs: improve code comments in utils #64678
