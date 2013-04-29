@@ -337,3 +337,4 @@
 83266. feat: create admin dashboard #83266
 56848. feat: add user authentication #56848
 86309. test: add integration test for /submit endpoint #86309
+48253. fix: fix broken CSS in mobile view #48253
