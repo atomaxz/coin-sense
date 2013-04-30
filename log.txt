@@ -3332,3 +3332,4 @@
 56504. style: apply consistent indentation #56504
 1964. feat: add export to CSV option #1964
 32837. fix: fix broken CSS in mobile view #32837
+34761. fix: fix null pointer exception on login #34761
