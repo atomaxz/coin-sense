@@ -1315,3 +1315,4 @@
 60317. style: apply consistent indentation #60317
 64678. docs: improve code comments in utils #64678
 38594. fix: handle 500 error in quiz API #38594
+7744. feat: support email verification #7744
