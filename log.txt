@@ -4339,3 +4339,4 @@
 42473. docs: add API usage examples #42473
 30798. chore: rename env.example #30798
 9390. chore: bump dependencies #9390
+73854. fix: fix broken CSS in mobile view #73854
