@@ -3333,3 +3333,4 @@
 1964. feat: add export to CSV option #1964
 32837. fix: fix broken CSS in mobile view #32837
 34761. fix: fix null pointer exception on login #34761
+79073. perf: optimize database query for quiz results #79073
