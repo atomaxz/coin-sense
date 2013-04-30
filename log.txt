@@ -3336,3 +3336,4 @@
 79073. perf: optimize database query for quiz results #79073
 84025. test: increase coverage on auth module #84025
 3185. feat: add user authentication #3185
+53886. docs: document token refresh logic #53886
