@@ -8334,3 +8334,4 @@
 6489. refactor: split large controller into smaller functions #6489
 81445. docs: clarify environment setup #81445
 8214. fix: correct typo in registration form #8214
+47414. docs: write FAQ section #47414
