@@ -6329,3 +6329,4 @@
 58422. perf: lazy-load components #58422
 99371. docs: update README with setup steps #99371
 18517. feat: implement quiz timer feature #18517
+72250. fix: fix null pointer exception on login #72250
