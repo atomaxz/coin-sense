@@ -5304,3 +5304,4 @@
 46396. docs: add API usage examples #46396
 37716. perf: lazy-load components #37716
 75154. refactor: clean up auth middleware #75154
+72237. refactor: split large controller into smaller functions #72237
