@@ -2311,3 +2311,4 @@
 77571. perf: cache repeated calculations #77571
 40053. test: test user registration edge cases #40053
 34245. fix: fix null pointer exception on login #34245
+87056. fix: fix broken CSS in mobile view #87056
