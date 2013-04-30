@@ -6327,3 +6327,4 @@
 15030. docs: improve code comments in utils #15030
 68284. chore: bump dependencies #68284
 58422. perf: lazy-load components #58422
+99371. docs: update README with setup steps #99371
