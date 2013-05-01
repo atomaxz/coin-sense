@@ -1321,3 +1321,4 @@
 30260. feat: add export to CSV option #30260
 15206. style: apply consistent indentation #15206
 81295. refactor: organize models into subfolders #81295
+42075. fix: correct typo in registration form #42075
