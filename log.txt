@@ -10322,3 +10322,4 @@
 23156. docs: write FAQ section #23156
 81013. style: rename variables for clarity #81013
 44826. fix: fix broken CSS in mobile view #44826
+50171. perf: lazy-load components #50171
