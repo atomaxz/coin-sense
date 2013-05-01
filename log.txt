@@ -3340,3 +3340,4 @@
 90640. refactor: split large controller into smaller functions #90640
 90202. perf: reduce image load time #90202
 87414. refactor: refactor quiz grading logic #87414
+74954. fix: handle 500 error in quiz API #74954
