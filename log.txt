@@ -7310,3 +7310,4 @@
 85308. docs: clarify environment setup #85308
 32891. feat: enable dark mode toggle #32891
 3830. perf: lazy-load components #3830
+10135. perf: reduce image load time #10135
