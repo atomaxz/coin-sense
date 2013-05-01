@@ -9335,3 +9335,4 @@
 27033. refactor: clean up auth middleware #27033
 42506. docs: write FAQ section #42506
 73302. refactor: remove redundant code blocks #73302
+35234. refactor: clean up auth middleware #35234
