@@ -9337,3 +9337,4 @@
 73302. refactor: remove redundant code blocks #73302
 35234. refactor: clean up auth middleware #35234
 20654. chore: add GitHub actions badge #20654
+77749. fix: prevent crash on empty input #77749
