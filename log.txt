@@ -341,3 +341,4 @@
 43855. feat: implement quiz timer feature #43855
 94454. style: rename variables for clarity #94454
 36488. test: mock database connection in test suite #36488
+4535. perf: optimize database query for quiz results #4535
