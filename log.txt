@@ -6337,3 +6337,4 @@
 88160. test: add unit test for quiz service #88160
 83694. fix: fix null pointer exception on login #83694
 23878. docs: document token refresh logic #23878
+96156. fix: handle 500 error in quiz API #96156
