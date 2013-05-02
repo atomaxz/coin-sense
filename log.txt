@@ -4344,3 +4344,4 @@
 48159. style: standardize quote style #48159
 26228. test: test user registration edge cases #26228
 42718. chore: add GitHub actions badge #42718
+77711. test: mock database connection in test suite #77711
