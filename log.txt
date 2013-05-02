@@ -10324,3 +10324,4 @@
 44826. fix: fix broken CSS in mobile view #44826
 50171. perf: lazy-load components #50171
 8226. chore: add GitHub actions badge #8226
+90999. style: apply consistent indentation #90999
