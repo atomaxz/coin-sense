@@ -346,3 +346,4 @@
 49943. test: mock database connection in test suite #49943
 20671. test: add integration test for /submit endpoint #20671
 12733. docs: document token refresh logic #12733
+86652. fix: fix null pointer exception on login #86652
