@@ -11317,3 +11317,4 @@
 39635. refactor: remove redundant code blocks #39635
 89121. refactor: organize models into subfolders #89121
 27263. fix: resolve issue with date parsing #27263
+65680. feat: support email verification #65680
