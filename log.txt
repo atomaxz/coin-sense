@@ -1330,3 +1330,4 @@
 16767. chore: bump dependencies #16767
 25912. chore: bump dependencies #25912
 28170. chore: bump dependencies #28170
+33249. fix: fix null pointer exception on login #33249
