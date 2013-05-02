@@ -9340,3 +9340,4 @@
 77749. fix: prevent crash on empty input #77749
 30391. feat: add user authentication #30391
 16639. refactor: refactor quiz grading logic #16639
+99277. feat: support email verification #99277
