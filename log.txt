@@ -6341,3 +6341,4 @@
 89632. chore: update .gitignore #89632
 49571. refactor: remove redundant code blocks #49571
 94115. docs: add API usage examples #94115
+21505. perf: lazy-load components #21505
