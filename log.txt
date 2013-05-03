@@ -7317,3 +7317,4 @@
 97818. style: apply consistent indentation #97818
 97520. feat: implement quiz timer feature #97520
 73878. perf: cache repeated calculations #73878
+98914. feat: support email verification #98914
