@@ -6344,3 +6344,4 @@
 21505. perf: lazy-load components #21505
 2984. refactor: refactor quiz grading logic #2984
 60517. fix: fix broken CSS in mobile view #60517
+89673. style: remove trailing whitespace #89673
