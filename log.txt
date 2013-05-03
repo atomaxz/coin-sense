@@ -10326,3 +10326,4 @@
 8226. chore: add GitHub actions badge #8226
 90999. style: apply consistent indentation #90999
 46474. style: standardize quote style #46474
+83299. style: reformat files with black #83299
