@@ -6340,3 +6340,4 @@
 96156. fix: handle 500 error in quiz API #96156
 89632. chore: update .gitignore #89632
 49571. refactor: remove redundant code blocks #49571
+94115. docs: add API usage examples #94115
