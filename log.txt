@@ -352,3 +352,4 @@
 10419. test: test user registration edge cases #10419
 93836. refactor: remove redundant code blocks #93836
 99046. feat: enable dark mode toggle #99046
+42447. chore: clean up unused files #42447
