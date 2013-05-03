@@ -349,3 +349,4 @@
 86652. fix: fix null pointer exception on login #86652
 32595. perf: reduce image load time #32595
 98573. test: add integration test for /submit endpoint #98573
+10419. test: test user registration edge cases #10419
