@@ -1332,3 +1332,4 @@
 28170. chore: bump dependencies #28170
 33249. fix: fix null pointer exception on login #33249
 9864. feat: add user authentication #9864
+6798. docs: document token refresh logic #6798
