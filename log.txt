@@ -11321,3 +11321,4 @@
 90932. style: standardize quote style #90932
 30720. fix: correct typo in registration form #30720
 55779. test: mock database connection in test suite #55779
+44384. fix: handle 500 error in quiz API #44384
