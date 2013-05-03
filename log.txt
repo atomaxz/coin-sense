@@ -10327,3 +10327,4 @@
 90999. style: apply consistent indentation #90999
 46474. style: standardize quote style #46474
 83299. style: reformat files with black #83299
+77171. test: mock database connection in test suite #77171
