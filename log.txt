@@ -9343,3 +9343,4 @@
 99277. feat: support email verification #99277
 60738. style: rename variables for clarity #60738
 39639. chore: update .gitignore #39639
+98465. refactor: clean up auth middleware #98465
