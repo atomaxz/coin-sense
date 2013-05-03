@@ -10328,3 +10328,4 @@
 46474. style: standardize quote style #46474
 83299. style: reformat files with black #83299
 77171. test: mock database connection in test suite #77171
+63384. fix: handle 500 error in quiz API #63384
