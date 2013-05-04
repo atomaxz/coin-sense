@@ -355,3 +355,4 @@
 42447. chore: clean up unused files #42447
 32065. perf: cache repeated calculations #32065
 65425. chore: rename env.example #65425
+61032. fix: correct typo in registration form #61032
