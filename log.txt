@@ -2318,3 +2318,4 @@
 2951. feat: create admin dashboard #2951
 99169. style: apply consistent indentation #99169
 78257. feat: enable dark mode toggle #78257
+60305. test: add integration test for /submit endpoint #60305
