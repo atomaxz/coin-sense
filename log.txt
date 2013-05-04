@@ -1333,3 +1333,4 @@
 33249. fix: fix null pointer exception on login #33249
 9864. feat: add user authentication #9864
 6798. docs: document token refresh logic #6798
+55527. fix: fix broken CSS in mobile view #55527
