@@ -3346,3 +3346,4 @@
 36647. refactor: remove redundant code blocks #36647
 22141. refactor: remove redundant code blocks #22141
 79328. style: reformat files with black #79328
+62473. feat: support email verification #62473
