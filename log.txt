@@ -6347,3 +6347,4 @@
 89673. style: remove trailing whitespace #89673
 20788. test: increase coverage on auth module #20788
 0186. chore: rename env.example #186
+44711. refactor: organize models into subfolders #44711
