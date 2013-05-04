@@ -5312,3 +5312,4 @@
 42648. refactor: clean up auth middleware #42648
 23123. fix: handle 500 error in quiz API #23123
 39808. refactor: refactor quiz grading logic #39808
+81560. chore: update .gitignore #81560
