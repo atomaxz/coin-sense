@@ -10331,3 +10331,4 @@
 63384. fix: handle 500 error in quiz API #63384
 93605. style: rename variables for clarity #93605
 59696. docs: update README with setup steps #59696
+27088. fix: fix null pointer exception on login #27088
