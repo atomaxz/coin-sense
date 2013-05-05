@@ -9348,3 +9348,4 @@
 83105. docs: add API usage examples #83105
 46213. perf: optimize database query for quiz results #46213
 10648. perf: optimize database query for quiz results #10648
+10936. docs: write FAQ section #10936
