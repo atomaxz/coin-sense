@@ -1336,3 +1336,4 @@
 55527. fix: fix broken CSS in mobile view #55527
 56456. refactor: split large controller into smaller functions #56456
 18107. refactor: refactor quiz grading logic #18107
+67459. docs: write FAQ section #67459
