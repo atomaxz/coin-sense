@@ -357,3 +357,4 @@
 65425. chore: rename env.example #65425
 61032. fix: correct typo in registration form #61032
 96419. style: apply consistent indentation #96419
+9399. style: apply consistent indentation #9399
