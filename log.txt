@@ -8345,3 +8345,4 @@
 72949. refactor: clean up auth middleware #72949
 66074. test: mock database connection in test suite #66074
 86599. fix: fix null pointer exception on login #86599
+68679. feat: add export to CSV option #68679
