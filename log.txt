@@ -4351,3 +4351,4 @@
 62955. docs: document token refresh logic #62955
 83952. perf: cache repeated calculations #83952
 8544. perf: cache repeated calculations #8544
+2764. chore: bump dependencies #2764
