@@ -8348,3 +8348,4 @@
 68679. feat: add export to CSV option #68679
 70855. style: standardize quote style #70855
 40311. test: increase coverage on auth module #40311
+53564. refactor: clean up auth middleware #53564
