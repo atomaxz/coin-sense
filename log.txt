@@ -2320,3 +2320,4 @@
 78257. feat: enable dark mode toggle #78257
 60305. test: add integration test for /submit endpoint #60305
 99772. chore: bump dependencies #99772
+9379. feat: support email verification #9379
