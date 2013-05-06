@@ -11331,3 +11331,4 @@
 56147. perf: reduce image load time #56147
 77799. fix: resolve issue with date parsing #77799
 37188. perf: cache repeated calculations #37188
+85901. feat: add export to CSV option #85901
