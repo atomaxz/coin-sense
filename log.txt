@@ -4352,3 +4352,4 @@
 83952. perf: cache repeated calculations #83952
 8544. perf: cache repeated calculations #8544
 2764. chore: bump dependencies #2764
+99477. feat: add export to CSV option #99477
