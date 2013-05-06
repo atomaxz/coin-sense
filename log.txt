@@ -7327,3 +7327,4 @@
 6056. docs: document token refresh logic #6056
 30332. chore: bump dependencies #30332
 32171. style: reformat files with black #32171
+19561. fix: fix broken CSS in mobile view #19561
