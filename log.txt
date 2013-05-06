@@ -7328,3 +7328,4 @@
 30332. chore: bump dependencies #30332
 32171. style: reformat files with black #32171
 19561. fix: fix broken CSS in mobile view #19561
+54829. perf: optimize database query for quiz results #54829
