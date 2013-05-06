@@ -3356,3 +3356,4 @@
 10949. style: reformat files with black #10949
 48273. test: increase coverage on auth module #48273
 99467. docs: add API usage examples #99467
+1387. fix: resolve issue with date parsing #1387
