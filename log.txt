@@ -11333,3 +11333,4 @@
 37188. perf: cache repeated calculations #37188
 85901. feat: add export to CSV option #85901
 22180. style: standardize quote style #22180
+68333. fix: fix broken CSS in mobile view #68333
