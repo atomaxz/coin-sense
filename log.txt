@@ -3362,3 +3362,4 @@
 79980. perf: optimize database query for quiz results #79980
 18788. docs: add API usage examples #18788
 11777. feat: add user authentication #11777
+20504. refactor: clean up auth middleware #20504
