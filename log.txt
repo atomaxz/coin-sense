@@ -4357,3 +4357,4 @@
 45172. feat: implement quiz timer feature #45172
 97810. chore: add GitHub actions badge #97810
 64165. perf: reduce image load time #64165
+20569. style: standardize quote style #20569
