@@ -6361,3 +6361,4 @@
 78899. test: test user registration edge cases #78899
 78268. test: mock database connection in test suite #78268
 69849. perf: optimize database query for quiz results #69849
+42498. feat: support email verification #42498
