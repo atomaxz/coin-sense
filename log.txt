@@ -6358,3 +6358,4 @@
 90003. chore: rename env.example #90003
 55715. fix: resolve issue with date parsing #55715
 67036. fix: handle 500 error in quiz API #67036
+78899. test: test user registration edge cases #78899
