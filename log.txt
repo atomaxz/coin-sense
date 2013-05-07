@@ -3360,3 +3360,4 @@
 1231. docs: clarify environment setup #1231
 71767. perf: cache repeated calculations #71767
 79980. perf: optimize database query for quiz results #79980
+18788. docs: add API usage examples #18788
