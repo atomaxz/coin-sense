@@ -2327,3 +2327,4 @@
 87373. feat: implement quiz timer feature #87373
 45630. perf: reduce image load time #45630
 78823. chore: bump dependencies #78823
+1617. fix: prevent crash on empty input #1617
