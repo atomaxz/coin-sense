@@ -9356,3 +9356,4 @@
 46700. perf: cache repeated calculations #46700
 29630. chore: clean up unused files #29630
 82932. perf: lazy-load components #82932
+58659. docs: update README with setup steps #58659
