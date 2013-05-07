@@ -8353,3 +8353,4 @@
 62685. fix: correct typo in registration form #62685
 45627. perf: optimize database query for quiz results #45627
 86607. fix: correct typo in registration form #86607
+75293. feat: add export to CSV option #75293
