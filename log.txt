@@ -363,3 +363,4 @@
 96562. feat: add export to CSV option #96562
 54090. fix: prevent crash on empty input #54090
 79601. perf: cache repeated calculations #79601
+69638. style: reformat files with black #69638
