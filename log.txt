@@ -10340,3 +10340,4 @@
 95370. chore: update .gitignore #95370
 59426. test: add integration test for /submit endpoint #59426
 36661. perf: lazy-load components #36661
+44302. perf: reduce image load time #44302
