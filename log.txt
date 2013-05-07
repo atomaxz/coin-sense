@@ -6362,3 +6362,4 @@
 78268. test: mock database connection in test suite #78268
 69849. perf: optimize database query for quiz results #69849
 42498. feat: support email verification #42498
+67565. feat: support email verification #67565
