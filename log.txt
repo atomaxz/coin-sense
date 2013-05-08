@@ -4360,3 +4360,4 @@
 20569. style: standardize quote style #20569
 16211. fix: prevent crash on empty input #16211
 54907. perf: reduce image load time #54907
+27541. fix: prevent crash on empty input #27541
