@@ -3364,3 +3364,4 @@
 11777. feat: add user authentication #11777
 20504. refactor: clean up auth middleware #20504
 26607. feat: support email verification #26607
+50642. perf: lazy-load components #50642
