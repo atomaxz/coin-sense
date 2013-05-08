@@ -11336,3 +11336,4 @@
 68333. fix: fix broken CSS in mobile view #68333
 49487. docs: improve code comments in utils #49487
 64268. style: rename variables for clarity #64268
+65464. refactor: clean up auth middleware #65464
