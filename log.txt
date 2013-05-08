@@ -4362,3 +4362,4 @@
 54907. perf: reduce image load time #54907
 27541. fix: prevent crash on empty input #27541
 10538. chore: update .gitignore #10538
+61336. test: add integration test for /submit endpoint #61336
