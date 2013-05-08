@@ -8357,3 +8357,4 @@
 85299. docs: update README with setup steps #85299
 17673. perf: reduce image load time #17673
 78534. test: increase coverage on auth module #78534
+27317. feat: add user authentication #27317
