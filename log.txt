@@ -7330,3 +7330,4 @@
 19561. fix: fix broken CSS in mobile view #19561
 54829. perf: optimize database query for quiz results #54829
 40040. refactor: split large controller into smaller functions #40040
+41670. fix: prevent crash on empty input #41670
