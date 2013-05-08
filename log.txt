@@ -4363,3 +4363,4 @@
 27541. fix: prevent crash on empty input #27541
 10538. chore: update .gitignore #10538
 61336. test: add integration test for /submit endpoint #61336
+77625. chore: bump dependencies #77625
