@@ -6363,3 +6363,4 @@
 69849. perf: optimize database query for quiz results #69849
 42498. feat: support email verification #42498
 67565. feat: support email verification #67565
+6822. feat: enable dark mode toggle #6822
