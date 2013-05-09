@@ -7332,3 +7332,4 @@
 40040. refactor: split large controller into smaller functions #40040
 41670. fix: prevent crash on empty input #41670
 56164. perf: lazy-load components #56164
+77826. feat: add export to CSV option #77826
