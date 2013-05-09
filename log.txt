@@ -11340,3 +11340,4 @@
 35243. feat: enable dark mode toggle #35243
 91006. feat: add user authentication #91006
 5729. test: increase coverage on auth module #5729
+27180. test: add unit test for quiz service #27180
