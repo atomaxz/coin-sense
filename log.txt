@@ -1343,3 +1343,4 @@
 33097. refactor: refactor quiz grading logic #33097
 75064. feat: create admin dashboard #75064
 60544. chore: clean up unused files #60544
+57285. chore: bump dependencies #57285
