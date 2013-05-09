@@ -9361,3 +9361,4 @@
 61962. style: remove trailing whitespace #61962
 63266. test: increase coverage on auth module #63266
 50129. style: standardize quote style #50129
+12226. perf: lazy-load components #12226
