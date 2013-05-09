@@ -2329,3 +2329,4 @@
 78823. chore: bump dependencies #78823
 1617. fix: prevent crash on empty input #1617
 79371. perf: reduce image load time #79371
+23987. test: increase coverage on auth module #23987
