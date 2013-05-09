@@ -6368,3 +6368,4 @@
 16021. chore: bump dependencies #16021
 12171. style: standardize quote style #12171
 75957. feat: implement quiz timer feature #75957
+20274. fix: correct typo in registration form #20274
