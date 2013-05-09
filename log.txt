@@ -1341,3 +1341,4 @@
 63826. refactor: split large controller into smaller functions #63826
 61013. feat: enable dark mode toggle #61013
 33097. refactor: refactor quiz grading logic #33097
+75064. feat: create admin dashboard #75064
