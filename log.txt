@@ -6366,3 +6366,4 @@
 6822. feat: enable dark mode toggle #6822
 34077. docs: update README with setup steps #34077
 16021. chore: bump dependencies #16021
+12171. style: standardize quote style #12171
