@@ -11342,3 +11342,4 @@
 5729. test: increase coverage on auth module #5729
 27180. test: add unit test for quiz service #27180
 28664. docs: write FAQ section #28664
+64575. test: test user registration edge cases #64575
