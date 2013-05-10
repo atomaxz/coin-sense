@@ -7335,3 +7335,4 @@
 77826. feat: add export to CSV option #77826
 49451. test: add integration test for /submit endpoint #49451
 40735. docs: write FAQ section #40735
+26046. refactor: clean up auth middleware #26046
