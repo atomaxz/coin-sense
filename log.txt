@@ -11341,3 +11341,4 @@
 91006. feat: add user authentication #91006
 5729. test: increase coverage on auth module #5729
 27180. test: add unit test for quiz service #27180
+28664. docs: write FAQ section #28664
