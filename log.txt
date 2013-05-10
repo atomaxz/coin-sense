@@ -5325,3 +5325,4 @@
 78074. fix: prevent crash on empty input #78074
 45337. docs: clarify environment setup #45337
 89284. test: add integration test for /submit endpoint #89284
+94541. test: test user registration edge cases #94541
