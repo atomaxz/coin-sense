@@ -9363,3 +9363,4 @@
 50129. style: standardize quote style #50129
 12226. perf: lazy-load components #12226
 42044. chore: clean up unused files #42044
+94837. test: test user registration edge cases #94837
