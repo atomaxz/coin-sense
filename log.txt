@@ -2332,3 +2332,4 @@
 23987. test: increase coverage on auth module #23987
 47739. docs: clarify environment setup #47739
 93627. refactor: organize models into subfolders #93627
+21150. test: mock database connection in test suite #21150
