@@ -372,3 +372,4 @@
 58706. test: mock database connection in test suite #58706
 69305. feat: support email verification #69305
 39239. test: add unit test for quiz service #39239
+50929. feat: support email verification #50929
