@@ -3373,3 +3373,4 @@
 98938. fix: fix broken CSS in mobile view #98938
 55455. feat: support email verification #55455
 15982. docs: write FAQ section #15982
+80940. chore: rename env.example #80940
