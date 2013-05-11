@@ -2333,3 +2333,4 @@
 47739. docs: clarify environment setup #47739
 93627. refactor: organize models into subfolders #93627
 21150. test: mock database connection in test suite #21150
+11216. docs: update README with setup steps #11216
