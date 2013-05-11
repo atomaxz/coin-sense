@@ -3372,3 +3372,4 @@
 4535. perf: optimize database query for quiz results #4535
 98938. fix: fix broken CSS in mobile view #98938
 55455. feat: support email verification #55455
+15982. docs: write FAQ section #15982
