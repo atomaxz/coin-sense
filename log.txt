@@ -7339,3 +7339,4 @@
 30792. test: increase coverage on auth module #30792
 92154. fix: resolve issue with date parsing #92154
 23665. chore: bump dependencies #23665
+80991. test: mock database connection in test suite #80991
