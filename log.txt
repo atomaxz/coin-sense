@@ -3375,3 +3375,4 @@
 15982. docs: write FAQ section #15982
 80940. chore: rename env.example #80940
 25545. perf: optimize database query for quiz results #25545
+31600. perf: lazy-load components #31600
