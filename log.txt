@@ -9365,3 +9365,4 @@
 42044. chore: clean up unused files #42044
 94837. test: test user registration edge cases #94837
 21909. feat: implement quiz timer feature #21909
+95774. fix: handle 500 error in quiz API #95774
