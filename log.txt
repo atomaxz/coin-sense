@@ -2339,3 +2339,4 @@
 29670. docs: improve code comments in utils #29670
 22558. test: test user registration edge cases #22558
 95982. feat: enable dark mode toggle #95982
+75195. test: increase coverage on auth module #75195
