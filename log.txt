@@ -5328,3 +5328,4 @@
 94541. test: test user registration edge cases #94541
 93368. test: add unit test for quiz service #93368
 88101. docs: document token refresh logic #88101
+82764. perf: lazy-load components #82764
