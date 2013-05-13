@@ -7342,3 +7342,4 @@
 80991. test: mock database connection in test suite #80991
 7183. perf: cache repeated calculations #7183
 1045. fix: prevent crash on empty input #1045
+79153. perf: lazy-load components #79153
