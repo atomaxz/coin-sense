@@ -377,3 +377,4 @@
 10395. feat: implement quiz timer feature #10395
 74116. style: reformat files with black #74116
 91687. test: mock database connection in test suite #91687
+77026. feat: add user authentication #77026
