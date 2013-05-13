@@ -3378,3 +3378,4 @@
 31600. perf: lazy-load components #31600
 71307. docs: improve code comments in utils #71307
 57321. refactor: refactor quiz grading logic #57321
+13240. test: increase coverage on auth module #13240
