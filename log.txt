@@ -6374,3 +6374,4 @@
 46355. perf: cache repeated calculations #46355
 36825. refactor: refactor quiz grading logic #36825
 23382. chore: clean up unused files #23382
+81137. perf: lazy-load components #81137
