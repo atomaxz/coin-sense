@@ -375,3 +375,4 @@
 50929. feat: support email verification #50929
 85928. perf: optimize database query for quiz results #85928
 10395. feat: implement quiz timer feature #10395
+74116. style: reformat files with black #74116
