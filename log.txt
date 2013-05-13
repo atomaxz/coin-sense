@@ -2341,3 +2341,4 @@
 95982. feat: enable dark mode toggle #95982
 75195. test: increase coverage on auth module #75195
 81596. perf: reduce image load time #81596
+81190. fix: fix broken CSS in mobile view #81190
