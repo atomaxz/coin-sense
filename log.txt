@@ -379,3 +379,4 @@
 91687. test: mock database connection in test suite #91687
 77026. feat: add user authentication #77026
 61111. test: mock database connection in test suite #61111
+77053. perf: lazy-load components #77053
