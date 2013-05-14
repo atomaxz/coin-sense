@@ -11353,3 +11353,4 @@
 89886. chore: add GitHub actions badge #89886
 41197. feat: create admin dashboard #41197
 67510. feat: add user authentication #67510
+0891. perf: lazy-load components #891
