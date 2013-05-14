@@ -7347,3 +7347,4 @@
 28952. chore: bump dependencies #28952
 45348. test: add integration test for /submit endpoint #45348
 3119. fix: resolve issue with date parsing #3119
+91320. fix: fix broken CSS in mobile view #91320
