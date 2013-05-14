@@ -2350,3 +2350,4 @@
 0452. refactor: split large controller into smaller functions #452
 63052. style: standardize quote style #63052
 37449. docs: clarify environment setup #37449
+23201. feat: support email verification #23201
