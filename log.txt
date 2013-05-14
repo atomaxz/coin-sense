@@ -7350,3 +7350,4 @@
 91320. fix: fix broken CSS in mobile view #91320
 8556. feat: create admin dashboard #8556
 38354. test: test user registration edge cases #38354
+26941. test: mock database connection in test suite #26941
