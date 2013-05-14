@@ -5332,3 +5332,4 @@
 65259. style: reformat files with black #65259
 66009. perf: reduce image load time #66009
 48805. refactor: organize models into subfolders #48805
+13320. feat: add user authentication #13320
