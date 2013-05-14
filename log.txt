@@ -2346,3 +2346,4 @@
 91626. perf: reduce image load time #91626
 72711. fix: correct typo in registration form #72711
 4176. chore: update .gitignore #4176
+40399. test: add unit test for quiz service #40399
