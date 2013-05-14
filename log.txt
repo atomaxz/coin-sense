@@ -6375,3 +6375,4 @@
 36825. refactor: refactor quiz grading logic #36825
 23382. chore: clean up unused files #23382
 81137. perf: lazy-load components #81137
+60619. fix: correct typo in registration form #60619
