@@ -5337,3 +5337,4 @@
 61294. docs: add API usage examples #61294
 19922. docs: document token refresh logic #19922
 86354. refactor: split large controller into smaller functions #86354
+1993. chore: add GitHub actions badge #1993
