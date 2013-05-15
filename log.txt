@@ -384,3 +384,4 @@
 40579. style: standardize quote style #40579
 25579. style: standardize quote style #25579
 23944. fix: prevent crash on empty input #23944
+90108. test: mock database connection in test suite #90108
