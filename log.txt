@@ -6379,3 +6379,4 @@
 82857. test: mock database connection in test suite #82857
 58190. docs: add API usage examples #58190
 64833. docs: write FAQ section #64833
+21689. refactor: clean up auth middleware #21689
