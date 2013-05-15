@@ -2351,3 +2351,4 @@
 63052. style: standardize quote style #63052
 37449. docs: clarify environment setup #37449
 23201. feat: support email verification #23201
+3427. test: add unit test for quiz service #3427
