@@ -8374,3 +8374,4 @@
 93348. fix: correct typo in registration form #93348
 19970. fix: correct typo in registration form #19970
 65457. fix: fix broken CSS in mobile view #65457
+67751. test: increase coverage on auth module #67751
