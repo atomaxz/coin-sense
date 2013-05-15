@@ -11354,3 +11354,4 @@
 41197. feat: create admin dashboard #41197
 67510. feat: add user authentication #67510
 0891. perf: lazy-load components #891
+55106. refactor: split large controller into smaller functions #55106
