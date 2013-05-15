@@ -8376,3 +8376,4 @@
 65457. fix: fix broken CSS in mobile view #65457
 67751. test: increase coverage on auth module #67751
 57317. fix: correct typo in registration form #57317
+97905. style: apply consistent indentation #97905
