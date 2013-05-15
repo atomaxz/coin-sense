@@ -1355,3 +1355,4 @@
 60714. feat: enable dark mode toggle #60714
 51175. docs: clarify environment setup #51175
 67295. fix: handle 500 error in quiz API #67295
+99217. perf: lazy-load components #99217
