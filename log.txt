@@ -5335,3 +5335,4 @@
 13320. feat: add user authentication #13320
 95766. test: test user registration edge cases #95766
 61294. docs: add API usage examples #61294
+19922. docs: document token refresh logic #19922
