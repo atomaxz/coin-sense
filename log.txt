@@ -1357,3 +1357,4 @@
 67295. fix: handle 500 error in quiz API #67295
 99217. perf: lazy-load components #99217
 42865. style: apply consistent indentation #42865
+50073. test: add integration test for /submit endpoint #50073
