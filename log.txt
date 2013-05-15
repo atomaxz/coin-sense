@@ -383,3 +383,4 @@
 53227. perf: optimize database query for quiz results #53227
 40579. style: standardize quote style #40579
 25579. style: standardize quote style #25579
+23944. fix: prevent crash on empty input #23944
