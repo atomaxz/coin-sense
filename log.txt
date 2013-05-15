@@ -1356,3 +1356,4 @@
 51175. docs: clarify environment setup #51175
 67295. fix: handle 500 error in quiz API #67295
 99217. perf: lazy-load components #99217
+42865. style: apply consistent indentation #42865
