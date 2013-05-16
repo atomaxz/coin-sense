@@ -7353,3 +7353,4 @@
 26941. test: mock database connection in test suite #26941
 59222. fix: handle 500 error in quiz API #59222
 47878. docs: clarify environment setup #47878
+24393. chore: rename env.example #24393
