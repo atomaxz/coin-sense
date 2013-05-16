@@ -8378,3 +8378,4 @@
 57317. fix: correct typo in registration form #57317
 97905. style: apply consistent indentation #97905
 32388. feat: add export to CSV option #32388
+60816. test: test user registration edge cases #60816
