@@ -386,3 +386,4 @@
 23944. fix: prevent crash on empty input #23944
 90108. test: mock database connection in test suite #90108
 62457. fix: fix null pointer exception on login #62457
+43809. fix: fix broken CSS in mobile view #43809
