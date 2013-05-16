@@ -11358,3 +11358,4 @@
 5068. chore: update .gitignore #5068
 51602. docs: document token refresh logic #51602
 75354. refactor: clean up auth middleware #75354
+74644. perf: reduce image load time #74644
