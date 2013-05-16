@@ -2355,3 +2355,4 @@
 66267. chore: add GitHub actions badge #66267
 39233. perf: reduce image load time #39233
 64872. style: standardize quote style #64872
+21874. refactor: clean up auth middleware #21874
