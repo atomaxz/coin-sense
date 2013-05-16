@@ -4386,3 +4386,4 @@
 80325. test: test user registration edge cases #80325
 16094. docs: add API usage examples #16094
 16235. fix: fix broken CSS in mobile view #16235
+65232. style: apply consistent indentation #65232
