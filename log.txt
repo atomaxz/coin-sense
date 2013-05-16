@@ -11360,3 +11360,4 @@
 75354. refactor: clean up auth middleware #75354
 74644. perf: reduce image load time #74644
 81640. chore: clean up unused files #81640
+47002. refactor: clean up auth middleware #47002
