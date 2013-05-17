@@ -8384,3 +8384,4 @@
 29678. feat: implement quiz timer feature #29678
 98032. style: rename variables for clarity #98032
 17462. perf: optimize database query for quiz results #17462
+94825. perf: reduce image load time #94825
