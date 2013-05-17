@@ -4388,3 +4388,4 @@
 16235. fix: fix broken CSS in mobile view #16235
 65232. style: apply consistent indentation #65232
 57568. feat: support email verification #57568
+24771. docs: clarify environment setup #24771
