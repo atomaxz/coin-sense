@@ -9372,3 +9372,4 @@
 44695. docs: clarify environment setup #44695
 57727. refactor: split large controller into smaller functions #57727
 89074. feat: create admin dashboard #89074
+99391. fix: fix broken CSS in mobile view #99391
