@@ -4392,3 +4392,4 @@
 33075. feat: add export to CSV option #33075
 3324. fix: fix broken CSS in mobile view #3324
 72623. refactor: remove redundant code blocks #72623
+45451. chore: bump dependencies #45451
