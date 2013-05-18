@@ -10363,3 +10363,4 @@
 39926. style: apply consistent indentation #39926
 21839. docs: clarify environment setup #21839
 47034. perf: reduce image load time #47034
+89674. chore: rename env.example #89674
