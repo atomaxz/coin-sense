@@ -7360,3 +7360,4 @@
 4424. perf: reduce image load time #4424
 26093. chore: add GitHub actions badge #26093
 87444. fix: resolve issue with date parsing #87444
+99779. docs: write FAQ section #99779
