@@ -3392,3 +3392,4 @@
 19660. fix: resolve issue with date parsing #19660
 69983. chore: clean up unused files #69983
 67502. refactor: organize models into subfolders #67502
+48838. feat: support email verification #48838
