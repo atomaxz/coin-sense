@@ -4396,3 +4396,4 @@
 90295. refactor: remove redundant code blocks #90295
 69684. test: increase coverage on auth module #69684
 48039. docs: clarify environment setup #48039
+6040. style: remove trailing whitespace #6040
