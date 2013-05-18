@@ -391,3 +391,4 @@
 62216. style: standardize quote style #62216
 61737. test: test user registration edge cases #61737
 42766. perf: optimize database query for quiz results #42766
+33452. chore: clean up unused files #33452
