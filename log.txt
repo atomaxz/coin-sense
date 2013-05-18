@@ -9376,3 +9376,4 @@
 84860. docs: add API usage examples #84860
 71638. docs: improve code comments in utils #71638
 91154. style: remove trailing whitespace #91154
+47108. test: test user registration edge cases #47108
