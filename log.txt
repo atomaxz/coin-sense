@@ -5343,3 +5343,4 @@
 86623. feat: enable dark mode toggle #86623
 93263. chore: rename env.example #93263
 47454. chore: add GitHub actions badge #47454
+39505. feat: add user authentication #39505
