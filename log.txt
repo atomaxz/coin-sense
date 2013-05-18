@@ -6382,3 +6382,4 @@
 21689. refactor: clean up auth middleware #21689
 70826. chore: bump dependencies #70826
 51872. fix: fix broken CSS in mobile view #51872
+34385. test: add unit test for quiz service #34385
