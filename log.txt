@@ -395,3 +395,4 @@
 11225. fix: prevent crash on empty input #11225
 55358. perf: reduce image load time #55358
 66160. chore: rename env.example #66160
+64063. docs: clarify environment setup #64063
