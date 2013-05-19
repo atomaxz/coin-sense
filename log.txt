@@ -11368,3 +11368,4 @@
 17561. fix: fix null pointer exception on login #17561
 95021. chore: update .gitignore #95021
 56224. chore: clean up unused files #56224
+39327. test: add integration test for /submit endpoint #39327
