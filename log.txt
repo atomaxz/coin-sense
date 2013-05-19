@@ -3393,3 +3393,4 @@
 69983. chore: clean up unused files #69983
 67502. refactor: organize models into subfolders #67502
 48838. feat: support email verification #48838
+16660. fix: fix null pointer exception on login #16660
