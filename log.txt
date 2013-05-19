@@ -9380,3 +9380,4 @@
 38874. perf: optimize database query for quiz results #38874
 15216. test: increase coverage on auth module #15216
 87423. docs: write FAQ section #87423
+22520. test: add unit test for quiz service #22520
