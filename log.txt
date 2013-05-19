@@ -6383,3 +6383,4 @@
 70826. chore: bump dependencies #70826
 51872. fix: fix broken CSS in mobile view #51872
 34385. test: add unit test for quiz service #34385
+14179. test: add integration test for /submit endpoint #14179
