@@ -3395,3 +3395,4 @@
 48838. feat: support email verification #48838
 16660. fix: fix null pointer exception on login #16660
 10091. docs: write FAQ section #10091
+19188. style: remove trailing whitespace #19188
