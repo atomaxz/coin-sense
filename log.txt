@@ -2361,3 +2361,4 @@
 50392. fix: handle 500 error in quiz API #50392
 27694. refactor: remove redundant code blocks #27694
 6631. feat: support email verification #6631
+2484. perf: cache repeated calculations #2484
