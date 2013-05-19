@@ -10365,3 +10365,4 @@
 47034. perf: reduce image load time #47034
 89674. chore: rename env.example #89674
 35688. feat: implement quiz timer feature #35688
+38434. perf: lazy-load components #38434
