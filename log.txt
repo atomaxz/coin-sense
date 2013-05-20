@@ -4402,3 +4402,4 @@
 78351. perf: lazy-load components #78351
 46149. feat: enable dark mode toggle #46149
 3912. chore: bump dependencies #3912
+2044. fix: prevent crash on empty input #2044
