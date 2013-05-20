@@ -9389,3 +9389,4 @@
 81115. fix: handle 500 error in quiz API #81115
 66191. chore: update .gitignore #66191
 90619. chore: rename env.example #90619
+5447. refactor: remove redundant code blocks #5447
