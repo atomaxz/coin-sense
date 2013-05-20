@@ -4399,3 +4399,4 @@
 6040. style: remove trailing whitespace #6040
 16502. test: mock database connection in test suite #16502
 76390. test: add integration test for /submit endpoint #76390
+78351. perf: lazy-load components #78351
