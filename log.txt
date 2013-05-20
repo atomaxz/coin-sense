@@ -9388,3 +9388,4 @@
 18374. fix: handle 500 error in quiz API #18374
 81115. fix: handle 500 error in quiz API #81115
 66191. chore: update .gitignore #66191
+90619. chore: rename env.example #90619
