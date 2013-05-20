@@ -9386,3 +9386,4 @@
 11782. docs: update README with setup steps #11782
 41593. refactor: refactor quiz grading logic #41593
 18374. fix: handle 500 error in quiz API #18374
+81115. fix: handle 500 error in quiz API #81115
