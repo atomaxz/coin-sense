@@ -7363,3 +7363,4 @@
 99779. docs: write FAQ section #99779
 87642. chore: update .gitignore #87642
 74522. docs: clarify environment setup #74522
+83827. test: add integration test for /submit endpoint #83827
