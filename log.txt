@@ -9385,3 +9385,4 @@
 57469. feat: create admin dashboard #57469
 11782. docs: update README with setup steps #11782
 41593. refactor: refactor quiz grading logic #41593
+18374. fix: handle 500 error in quiz API #18374
