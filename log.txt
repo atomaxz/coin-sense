@@ -1367,3 +1367,4 @@
 40446. refactor: split large controller into smaller functions #40446
 67037. style: rename variables for clarity #67037
 44218. fix: fix null pointer exception on login #44218
+5817. refactor: remove redundant code blocks #5817
