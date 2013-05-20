@@ -4398,3 +4398,4 @@
 48039. docs: clarify environment setup #48039
 6040. style: remove trailing whitespace #6040
 16502. test: mock database connection in test suite #16502
+76390. test: add integration test for /submit endpoint #76390
