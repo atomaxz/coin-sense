@@ -7364,3 +7364,4 @@
 87642. chore: update .gitignore #87642
 74522. docs: clarify environment setup #74522
 83827. test: add integration test for /submit endpoint #83827
+7341. fix: resolve issue with date parsing #7341
