@@ -2368,3 +2368,4 @@
 6642. fix: fix broken CSS in mobile view #6642
 6377. feat: add export to CSV option #6377
 92607. fix: fix broken CSS in mobile view #92607
+73516. test: add unit test for quiz service #73516
