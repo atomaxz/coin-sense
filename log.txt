@@ -9390,3 +9390,4 @@
 66191. chore: update .gitignore #66191
 90619. chore: rename env.example #90619
 5447. refactor: remove redundant code blocks #5447
+7522. style: apply consistent indentation #7522
