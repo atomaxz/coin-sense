@@ -1369,3 +1369,4 @@
 44218. fix: fix null pointer exception on login #44218
 5817. refactor: remove redundant code blocks #5817
 96847. fix: fix broken CSS in mobile view #96847
+13816. fix: fix broken CSS in mobile view #13816
