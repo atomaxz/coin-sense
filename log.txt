@@ -2367,3 +2367,4 @@
 59083. test: increase coverage on auth module #59083
 6642. fix: fix broken CSS in mobile view #6642
 6377. feat: add export to CSV option #6377
+92607. fix: fix broken CSS in mobile view #92607
