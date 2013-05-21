@@ -8395,3 +8395,4 @@
 80631. style: standardize quote style #80631
 17852. refactor: organize models into subfolders #17852
 56322. test: increase coverage on auth module #56322
+47546. perf: reduce image load time #47546
