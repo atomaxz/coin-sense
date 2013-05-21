@@ -399,3 +399,4 @@
 36584. fix: correct typo in registration form #36584
 53774. refactor: remove redundant code blocks #53774
 32915. feat: support email verification #32915
+37295. docs: update README with setup steps #37295
