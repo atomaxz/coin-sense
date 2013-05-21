@@ -1371,3 +1371,4 @@
 96847. fix: fix broken CSS in mobile view #96847
 13816. fix: fix broken CSS in mobile view #13816
 40101. chore: clean up unused files #40101
+34564. test: add integration test for /submit endpoint #34564
