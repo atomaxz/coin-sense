@@ -4404,3 +4404,4 @@
 3912. chore: bump dependencies #3912
 2044. fix: prevent crash on empty input #2044
 61928. fix: prevent crash on empty input #61928
+62567. chore: rename env.example #62567
