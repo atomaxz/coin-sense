@@ -1370,3 +1370,4 @@
 5817. refactor: remove redundant code blocks #5817
 96847. fix: fix broken CSS in mobile view #96847
 13816. fix: fix broken CSS in mobile view #13816
+40101. chore: clean up unused files #40101
