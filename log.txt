@@ -10368,3 +10368,4 @@
 38434. perf: lazy-load components #38434
 9183. fix: handle 500 error in quiz API #9183
 93769. style: standardize quote style #93769
+40808. fix: fix broken CSS in mobile view #40808
