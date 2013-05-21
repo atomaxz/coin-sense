@@ -2370,3 +2370,4 @@
 92607. fix: fix broken CSS in mobile view #92607
 73516. test: add unit test for quiz service #73516
 65195. perf: cache repeated calculations #65195
+25697. fix: prevent crash on empty input #25697
