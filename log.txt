@@ -3403,3 +3403,4 @@
 42638. perf: lazy-load components #42638
 35188. test: increase coverage on auth module #35188
 33672. style: rename variables for clarity #33672
+47056. docs: document token refresh logic #47056
