@@ -1373,3 +1373,4 @@
 40101. chore: clean up unused files #40101
 34564. test: add integration test for /submit endpoint #34564
 94904. docs: write FAQ section #94904
+50733. chore: add GitHub actions badge #50733
