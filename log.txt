@@ -3401,3 +3401,4 @@
 23743. feat: add export to CSV option #23743
 47490. docs: add API usage examples #47490
 42638. perf: lazy-load components #42638
+35188. test: increase coverage on auth module #35188
