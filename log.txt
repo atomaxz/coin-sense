@@ -6396,3 +6396,4 @@
 29516. docs: write FAQ section #29516
 7633. test: increase coverage on auth module #7633
 49411. fix: fix broken CSS in mobile view #49411
+46317. fix: correct typo in registration form #46317
