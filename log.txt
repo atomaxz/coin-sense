@@ -9394,3 +9394,4 @@
 81321. test: add integration test for /submit endpoint #81321
 71767. perf: cache repeated calculations #71767
 16741. test: add integration test for /submit endpoint #16741
+22396. docs: document token refresh logic #22396
