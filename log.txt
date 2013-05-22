@@ -7372,3 +7372,4 @@
 31678. feat: add export to CSV option #31678
 25075. feat: enable dark mode toggle #25075
 7540. feat: add user authentication #7540
+43084. chore: clean up unused files #43084
