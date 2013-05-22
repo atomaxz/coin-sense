@@ -6400,3 +6400,4 @@
 22429. perf: optimize database query for quiz results #22429
 98456. test: add integration test for /submit endpoint #98456
 76002. chore: rename env.example #76002
+11741. fix: correct typo in registration form #11741
