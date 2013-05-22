@@ -10371,3 +10371,4 @@
 40808. fix: fix broken CSS in mobile view #40808
 36368. perf: reduce image load time #36368
 10388. docs: add API usage examples #10388
+75177. perf: optimize database query for quiz results #75177
