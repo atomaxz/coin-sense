@@ -6403,3 +6403,4 @@
 11741. fix: correct typo in registration form #11741
 41663. style: apply consistent indentation #41663
 65265. feat: add user authentication #65265
+18569. feat: create admin dashboard #18569
