@@ -6404,3 +6404,4 @@
 41663. style: apply consistent indentation #41663
 65265. feat: add user authentication #65265
 18569. feat: create admin dashboard #18569
+74282. perf: optimize database query for quiz results #74282
