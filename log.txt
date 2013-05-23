@@ -2373,3 +2373,4 @@
 25697. fix: prevent crash on empty input #25697
 66866. chore: clean up unused files #66866
 76357. feat: add user authentication #76357
+10742. fix: correct typo in registration form #10742
