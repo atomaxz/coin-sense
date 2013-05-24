@@ -405,3 +405,4 @@
 51018. refactor: refactor quiz grading logic #51018
 82978. feat: add export to CSV option #82978
 34793. fix: correct typo in registration form #34793
+23782. chore: bump dependencies #23782
