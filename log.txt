@@ -2376,3 +2376,4 @@
 10742. fix: correct typo in registration form #10742
 29712. chore: rename env.example #29712
 79438. test: test user registration edge cases #79438
+99495. docs: document token refresh logic #99495
