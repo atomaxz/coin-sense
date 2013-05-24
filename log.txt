@@ -5357,3 +5357,4 @@
 55259. test: add integration test for /submit endpoint #55259
 3787. docs: update README with setup steps #3787
 95192. test: add unit test for quiz service #95192
+71420. perf: reduce image load time #71420
