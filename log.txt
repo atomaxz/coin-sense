@@ -1375,3 +1375,4 @@
 94904. docs: write FAQ section #94904
 50733. chore: add GitHub actions badge #50733
 4692. style: remove trailing whitespace #4692
+72066. chore: add GitHub actions badge #72066
