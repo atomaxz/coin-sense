@@ -4410,3 +4410,4 @@
 2781. chore: clean up unused files #2781
 2017. feat: enable dark mode toggle #2017
 62680. refactor: clean up auth middleware #62680
+25583. chore: add GitHub actions badge #25583
