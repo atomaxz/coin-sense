@@ -7375,3 +7375,4 @@
 43084. chore: clean up unused files #43084
 45922. refactor: remove redundant code blocks #45922
 86058. fix: fix broken CSS in mobile view #86058
+21630. style: standardize quote style #21630
