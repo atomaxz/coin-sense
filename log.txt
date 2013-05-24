@@ -3407,3 +3407,4 @@
 78043. style: standardize quote style #78043
 38928. test: add unit test for quiz service #38928
 59091. chore: bump dependencies #59091
+23381. test: test user registration edge cases #23381
