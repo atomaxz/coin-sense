@@ -3409,3 +3409,4 @@
 59091. chore: bump dependencies #59091
 23381. test: test user registration edge cases #23381
 45663. test: increase coverage on auth module #45663
+81564. refactor: clean up auth middleware #81564
