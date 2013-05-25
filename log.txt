@@ -11388,3 +11388,4 @@
 79005. style: apply consistent indentation #79005
 48635. fix: handle 500 error in quiz API #48635
 78012. feat: add user authentication #78012
+94779. test: add unit test for quiz service #94779
