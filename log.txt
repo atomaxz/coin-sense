@@ -3408,3 +3408,4 @@
 38928. test: add unit test for quiz service #38928
 59091. chore: bump dependencies #59091
 23381. test: test user registration edge cases #23381
+45663. test: increase coverage on auth module #45663
