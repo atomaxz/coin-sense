@@ -10381,3 +10381,4 @@
 83961. style: reformat files with black #83961
 59540. docs: write FAQ section #59540
 10783. chore: rename env.example #10783
+0090. fix: correct typo in registration form #90
