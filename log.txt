@@ -2382,3 +2382,4 @@
 62345. fix: resolve issue with date parsing #62345
 35021. feat: add user authentication #35021
 78783. fix: fix broken CSS in mobile view #78783
+88656. test: increase coverage on auth module #88656
