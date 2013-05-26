@@ -7382,3 +7382,4 @@
 73053. docs: write FAQ section #73053
 87548. refactor: refactor quiz grading logic #87548
 1077. refactor: split large controller into smaller functions #1077
+63477. refactor: clean up auth middleware #63477
