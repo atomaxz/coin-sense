@@ -10386,3 +10386,4 @@
 43801. feat: enable dark mode toggle #43801
 27484. chore: clean up unused files #27484
 36735. docs: add API usage examples #36735
+7292. docs: write FAQ section #7292
