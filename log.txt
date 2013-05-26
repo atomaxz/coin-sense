@@ -2384,3 +2384,4 @@
 78783. fix: fix broken CSS in mobile view #78783
 88656. test: increase coverage on auth module #88656
 73216. style: remove trailing whitespace #73216
+85058. fix: handle 500 error in quiz API #85058
