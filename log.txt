@@ -2381,3 +2381,4 @@
 23791. style: standardize quote style #23791
 62345. fix: resolve issue with date parsing #62345
 35021. feat: add user authentication #35021
+78783. fix: fix broken CSS in mobile view #78783
