@@ -6412,3 +6412,4 @@
 88709. docs: improve code comments in utils #88709
 25139. test: add unit test for quiz service #25139
 85029. feat: enable dark mode toggle #85029
+10437. test: increase coverage on auth module #10437
