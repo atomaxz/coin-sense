@@ -9406,3 +9406,4 @@
 57063. fix: resolve issue with date parsing #57063
 34846. refactor: refactor quiz grading logic #34846
 32559. perf: reduce image load time #32559
+47803. perf: optimize database query for quiz results #47803
