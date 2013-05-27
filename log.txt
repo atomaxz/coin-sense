@@ -414,3 +414,4 @@
 86274. refactor: remove redundant code blocks #86274
 33983. perf: optimize database query for quiz results #33983
 74388. style: apply consistent indentation #74388
+42591. test: mock database connection in test suite #42591
