@@ -10388,3 +10388,4 @@
 36735. docs: add API usage examples #36735
 7292. docs: write FAQ section #7292
 24703. test: test user registration edge cases #24703
+81917. feat: add user authentication #81917
