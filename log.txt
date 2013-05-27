@@ -2388,3 +2388,4 @@
 41140. docs: add API usage examples #41140
 53000. chore: rename env.example #53000
 87136. docs: add API usage examples #87136
+45577. test: mock database connection in test suite #45577
