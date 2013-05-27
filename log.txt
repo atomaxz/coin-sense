@@ -415,3 +415,4 @@
 33983. perf: optimize database query for quiz results #33983
 74388. style: apply consistent indentation #74388
 42591. test: mock database connection in test suite #42591
+74805. feat: add export to CSV option #74805
