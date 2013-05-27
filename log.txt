@@ -1384,3 +1384,4 @@
 81104. perf: reduce image load time #81104
 3726. chore: add GitHub actions badge #3726
 29594. refactor: organize models into subfolders #29594
+22295. feat: enable dark mode toggle #22295
