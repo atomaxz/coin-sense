@@ -8411,3 +8411,4 @@
 96237. docs: add API usage examples #96237
 35406. feat: add user authentication #35406
 12209. perf: reduce image load time #12209
+57105. style: standardize quote style #57105
