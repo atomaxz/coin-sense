@@ -7387,3 +7387,4 @@
 88448. fix: handle 500 error in quiz API #88448
 1958. refactor: clean up auth middleware #1958
 4314. style: remove trailing whitespace #4314
+24578. perf: reduce image load time #24578
