@@ -418,3 +418,4 @@
 74805. feat: add export to CSV option #74805
 65563. refactor: refactor quiz grading logic #65563
 70267. fix: fix broken CSS in mobile view #70267
+5421. chore: add GitHub actions badge #5421
