@@ -1388,3 +1388,4 @@
 9101. feat: implement quiz timer feature #9101
 62284. fix: resolve issue with date parsing #62284
 40662. docs: document token refresh logic #40662
+49427. refactor: clean up auth middleware #49427
