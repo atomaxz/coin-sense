@@ -9410,3 +9410,4 @@
 80389. chore: clean up unused files #80389
 97927. perf: lazy-load components #97927
 92163. perf: reduce image load time #92163
+72208. test: test user registration edge cases #72208
