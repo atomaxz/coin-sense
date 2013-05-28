@@ -417,3 +417,4 @@
 42591. test: mock database connection in test suite #42591
 74805. feat: add export to CSV option #74805
 65563. refactor: refactor quiz grading logic #65563
+70267. fix: fix broken CSS in mobile view #70267
