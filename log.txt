@@ -7390,3 +7390,4 @@
 24578. perf: reduce image load time #24578
 89169. style: standardize quote style #89169
 81222. docs: document token refresh logic #81222
+99112. docs: write FAQ section #99112
