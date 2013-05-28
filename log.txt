@@ -6422,3 +6422,4 @@
 44018. refactor: remove redundant code blocks #44018
 73475. style: apply consistent indentation #73475
 23842. refactor: organize models into subfolders #23842
+81763. style: remove trailing whitespace #81763
