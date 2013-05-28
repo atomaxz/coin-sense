@@ -8415,3 +8415,4 @@
 0911. docs: clarify environment setup #911
 69529. style: standardize quote style #69529
 9409. style: apply consistent indentation #9409
+20032. fix: fix broken CSS in mobile view #20032
