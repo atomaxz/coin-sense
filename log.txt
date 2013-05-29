@@ -2391,3 +2391,4 @@
 45577. test: mock database connection in test suite #45577
 86632. test: increase coverage on auth module #86632
 12167. style: rename variables for clarity #12167
+80449. fix: prevent crash on empty input #80449
