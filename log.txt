@@ -1391,3 +1391,4 @@
 49427. refactor: clean up auth middleware #49427
 36333. feat: enable dark mode toggle #36333
 34258. perf: cache repeated calculations #34258
+94236. feat: support email verification #94236
