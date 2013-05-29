@@ -7396,3 +7396,4 @@
 62290. feat: support email verification #62290
 16495. feat: add export to CSV option #16495
 84911. test: increase coverage on auth module #84911
+66049. refactor: split large controller into smaller functions #66049
