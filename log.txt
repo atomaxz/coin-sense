@@ -11398,3 +11398,4 @@
 66983. test: test user registration edge cases #66983
 47446. docs: clarify environment setup #47446
 95312. fix: prevent crash on empty input #95312
+80505. chore: bump dependencies #80505
