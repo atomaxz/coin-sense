@@ -1392,3 +1392,4 @@
 36333. feat: enable dark mode toggle #36333
 34258. perf: cache repeated calculations #34258
 94236. feat: support email verification #94236
+2781. chore: clean up unused files #2781
