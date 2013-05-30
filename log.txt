@@ -8420,3 +8420,4 @@
 73769. style: apply consistent indentation #73769
 46499. style: apply consistent indentation #46499
 16844. chore: clean up unused files #16844
+57052. docs: document token refresh logic #57052
