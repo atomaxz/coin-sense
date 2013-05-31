@@ -4430,3 +4430,4 @@
 56706. style: standardize quote style #56706
 13873. test: add integration test for /submit endpoint #13873
 48202. style: remove trailing whitespace #48202
+20023. perf: lazy-load components #20023
