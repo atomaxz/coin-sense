@@ -7399,3 +7399,4 @@
 66049. refactor: split large controller into smaller functions #66049
 20846. refactor: organize models into subfolders #20846
 74868. feat: implement quiz timer feature #74868
+29941. perf: optimize database query for quiz results #29941
