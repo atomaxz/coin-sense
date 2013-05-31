@@ -8423,3 +8423,4 @@
 57052. docs: document token refresh logic #57052
 17161. fix: handle 500 error in quiz API #17161
 10067. test: increase coverage on auth module #10067
+56375. chore: bump dependencies #56375
