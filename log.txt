@@ -10403,3 +10403,4 @@
 55030. test: add integration test for /submit endpoint #55030
 43071. style: rename variables for clarity #43071
 49484. test: increase coverage on auth module #49484
+25318. feat: support email verification #25318
