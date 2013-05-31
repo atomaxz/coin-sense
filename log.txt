@@ -9416,3 +9416,4 @@
 86204. refactor: split large controller into smaller functions #86204
 56826. style: remove trailing whitespace #56826
 22305. style: remove trailing whitespace #22305
+50094. docs: update README with setup steps #50094
