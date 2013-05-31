@@ -10405,3 +10405,4 @@
 49484. test: increase coverage on auth module #49484
 25318. feat: support email verification #25318
 12350. feat: add export to CSV option #12350
+39556. test: test user registration edge cases #39556
