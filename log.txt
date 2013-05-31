@@ -9417,3 +9417,4 @@
 56826. style: remove trailing whitespace #56826
 22305. style: remove trailing whitespace #22305
 50094. docs: update README with setup steps #50094
+61785. fix: resolve issue with date parsing #61785
