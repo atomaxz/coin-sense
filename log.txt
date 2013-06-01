@@ -10408,3 +10408,4 @@
 39556. test: test user registration edge cases #39556
 57017. chore: add GitHub actions badge #57017
 37094. chore: rename env.example #37094
+42023. fix: correct typo in registration form #42023
