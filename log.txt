@@ -10410,3 +10410,4 @@
 37094. chore: rename env.example #37094
 42023. fix: correct typo in registration form #42023
 80988. style: remove trailing whitespace #80988
+5500. feat: support email verification #5500
