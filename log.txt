@@ -8426,3 +8426,4 @@
 56375. chore: bump dependencies #56375
 34433. refactor: split large controller into smaller functions #34433
 82643. style: rename variables for clarity #82643
+84837. feat: support email verification #84837
