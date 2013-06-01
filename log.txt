@@ -3435,3 +3435,4 @@
 67924. fix: fix null pointer exception on login #67924
 99333. refactor: organize models into subfolders #99333
 34798. refactor: remove redundant code blocks #34798
+6789. test: test user registration edge cases #6789
