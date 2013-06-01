@@ -2396,3 +2396,4 @@
 49800. feat: create admin dashboard #49800
 75144. docs: update README with setup steps #75144
 69652. feat: support email verification #69652
+2368. docs: update README with setup steps #2368
