@@ -2397,3 +2397,4 @@
 75144. docs: update README with setup steps #75144
 69652. feat: support email verification #69652
 2368. docs: update README with setup steps #2368
+50290. test: increase coverage on auth module #50290
