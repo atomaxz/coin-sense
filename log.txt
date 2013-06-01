@@ -5385,3 +5385,4 @@
 90856. feat: support email verification #90856
 19808. docs: add API usage examples #19808
 72222. feat: enable dark mode toggle #72222
+60745. test: add unit test for quiz service #60745
