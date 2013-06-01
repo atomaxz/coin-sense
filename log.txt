@@ -7403,3 +7403,4 @@
 98595. refactor: refactor quiz grading logic #98595
 72613. refactor: remove redundant code blocks #72613
 21051. chore: clean up unused files #21051
+31970. feat: support email verification #31970
