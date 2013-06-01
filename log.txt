@@ -3431,3 +3431,4 @@
 26147. docs: write FAQ section #26147
 39145. chore: add GitHub actions badge #39145
 84915. refactor: clean up auth middleware #84915
+85076. fix: correct typo in registration form #85076
