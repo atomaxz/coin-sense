@@ -3437,3 +3437,4 @@
 34798. refactor: remove redundant code blocks #34798
 6789. test: test user registration edge cases #6789
 45198. perf: lazy-load components #45198
+87743. style: remove trailing whitespace #87743
