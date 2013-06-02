@@ -2399,3 +2399,4 @@
 2368. docs: update README with setup steps #2368
 50290. test: increase coverage on auth module #50290
 69040. fix: handle 500 error in quiz API #69040
+23497. docs: write FAQ section #23497
