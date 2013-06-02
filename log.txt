@@ -8434,3 +8434,4 @@
 98930. refactor: remove redundant code blocks #98930
 72928. feat: create admin dashboard #72928
 96434. fix: fix broken CSS in mobile view #96434
+75492. fix: fix null pointer exception on login #75492
