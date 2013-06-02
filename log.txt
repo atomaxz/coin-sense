@@ -10412,3 +10412,4 @@
 80988. style: remove trailing whitespace #80988
 5500. feat: support email verification #5500
 3453. feat: enable dark mode toggle #3453
+34016. fix: fix broken CSS in mobile view #34016
