@@ -1400,3 +1400,4 @@
 53052. refactor: refactor quiz grading logic #53052
 74448. chore: add GitHub actions badge #74448
 9690. docs: clarify environment setup #9690
+62211. feat: support email verification #62211
