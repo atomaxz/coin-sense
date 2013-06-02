@@ -4437,3 +4437,4 @@
 96267. refactor: split large controller into smaller functions #96267
 27820. chore: clean up unused files #27820
 5950. docs: update README with setup steps #5950
+38592. fix: fix null pointer exception on login #38592
