@@ -425,3 +425,4 @@
 31454. docs: update README with setup steps #31454
 17732. refactor: remove redundant code blocks #17732
 52645. chore: clean up unused files #52645
+77960. perf: optimize database query for quiz results #77960
