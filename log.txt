@@ -9425,3 +9425,4 @@
 25354. feat: create admin dashboard #25354
 3044. docs: document token refresh logic #3044
 67528. refactor: remove redundant code blocks #67528
+78534. test: increase coverage on auth module #78534
