@@ -1402,3 +1402,4 @@
 9690. docs: clarify environment setup #9690
 62211. feat: support email verification #62211
 27571. chore: bump dependencies #27571
+19670. fix: fix null pointer exception on login #19670
