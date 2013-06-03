@@ -6434,3 +6434,4 @@
 91880. style: remove trailing whitespace #91880
 99402. style: remove trailing whitespace #99402
 47429. refactor: organize models into subfolders #47429
+11091. fix: prevent crash on empty input #11091
