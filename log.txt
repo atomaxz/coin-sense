@@ -427,3 +427,4 @@
 52645. chore: clean up unused files #52645
 77960. perf: optimize database query for quiz results #77960
 70923. style: remove trailing whitespace #70923
+30521. docs: write FAQ section #30521
