@@ -7406,3 +7406,4 @@
 31970. feat: support email verification #31970
 96849. fix: resolve issue with date parsing #96849
 51561. style: rename variables for clarity #51561
+33592. fix: fix null pointer exception on login #33592
