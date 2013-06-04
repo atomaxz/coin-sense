@@ -10417,3 +10417,4 @@
 14075. refactor: split large controller into smaller functions #14075
 32786. refactor: clean up auth middleware #32786
 98788. fix: correct typo in registration form #98788
+0848. test: add integration test for /submit endpoint #848
