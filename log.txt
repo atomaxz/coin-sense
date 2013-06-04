@@ -430,3 +430,4 @@
 30521. docs: write FAQ section #30521
 26448. chore: rename env.example #26448
 53700. refactor: split large controller into smaller functions #53700
+29799. docs: clarify environment setup #29799
