@@ -9431,3 +9431,4 @@
 58905. style: rename variables for clarity #58905
 2494. refactor: clean up auth middleware #2494
 57972. style: reformat files with black #57972
+3339. test: add integration test for /submit endpoint #3339
