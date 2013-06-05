@@ -3441,3 +3441,4 @@
 44085. style: reformat files with black #44085
 87645. test: add integration test for /submit endpoint #87645
 42247. style: apply consistent indentation #42247
+90793. test: test user registration edge cases #90793
