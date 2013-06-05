@@ -5399,3 +5399,4 @@
 24391. style: remove trailing whitespace #24391
 88190. fix: fix broken CSS in mobile view #88190
 38278. fix: resolve issue with date parsing #38278
+41143. test: add unit test for quiz service #41143
