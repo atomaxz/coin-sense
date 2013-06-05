@@ -2404,3 +2404,4 @@
 93226. perf: cache repeated calculations #93226
 13690. chore: update .gitignore #13690
 13520. style: apply consistent indentation #13520
+80783. perf: reduce image load time #80783
