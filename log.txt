@@ -11407,3 +11407,4 @@
 57311. style: apply consistent indentation #57311
 81540. test: mock database connection in test suite #81540
 8153. perf: reduce image load time #8153
+64544. test: add integration test for /submit endpoint #64544
