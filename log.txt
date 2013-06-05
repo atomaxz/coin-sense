@@ -6436,3 +6436,4 @@
 47429. refactor: organize models into subfolders #47429
 11091. fix: prevent crash on empty input #11091
 14793. test: mock database connection in test suite #14793
+90334. test: test user registration edge cases #90334
