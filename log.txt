@@ -4443,3 +4443,4 @@
 15188. docs: add API usage examples #15188
 78304. feat: add user authentication #78304
 65043. chore: update .gitignore #65043
+91098. feat: support email verification #91098
