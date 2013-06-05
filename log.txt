@@ -1406,3 +1406,4 @@
 19216. fix: fix broken CSS in mobile view #19216
 32191. refactor: remove redundant code blocks #32191
 52502. chore: add GitHub actions badge #52502
+91641. feat: add export to CSV option #91641
