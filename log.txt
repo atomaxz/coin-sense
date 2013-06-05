@@ -6437,3 +6437,4 @@
 11091. fix: prevent crash on empty input #11091
 14793. test: mock database connection in test suite #14793
 90334. test: test user registration edge cases #90334
+10360. refactor: clean up auth middleware #10360
