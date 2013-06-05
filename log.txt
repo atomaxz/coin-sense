@@ -1405,3 +1405,4 @@
 19670. fix: fix null pointer exception on login #19670
 19216. fix: fix broken CSS in mobile view #19216
 32191. refactor: remove redundant code blocks #32191
+52502. chore: add GitHub actions badge #52502
