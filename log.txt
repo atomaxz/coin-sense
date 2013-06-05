@@ -2406,3 +2406,4 @@
 13520. style: apply consistent indentation #13520
 80783. perf: reduce image load time #80783
 44931. refactor: organize models into subfolders #44931
+13168. style: standardize quote style #13168
