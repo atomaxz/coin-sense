@@ -5402,3 +5402,4 @@
 41143. test: add unit test for quiz service #41143
 57632. test: mock database connection in test suite #57632
 44753. docs: add API usage examples #44753
+72006. fix: prevent crash on empty input #72006
