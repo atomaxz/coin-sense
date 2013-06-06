@@ -8449,3 +8449,4 @@
 14701. test: test user registration edge cases #14701
 62976. test: add unit test for quiz service #62976
 54758. chore: bump dependencies #54758
+46488. style: reformat files with black #46488
