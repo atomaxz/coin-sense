@@ -4446,3 +4446,4 @@
 91098. feat: support email verification #91098
 91027. refactor: organize models into subfolders #91027
 61245. docs: write FAQ section #61245
+94514. test: test user registration edge cases #94514
