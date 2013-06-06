@@ -2407,3 +2407,4 @@
 80783. perf: reduce image load time #80783
 44931. refactor: organize models into subfolders #44931
 13168. style: standardize quote style #13168
+77641. test: increase coverage on auth module #77641
