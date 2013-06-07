@@ -3446,3 +3446,4 @@
 67039. feat: add export to CSV option #67039
 78334. perf: reduce image load time #78334
 55620. docs: improve code comments in utils #55620
+74436. test: increase coverage on auth module #74436
