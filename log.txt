@@ -7418,3 +7418,4 @@
 44082. fix: fix null pointer exception on login #44082
 60990. test: add unit test for quiz service #60990
 91977. style: remove trailing whitespace #91977
+65653. docs: write FAQ section #65653
