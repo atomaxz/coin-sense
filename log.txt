@@ -4449,3 +4449,4 @@
 94514. test: test user registration edge cases #94514
 66784. fix: fix null pointer exception on login #66784
 48608. docs: clarify environment setup #48608
+97719. chore: update .gitignore #97719
