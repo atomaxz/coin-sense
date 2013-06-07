@@ -5405,3 +5405,4 @@
 72006. fix: prevent crash on empty input #72006
 0094. perf: reduce image load time #94
 12256. fix: resolve issue with date parsing #12256
+90913. fix: prevent crash on empty input #90913
