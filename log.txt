@@ -7420,3 +7420,4 @@
 91977. style: remove trailing whitespace #91977
 65653. docs: write FAQ section #65653
 23962. feat: add export to CSV option #23962
+10287. chore: update .gitignore #10287
