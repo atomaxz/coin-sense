@@ -7415,3 +7415,4 @@
 33598. docs: document token refresh logic #33598
 5490. docs: write FAQ section #5490
 87733. refactor: clean up auth middleware #87733
+44082. fix: fix null pointer exception on login #44082
