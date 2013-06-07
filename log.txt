@@ -436,3 +436,4 @@
 78135. style: standardize quote style #78135
 18068. refactor: organize models into subfolders #18068
 48776. perf: cache repeated calculations #48776
+52312. style: standardize quote style #52312
