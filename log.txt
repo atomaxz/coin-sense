@@ -1413,3 +1413,4 @@
 49319. style: apply consistent indentation #49319
 5954. test: add unit test for quiz service #5954
 42095. perf: lazy-load components #42095
+87254. fix: handle 500 error in quiz API #87254
