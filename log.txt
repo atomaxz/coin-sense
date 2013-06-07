@@ -2410,3 +2410,4 @@
 77641. test: increase coverage on auth module #77641
 55447. perf: optimize database query for quiz results #55447
 83138. feat: create admin dashboard #83138
+67029. refactor: refactor quiz grading logic #67029
