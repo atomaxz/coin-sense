@@ -9436,3 +9436,4 @@
 70954. style: reformat files with black #70954
 22293. style: reformat files with black #22293
 43653. docs: document token refresh logic #43653
+99560. refactor: clean up auth middleware #99560
