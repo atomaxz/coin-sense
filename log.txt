@@ -442,3 +442,4 @@
 9848. feat: create admin dashboard #9848
 59776. refactor: clean up auth middleware #59776
 83865. docs: write FAQ section #83865
+78488. feat: implement quiz timer feature #78488
