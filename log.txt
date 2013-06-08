@@ -1414,3 +1414,4 @@
 5954. test: add unit test for quiz service #5954
 42095. perf: lazy-load components #42095
 87254. fix: handle 500 error in quiz API #87254
+24951. style: reformat files with black #24951
