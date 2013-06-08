@@ -440,3 +440,4 @@
 6252. test: add integration test for /submit endpoint #6252
 76084. test: add unit test for quiz service #76084
 9848. feat: create admin dashboard #9848
+59776. refactor: clean up auth middleware #59776
