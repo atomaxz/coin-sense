@@ -7422,3 +7422,4 @@
 23962. feat: add export to CSV option #23962
 10287. chore: update .gitignore #10287
 4241. style: reformat files with black #4241
+94826. test: test user registration edge cases #94826
