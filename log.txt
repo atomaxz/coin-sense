@@ -2415,3 +2415,4 @@
 72718. chore: clean up unused files #72718
 20457. style: reformat files with black #20457
 85980. perf: cache repeated calculations #85980
+70689. fix: fix broken CSS in mobile view #70689
