@@ -3452,3 +3452,4 @@
 26990. feat: implement quiz timer feature #26990
 54812. style: rename variables for clarity #54812
 90596. fix: fix null pointer exception on login #90596
+10109. fix: prevent crash on empty input #10109
