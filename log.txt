@@ -5410,3 +5410,4 @@
 31010. test: add integration test for /submit endpoint #31010
 95804. feat: add user authentication #95804
 82219. chore: bump dependencies #82219
+83369. test: add unit test for quiz service #83369
