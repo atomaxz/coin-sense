@@ -1419,3 +1419,4 @@
 44617. chore: rename env.example #44617
 27614. feat: create admin dashboard #27614
 98255. fix: correct typo in registration form #98255
+31158. chore: update .gitignore #31158
