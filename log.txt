@@ -3451,3 +3451,4 @@
 7647. style: standardize quote style #7647
 26990. feat: implement quiz timer feature #26990
 54812. style: rename variables for clarity #54812
+90596. fix: fix null pointer exception on login #90596
