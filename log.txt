@@ -1420,3 +1420,4 @@
 27614. feat: create admin dashboard #27614
 98255. fix: correct typo in registration form #98255
 31158. chore: update .gitignore #31158
+13102. test: test user registration edge cases #13102
