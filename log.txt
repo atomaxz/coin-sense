@@ -2417,3 +2417,4 @@
 85980. perf: cache repeated calculations #85980
 70689. fix: fix broken CSS in mobile view #70689
 58400. style: remove trailing whitespace #58400
+34780. refactor: refactor quiz grading logic #34780
