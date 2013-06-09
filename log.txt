@@ -8453,3 +8453,4 @@
 99818. feat: implement quiz timer feature #99818
 0788. perf: reduce image load time #788
 32863. docs: improve code comments in utils #32863
+37286. fix: handle 500 error in quiz API #37286
