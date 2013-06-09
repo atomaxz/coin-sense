@@ -1421,3 +1421,4 @@
 98255. fix: correct typo in registration form #98255
 31158. chore: update .gitignore #31158
 13102. test: test user registration edge cases #13102
+38580. chore: rename env.example #38580
