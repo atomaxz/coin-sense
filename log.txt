@@ -7423,3 +7423,4 @@
 10287. chore: update .gitignore #10287
 4241. style: reformat files with black #4241
 94826. test: test user registration edge cases #94826
+10516. test: increase coverage on auth module #10516
