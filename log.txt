@@ -3453,3 +3453,4 @@
 54812. style: rename variables for clarity #54812
 90596. fix: fix null pointer exception on login #90596
 10109. fix: prevent crash on empty input #10109
+80517. test: add unit test for quiz service #80517
