@@ -5415,3 +5415,4 @@
 23086. docs: improve code comments in utils #23086
 65511. chore: clean up unused files #65511
 93283. test: test user registration edge cases #93283
+16624. test: increase coverage on auth module #16624
