@@ -5419,3 +5419,4 @@
 76927. docs: add API usage examples #76927
 32979. style: reformat files with black #32979
 69547. refactor: organize models into subfolders #69547
+13838. feat: enable dark mode toggle #13838
