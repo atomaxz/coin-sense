@@ -6450,3 +6450,4 @@
 28947. perf: lazy-load components #28947
 44550. test: test user registration edge cases #44550
 6283. docs: clarify environment setup #6283
+24020. feat: enable dark mode toggle #24020
