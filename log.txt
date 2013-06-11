@@ -6449,3 +6449,4 @@
 57037. chore: clean up unused files #57037
 28947. perf: lazy-load components #28947
 44550. test: test user registration edge cases #44550
+6283. docs: clarify environment setup #6283
