@@ -1425,3 +1425,4 @@
 19202. chore: update .gitignore #19202
 8944. perf: lazy-load components #8944
 9196. style: rename variables for clarity #9196
+84156. fix: fix null pointer exception on login #84156
