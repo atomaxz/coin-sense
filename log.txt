@@ -6451,3 +6451,4 @@
 44550. test: test user registration edge cases #44550
 6283. docs: clarify environment setup #6283
 24020. feat: enable dark mode toggle #24020
+10973. docs: update README with setup steps #10973
