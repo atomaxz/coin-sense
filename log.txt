@@ -9448,3 +9448,4 @@
 3738. refactor: split large controller into smaller functions #3738
 87151. feat: support email verification #87151
 87073. perf: cache repeated calculations #87073
+52830. style: remove trailing whitespace #52830
