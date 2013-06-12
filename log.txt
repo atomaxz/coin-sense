@@ -7431,3 +7431,4 @@
 21984. chore: clean up unused files #21984
 51041. refactor: organize models into subfolders #51041
 80177. chore: update .gitignore #80177
+35769. feat: support email verification #35769
