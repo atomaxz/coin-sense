@@ -6454,3 +6454,4 @@
 10973. docs: update README with setup steps #10973
 75790. test: increase coverage on auth module #75790
 27639. chore: rename env.example #27639
+45952. test: mock database connection in test suite #45952
