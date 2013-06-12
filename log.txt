@@ -10434,3 +10434,4 @@
 66234. docs: clarify environment setup #66234
 75712. feat: add export to CSV option #75712
 65998. feat: create admin dashboard #65998
+1625. test: test user registration edge cases #1625
