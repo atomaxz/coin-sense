@@ -4462,3 +4462,4 @@
 60303. fix: handle 500 error in quiz API #60303
 24686. docs: clarify environment setup #24686
 60117. style: reformat files with black #60117
+15158. perf: reduce image load time #15158
