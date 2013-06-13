@@ -6456,3 +6456,4 @@
 27639. chore: rename env.example #27639
 45952. test: mock database connection in test suite #45952
 68046. refactor: organize models into subfolders #68046
+3122. style: remove trailing whitespace #3122
