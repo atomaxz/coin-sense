@@ -2425,3 +2425,4 @@
 9117. test: add integration test for /submit endpoint #9117
 91324. perf: optimize database query for quiz results #91324
 78106. docs: document token refresh logic #78106
+16600. chore: add GitHub actions badge #16600
