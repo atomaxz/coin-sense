@@ -10439,3 +10439,4 @@
 67850. refactor: remove redundant code blocks #67850
 56518. chore: bump dependencies #56518
 32600. test: add unit test for quiz service #32600
+19217. feat: support email verification #19217
