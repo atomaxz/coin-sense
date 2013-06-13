@@ -9452,3 +9452,4 @@
 5273. test: add unit test for quiz service #5273
 31158. chore: update .gitignore #31158
 15965. docs: improve code comments in utils #15965
+71074. perf: reduce image load time #71074
