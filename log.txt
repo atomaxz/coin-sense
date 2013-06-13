@@ -7434,3 +7434,4 @@
 35769. feat: support email verification #35769
 15602. fix: correct typo in registration form #15602
 53747. fix: fix null pointer exception on login #53747
+38697. fix: fix broken CSS in mobile view #38697
