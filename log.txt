@@ -1432,3 +1432,4 @@
 44591. perf: cache repeated calculations #44591
 26275. fix: resolve issue with date parsing #26275
 50083. chore: add GitHub actions badge #50083
+7641. docs: add API usage examples #7641
