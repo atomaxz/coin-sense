@@ -2426,3 +2426,4 @@
 91324. perf: optimize database query for quiz results #91324
 78106. docs: document token refresh logic #78106
 16600. chore: add GitHub actions badge #16600
+67834. perf: lazy-load components #67834
