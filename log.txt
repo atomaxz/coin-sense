@@ -8469,3 +8469,4 @@
 81197. refactor: remove redundant code blocks #81197
 56347. refactor: remove redundant code blocks #56347
 92479. chore: add GitHub actions badge #92479
+30897. fix: fix null pointer exception on login #30897
