@@ -6460,3 +6460,4 @@
 53115. feat: add user authentication #53115
 77615. feat: implement quiz timer feature #77615
 1386. feat: enable dark mode toggle #1386
+20534. chore: clean up unused files #20534
