@@ -9453,3 +9453,4 @@
 31158. chore: update .gitignore #31158
 15965. docs: improve code comments in utils #15965
 71074. perf: reduce image load time #71074
+97860. perf: lazy-load components #97860
