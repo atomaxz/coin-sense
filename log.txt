@@ -5430,3 +5430,4 @@
 92428. style: standardize quote style #92428
 70593. perf: cache repeated calculations #70593
 45297. chore: update .gitignore #45297
+49438. test: test user registration edge cases #49438
