@@ -11431,3 +11431,4 @@
 85822. docs: add API usage examples #85822
 48299. fix: correct typo in registration form #48299
 70597. chore: update .gitignore #70597
+26012. test: add integration test for /submit endpoint #26012
