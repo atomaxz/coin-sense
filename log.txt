@@ -6463,3 +6463,4 @@
 20534. chore: clean up unused files #20534
 65279. chore: update .gitignore #65279
 50361. docs: clarify environment setup #50361
+4758. docs: document token refresh logic #4758
