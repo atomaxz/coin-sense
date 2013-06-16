@@ -6469,3 +6469,4 @@
 41569. fix: fix broken CSS in mobile view #41569
 17040. chore: bump dependencies #17040
 42426. refactor: split large controller into smaller functions #42426
+11579. feat: add export to CSV option #11579
