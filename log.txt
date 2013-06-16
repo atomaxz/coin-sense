@@ -2434,3 +2434,4 @@
 20148. docs: update README with setup steps #20148
 74814. docs: clarify environment setup #74814
 2504. fix: fix null pointer exception on login #2504
+20508. feat: support email verification #20508
