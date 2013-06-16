@@ -4471,3 +4471,4 @@
 15554. perf: cache repeated calculations #15554
 49507. test: test user registration edge cases #49507
 21833. refactor: clean up auth middleware #21833
+24628. feat: add user authentication #24628
