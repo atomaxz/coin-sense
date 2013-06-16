@@ -5434,3 +5434,4 @@
 14805. test: test user registration edge cases #14805
 4506. docs: document token refresh logic #4506
 43221. perf: lazy-load components #43221
+62134. fix: prevent crash on empty input #62134
