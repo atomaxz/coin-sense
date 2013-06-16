@@ -10446,3 +10446,4 @@
 99336. chore: bump dependencies #99336
 33442. fix: prevent crash on empty input #33442
 6535. docs: improve code comments in utils #6535
+3249. style: apply consistent indentation #3249
