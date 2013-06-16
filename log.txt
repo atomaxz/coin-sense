@@ -1437,3 +1437,4 @@
 35729. docs: write FAQ section #35729
 16447. fix: fix broken CSS in mobile view #16447
 42155. chore: bump dependencies #42155
+45850. refactor: clean up auth middleware #45850
