@@ -4468,3 +4468,4 @@
 51651. docs: document token refresh logic #51651
 20095. fix: fix null pointer exception on login #20095
 22792. style: reformat files with black #22792
+15554. perf: cache repeated calculations #15554
