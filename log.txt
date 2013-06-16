@@ -466,3 +466,4 @@
 95031. test: add unit test for quiz service #95031
 52913. style: rename variables for clarity #52913
 60054. chore: add GitHub actions badge #60054
+80371. feat: enable dark mode toggle #80371
