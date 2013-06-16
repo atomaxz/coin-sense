@@ -5432,3 +5432,4 @@
 45297. chore: update .gitignore #45297
 49438. test: test user registration edge cases #49438
 14805. test: test user registration edge cases #14805
+4506. docs: document token refresh logic #4506
