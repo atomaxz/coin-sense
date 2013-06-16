@@ -11436,3 +11436,4 @@
 85183. test: mock database connection in test suite #85183
 54351. style: reformat files with black #54351
 16326. test: increase coverage on auth module #16326
+26890. style: standardize quote style #26890
