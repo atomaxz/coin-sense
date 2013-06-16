@@ -3470,3 +3470,4 @@
 70166. style: rename variables for clarity #70166
 18464. fix: fix null pointer exception on login #18464
 51535. test: add integration test for /submit endpoint #51535
+99854. chore: bump dependencies #99854
