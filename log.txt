@@ -470,3 +470,4 @@
 60745. test: add unit test for quiz service #60745
 27993. refactor: refactor quiz grading logic #27993
 50921. feat: support email verification #50921
+50579. docs: update README with setup steps #50579
