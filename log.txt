@@ -5439,3 +5439,4 @@
 29754. fix: correct typo in registration form #29754
 26130. feat: support email verification #26130
 52580. chore: clean up unused files #52580
+44747. style: remove trailing whitespace #44747
