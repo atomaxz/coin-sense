@@ -9466,3 +9466,4 @@
 82055. style: apply consistent indentation #82055
 64748. test: test user registration edge cases #64748
 38388. perf: lazy-load components #38388
+38851. feat: support email verification #38851
