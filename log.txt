@@ -5441,3 +5441,4 @@
 52580. chore: clean up unused files #52580
 44747. style: remove trailing whitespace #44747
 5303. style: standardize quote style #5303
+60693. chore: add GitHub actions badge #60693
