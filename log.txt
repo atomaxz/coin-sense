@@ -5436,3 +5436,4 @@
 43221. perf: lazy-load components #43221
 62134. fix: prevent crash on empty input #62134
 12527. test: test user registration edge cases #12527
+29754. fix: correct typo in registration form #29754
