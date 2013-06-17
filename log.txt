@@ -7441,3 +7441,4 @@
 64964. test: add integration test for /submit endpoint #64964
 10543. feat: create admin dashboard #10543
 87802. refactor: remove redundant code blocks #87802
+15474. perf: lazy-load components #15474
