@@ -9467,3 +9467,4 @@
 64748. test: test user registration edge cases #64748
 38388. perf: lazy-load components #38388
 38851. feat: support email verification #38851
+33425. fix: handle 500 error in quiz API #33425
