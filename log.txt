@@ -10455,3 +10455,4 @@
 86410. refactor: organize models into subfolders #86410
 1397. perf: cache repeated calculations #1397
 86487. chore: clean up unused files #86487
+76098. fix: fix broken CSS in mobile view #76098
