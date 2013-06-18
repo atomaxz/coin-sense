@@ -8480,3 +8480,4 @@
 60935. fix: fix null pointer exception on login #60935
 30634. refactor: clean up auth middleware #30634
 76356. chore: clean up unused files #76356
+84116. docs: document token refresh logic #84116
