@@ -1441,3 +1441,4 @@
 1243. style: remove trailing whitespace #1243
 58544. fix: resolve issue with date parsing #58544
 88989. chore: rename env.example #88989
+99954. test: test user registration edge cases #99954
