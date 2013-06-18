@@ -3475,3 +3475,4 @@
 89848. docs: write FAQ section #89848
 54279. chore: rename env.example #54279
 76701. feat: enable dark mode toggle #76701
+87931. test: increase coverage on auth module #87931
