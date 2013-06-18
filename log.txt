@@ -10453,3 +10453,4 @@
 1753. fix: fix null pointer exception on login #1753
 50407. test: add unit test for quiz service #50407
 86410. refactor: organize models into subfolders #86410
+1397. perf: cache repeated calculations #1397
