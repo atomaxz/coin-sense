@@ -2443,3 +2443,4 @@
 80113. chore: update .gitignore #80113
 7428. refactor: split large controller into smaller functions #7428
 97298. refactor: clean up auth middleware #97298
+81763. style: remove trailing whitespace #81763
