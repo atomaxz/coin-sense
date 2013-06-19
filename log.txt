@@ -6477,3 +6477,4 @@
 23512. test: increase coverage on auth module #23512
 32299. chore: rename env.example #32299
 25265. style: remove trailing whitespace #25265
+2780. fix: fix broken CSS in mobile view #2780
