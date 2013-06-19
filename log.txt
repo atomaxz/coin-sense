@@ -472,3 +472,4 @@
 50921. feat: support email verification #50921
 50579. docs: update README with setup steps #50579
 85491. fix: fix null pointer exception on login #85491
+90465. perf: cache repeated calculations #90465
