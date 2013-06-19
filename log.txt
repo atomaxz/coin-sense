@@ -4478,3 +4478,4 @@
 20100. style: rename variables for clarity #20100
 52819. chore: clean up unused files #52819
 26391. docs: add API usage examples #26391
+36852. feat: support email verification #36852
