@@ -8482,3 +8482,4 @@
 76356. chore: clean up unused files #76356
 84116. docs: document token refresh logic #84116
 6745. fix: prevent crash on empty input #6745
+76818. perf: reduce image load time #76818
