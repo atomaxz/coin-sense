@@ -11442,3 +11442,4 @@
 24175. refactor: remove redundant code blocks #24175
 51142. fix: fix broken CSS in mobile view #51142
 72483. style: standardize quote style #72483
+37996. perf: optimize database query for quiz results #37996
