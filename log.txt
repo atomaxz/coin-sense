@@ -8481,3 +8481,4 @@
 30634. refactor: clean up auth middleware #30634
 76356. chore: clean up unused files #76356
 84116. docs: document token refresh logic #84116
+6745. fix: prevent crash on empty input #6745
