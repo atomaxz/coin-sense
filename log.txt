@@ -9475,3 +9475,4 @@
 12749. chore: update .gitignore #12749
 47942. test: increase coverage on auth module #47942
 42024. docs: document token refresh logic #42024
+60029. chore: rename env.example #60029
