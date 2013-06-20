@@ -1448,3 +1448,4 @@
 26692. refactor: organize models into subfolders #26692
 60175. perf: reduce image load time #60175
 53628. refactor: organize models into subfolders #53628
+3341. feat: create admin dashboard #3341
