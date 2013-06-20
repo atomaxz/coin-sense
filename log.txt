@@ -9474,3 +9474,4 @@
 28767. perf: cache repeated calculations #28767
 12749. chore: update .gitignore #12749
 47942. test: increase coverage on auth module #47942
+42024. docs: document token refresh logic #42024
