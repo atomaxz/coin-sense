@@ -474,3 +474,4 @@
 85491. fix: fix null pointer exception on login #85491
 90465. perf: cache repeated calculations #90465
 84733. perf: reduce image load time #84733
+57844. refactor: clean up auth middleware #57844
