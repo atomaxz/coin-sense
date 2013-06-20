@@ -7449,3 +7449,4 @@
 73997. refactor: refactor quiz grading logic #73997
 36833. chore: clean up unused files #36833
 50169. docs: add API usage examples #50169
+97303. perf: optimize database query for quiz results #97303
