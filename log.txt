@@ -6479,3 +6479,4 @@
 25265. style: remove trailing whitespace #25265
 2780. fix: fix broken CSS in mobile view #2780
 31188. docs: improve code comments in utils #31188
+76263. fix: fix broken CSS in mobile view #76263
