@@ -10465,3 +10465,4 @@
 25355. refactor: refactor quiz grading logic #25355
 51089. test: add unit test for quiz service #51089
 89422. perf: lazy-load components #89422
+30186. chore: bump dependencies #30186
