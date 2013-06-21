@@ -7454,3 +7454,4 @@
 37949. test: increase coverage on auth module #37949
 27672. chore: update .gitignore #27672
 69536. style: standardize quote style #69536
+61875. refactor: remove redundant code blocks #61875
