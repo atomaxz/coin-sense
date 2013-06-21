@@ -2446,3 +2446,4 @@
 81763. style: remove trailing whitespace #81763
 85201. chore: rename env.example #85201
 76766. feat: add user authentication #76766
+79750. docs: document token refresh logic #79750
