@@ -8488,3 +8488,4 @@
 32373. feat: add export to CSV option #32373
 11639. chore: update .gitignore #11639
 49903. chore: bump dependencies #49903
+89159. test: increase coverage on auth module #89159
