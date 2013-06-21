@@ -8489,3 +8489,4 @@
 11639. chore: update .gitignore #11639
 49903. chore: bump dependencies #49903
 89159. test: increase coverage on auth module #89159
+86759. perf: reduce image load time #86759
