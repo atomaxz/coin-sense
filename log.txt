@@ -4487,3 +4487,4 @@
 49303. docs: document token refresh logic #49303
 31888. fix: fix broken CSS in mobile view #31888
 32944. feat: enable dark mode toggle #32944
+97340. perf: lazy-load components #97340
