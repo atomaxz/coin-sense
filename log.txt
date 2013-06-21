@@ -8486,3 +8486,4 @@
 94556. perf: cache repeated calculations #94556
 53571. feat: create admin dashboard #53571
 32373. feat: add export to CSV option #32373
+11639. chore: update .gitignore #11639
