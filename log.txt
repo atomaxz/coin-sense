@@ -11445,3 +11445,4 @@
 37996. perf: optimize database query for quiz results #37996
 33028. test: test user registration edge cases #33028
 46350. perf: cache repeated calculations #46350
+41318. fix: fix broken CSS in mobile view #41318
