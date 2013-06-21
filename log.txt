@@ -9482,3 +9482,4 @@
 89599. feat: enable dark mode toggle #89599
 88106. fix: prevent crash on empty input #88106
 76669. style: standardize quote style #76669
+12587. feat: support email verification #12587
