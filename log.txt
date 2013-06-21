@@ -9479,3 +9479,4 @@
 45628. docs: add API usage examples #45628
 58376. perf: reduce image load time #58376
 73880. test: add integration test for /submit endpoint #73880
+89599. feat: enable dark mode toggle #89599
