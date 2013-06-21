@@ -3486,3 +3486,4 @@
 49494. style: apply consistent indentation #49494
 68047. perf: optimize database query for quiz results #68047
 53942. fix: fix null pointer exception on login #53942
+6448. docs: document token refresh logic #6448
