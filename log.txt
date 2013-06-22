@@ -11448,3 +11448,4 @@
 41318. fix: fix broken CSS in mobile view #41318
 65292. fix: handle 500 error in quiz API #65292
 52690. chore: rename env.example #52690
+98291. feat: enable dark mode toggle #98291
