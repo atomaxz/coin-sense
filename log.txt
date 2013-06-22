@@ -11449,3 +11449,4 @@
 65292. fix: handle 500 error in quiz API #65292
 52690. chore: rename env.example #52690
 98291. feat: enable dark mode toggle #98291
+39494. docs: update README with setup steps #39494
