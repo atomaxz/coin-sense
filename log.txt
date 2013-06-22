@@ -6484,3 +6484,4 @@
 37714. fix: fix broken CSS in mobile view #37714
 61386. refactor: split large controller into smaller functions #61386
 92946. style: standardize quote style #92946
+32513. test: increase coverage on auth module #32513
