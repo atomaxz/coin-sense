@@ -480,3 +480,4 @@
 29826. fix: correct typo in registration form #29826
 38337. refactor: remove redundant code blocks #38337
 64471. chore: bump dependencies #64471
+55477. feat: add user authentication #55477
