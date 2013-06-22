@@ -4490,3 +4490,4 @@
 97340. perf: lazy-load components #97340
 55082. feat: support email verification #55082
 86451. refactor: refactor quiz grading logic #86451
+49349. feat: support email verification #49349
