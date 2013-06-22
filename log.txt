@@ -7460,3 +7460,4 @@
 13795. refactor: remove redundant code blocks #13795
 78856. refactor: split large controller into smaller functions #78856
 71424. fix: resolve issue with date parsing #71424
+99296. style: remove trailing whitespace #99296
