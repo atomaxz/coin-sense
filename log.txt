@@ -2454,3 +2454,4 @@
 14310. chore: bump dependencies #14310
 69848. docs: clarify environment setup #69848
 92423. docs: write FAQ section #92423
+9763. style: rename variables for clarity #9763
