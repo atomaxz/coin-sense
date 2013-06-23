@@ -1459,3 +1459,4 @@
 94301. feat: enable dark mode toggle #94301
 99890. style: rename variables for clarity #99890
 27441. test: test user registration edge cases #27441
+95753. chore: add GitHub actions badge #95753
