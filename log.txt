@@ -9488,3 +9488,4 @@
 22131. chore: add GitHub actions badge #22131
 1877. perf: optimize database query for quiz results #1877
 8592. docs: clarify environment setup #8592
+55793. refactor: clean up auth middleware #55793
