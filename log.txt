@@ -10468,3 +10468,4 @@
 30186. chore: bump dependencies #30186
 11768. refactor: split large controller into smaller functions #11768
 52238. style: standardize quote style #52238
+85951. perf: optimize database query for quiz results #85951
