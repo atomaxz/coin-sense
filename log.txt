@@ -1458,3 +1458,4 @@
 52187. test: add integration test for /submit endpoint #52187
 94301. feat: enable dark mode toggle #94301
 99890. style: rename variables for clarity #99890
+27441. test: test user registration edge cases #27441
