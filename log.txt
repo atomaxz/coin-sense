@@ -2449,3 +2449,4 @@
 79750. docs: document token refresh logic #79750
 82541. feat: implement quiz timer feature #82541
 85133. docs: clarify environment setup #85133
+61195. feat: enable dark mode toggle #61195
