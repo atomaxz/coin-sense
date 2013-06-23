@@ -9485,3 +9485,4 @@
 12587. feat: support email verification #12587
 0318. feat: add export to CSV option #318
 61219. fix: handle 500 error in quiz API #61219
+22131. chore: add GitHub actions badge #22131
