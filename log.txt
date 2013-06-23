@@ -4497,3 +4497,4 @@
 15821. test: test user registration edge cases #15821
 50702. feat: add export to CSV option #50702
 6141. perf: reduce image load time #6141
+97034. fix: handle 500 error in quiz API #97034
