@@ -1461,3 +1461,4 @@
 27441. test: test user registration edge cases #27441
 95753. chore: add GitHub actions badge #95753
 4451. perf: cache repeated calculations #4451
+41826. refactor: clean up auth middleware #41826
