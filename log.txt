@@ -1462,3 +1462,4 @@
 95753. chore: add GitHub actions badge #95753
 4451. perf: cache repeated calculations #4451
 41826. refactor: clean up auth middleware #41826
+58303. style: remove trailing whitespace #58303
