@@ -5458,3 +5458,4 @@
 27697. perf: reduce image load time #27697
 3453. feat: enable dark mode toggle #3453
 2893. fix: handle 500 error in quiz API #2893
+99502. fix: prevent crash on empty input #99502
