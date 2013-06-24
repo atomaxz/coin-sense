@@ -10472,3 +10472,4 @@
 1626. refactor: organize models into subfolders #1626
 8924. docs: add API usage examples #8924
 51782. chore: clean up unused files #51782
+67647. perf: lazy-load components #67647
