@@ -483,3 +483,4 @@
 55477. feat: add user authentication #55477
 83846. perf: cache repeated calculations #83846
 35090. feat: add export to CSV option #35090
+92775. perf: lazy-load components #92775
