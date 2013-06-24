@@ -8496,3 +8496,4 @@
 59907. chore: rename env.example #59907
 46628. fix: fix broken CSS in mobile view #46628
 99438. feat: add export to CSV option #99438
+97488. feat: add user authentication #97488
