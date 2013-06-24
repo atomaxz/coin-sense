@@ -7468,3 +7468,4 @@
 57289. docs: clarify environment setup #57289
 23839. perf: reduce image load time #23839
 36539. style: standardize quote style #36539
+58496. fix: fix null pointer exception on login #58496
