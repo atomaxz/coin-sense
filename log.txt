@@ -10473,3 +10473,4 @@
 8924. docs: add API usage examples #8924
 51782. chore: clean up unused files #51782
 67647. perf: lazy-load components #67647
+59207. test: add integration test for /submit endpoint #59207
