@@ -9490,3 +9490,4 @@
 8592. docs: clarify environment setup #8592
 55793. refactor: clean up auth middleware #55793
 93857. test: test user registration edge cases #93857
+27575. docs: update README with setup steps #27575
