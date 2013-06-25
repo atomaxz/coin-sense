@@ -487,3 +487,4 @@
 6102. refactor: organize models into subfolders #6102
 43507. feat: create admin dashboard #43507
 52699. refactor: organize models into subfolders #52699
+45075. feat: enable dark mode toggle #45075
