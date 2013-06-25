@@ -2460,3 +2460,4 @@
 7959. docs: write FAQ section #7959
 19598. refactor: refactor quiz grading logic #19598
 64728. refactor: organize models into subfolders #64728
+53324. test: add integration test for /submit endpoint #53324
