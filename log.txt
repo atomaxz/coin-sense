@@ -7470,3 +7470,4 @@
 36539. style: standardize quote style #36539
 58496. fix: fix null pointer exception on login #58496
 41909. perf: optimize database query for quiz results #41909
+99348. feat: enable dark mode toggle #99348
