@@ -5463,3 +5463,4 @@
 32572. feat: add user authentication #32572
 6395. chore: add GitHub actions badge #6395
 22927. fix: prevent crash on empty input #22927
+92061. perf: reduce image load time #92061
