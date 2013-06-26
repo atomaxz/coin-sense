@@ -11461,3 +11461,4 @@
 97951. feat: support email verification #97951
 8235. perf: reduce image load time #8235
 3693. refactor: split large controller into smaller functions #3693
+35219. fix: fix null pointer exception on login #35219
