@@ -11459,3 +11459,4 @@
 78201. fix: fix broken CSS in mobile view #78201
 72059. style: remove trailing whitespace #72059
 97951. feat: support email verification #97951
+8235. perf: reduce image load time #8235
