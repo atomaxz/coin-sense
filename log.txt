@@ -11458,3 +11458,4 @@
 9073. test: add integration test for /submit endpoint #9073
 78201. fix: fix broken CSS in mobile view #78201
 72059. style: remove trailing whitespace #72059
+97951. feat: support email verification #97951
