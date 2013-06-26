@@ -10475,3 +10475,4 @@
 67647. perf: lazy-load components #67647
 59207. test: add integration test for /submit endpoint #59207
 18691. perf: lazy-load components #18691
+82834. fix: fix broken CSS in mobile view #82834
