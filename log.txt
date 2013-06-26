@@ -7473,3 +7473,4 @@
 99348. feat: enable dark mode toggle #99348
 39495. docs: add API usage examples #39495
 22563. feat: support email verification #22563
+95834. style: apply consistent indentation #95834
