@@ -5464,3 +5464,4 @@
 6395. chore: add GitHub actions badge #6395
 22927. fix: prevent crash on empty input #22927
 92061. perf: reduce image load time #92061
+23684. style: reformat files with black #23684
