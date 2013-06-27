@@ -11466,3 +11466,4 @@
 89709. style: reformat files with black #89709
 41410. fix: correct typo in registration form #41410
 25973. feat: add export to CSV option #25973
+12914. docs: update README with setup steps #12914
