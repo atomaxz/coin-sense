@@ -7476,3 +7476,4 @@
 95834. style: apply consistent indentation #95834
 0562. perf: lazy-load components #562
 10148. style: reformat files with black #10148
+91114. perf: optimize database query for quiz results #91114
