@@ -3497,3 +3497,4 @@
 16539. feat: implement quiz timer feature #16539
 41540. refactor: refactor quiz grading logic #41540
 49542. docs: improve code comments in utils #49542
+7914. refactor: clean up auth middleware #7914
