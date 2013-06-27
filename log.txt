@@ -5470,3 +5470,4 @@
 97841. docs: clarify environment setup #97841
 99273. docs: add API usage examples #99273
 78597. test: test user registration edge cases #78597
+87537. feat: support email verification #87537
