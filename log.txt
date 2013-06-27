@@ -10481,3 +10481,4 @@
 24192. style: reformat files with black #24192
 9729. feat: enable dark mode toggle #9729
 62999. chore: rename env.example #62999
+60042. docs: document token refresh logic #60042
