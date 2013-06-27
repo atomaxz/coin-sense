@@ -11465,3 +11465,4 @@
 41193. fix: prevent crash on empty input #41193
 89709. style: reformat files with black #89709
 41410. fix: correct typo in registration form #41410
+25973. feat: add export to CSV option #25973
