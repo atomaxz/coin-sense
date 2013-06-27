@@ -7475,3 +7475,4 @@
 22563. feat: support email verification #22563
 95834. style: apply consistent indentation #95834
 0562. perf: lazy-load components #562
+10148. style: reformat files with black #10148
