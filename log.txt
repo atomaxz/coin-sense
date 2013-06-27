@@ -10477,3 +10477,4 @@
 18691. perf: lazy-load components #18691
 82834. fix: fix broken CSS in mobile view #82834
 23542. docs: add API usage examples #23542
+50648. feat: enable dark mode toggle #50648
