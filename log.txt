@@ -8504,3 +8504,4 @@
 43348. perf: reduce image load time #43348
 91545. chore: clean up unused files #91545
 40348. test: mock database connection in test suite #40348
+3066. docs: write FAQ section #3066
