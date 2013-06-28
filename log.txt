@@ -5472,3 +5472,4 @@
 78597. test: test user registration edge cases #78597
 87537. feat: support email verification #87537
 18499. style: reformat files with black #18499
+85535. docs: clarify environment setup #85535
