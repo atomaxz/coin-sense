@@ -11469,3 +11469,4 @@
 12914. docs: update README with setup steps #12914
 73695. chore: update .gitignore #73695
 82727. feat: enable dark mode toggle #82727
+15725. fix: correct typo in registration form #15725
