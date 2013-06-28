@@ -10483,3 +10483,4 @@
 62999. chore: rename env.example #62999
 60042. docs: document token refresh logic #60042
 21629. test: test user registration edge cases #21629
+16548. feat: add user authentication #16548
