@@ -5474,3 +5474,4 @@
 18499. style: reformat files with black #18499
 85535. docs: clarify environment setup #85535
 54917. docs: improve code comments in utils #54917
+24475. perf: lazy-load components #24475
