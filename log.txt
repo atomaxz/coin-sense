@@ -4512,3 +4512,4 @@
 26048. style: standardize quote style #26048
 9340. docs: clarify environment setup #9340
 40192. style: remove trailing whitespace #40192
+70128. docs: update README with setup steps #70128
