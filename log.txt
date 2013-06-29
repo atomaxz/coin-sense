@@ -5475,3 +5475,4 @@
 85535. docs: clarify environment setup #85535
 54917. docs: improve code comments in utils #54917
 24475. perf: lazy-load components #24475
+3097. fix: handle 500 error in quiz API #3097
