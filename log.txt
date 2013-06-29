@@ -2471,3 +2471,4 @@
 97492. test: mock database connection in test suite #97492
 61929. style: remove trailing whitespace #61929
 62890. perf: cache repeated calculations #62890
+70914. fix: correct typo in registration form #70914
