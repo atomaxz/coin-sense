@@ -2473,3 +2473,4 @@
 62890. perf: cache repeated calculations #62890
 70914. fix: correct typo in registration form #70914
 24692. chore: clean up unused files #24692
+24104. style: standardize quote style #24104
