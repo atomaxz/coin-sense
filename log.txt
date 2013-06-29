@@ -1471,3 +1471,4 @@
 5655. test: add unit test for quiz service #5655
 81466. refactor: split large controller into smaller functions #81466
 60886. feat: create admin dashboard #60886
+5594. feat: support email verification #5594
