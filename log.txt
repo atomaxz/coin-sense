@@ -2475,3 +2475,4 @@
 24692. chore: clean up unused files #24692
 24104. style: standardize quote style #24104
 12394. refactor: remove redundant code blocks #12394
+48812. refactor: clean up auth middleware #48812
