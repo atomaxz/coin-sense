@@ -6494,3 +6494,4 @@
 82446. feat: add user authentication #82446
 35524. test: mock database connection in test suite #35524
 79244. test: add unit test for quiz service #79244
+14331. test: test user registration edge cases #14331
