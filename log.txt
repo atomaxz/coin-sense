@@ -5477,3 +5477,4 @@
 24475. perf: lazy-load components #24475
 3097. fix: handle 500 error in quiz API #3097
 47261. feat: support email verification #47261
+78692. chore: add GitHub actions badge #78692
