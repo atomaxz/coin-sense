@@ -10488,3 +10488,4 @@
 31588. fix: resolve issue with date parsing #31588
 97047. fix: handle 500 error in quiz API #97047
 42146. fix: handle 500 error in quiz API #42146
+46284. feat: add user authentication #46284
