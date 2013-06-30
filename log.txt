@@ -9502,3 +9502,4 @@
 55418. feat: implement quiz timer feature #55418
 80042. fix: fix broken CSS in mobile view #80042
 39747. test: add integration test for /submit endpoint #39747
+45783. perf: optimize database query for quiz results #45783
