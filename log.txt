@@ -11475,3 +11475,4 @@
 41856. test: add integration test for /submit endpoint #41856
 45405. feat: implement quiz timer feature #45405
 12424. chore: bump dependencies #12424
+81460. feat: add user authentication #81460
