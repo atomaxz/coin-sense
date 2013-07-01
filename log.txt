@@ -11477,3 +11477,4 @@
 12424. chore: bump dependencies #12424
 81460. feat: add user authentication #81460
 44424. style: reformat files with black #44424
+26037. perf: optimize database query for quiz results #26037
