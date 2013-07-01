@@ -2483,3 +2483,4 @@
 50435. fix: resolve issue with date parsing #50435
 0781. docs: improve code comments in utils #781
 3314. docs: add API usage examples #3314
+22922. perf: reduce image load time #22922
