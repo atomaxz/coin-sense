@@ -7484,3 +7484,4 @@
 30516. docs: document token refresh logic #30516
 79633. docs: clarify environment setup #79633
 34532. perf: reduce image load time #34532
+6098. test: mock database connection in test suite #6098
