@@ -2480,3 +2480,4 @@
 76036. style: reformat files with black #76036
 88547. test: test user registration edge cases #88547
 4448. style: remove trailing whitespace #4448
+50435. fix: resolve issue with date parsing #50435
