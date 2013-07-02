@@ -9508,3 +9508,4 @@
 11402. chore: rename env.example #11402
 8269. test: mock database connection in test suite #8269
 64777. docs: write FAQ section #64777
+30786. feat: create admin dashboard #30786
