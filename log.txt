@@ -7486,3 +7486,4 @@
 34532. perf: reduce image load time #34532
 6098. test: mock database connection in test suite #6098
 13576. style: apply consistent indentation #13576
+62319. docs: clarify environment setup #62319
