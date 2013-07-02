@@ -10493,3 +10493,4 @@
 31554. docs: improve code comments in utils #31554
 64556. style: apply consistent indentation #64556
 7495. style: reformat files with black #7495
+69381. fix: prevent crash on empty input #69381
