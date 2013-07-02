@@ -5482,3 +5482,4 @@
 12269. fix: resolve issue with date parsing #12269
 45522. chore: rename env.example #45522
 27473. style: apply consistent indentation #27473
+44952. feat: support email verification #44952
