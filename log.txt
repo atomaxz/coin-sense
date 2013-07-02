@@ -511,3 +511,4 @@
 96146. perf: optimize database query for quiz results #96146
 89342. chore: add GitHub actions badge #89342
 5995. perf: lazy-load components #5995
+22726. perf: reduce image load time #22726
