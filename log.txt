@@ -8514,3 +8514,4 @@
 36729. perf: cache repeated calculations #36729
 50621. perf: optimize database query for quiz results #50621
 47894. style: reformat files with black #47894
+31070. refactor: refactor quiz grading logic #31070
