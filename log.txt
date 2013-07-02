@@ -4519,3 +4519,4 @@
 6653. style: apply consistent indentation #6653
 51284. style: reformat files with black #51284
 37488. chore: update .gitignore #37488
+13199. fix: fix broken CSS in mobile view #13199
