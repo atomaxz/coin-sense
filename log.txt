@@ -6504,3 +6504,4 @@
 84518. perf: lazy-load components #84518
 8697. test: add integration test for /submit endpoint #8697
 69810. perf: optimize database query for quiz results #69810
+12275. test: test user registration edge cases #12275
