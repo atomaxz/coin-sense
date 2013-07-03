@@ -9510,3 +9510,4 @@
 64777. docs: write FAQ section #64777
 30786. feat: create admin dashboard #30786
 51501. perf: lazy-load components #51501
+15852. test: add integration test for /submit endpoint #15852
