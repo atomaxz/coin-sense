@@ -1481,3 +1481,4 @@
 95993. fix: resolve issue with date parsing #95993
 43361. docs: improve code comments in utils #43361
 64904. chore: clean up unused files #64904
+15467. perf: optimize database query for quiz results #15467
