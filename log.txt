@@ -9511,3 +9511,4 @@
 30786. feat: create admin dashboard #30786
 51501. perf: lazy-load components #51501
 15852. test: add integration test for /submit endpoint #15852
+23295. perf: optimize database query for quiz results #23295
