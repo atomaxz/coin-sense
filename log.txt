@@ -5486,3 +5486,4 @@
 93803. fix: correct typo in registration form #93803
 27710. docs: add API usage examples #27710
 21978. test: add unit test for quiz service #21978
+90886. test: mock database connection in test suite #90886
