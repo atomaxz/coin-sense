@@ -11484,3 +11484,4 @@
 6220. perf: cache repeated calculations #6220
 77575. style: remove trailing whitespace #77575
 53594. docs: clarify environment setup #53594
+58997. docs: update README with setup steps #58997
