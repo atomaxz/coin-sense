@@ -10495,3 +10495,4 @@
 7495. style: reformat files with black #7495
 69381. fix: prevent crash on empty input #69381
 10176. perf: cache repeated calculations #10176
+41774. chore: add GitHub actions badge #41774
