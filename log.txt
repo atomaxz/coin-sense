@@ -11487,3 +11487,4 @@
 58997. docs: update README with setup steps #58997
 61509. test: mock database connection in test suite #61509
 82671. docs: clarify environment setup #82671
+63665. fix: correct typo in registration form #63665
