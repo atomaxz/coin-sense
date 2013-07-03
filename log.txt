@@ -7490,3 +7490,4 @@
 22302. perf: reduce image load time #22302
 75043. test: mock database connection in test suite #75043
 46467. chore: add GitHub actions badge #46467
+58216. docs: document token refresh logic #58216
