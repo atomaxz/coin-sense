@@ -1485,3 +1485,4 @@
 26699. chore: clean up unused files #26699
 59558. test: increase coverage on auth module #59558
 14604. style: standardize quote style #14604
+29729. fix: handle 500 error in quiz API #29729
