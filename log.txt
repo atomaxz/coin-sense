@@ -11489,3 +11489,4 @@
 82671. docs: clarify environment setup #82671
 63665. fix: correct typo in registration form #63665
 34632. chore: update .gitignore #34632
+59651. test: add integration test for /submit endpoint #59651
