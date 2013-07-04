@@ -2485,3 +2485,4 @@
 3314. docs: add API usage examples #3314
 22922. perf: reduce image load time #22922
 88747. style: standardize quote style #88747
+0178. chore: bump dependencies #178
