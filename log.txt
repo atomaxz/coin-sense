@@ -516,3 +516,4 @@
 93977. docs: clarify environment setup #93977
 1391. docs: add API usage examples #1391
 24848. perf: cache repeated calculations #24848
+71656. perf: cache repeated calculations #71656
