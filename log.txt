@@ -1484,3 +1484,4 @@
 15467. perf: optimize database query for quiz results #15467
 26699. chore: clean up unused files #26699
 59558. test: increase coverage on auth module #59558
+14604. style: standardize quote style #14604
