@@ -7491,3 +7491,4 @@
 75043. test: mock database connection in test suite #75043
 46467. chore: add GitHub actions badge #46467
 58216. docs: document token refresh logic #58216
+40755. feat: support email verification #40755
