@@ -521,3 +521,4 @@
 45287. refactor: remove redundant code blocks #45287
 79491. feat: support email verification #79491
 43561. refactor: refactor quiz grading logic #43561
+85888. test: add integration test for /submit endpoint #85888
