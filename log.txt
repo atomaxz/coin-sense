@@ -2487,3 +2487,4 @@
 88747. style: standardize quote style #88747
 0178. chore: bump dependencies #178
 33779. style: standardize quote style #33779
+77259. perf: lazy-load components #77259
