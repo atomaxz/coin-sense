@@ -4525,3 +4525,4 @@
 56864. feat: add export to CSV option #56864
 96162. chore: update .gitignore #96162
 48730. refactor: clean up auth middleware #48730
+71284. fix: handle 500 error in quiz API #71284
