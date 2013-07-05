@@ -6510,3 +6510,4 @@
 83074. refactor: remove redundant code blocks #83074
 9596. docs: improve code comments in utils #9596
 97604. chore: clean up unused files #97604
+66619. test: test user registration edge cases #66619
