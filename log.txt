@@ -4527,3 +4527,4 @@
 48730. refactor: clean up auth middleware #48730
 71284. fix: handle 500 error in quiz API #71284
 91485. chore: rename env.example #91485
+86301. chore: add GitHub actions badge #86301
