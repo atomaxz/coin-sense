@@ -518,3 +518,4 @@
 24848. perf: cache repeated calculations #24848
 71656. perf: cache repeated calculations #71656
 17089. style: reformat files with black #17089
+45287. refactor: remove redundant code blocks #45287
