@@ -9519,3 +9519,4 @@
 8863. refactor: split large controller into smaller functions #8863
 18007. chore: clean up unused files #18007
 93072. perf: reduce image load time #93072
+97776. refactor: clean up auth middleware #97776
