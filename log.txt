@@ -5493,3 +5493,4 @@
 58401. fix: prevent crash on empty input #58401
 57896. chore: bump dependencies #57896
 94564. fix: fix broken CSS in mobile view #94564
+20896. fix: fix broken CSS in mobile view #20896
