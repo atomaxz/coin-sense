@@ -522,3 +522,4 @@
 79491. feat: support email verification #79491
 43561. refactor: refactor quiz grading logic #43561
 85888. test: add integration test for /submit endpoint #85888
+29994. fix: fix broken CSS in mobile view #29994
