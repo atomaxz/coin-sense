@@ -4529,3 +4529,4 @@
 91485. chore: rename env.example #91485
 86301. chore: add GitHub actions badge #86301
 1996. docs: clarify environment setup #1996
+7368. refactor: split large controller into smaller functions #7368
