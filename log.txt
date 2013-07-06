@@ -2489,3 +2489,4 @@
 33779. style: standardize quote style #33779
 77259. perf: lazy-load components #77259
 24412. chore: rename env.example #24412
+87290. feat: enable dark mode toggle #87290
