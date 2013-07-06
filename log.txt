@@ -5492,3 +5492,4 @@
 14909. docs: update README with setup steps #14909
 58401. fix: prevent crash on empty input #58401
 57896. chore: bump dependencies #57896
+94564. fix: fix broken CSS in mobile view #94564
