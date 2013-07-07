@@ -5495,3 +5495,4 @@
 94564. fix: fix broken CSS in mobile view #94564
 20896. fix: fix broken CSS in mobile view #20896
 29685. docs: improve code comments in utils #29685
+25766. fix: fix null pointer exception on login #25766
