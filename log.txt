@@ -525,3 +525,4 @@
 29994. fix: fix broken CSS in mobile view #29994
 94213. refactor: refactor quiz grading logic #94213
 92253. chore: bump dependencies #92253
+33064. docs: update README with setup steps #33064
