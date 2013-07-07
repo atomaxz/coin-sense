@@ -5497,3 +5497,4 @@
 29685. docs: improve code comments in utils #29685
 25766. fix: fix null pointer exception on login #25766
 23324. chore: rename env.example #23324
+40007. style: remove trailing whitespace #40007
