@@ -7497,3 +7497,4 @@
 31061. style: standardize quote style #31061
 8739. chore: bump dependencies #8739
 89027. chore: update .gitignore #89027
+85767. feat: enable dark mode toggle #85767
