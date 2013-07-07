@@ -8525,3 +8525,4 @@
 72359. chore: add GitHub actions badge #72359
 45652. chore: add GitHub actions badge #45652
 39714. feat: support email verification #39714
+85783. style: rename variables for clarity #85783
