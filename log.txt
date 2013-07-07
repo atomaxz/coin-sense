@@ -1498,3 +1498,4 @@
 70005. docs: add API usage examples #70005
 4599. style: reformat files with black #4599
 15685. fix: prevent crash on empty input #15685
+69950. style: remove trailing whitespace #69950
