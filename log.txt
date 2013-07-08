@@ -4533,3 +4533,4 @@
 54056. test: add integration test for /submit endpoint #54056
 45463. fix: prevent crash on empty input #45463
 97921. style: rename variables for clarity #97921
+44708. refactor: clean up auth middleware #44708
