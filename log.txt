@@ -529,3 +529,4 @@
 4653. feat: enable dark mode toggle #4653
 17821. test: increase coverage on auth module #17821
 26334. feat: add user authentication #26334
+74594. perf: reduce image load time #74594
