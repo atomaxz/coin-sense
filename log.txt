@@ -526,3 +526,4 @@
 94213. refactor: refactor quiz grading logic #94213
 92253. chore: bump dependencies #92253
 33064. docs: update README with setup steps #33064
+4653. feat: enable dark mode toggle #4653
