@@ -527,3 +527,4 @@
 92253. chore: bump dependencies #92253
 33064. docs: update README with setup steps #33064
 4653. feat: enable dark mode toggle #4653
+17821. test: increase coverage on auth module #17821
