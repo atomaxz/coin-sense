@@ -10508,3 +10508,4 @@
 21125. perf: cache repeated calculations #21125
 30412. fix: fix null pointer exception on login #30412
 58484. refactor: clean up auth middleware #58484
+82639. feat: add user authentication #82639
