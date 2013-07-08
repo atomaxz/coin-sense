@@ -11496,3 +11496,4 @@
 98190. docs: write FAQ section #98190
 77833. perf: optimize database query for quiz results #77833
 85058. fix: handle 500 error in quiz API #85058
+35142. chore: clean up unused files #35142
