@@ -2493,3 +2493,4 @@
 7270. fix: handle 500 error in quiz API #7270
 81712. style: rename variables for clarity #81712
 16746. refactor: refactor quiz grading logic #16746
+33359. docs: write FAQ section #33359
