@@ -9522,3 +9522,4 @@
 97776. refactor: clean up auth middleware #97776
 35016. docs: document token refresh logic #35016
 15347. refactor: organize models into subfolders #15347
+95405. feat: add user authentication #95405
