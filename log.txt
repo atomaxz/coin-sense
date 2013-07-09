@@ -7501,3 +7501,4 @@
 7372. chore: add GitHub actions badge #7372
 82602. test: add integration test for /submit endpoint #82602
 31482. chore: update .gitignore #31482
+71270. test: test user registration edge cases #71270
