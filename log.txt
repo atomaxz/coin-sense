@@ -5504,3 +5504,4 @@
 19886. test: test user registration edge cases #19886
 25176. fix: prevent crash on empty input #25176
 37271. fix: fix broken CSS in mobile view #37271
+74359. fix: fix null pointer exception on login #74359
