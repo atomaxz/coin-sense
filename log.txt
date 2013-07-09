@@ -8530,3 +8530,4 @@
 22109. refactor: refactor quiz grading logic #22109
 65092. chore: bump dependencies #65092
 39761. test: add unit test for quiz service #39761
+90355. perf: cache repeated calculations #90355
