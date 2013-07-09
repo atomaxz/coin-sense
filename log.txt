@@ -4539,3 +4539,4 @@
 20009. refactor: remove redundant code blocks #20009
 26260. style: remove trailing whitespace #26260
 43025. style: apply consistent indentation #43025
+42139. docs: document token refresh logic #42139
