@@ -5506,3 +5506,4 @@
 37271. fix: fix broken CSS in mobile view #37271
 74359. fix: fix null pointer exception on login #74359
 86975. chore: bump dependencies #86975
+53492. feat: support email verification #53492
