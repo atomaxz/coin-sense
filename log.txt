@@ -531,3 +531,4 @@
 26334. feat: add user authentication #26334
 74594. perf: reduce image load time #74594
 64699. style: rename variables for clarity #64699
+68760. feat: support email verification #68760
