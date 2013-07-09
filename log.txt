@@ -10511,3 +10511,4 @@
 82639. feat: add user authentication #82639
 66955. test: test user registration edge cases #66955
 5233. refactor: refactor quiz grading logic #5233
+90282. test: add integration test for /submit endpoint #90282
