@@ -11502,3 +11502,4 @@
 21298. docs: update README with setup steps #21298
 71119. test: mock database connection in test suite #71119
 17547. chore: add GitHub actions badge #17547
+12582. refactor: organize models into subfolders #12582
