@@ -1504,3 +1504,4 @@
 9077. perf: lazy-load components #9077
 15262. refactor: refactor quiz grading logic #15262
 80634. chore: rename env.example #80634
+7513. docs: update README with setup steps #7513
