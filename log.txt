@@ -3533,3 +3533,4 @@
 33618. chore: clean up unused files #33618
 63692. fix: correct typo in registration form #63692
 91895. fix: fix broken CSS in mobile view #91895
+30133. test: mock database connection in test suite #30133
