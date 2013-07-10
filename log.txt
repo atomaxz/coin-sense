@@ -2502,3 +2502,4 @@
 13978. chore: bump dependencies #13978
 95129. chore: add GitHub actions badge #95129
 1677. style: remove trailing whitespace #1677
+61705. perf: optimize database query for quiz results #61705
