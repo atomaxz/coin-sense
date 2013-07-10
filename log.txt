@@ -9525,3 +9525,4 @@
 95405. feat: add user authentication #95405
 13686. docs: clarify environment setup #13686
 96686. fix: fix broken CSS in mobile view #96686
+89241. chore: add GitHub actions badge #89241
