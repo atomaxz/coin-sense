@@ -3532,3 +3532,4 @@
 44594. docs: clarify environment setup #44594
 33618. chore: clean up unused files #33618
 63692. fix: correct typo in registration form #63692
+91895. fix: fix broken CSS in mobile view #91895
