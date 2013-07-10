@@ -11501,3 +11501,4 @@
 3046. perf: optimize database query for quiz results #3046
 21298. docs: update README with setup steps #21298
 71119. test: mock database connection in test suite #71119
+17547. chore: add GitHub actions badge #17547
