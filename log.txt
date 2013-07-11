@@ -1508,3 +1508,4 @@
 43523. feat: create admin dashboard #43523
 67081. test: increase coverage on auth module #67081
 4314. style: remove trailing whitespace #4314
+74149. docs: update README with setup steps #74149
