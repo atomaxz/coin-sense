@@ -6523,3 +6523,4 @@
 18712. style: standardize quote style #18712
 9181. feat: add export to CSV option #9181
 45621. chore: rename env.example #45621
+14594. perf: optimize database query for quiz results #14594
