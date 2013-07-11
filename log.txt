@@ -536,3 +536,4 @@
 60179. fix: correct typo in registration form #60179
 53218. feat: implement quiz timer feature #53218
 25320. chore: bump dependencies #25320
+19174. perf: reduce image load time #19174
