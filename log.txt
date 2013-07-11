@@ -7509,3 +7509,4 @@
 39491. perf: reduce image load time #39491
 14820. perf: cache repeated calculations #14820
 19615. chore: clean up unused files #19615
+7076. chore: rename env.example #7076
