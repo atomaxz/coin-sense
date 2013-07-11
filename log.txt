@@ -10519,3 +10519,4 @@
 86815. refactor: refactor quiz grading logic #86815
 26590. test: add unit test for quiz service #26590
 31958. fix: handle 500 error in quiz API #31958
+36263. chore: add GitHub actions badge #36263
