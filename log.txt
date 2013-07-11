@@ -1506,3 +1506,4 @@
 80634. chore: rename env.example #80634
 7513. docs: update README with setup steps #7513
 43523. feat: create admin dashboard #43523
+67081. test: increase coverage on auth module #67081
