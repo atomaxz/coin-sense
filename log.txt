@@ -8535,3 +8535,4 @@
 91167. perf: cache repeated calculations #91167
 10628. docs: document token refresh logic #10628
 34430. feat: support email verification #34430
+80056. fix: prevent crash on empty input #80056
