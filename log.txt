@@ -10518,3 +10518,4 @@
 59846. refactor: organize models into subfolders #59846
 86815. refactor: refactor quiz grading logic #86815
 26590. test: add unit test for quiz service #26590
+31958. fix: handle 500 error in quiz API #31958
