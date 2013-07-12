@@ -1512,3 +1512,4 @@
 46352. feat: enable dark mode toggle #46352
 69571. refactor: refactor quiz grading logic #69571
 81003. perf: reduce image load time #81003
+24383. perf: optimize database query for quiz results #24383
