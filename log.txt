@@ -3536,3 +3536,4 @@
 30133. test: mock database connection in test suite #30133
 87466. docs: add API usage examples #87466
 44870. style: rename variables for clarity #44870
+49020. chore: rename env.example #49020
