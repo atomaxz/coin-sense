@@ -539,3 +539,4 @@
 19174. perf: reduce image load time #19174
 44992. refactor: remove redundant code blocks #44992
 11659. fix: correct typo in registration form #11659
+71196. refactor: split large controller into smaller functions #71196
