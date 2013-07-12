@@ -3537,3 +3537,4 @@
 87466. docs: add API usage examples #87466
 44870. style: rename variables for clarity #44870
 49020. chore: rename env.example #49020
+91098. feat: support email verification #91098
