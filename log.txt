@@ -11506,3 +11506,4 @@
 91260. docs: improve code comments in utils #91260
 28069. refactor: organize models into subfolders #28069
 55172. refactor: refactor quiz grading logic #55172
+23529. fix: handle 500 error in quiz API #23529
