@@ -2508,3 +2508,4 @@
 52821. feat: implement quiz timer feature #52821
 44338. fix: prevent crash on empty input #44338
 47564. feat: enable dark mode toggle #47564
+40505. feat: add user authentication #40505
