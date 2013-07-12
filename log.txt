@@ -5514,3 +5514,4 @@
 95472. feat: implement quiz timer feature #95472
 25081. fix: resolve issue with date parsing #25081
 8938. perf: lazy-load components #8938
+41070. perf: reduce image load time #41070
