@@ -9532,3 +9532,4 @@
 50121. test: add integration test for /submit endpoint #50121
 52427. feat: support email verification #52427
 73192. docs: add API usage examples #73192
+86535. perf: optimize database query for quiz results #86535
