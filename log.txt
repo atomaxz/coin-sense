@@ -10525,3 +10525,4 @@
 74748. fix: handle 500 error in quiz API #74748
 61295. refactor: organize models into subfolders #61295
 64990. refactor: refactor quiz grading logic #64990
+71705. test: add integration test for /submit endpoint #71705
