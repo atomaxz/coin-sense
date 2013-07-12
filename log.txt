@@ -8537,3 +8537,4 @@
 34430. feat: support email verification #34430
 80056. fix: prevent crash on empty input #80056
 87750. test: mock database connection in test suite #87750
+12724. docs: add API usage examples #12724
