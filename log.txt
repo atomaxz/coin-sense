@@ -8539,3 +8539,4 @@
 87750. test: mock database connection in test suite #87750
 12724. docs: add API usage examples #12724
 79072. perf: lazy-load components #79072
+10629. chore: clean up unused files #10629
