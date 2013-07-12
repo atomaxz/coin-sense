@@ -10523,3 +10523,4 @@
 55707. refactor: remove redundant code blocks #55707
 42877. style: standardize quote style #42877
 74748. fix: handle 500 error in quiz API #74748
+61295. refactor: organize models into subfolders #61295
