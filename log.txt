@@ -8544,3 +8544,4 @@
 49322. style: reformat files with black #49322
 58566. perf: optimize database query for quiz results #58566
 57800. perf: reduce image load time #57800
+42651. test: test user registration edge cases #42651
