@@ -1514,3 +1514,4 @@
 81003. perf: reduce image load time #81003
 24383. perf: optimize database query for quiz results #24383
 1305. test: mock database connection in test suite #1305
+80454. feat: add export to CSV option #80454
