@@ -6529,3 +6529,4 @@
 37289. perf: cache repeated calculations #37289
 28371. style: apply consistent indentation #28371
 72412. test: test user registration edge cases #72412
+21997. chore: update .gitignore #21997
