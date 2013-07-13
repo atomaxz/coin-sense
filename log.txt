@@ -9536,3 +9536,4 @@
 47741. docs: clarify environment setup #47741
 64627. chore: update .gitignore #64627
 8122. refactor: clean up auth middleware #8122
+49835. feat: enable dark mode toggle #49835
