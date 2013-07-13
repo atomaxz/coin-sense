@@ -8542,3 +8542,4 @@
 10629. chore: clean up unused files #10629
 29795. style: rename variables for clarity #29795
 49322. style: reformat files with black #49322
+58566. perf: optimize database query for quiz results #58566
