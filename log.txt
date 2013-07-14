@@ -6532,3 +6532,4 @@
 21997. chore: update .gitignore #21997
 14529. fix: fix null pointer exception on login #14529
 11914. test: increase coverage on auth module #11914
+86848. refactor: clean up auth middleware #86848
