@@ -11510,3 +11510,4 @@
 83959. fix: resolve issue with date parsing #83959
 35358. chore: clean up unused files #35358
 93884. chore: add GitHub actions badge #93884
+96866. fix: fix broken CSS in mobile view #96866
