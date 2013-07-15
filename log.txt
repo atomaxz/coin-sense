@@ -6537,3 +6537,4 @@
 3290. perf: cache repeated calculations #3290
 32355. style: standardize quote style #32355
 58225. fix: resolve issue with date parsing #58225
+74966. fix: correct typo in registration form #74966
