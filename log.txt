@@ -1521,3 +1521,4 @@
 15217. style: reformat files with black #15217
 24239. docs: clarify environment setup #24239
 52965. fix: fix null pointer exception on login #52965
+28938. docs: document token refresh logic #28938
