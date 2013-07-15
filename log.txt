@@ -8549,3 +8549,4 @@
 15364. refactor: remove redundant code blocks #15364
 66492. fix: correct typo in registration form #66492
 44429. docs: clarify environment setup #44429
+74454. test: mock database connection in test suite #74454
