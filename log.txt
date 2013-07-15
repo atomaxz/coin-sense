@@ -11512,3 +11512,4 @@
 93884. chore: add GitHub actions badge #93884
 96866. fix: fix broken CSS in mobile view #96866
 24181. test: mock database connection in test suite #24181
+35866. style: remove trailing whitespace #35866
