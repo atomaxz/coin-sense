@@ -550,3 +550,4 @@
 95479. chore: add GitHub actions badge #95479
 94586. fix: fix broken CSS in mobile view #94586
 13967. docs: document token refresh logic #13967
+52799. chore: add GitHub actions badge #52799
