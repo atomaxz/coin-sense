@@ -3541,3 +3541,4 @@
 66933. refactor: split large controller into smaller functions #66933
 84879. chore: rename env.example #84879
 44593. feat: support email verification #44593
+39869. fix: correct typo in registration form #39869
