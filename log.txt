@@ -9538,3 +9538,4 @@
 8122. refactor: clean up auth middleware #8122
 49835. feat: enable dark mode toggle #49835
 89895. refactor: organize models into subfolders #89895
+12257. feat: create admin dashboard #12257
