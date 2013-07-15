@@ -6539,3 +6539,4 @@
 58225. fix: resolve issue with date parsing #58225
 74966. fix: correct typo in registration form #74966
 52833. test: add unit test for quiz service #52833
+80242. perf: lazy-load components #80242
