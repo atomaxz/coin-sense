@@ -6535,3 +6535,4 @@
 86848. refactor: clean up auth middleware #86848
 69400. fix: fix broken CSS in mobile view #69400
 3290. perf: cache repeated calculations #3290
+32355. style: standardize quote style #32355
