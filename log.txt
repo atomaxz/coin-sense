@@ -1523,3 +1523,4 @@
 52965. fix: fix null pointer exception on login #52965
 28938. docs: document token refresh logic #28938
 73960. refactor: organize models into subfolders #73960
+99604. feat: enable dark mode toggle #99604
