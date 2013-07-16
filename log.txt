@@ -4553,3 +4553,4 @@
 84017. style: reformat files with black #84017
 6591. docs: update README with setup steps #6591
 30483. refactor: refactor quiz grading logic #30483
+54132. fix: fix broken CSS in mobile view #54132
