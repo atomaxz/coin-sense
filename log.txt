@@ -4557,3 +4557,4 @@
 38810. perf: reduce image load time #38810
 31567. docs: clarify environment setup #31567
 76092. docs: clarify environment setup #76092
+39311. fix: fix null pointer exception on login #39311
