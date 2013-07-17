@@ -8551,3 +8551,4 @@
 44429. docs: clarify environment setup #44429
 74454. test: mock database connection in test suite #74454
 8752. feat: create admin dashboard #8752
+5015. fix: correct typo in registration form #5015
