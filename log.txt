@@ -3550,3 +3550,4 @@
 92675. chore: bump dependencies #92675
 6700. perf: reduce image load time #6700
 55919. style: reformat files with black #55919
+38840. docs: document token refresh logic #38840
