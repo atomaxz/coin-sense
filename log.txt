@@ -9547,3 +9547,4 @@
 90327. docs: write FAQ section #90327
 37848. chore: rename env.example #37848
 85100. perf: lazy-load components #85100
+5430. chore: add GitHub actions badge #5430
