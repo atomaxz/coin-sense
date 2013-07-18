@@ -5521,3 +5521,4 @@
 92488. feat: enable dark mode toggle #92488
 24073. refactor: remove redundant code blocks #24073
 76528. feat: add export to CSV option #76528
+93986. perf: cache repeated calculations #93986
