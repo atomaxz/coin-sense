@@ -11515,3 +11515,4 @@
 35866. style: remove trailing whitespace #35866
 32617. fix: fix null pointer exception on login #32617
 8337. chore: rename env.example #8337
+82182. fix: correct typo in registration form #82182
