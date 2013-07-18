@@ -9551,3 +9551,4 @@
 64577. docs: update README with setup steps #64577
 94583. chore: rename env.example #94583
 23479. refactor: remove redundant code blocks #23479
+29649. feat: add user authentication #29649
