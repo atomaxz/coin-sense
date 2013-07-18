@@ -1526,3 +1526,4 @@
 99604. feat: enable dark mode toggle #99604
 93820. style: standardize quote style #93820
 8088. chore: add GitHub actions badge #8088
+19914. fix: fix broken CSS in mobile view #19914
