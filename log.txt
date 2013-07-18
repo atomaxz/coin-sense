@@ -3553,3 +3553,4 @@
 38840. docs: document token refresh logic #38840
 2269. docs: add API usage examples #2269
 9998. chore: update .gitignore #9998
+4678. perf: optimize database query for quiz results #4678
