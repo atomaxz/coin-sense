@@ -3552,3 +3552,4 @@
 55919. style: reformat files with black #55919
 38840. docs: document token refresh logic #38840
 2269. docs: add API usage examples #2269
+9998. chore: update .gitignore #9998
