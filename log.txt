@@ -11519,3 +11519,4 @@
 57934. fix: resolve issue with date parsing #57934
 24300. style: remove trailing whitespace #24300
 93180. perf: cache repeated calculations #93180
+50235. docs: document token refresh logic #50235
