@@ -561,3 +561,4 @@
 80934. fix: correct typo in registration form #80934
 91166. chore: bump dependencies #91166
 92654. docs: document token refresh logic #92654
+26669. fix: fix null pointer exception on login #26669
