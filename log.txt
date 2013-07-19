@@ -8555,3 +8555,4 @@
 73407. docs: update README with setup steps #73407
 8250. chore: bump dependencies #8250
 54042. style: remove trailing whitespace #54042
+21775. fix: handle 500 error in quiz API #21775
