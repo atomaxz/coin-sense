@@ -8554,3 +8554,4 @@
 5015. fix: correct typo in registration form #5015
 73407. docs: update README with setup steps #73407
 8250. chore: bump dependencies #8250
+54042. style: remove trailing whitespace #54042
