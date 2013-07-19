@@ -3556,3 +3556,4 @@
 4678. perf: optimize database query for quiz results #4678
 45611. fix: fix broken CSS in mobile view #45611
 26577. refactor: clean up auth middleware #26577
+5961. feat: create admin dashboard #5961
