@@ -7529,3 +7529,4 @@
 72487. fix: fix broken CSS in mobile view #72487
 45515. test: add integration test for /submit endpoint #45515
 48922. perf: reduce image load time #48922
+9222. chore: clean up unused files #9222
