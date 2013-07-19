@@ -5523,3 +5523,4 @@
 76528. feat: add export to CSV option #76528
 93986. perf: cache repeated calculations #93986
 44054. feat: add user authentication #44054
+56157. docs: document token refresh logic #56157
