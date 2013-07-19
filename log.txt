@@ -3555,3 +3555,4 @@
 9998. chore: update .gitignore #9998
 4678. perf: optimize database query for quiz results #4678
 45611. fix: fix broken CSS in mobile view #45611
+26577. refactor: clean up auth middleware #26577
