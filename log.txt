@@ -10542,3 +10542,4 @@
 29825. refactor: remove redundant code blocks #29825
 19412. test: increase coverage on auth module #19412
 17547. chore: add GitHub actions badge #17547
+28085. fix: prevent crash on empty input #28085
