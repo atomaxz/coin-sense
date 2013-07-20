@@ -2530,3 +2530,4 @@
 59328. style: apply consistent indentation #59328
 95555. refactor: split large controller into smaller functions #95555
 91864. refactor: clean up auth middleware #91864
+19764. fix: correct typo in registration form #19764
