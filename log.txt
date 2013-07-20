@@ -1537,3 +1537,4 @@
 69180. feat: add export to CSV option #69180
 72065. style: rename variables for clarity #72065
 65321. perf: cache repeated calculations #65321
+78457. perf: reduce image load time #78457
