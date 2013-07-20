@@ -2529,3 +2529,4 @@
 91219. perf: cache repeated calculations #91219
 59328. style: apply consistent indentation #59328
 95555. refactor: split large controller into smaller functions #95555
+91864. refactor: clean up auth middleware #91864
