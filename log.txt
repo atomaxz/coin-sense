@@ -3558,3 +3558,4 @@
 26577. refactor: clean up auth middleware #26577
 5961. feat: create admin dashboard #5961
 6308. style: reformat files with black #6308
+0800. style: remove trailing whitespace #800
