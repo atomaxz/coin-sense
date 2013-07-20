@@ -3561,3 +3561,4 @@
 0800. style: remove trailing whitespace #800
 98017. feat: enable dark mode toggle #98017
 12699. fix: handle 500 error in quiz API #12699
+99096. chore: bump dependencies #99096
