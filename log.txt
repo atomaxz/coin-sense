@@ -6559,3 +6559,4 @@
 24916. docs: document token refresh logic #24916
 37239. chore: bump dependencies #37239
 89318. chore: bump dependencies #89318
+60503. fix: correct typo in registration form #60503
