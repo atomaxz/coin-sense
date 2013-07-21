@@ -568,3 +568,4 @@
 93463. chore: clean up unused files #93463
 51639. refactor: remove redundant code blocks #51639
 31293. fix: prevent crash on empty input #31293
+35414. fix: fix null pointer exception on login #35414
