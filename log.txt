@@ -3566,3 +3566,4 @@
 81332. refactor: refactor quiz grading logic #81332
 7992. chore: clean up unused files #7992
 60612. fix: fix null pointer exception on login #60612
+99054. feat: support email verification #99054
