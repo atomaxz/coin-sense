@@ -8559,3 +8559,4 @@
 94834. chore: update .gitignore #94834
 88671. perf: optimize database query for quiz results #88671
 97117. refactor: refactor quiz grading logic #97117
+41864. test: test user registration edge cases #41864
