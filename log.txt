@@ -2540,3 +2540,4 @@
 97776. refactor: clean up auth middleware #97776
 52257. docs: add API usage examples #52257
 29215. refactor: remove redundant code blocks #29215
+65755. test: increase coverage on auth module #65755
