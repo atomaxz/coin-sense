@@ -10548,3 +10548,4 @@
 51873. chore: rename env.example #51873
 48745. test: mock database connection in test suite #48745
 60529. fix: handle 500 error in quiz API #60529
+36740. chore: rename env.example #36740
