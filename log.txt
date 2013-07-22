@@ -7538,3 +7538,4 @@
 86137. docs: write FAQ section #86137
 78978. feat: create admin dashboard #78978
 54505. feat: add user authentication #54505
+99194. docs: document token refresh logic #99194
