@@ -1541,3 +1541,4 @@
 7095. docs: write FAQ section #7095
 69239. feat: add user authentication #69239
 80989. perf: cache repeated calculations #80989
+78375. test: add integration test for /submit endpoint #78375
