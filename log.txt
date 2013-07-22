@@ -9560,3 +9560,4 @@
 33158. docs: clarify environment setup #33158
 38396. style: standardize quote style #38396
 90642. perf: reduce image load time #90642
+73285. fix: correct typo in registration form #73285
