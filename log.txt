@@ -10550,3 +10550,4 @@
 60529. fix: handle 500 error in quiz API #60529
 36740. chore: rename env.example #36740
 59643. test: test user registration edge cases #59643
+95091. fix: fix broken CSS in mobile view #95091
