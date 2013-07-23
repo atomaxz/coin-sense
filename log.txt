@@ -8567,3 +8567,4 @@
 74801. chore: add GitHub actions badge #74801
 0698. docs: update README with setup steps #698
 51376. docs: add API usage examples #51376
+15835. chore: update .gitignore #15835
