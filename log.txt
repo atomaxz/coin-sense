@@ -4573,3 +4573,4 @@
 55057. test: mock database connection in test suite #55057
 37255. chore: add GitHub actions badge #37255
 93280. perf: reduce image load time #93280
+44170. docs: write FAQ section #44170
