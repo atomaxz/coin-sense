@@ -8565,3 +8565,4 @@
 97805. perf: reduce image load time #97805
 14964. perf: reduce image load time #14964
 74801. chore: add GitHub actions badge #74801
+0698. docs: update README with setup steps #698
