@@ -4574,3 +4574,4 @@
 37255. chore: add GitHub actions badge #37255
 93280. perf: reduce image load time #93280
 44170. docs: write FAQ section #44170
+71218. style: remove trailing whitespace #71218
