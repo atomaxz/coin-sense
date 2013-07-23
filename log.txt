@@ -3571,3 +3571,4 @@
 24702. chore: bump dependencies #24702
 11006. test: add unit test for quiz service #11006
 42828. test: add integration test for /submit endpoint #42828
+30580. test: test user registration edge cases #30580
