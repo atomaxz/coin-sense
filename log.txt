@@ -2542,3 +2542,4 @@
 29215. refactor: remove redundant code blocks #29215
 65755. test: increase coverage on auth module #65755
 7662. test: add unit test for quiz service #7662
+73350. fix: fix null pointer exception on login #73350
