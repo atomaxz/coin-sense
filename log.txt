@@ -9562,3 +9562,4 @@
 90642. perf: reduce image load time #90642
 73285. fix: correct typo in registration form #73285
 47637. refactor: remove redundant code blocks #47637
+62070. chore: clean up unused files #62070
