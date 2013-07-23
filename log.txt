@@ -5530,3 +5530,4 @@
 32432. fix: fix null pointer exception on login #32432
 91474. docs: improve code comments in utils #91474
 88575. perf: lazy-load components #88575
+97354. feat: enable dark mode toggle #97354
