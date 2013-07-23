@@ -11533,3 +11533,4 @@
 60812. refactor: split large controller into smaller functions #60812
 39393. chore: add GitHub actions badge #39393
 27900. refactor: organize models into subfolders #27900
+11896. fix: fix broken CSS in mobile view #11896
