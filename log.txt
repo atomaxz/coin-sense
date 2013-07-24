@@ -8571,3 +8571,4 @@
 68578. test: add integration test for /submit endpoint #68578
 7508. docs: update README with setup steps #7508
 39044. chore: clean up unused files #39044
+37745. test: mock database connection in test suite #37745
