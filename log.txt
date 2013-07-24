@@ -9563,3 +9563,4 @@
 73285. fix: correct typo in registration form #73285
 47637. refactor: remove redundant code blocks #47637
 62070. chore: clean up unused files #62070
+88816. fix: fix broken CSS in mobile view #88816
