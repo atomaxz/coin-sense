@@ -10556,3 +10556,4 @@
 19855. style: remove trailing whitespace #19855
 47592. test: add unit test for quiz service #47592
 67596. chore: clean up unused files #67596
+65335. perf: optimize database query for quiz results #65335
