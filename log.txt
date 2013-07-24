@@ -11536,3 +11536,4 @@
 11896. fix: fix broken CSS in mobile view #11896
 7560. feat: add export to CSV option #7560
 61712. chore: add GitHub actions badge #61712
+84842. docs: clarify environment setup #84842
