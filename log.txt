@@ -8569,3 +8569,4 @@
 51376. docs: add API usage examples #51376
 15835. chore: update .gitignore #15835
 68578. test: add integration test for /submit endpoint #68578
+7508. docs: update README with setup steps #7508
