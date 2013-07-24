@@ -570,3 +570,4 @@
 31293. fix: prevent crash on empty input #31293
 35414. fix: fix null pointer exception on login #35414
 56203. feat: create admin dashboard #56203
+34471. perf: reduce image load time #34471
