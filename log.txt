@@ -10554,3 +10554,4 @@
 36344. feat: enable dark mode toggle #36344
 44502. fix: handle 500 error in quiz API #44502
 19855. style: remove trailing whitespace #19855
+47592. test: add unit test for quiz service #47592
