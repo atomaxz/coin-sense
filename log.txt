@@ -10551,3 +10551,4 @@
 36740. chore: rename env.example #36740
 59643. test: test user registration edge cases #59643
 95091. fix: fix broken CSS in mobile view #95091
+36344. feat: enable dark mode toggle #36344
