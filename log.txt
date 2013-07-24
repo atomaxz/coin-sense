@@ -2545,3 +2545,4 @@
 73350. fix: fix null pointer exception on login #73350
 51681. chore: update .gitignore #51681
 34523. feat: enable dark mode toggle #34523
+17454. test: increase coverage on auth module #17454
