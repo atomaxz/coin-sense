@@ -1547,3 +1547,4 @@
 3944. chore: rename env.example #3944
 98119. feat: support email verification #98119
 81520. docs: write FAQ section #81520
+9482. style: reformat files with black #9482
