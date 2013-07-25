@@ -11541,3 +11541,4 @@
 58405. docs: update README with setup steps #58405
 15939. perf: cache repeated calculations #15939
 11966. perf: reduce image load time #11966
+40693. fix: fix null pointer exception on login #40693
