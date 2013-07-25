@@ -7547,3 +7547,4 @@
 17376. refactor: split large controller into smaller functions #17376
 82658. chore: add GitHub actions badge #82658
 40168. feat: support email verification #40168
+28458. docs: update README with setup steps #28458
