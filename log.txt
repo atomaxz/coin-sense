@@ -8573,3 +8573,4 @@
 39044. chore: clean up unused files #39044
 37745. test: mock database connection in test suite #37745
 4371. style: standardize quote style #4371
+6886. style: remove trailing whitespace #6886
