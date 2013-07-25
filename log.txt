@@ -4580,3 +4580,4 @@
 15481. perf: optimize database query for quiz results #15481
 7262. feat: add user authentication #7262
 74340. feat: add export to CSV option #74340
+60529. fix: handle 500 error in quiz API #60529
