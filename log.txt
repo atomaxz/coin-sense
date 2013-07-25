@@ -571,3 +571,4 @@
 35414. fix: fix null pointer exception on login #35414
 56203. feat: create admin dashboard #56203
 34471. perf: reduce image load time #34471
+10461. docs: update README with setup steps #10461
