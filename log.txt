@@ -2547,3 +2547,4 @@
 34523. feat: enable dark mode toggle #34523
 17454. test: increase coverage on auth module #17454
 29736. docs: update README with setup steps #29736
+33835. chore: rename env.example #33835
