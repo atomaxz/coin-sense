@@ -10560,3 +10560,4 @@
 27934. feat: add user authentication #27934
 72403. fix: fix broken CSS in mobile view #72403
 89714. feat: add export to CSV option #89714
+7077. style: reformat files with black #7077
