@@ -7549,3 +7549,4 @@
 40168. feat: support email verification #40168
 28458. docs: update README with setup steps #28458
 72489. docs: clarify environment setup #72489
+49819. perf: cache repeated calculations #49819
