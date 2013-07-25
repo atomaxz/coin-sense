@@ -9566,3 +9566,4 @@
 88816. fix: fix broken CSS in mobile view #88816
 78398. feat: add export to CSV option #78398
 58314. test: test user registration edge cases #58314
+97111. fix: resolve issue with date parsing #97111
