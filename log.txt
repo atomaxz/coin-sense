@@ -11539,3 +11539,4 @@
 84842. docs: clarify environment setup #84842
 31468. docs: document token refresh logic #31468
 58405. docs: update README with setup steps #58405
+15939. perf: cache repeated calculations #15939
