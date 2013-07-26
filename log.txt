@@ -6571,3 +6571,4 @@
 65356. docs: improve code comments in utils #65356
 25220. perf: lazy-load components #25220
 12011. test: add integration test for /submit endpoint #12011
+25403. fix: prevent crash on empty input #25403
