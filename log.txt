@@ -3574,3 +3574,4 @@
 30580. test: test user registration edge cases #30580
 53726. refactor: refactor quiz grading logic #53726
 96796. perf: optimize database query for quiz results #96796
+9277. fix: handle 500 error in quiz API #9277
