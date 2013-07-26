@@ -3578,3 +3578,4 @@
 26576. docs: add API usage examples #26576
 54295. test: add unit test for quiz service #54295
 99777. chore: rename env.example #99777
+34880. test: mock database connection in test suite #34880
