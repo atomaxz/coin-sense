@@ -3576,3 +3576,4 @@
 96796. perf: optimize database query for quiz results #96796
 9277. fix: handle 500 error in quiz API #9277
 26576. docs: add API usage examples #26576
+54295. test: add unit test for quiz service #54295
