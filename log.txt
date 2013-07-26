@@ -6572,3 +6572,4 @@
 25220. perf: lazy-load components #25220
 12011. test: add integration test for /submit endpoint #12011
 25403. fix: prevent crash on empty input #25403
+0615. refactor: clean up auth middleware #615
