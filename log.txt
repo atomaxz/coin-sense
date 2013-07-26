@@ -6567,3 +6567,4 @@
 3898. chore: clean up unused files #3898
 50214. docs: write FAQ section #50214
 68274. chore: add GitHub actions badge #68274
+26199. perf: reduce image load time #26199
