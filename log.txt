@@ -11542,3 +11542,4 @@
 15939. perf: cache repeated calculations #15939
 11966. perf: reduce image load time #11966
 40693. fix: fix null pointer exception on login #40693
+82309. test: add integration test for /submit endpoint #82309
