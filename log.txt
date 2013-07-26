@@ -3580,3 +3580,4 @@
 99777. chore: rename env.example #99777
 34880. test: mock database connection in test suite #34880
 14964. perf: reduce image load time #14964
+54115. test: test user registration edge cases #54115
