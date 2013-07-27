@@ -11548,3 +11548,4 @@
 46513. test: increase coverage on auth module #46513
 43718. docs: update README with setup steps #43718
 30993. docs: update README with setup steps #30993
+76954. fix: handle 500 error in quiz API #76954
