@@ -8582,3 +8582,4 @@
 10521. fix: handle 500 error in quiz API #10521
 5954. test: add unit test for quiz service #5954
 92292. refactor: remove redundant code blocks #92292
+38554. style: standardize quote style #38554
