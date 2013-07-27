@@ -11552,3 +11552,4 @@
 1451. refactor: remove redundant code blocks #1451
 43417. refactor: remove redundant code blocks #43417
 3142. test: add integration test for /submit endpoint #3142
+49639. fix: prevent crash on empty input #49639
