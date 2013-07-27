@@ -10565,3 +10565,4 @@
 2580. chore: clean up unused files #2580
 31016. chore: update .gitignore #31016
 9611. test: increase coverage on auth module #9611
+70289. docs: update README with setup steps #70289
