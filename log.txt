@@ -10563,3 +10563,4 @@
 7077. style: reformat files with black #7077
 41340. fix: fix null pointer exception on login #41340
 2580. chore: clean up unused files #2580
+31016. chore: update .gitignore #31016
