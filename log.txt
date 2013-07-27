@@ -577,3 +577,4 @@
 43878. docs: document token refresh logic #43878
 90865. docs: clarify environment setup #90865
 5680. fix: correct typo in registration form #5680
+63870. chore: rename env.example #63870
