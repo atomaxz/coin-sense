@@ -3585,3 +3585,4 @@
 72615. fix: prevent crash on empty input #72615
 80493. perf: reduce image load time #80493
 62538. chore: rename env.example #62538
+0592. perf: lazy-load components #592
