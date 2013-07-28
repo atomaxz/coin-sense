@@ -1556,3 +1556,4 @@
 10801. test: mock database connection in test suite #10801
 46015. style: rename variables for clarity #46015
 75931. perf: reduce image load time #75931
+47278. refactor: clean up auth middleware #47278
