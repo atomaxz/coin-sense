@@ -9574,3 +9574,4 @@
 65925. docs: improve code comments in utils #65925
 30805. feat: create admin dashboard #30805
 36337. fix: fix broken CSS in mobile view #36337
+45290. refactor: clean up auth middleware #45290
