@@ -10566,3 +10566,4 @@
 31016. chore: update .gitignore #31016
 9611. test: increase coverage on auth module #9611
 70289. docs: update README with setup steps #70289
+50899. fix: fix null pointer exception on login #50899
