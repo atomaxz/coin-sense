@@ -9573,3 +9573,4 @@
 53375. docs: write FAQ section #53375
 65925. docs: improve code comments in utils #65925
 30805. feat: create admin dashboard #30805
+36337. fix: fix broken CSS in mobile view #36337
