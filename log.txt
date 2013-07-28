@@ -1558,3 +1558,4 @@
 75931. perf: reduce image load time #75931
 47278. refactor: clean up auth middleware #47278
 20347. test: test user registration edge cases #20347
+77999. feat: support email verification #77999
