@@ -7554,3 +7554,4 @@
 29000. docs: add API usage examples #29000
 12336. docs: document token refresh logic #12336
 40185. perf: cache repeated calculations #40185
+99489. test: mock database connection in test suite #99489
