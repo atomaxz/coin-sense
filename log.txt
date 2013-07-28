@@ -3588,3 +3588,4 @@
 0592. perf: lazy-load components #592
 24905. refactor: refactor quiz grading logic #24905
 70961. style: standardize quote style #70961
+25004. feat: add user authentication #25004
