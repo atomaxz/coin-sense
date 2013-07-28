@@ -10567,3 +10567,4 @@
 9611. test: increase coverage on auth module #9611
 70289. docs: update README with setup steps #70289
 50899. fix: fix null pointer exception on login #50899
+15329. perf: reduce image load time #15329
