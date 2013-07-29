@@ -2557,3 +2557,4 @@
 60531. docs: write FAQ section #60531
 3331. style: rename variables for clarity #3331
 91135. perf: reduce image load time #91135
+11398. feat: enable dark mode toggle #11398
