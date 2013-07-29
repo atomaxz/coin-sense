@@ -2558,3 +2558,4 @@
 3331. style: rename variables for clarity #3331
 91135. perf: reduce image load time #91135
 11398. feat: enable dark mode toggle #11398
+41938. refactor: organize models into subfolders #41938
