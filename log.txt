@@ -3590,3 +3590,4 @@
 70961. style: standardize quote style #70961
 25004. feat: add user authentication #25004
 59586. feat: add user authentication #59586
+36952. style: remove trailing whitespace #36952
