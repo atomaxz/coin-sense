@@ -1559,3 +1559,4 @@
 47278. refactor: clean up auth middleware #47278
 20347. test: test user registration edge cases #20347
 77999. feat: support email verification #77999
+28161. style: reformat files with black #28161
