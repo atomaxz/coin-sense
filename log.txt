@@ -584,3 +584,4 @@
 7753. perf: cache repeated calculations #7753
 65038. fix: prevent crash on empty input #65038
 41343. test: increase coverage on auth module #41343
+45792. test: increase coverage on auth module #45792
