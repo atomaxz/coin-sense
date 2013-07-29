@@ -582,3 +582,4 @@
 22020. perf: cache repeated calculations #22020
 76429. chore: update .gitignore #76429
 7753. perf: cache repeated calculations #7753
+65038. fix: prevent crash on empty input #65038
