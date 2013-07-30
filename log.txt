@@ -7559,3 +7559,4 @@
 32605. feat: create admin dashboard #32605
 40826. style: standardize quote style #40826
 8348. feat: enable dark mode toggle #8348
+47804. fix: correct typo in registration form #47804
