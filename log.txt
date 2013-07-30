@@ -6577,3 +6577,4 @@
 12723. perf: lazy-load components #12723
 17817. feat: add export to CSV option #17817
 76858. style: rename variables for clarity #76858
+63786. style: remove trailing whitespace #63786
