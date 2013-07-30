@@ -11557,3 +11557,4 @@
 71504. refactor: clean up auth middleware #71504
 93775. style: rename variables for clarity #93775
 3019. feat: add user authentication #3019
+33359. docs: write FAQ section #33359
