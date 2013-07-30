@@ -3592,3 +3592,4 @@
 59586. feat: add user authentication #59586
 36952. style: remove trailing whitespace #36952
 2557. perf: reduce image load time #2557
+6165. chore: clean up unused files #6165
