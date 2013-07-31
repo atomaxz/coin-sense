@@ -5554,3 +5554,4 @@
 75435. chore: update .gitignore #75435
 54416. docs: update README with setup steps #54416
 94298. feat: implement quiz timer feature #94298
+71308. test: mock database connection in test suite #71308
