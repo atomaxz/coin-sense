@@ -3597,3 +3597,4 @@
 15006. style: remove trailing whitespace #15006
 99595. feat: create admin dashboard #99595
 7217. perf: lazy-load components #7217
+82236. fix: prevent crash on empty input #82236
