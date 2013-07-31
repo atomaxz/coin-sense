@@ -9586,3 +9586,4 @@
 75568. chore: clean up unused files #75568
 8245. docs: add API usage examples #8245
 28658. docs: document token refresh logic #28658
+83816. fix: correct typo in registration form #83816
