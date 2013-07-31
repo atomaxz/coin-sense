@@ -3596,3 +3596,4 @@
 39511. test: add integration test for /submit endpoint #39511
 15006. style: remove trailing whitespace #15006
 99595. feat: create admin dashboard #99595
+7217. perf: lazy-load components #7217
