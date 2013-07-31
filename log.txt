@@ -590,3 +590,4 @@
 29788. style: standardize quote style #29788
 65471. refactor: remove redundant code blocks #65471
 7102. perf: lazy-load components #7102
+33410. docs: update README with setup steps #33410
