@@ -4592,3 +4592,4 @@
 19041. chore: rename env.example #19041
 60135. chore: add GitHub actions badge #60135
 51973. fix: fix null pointer exception on login #51973
+74318. perf: lazy-load components #74318
