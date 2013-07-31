@@ -11559,3 +11559,4 @@
 3019. feat: add user authentication #3019
 33359. docs: write FAQ section #33359
 70204. refactor: remove redundant code blocks #70204
+56691. perf: optimize database query for quiz results #56691
