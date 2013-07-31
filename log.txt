@@ -4590,3 +4590,4 @@
 67596. chore: clean up unused files #67596
 39465. chore: rename env.example #39465
 19041. chore: rename env.example #19041
+60135. chore: add GitHub actions badge #60135
