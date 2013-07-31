@@ -8595,3 +8595,4 @@
 62877. fix: prevent crash on empty input #62877
 29049. chore: clean up unused files #29049
 33707. fix: prevent crash on empty input #33707
+84093. feat: enable dark mode toggle #84093
