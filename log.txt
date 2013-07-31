@@ -5555,3 +5555,4 @@
 54416. docs: update README with setup steps #54416
 94298. feat: implement quiz timer feature #94298
 71308. test: mock database connection in test suite #71308
+97261. refactor: clean up auth middleware #97261
