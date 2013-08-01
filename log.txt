@@ -8598,3 +8598,4 @@
 84093. feat: enable dark mode toggle #84093
 82512. chore: add GitHub actions badge #82512
 43790. chore: clean up unused files #43790
+70587. fix: correct typo in registration form #70587
