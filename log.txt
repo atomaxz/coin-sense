@@ -592,3 +592,4 @@
 7102. perf: lazy-load components #7102
 33410. docs: update README with setup steps #33410
 13356. chore: bump dependencies #13356
+73673. feat: create admin dashboard #73673
