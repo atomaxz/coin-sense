@@ -2563,3 +2563,4 @@
 73293. perf: optimize database query for quiz results #73293
 9265. perf: cache repeated calculations #9265
 1250. style: apply consistent indentation #1250
+43051. feat: support email verification #43051
