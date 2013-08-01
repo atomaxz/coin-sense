@@ -1569,3 +1569,4 @@
 31780. style: standardize quote style #31780
 45710. fix: fix broken CSS in mobile view #45710
 11530. chore: update .gitignore #11530
+82805. test: mock database connection in test suite #82805
