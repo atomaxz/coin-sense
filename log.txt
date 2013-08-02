@@ -4598,3 +4598,4 @@
 51824. perf: optimize database query for quiz results #51824
 9174. fix: prevent crash on empty input #9174
 96612. test: increase coverage on auth module #96612
+17263. fix: handle 500 error in quiz API #17263
