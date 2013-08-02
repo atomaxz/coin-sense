@@ -10582,3 +10582,4 @@
 52079. test: add integration test for /submit endpoint #52079
 53007. refactor: remove redundant code blocks #53007
 53192. perf: lazy-load components #53192
+73786. perf: reduce image load time #73786
