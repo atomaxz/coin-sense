@@ -9593,3 +9593,4 @@
 43278. fix: resolve issue with date parsing #43278
 53943. fix: correct typo in registration form #53943
 66099. perf: lazy-load components #66099
+28576. chore: add GitHub actions badge #28576
