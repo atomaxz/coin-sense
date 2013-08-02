@@ -1572,3 +1572,4 @@
 82805. test: mock database connection in test suite #82805
 35087. feat: support email verification #35087
 71198. chore: bump dependencies #71198
+7155. chore: add GitHub actions badge #7155
