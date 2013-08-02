@@ -2565,3 +2565,4 @@
 1250. style: apply consistent indentation #1250
 43051. feat: support email verification #43051
 72069. docs: write FAQ section #72069
+18209. refactor: remove redundant code blocks #18209
