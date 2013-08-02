@@ -4599,3 +4599,4 @@
 9174. fix: prevent crash on empty input #9174
 96612. test: increase coverage on auth module #96612
 17263. fix: handle 500 error in quiz API #17263
+31618. feat: add user authentication #31618
