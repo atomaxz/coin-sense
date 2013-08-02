@@ -2566,3 +2566,4 @@
 43051. feat: support email verification #43051
 72069. docs: write FAQ section #72069
 18209. refactor: remove redundant code blocks #18209
+47714. docs: clarify environment setup #47714
