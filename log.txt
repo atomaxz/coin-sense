@@ -2571,3 +2571,4 @@
 11026. docs: clarify environment setup #11026
 13434. fix: prevent crash on empty input #13434
 74337. feat: enable dark mode toggle #74337
+94678. fix: fix broken CSS in mobile view #94678
