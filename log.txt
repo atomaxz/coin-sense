@@ -7567,3 +7567,4 @@
 34903. refactor: refactor quiz grading logic #34903
 91332. style: reformat files with black #91332
 50472. fix: handle 500 error in quiz API #50472
+56326. refactor: remove redundant code blocks #56326
