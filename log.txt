@@ -11568,3 +11568,4 @@
 66236. feat: support email verification #66236
 55899. perf: cache repeated calculations #55899
 41435. test: increase coverage on auth module #41435
+39010. chore: add GitHub actions badge #39010
