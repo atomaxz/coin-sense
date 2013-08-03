@@ -7569,3 +7569,4 @@
 50472. fix: handle 500 error in quiz API #50472
 56326. refactor: remove redundant code blocks #56326
 42230. perf: lazy-load components #42230
+15793. test: increase coverage on auth module #15793
