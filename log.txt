@@ -3599,3 +3599,4 @@
 7217. perf: lazy-load components #7217
 82236. fix: prevent crash on empty input #82236
 53666. refactor: remove redundant code blocks #53666
+83934. chore: update .gitignore #83934
