@@ -2569,3 +2569,4 @@
 47714. docs: clarify environment setup #47714
 1910. style: standardize quote style #1910
 11026. docs: clarify environment setup #11026
+13434. fix: prevent crash on empty input #13434
