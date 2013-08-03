@@ -10586,3 +10586,4 @@
 77033. style: remove trailing whitespace #77033
 84161. docs: clarify environment setup #84161
 55221. chore: clean up unused files #55221
+39829. refactor: clean up auth middleware #39829
