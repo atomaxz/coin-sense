@@ -4601,3 +4601,4 @@
 17263. fix: handle 500 error in quiz API #17263
 31618. feat: add user authentication #31618
 69196. chore: clean up unused files #69196
+98474. perf: optimize database query for quiz results #98474
