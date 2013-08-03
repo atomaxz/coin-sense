@@ -6586,3 +6586,4 @@
 28997. feat: implement quiz timer feature #28997
 47094. fix: correct typo in registration form #47094
 26822. fix: correct typo in registration form #26822
+48471. feat: support email verification #48471
