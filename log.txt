@@ -8601,3 +8601,4 @@
 70587. fix: correct typo in registration form #70587
 95343. refactor: clean up auth middleware #95343
 68674. docs: document token refresh logic #68674
+57975. docs: write FAQ section #57975
