@@ -10584,3 +10584,4 @@
 53192. perf: lazy-load components #53192
 73786. perf: reduce image load time #73786
 77033. style: remove trailing whitespace #77033
+84161. docs: clarify environment setup #84161
