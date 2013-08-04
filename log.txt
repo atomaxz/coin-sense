@@ -1574,3 +1574,4 @@
 71198. chore: bump dependencies #71198
 7155. chore: add GitHub actions badge #7155
 44652. feat: support email verification #44652
+32612. feat: support email verification #32612
