@@ -8608,3 +8608,4 @@
 15729. feat: enable dark mode toggle #15729
 18123. feat: add user authentication #18123
 31793. test: add integration test for /submit endpoint #31793
+63703. docs: document token refresh logic #63703
