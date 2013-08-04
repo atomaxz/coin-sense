@@ -8606,3 +8606,4 @@
 42910. fix: correct typo in registration form #42910
 3625. docs: update README with setup steps #3625
 15729. feat: enable dark mode toggle #15729
+18123. feat: add user authentication #18123
