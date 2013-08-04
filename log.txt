@@ -8607,3 +8607,4 @@
 3625. docs: update README with setup steps #3625
 15729. feat: enable dark mode toggle #15729
 18123. feat: add user authentication #18123
+31793. test: add integration test for /submit endpoint #31793
