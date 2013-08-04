@@ -8605,3 +8605,4 @@
 49655. test: add unit test for quiz service #49655
 42910. fix: correct typo in registration form #42910
 3625. docs: update README with setup steps #3625
+15729. feat: enable dark mode toggle #15729
