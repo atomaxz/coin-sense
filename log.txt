@@ -4606,3 +4606,4 @@
 33236. refactor: organize models into subfolders #33236
 81643. refactor: split large controller into smaller functions #81643
 21699. refactor: clean up auth middleware #21699
+65115. style: remove trailing whitespace #65115
