@@ -6589,3 +6589,4 @@
 48471. feat: support email verification #48471
 25053. refactor: clean up auth middleware #25053
 23266. chore: update .gitignore #23266
+74376. fix: prevent crash on empty input #74376
