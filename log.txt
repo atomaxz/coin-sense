@@ -7572,3 +7572,4 @@
 15793. test: increase coverage on auth module #15793
 18057. feat: enable dark mode toggle #18057
 12895. feat: create admin dashboard #12895
+4558. perf: optimize database query for quiz results #4558
