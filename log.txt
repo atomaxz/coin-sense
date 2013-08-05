@@ -3602,3 +3602,4 @@
 83934. chore: update .gitignore #83934
 68112. refactor: organize models into subfolders #68112
 7630. perf: reduce image load time #7630
+20273. feat: support email verification #20273
