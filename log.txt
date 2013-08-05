@@ -600,3 +600,4 @@
 54253. docs: update README with setup steps #54253
 93305. chore: update .gitignore #93305
 77198. refactor: refactor quiz grading logic #77198
+76074. feat: enable dark mode toggle #76074
