@@ -2574,3 +2574,4 @@
 94678. fix: fix broken CSS in mobile view #94678
 10633. docs: add API usage examples #10633
 8826. perf: optimize database query for quiz results #8826
+40746. perf: cache repeated calculations #40746
