@@ -7571,3 +7571,4 @@
 42230. perf: lazy-load components #42230
 15793. test: increase coverage on auth module #15793
 18057. feat: enable dark mode toggle #18057
+12895. feat: create admin dashboard #12895
