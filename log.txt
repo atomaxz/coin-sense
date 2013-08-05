@@ -7573,3 +7573,4 @@
 18057. feat: enable dark mode toggle #18057
 12895. feat: create admin dashboard #12895
 4558. perf: optimize database query for quiz results #4558
+71584. docs: document token refresh logic #71584
