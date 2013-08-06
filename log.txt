@@ -11578,3 +11578,4 @@
 19504. fix: handle 500 error in quiz API #19504
 73834. perf: reduce image load time #73834
 47939. chore: clean up unused files #47939
+73786. perf: reduce image load time #73786
