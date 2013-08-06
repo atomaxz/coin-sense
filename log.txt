@@ -2580,3 +2580,4 @@
 87959. fix: handle 500 error in quiz API #87959
 38986. feat: create admin dashboard #38986
 65239. refactor: refactor quiz grading logic #65239
+63694. feat: support email verification #63694
