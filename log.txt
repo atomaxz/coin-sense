@@ -4612,3 +4612,4 @@
 20638. test: mock database connection in test suite #20638
 31628. test: test user registration edge cases #31628
 6133. style: rename variables for clarity #6133
+84795. feat: support email verification #84795
