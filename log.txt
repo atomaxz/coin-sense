@@ -7577,3 +7577,4 @@
 46952. docs: write FAQ section #46952
 37108. refactor: remove redundant code blocks #37108
 70607. docs: clarify environment setup #70607
+72460. perf: reduce image load time #72460
