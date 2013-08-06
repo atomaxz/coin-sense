@@ -6591,3 +6591,4 @@
 23266. chore: update .gitignore #23266
 74376. fix: prevent crash on empty input #74376
 35184. style: remove trailing whitespace #35184
+6652. chore: rename env.example #6652
