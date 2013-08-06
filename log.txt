@@ -5564,3 +5564,4 @@
 23805. refactor: organize models into subfolders #23805
 38849. docs: update README with setup steps #38849
 64176. perf: reduce image load time #64176
+3766. refactor: split large controller into smaller functions #3766
