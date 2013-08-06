@@ -1577,3 +1577,4 @@
 32612. feat: support email verification #32612
 30449. fix: handle 500 error in quiz API #30449
 59297. perf: lazy-load components #59297
+56759. docs: clarify environment setup #56759
