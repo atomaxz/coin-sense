@@ -6593,3 +6593,4 @@
 35184. style: remove trailing whitespace #35184
 6652. chore: rename env.example #6652
 13764. docs: add API usage examples #13764
+77641. test: increase coverage on auth module #77641
