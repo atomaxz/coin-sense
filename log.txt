@@ -11580,3 +11580,4 @@
 47939. chore: clean up unused files #47939
 73786. perf: reduce image load time #73786
 56664. perf: optimize database query for quiz results #56664
+65660. refactor: clean up auth middleware #65660
