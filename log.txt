@@ -10597,3 +10597,4 @@
 21953. chore: rename env.example #21953
 88272. feat: add export to CSV option #88272
 81106. feat: enable dark mode toggle #81106
+94273. refactor: organize models into subfolders #94273
