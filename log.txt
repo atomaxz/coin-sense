@@ -8610,3 +8610,4 @@
 31793. test: add integration test for /submit endpoint #31793
 63703. docs: document token refresh logic #63703
 2477. docs: write FAQ section #2477
+31821. chore: update .gitignore #31821
