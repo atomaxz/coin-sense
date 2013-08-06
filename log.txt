@@ -6595,3 +6595,4 @@
 13764. docs: add API usage examples #13764
 77641. test: increase coverage on auth module #77641
 0332. test: mock database connection in test suite #332
+76881. fix: resolve issue with date parsing #76881
