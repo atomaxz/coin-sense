@@ -3604,3 +3604,4 @@
 7630. perf: reduce image load time #7630
 20273. feat: support email verification #20273
 72646. test: test user registration edge cases #72646
+57059. test: test user registration edge cases #57059
