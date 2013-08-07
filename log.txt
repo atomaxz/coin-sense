@@ -2582,3 +2582,4 @@
 65239. refactor: refactor quiz grading logic #65239
 63694. feat: support email verification #63694
 94607. fix: fix null pointer exception on login #94607
+18191. refactor: clean up auth middleware #18191
