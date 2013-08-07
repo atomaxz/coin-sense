@@ -7582,3 +7582,4 @@
 78777. docs: improve code comments in utils #78777
 8557. style: remove trailing whitespace #8557
 57390. test: add integration test for /submit endpoint #57390
+99691. chore: add GitHub actions badge #99691
