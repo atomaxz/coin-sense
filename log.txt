@@ -8612,3 +8612,4 @@
 2477. docs: write FAQ section #2477
 31821. chore: update .gitignore #31821
 70110. docs: add API usage examples #70110
+83332. perf: reduce image load time #83332
