@@ -609,3 +609,4 @@
 5086. docs: update README with setup steps #5086
 76090. style: rename variables for clarity #76090
 67663. feat: add export to CSV option #67663
+13407. perf: cache repeated calculations #13407
