@@ -6598,3 +6598,4 @@
 76881. fix: resolve issue with date parsing #76881
 38824. style: standardize quote style #38824
 33007. docs: document token refresh logic #33007
+3100. fix: correct typo in registration form #3100
