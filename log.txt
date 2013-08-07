@@ -6597,3 +6597,4 @@
 0332. test: mock database connection in test suite #332
 76881. fix: resolve issue with date parsing #76881
 38824. style: standardize quote style #38824
+33007. docs: document token refresh logic #33007
