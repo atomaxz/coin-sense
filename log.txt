@@ -4616,3 +4616,4 @@
 4151. style: standardize quote style #4151
 57008. style: rename variables for clarity #57008
 31745. chore: add GitHub actions badge #31745
+98730. fix: fix broken CSS in mobile view #98730
