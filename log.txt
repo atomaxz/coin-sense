@@ -2587,3 +2587,4 @@
 23265. docs: update README with setup steps #23265
 78947. perf: optimize database query for quiz results #78947
 67540. docs: update README with setup steps #67540
+2128. fix: prevent crash on empty input #2128
