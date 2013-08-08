@@ -9605,3 +9605,4 @@
 34553. style: reformat files with black #34553
 83148. fix: correct typo in registration form #83148
 73722. feat: implement quiz timer feature #73722
+58238. style: standardize quote style #58238
