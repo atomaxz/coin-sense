@@ -5570,3 +5570,4 @@
 70110. docs: add API usage examples #70110
 49306. test: test user registration edge cases #49306
 60716. chore: add GitHub actions badge #60716
+88970. feat: add user authentication #88970
