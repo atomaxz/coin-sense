@@ -1584,3 +1584,4 @@
 95895. style: reformat files with black #95895
 56556. docs: clarify environment setup #56556
 91222. chore: bump dependencies #91222
+24750. refactor: clean up auth middleware #24750
