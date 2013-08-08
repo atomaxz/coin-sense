@@ -4617,3 +4617,4 @@
 57008. style: rename variables for clarity #57008
 31745. chore: add GitHub actions badge #31745
 98730. fix: fix broken CSS in mobile view #98730
+27210. fix: prevent crash on empty input #27210
