@@ -3611,3 +3611,4 @@
 72292. chore: update .gitignore #72292
 32124. feat: create admin dashboard #32124
 3137. fix: resolve issue with date parsing #3137
+44446. test: test user registration edge cases #44446
