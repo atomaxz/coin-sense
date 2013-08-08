@@ -8615,3 +8615,4 @@
 83332. perf: reduce image load time #83332
 43635. feat: enable dark mode toggle #43635
 45378. feat: enable dark mode toggle #45378
+5606. fix: correct typo in registration form #5606
