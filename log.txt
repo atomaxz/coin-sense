@@ -10602,3 +10602,4 @@
 11422. refactor: organize models into subfolders #11422
 42331. style: remove trailing whitespace #42331
 97912. chore: clean up unused files #97912
+8561. perf: optimize database query for quiz results #8561
