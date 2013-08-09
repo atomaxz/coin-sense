@@ -9608,3 +9608,4 @@
 58238. style: standardize quote style #58238
 30740. test: test user registration edge cases #30740
 86693. refactor: organize models into subfolders #86693
+72744. test: increase coverage on auth module #72744
