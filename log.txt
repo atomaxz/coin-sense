@@ -4619,3 +4619,4 @@
 98730. fix: fix broken CSS in mobile view #98730
 27210. fix: prevent crash on empty input #27210
 27211. style: reformat files with black #27211
+3911. perf: cache repeated calculations #3911
