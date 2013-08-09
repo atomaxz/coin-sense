@@ -11584,3 +11584,4 @@
 76019. test: increase coverage on auth module #76019
 59585. perf: cache repeated calculations #59585
 95877. docs: clarify environment setup #95877
+11646. feat: enable dark mode toggle #11646
