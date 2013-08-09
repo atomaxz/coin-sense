@@ -1585,3 +1585,4 @@
 56556. docs: clarify environment setup #56556
 91222. chore: bump dependencies #91222
 24750. refactor: clean up auth middleware #24750
+49978. fix: fix broken CSS in mobile view #49978
