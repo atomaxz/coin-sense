@@ -10607,3 +10607,4 @@
 96852. feat: implement quiz timer feature #96852
 40063. fix: fix broken CSS in mobile view #40063
 54998. feat: implement quiz timer feature #54998
+22413. docs: update README with setup steps #22413
