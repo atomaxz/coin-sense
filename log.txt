@@ -2590,3 +2590,4 @@
 2128. fix: prevent crash on empty input #2128
 29766. refactor: organize models into subfolders #29766
 14615. perf: reduce image load time #14615
+32690. feat: add user authentication #32690
