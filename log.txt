@@ -4620,3 +4620,4 @@
 27210. fix: prevent crash on empty input #27210
 27211. style: reformat files with black #27211
 3911. perf: cache repeated calculations #3911
+59592. chore: add GitHub actions badge #59592
