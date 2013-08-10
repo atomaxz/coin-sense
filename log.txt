@@ -7591,3 +7591,4 @@
 79320. fix: fix broken CSS in mobile view #79320
 56844. fix: fix null pointer exception on login #56844
 59053. style: remove trailing whitespace #59053
+61542. fix: fix broken CSS in mobile view #61542
