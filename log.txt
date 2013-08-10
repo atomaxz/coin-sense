@@ -615,3 +615,4 @@
 4601. chore: rename env.example #4601
 18621. style: standardize quote style #18621
 62723. fix: prevent crash on empty input #62723
+49929. perf: lazy-load components #49929
