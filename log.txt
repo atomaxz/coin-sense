@@ -10610,3 +10610,4 @@
 22413. docs: update README with setup steps #22413
 73420. style: standardize quote style #73420
 31155. perf: lazy-load components #31155
+78765. fix: correct typo in registration form #78765
