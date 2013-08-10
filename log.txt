@@ -6610,3 +6610,4 @@
 19370. docs: update README with setup steps #19370
 83672. docs: write FAQ section #83672
 0150. perf: optimize database query for quiz results #150
+5602. fix: fix broken CSS in mobile view #5602
