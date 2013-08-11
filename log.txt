@@ -1590,3 +1590,4 @@
 47974. perf: optimize database query for quiz results #47974
 88559. chore: update .gitignore #88559
 83614. perf: optimize database query for quiz results #83614
+25713. perf: cache repeated calculations #25713
