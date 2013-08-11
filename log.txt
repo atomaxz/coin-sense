@@ -6612,3 +6612,4 @@
 0150. perf: optimize database query for quiz results #150
 5602. fix: fix broken CSS in mobile view #5602
 90239. refactor: remove redundant code blocks #90239
+34600. fix: prevent crash on empty input #34600
