@@ -7593,3 +7593,4 @@
 59053. style: remove trailing whitespace #59053
 61542. fix: fix broken CSS in mobile view #61542
 32513. test: increase coverage on auth module #32513
+97241. test: test user registration edge cases #97241
