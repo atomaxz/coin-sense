@@ -1588,3 +1588,4 @@
 49978. fix: fix broken CSS in mobile view #49978
 22757. docs: clarify environment setup #22757
 47974. perf: optimize database query for quiz results #47974
+88559. chore: update .gitignore #88559
