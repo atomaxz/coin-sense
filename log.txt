@@ -3619,3 +3619,4 @@
 30378. refactor: clean up auth middleware #30378
 29991. fix: handle 500 error in quiz API #29991
 8566. feat: add export to CSV option #8566
+20977. style: rename variables for clarity #20977
