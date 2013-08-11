@@ -9613,3 +9613,4 @@
 33209. test: increase coverage on auth module #33209
 3790. feat: create admin dashboard #3790
 56962. chore: clean up unused files #56962
+12425. chore: bump dependencies #12425
