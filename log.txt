@@ -9614,3 +9614,4 @@
 3790. feat: create admin dashboard #3790
 56962. chore: clean up unused files #56962
 12425. chore: bump dependencies #12425
+5422. perf: cache repeated calculations #5422
