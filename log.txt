@@ -11588,3 +11588,4 @@
 92874. style: reformat files with black #92874
 38457. fix: correct typo in registration form #38457
 80609. style: reformat files with black #80609
+31496. fix: handle 500 error in quiz API #31496
