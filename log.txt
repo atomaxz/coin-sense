@@ -2594,3 +2594,4 @@
 77137. test: increase coverage on auth module #77137
 80945. refactor: split large controller into smaller functions #80945
 63997. fix: fix null pointer exception on login #63997
+9610. perf: reduce image load time #9610
