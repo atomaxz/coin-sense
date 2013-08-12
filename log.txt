@@ -618,3 +618,4 @@
 49929. perf: lazy-load components #49929
 13349. chore: rename env.example #13349
 9606. fix: fix broken CSS in mobile view #9606
+72398. style: reformat files with black #72398
