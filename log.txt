@@ -1593,3 +1593,4 @@
 25713. perf: cache repeated calculations #25713
 96887. docs: add API usage examples #96887
 35645. style: remove trailing whitespace #35645
+47336. test: add integration test for /submit endpoint #47336
