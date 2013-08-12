@@ -619,3 +619,4 @@
 13349. chore: rename env.example #13349
 9606. fix: fix broken CSS in mobile view #9606
 72398. style: reformat files with black #72398
+7079. style: remove trailing whitespace #7079
