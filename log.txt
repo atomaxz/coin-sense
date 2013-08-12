@@ -5582,3 +5582,4 @@
 93489. perf: lazy-load components #93489
 26559. refactor: refactor quiz grading logic #26559
 47250. style: apply consistent indentation #47250
+91254. fix: fix broken CSS in mobile view #91254
