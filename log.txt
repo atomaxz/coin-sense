@@ -11591,3 +11591,4 @@
 31496. fix: handle 500 error in quiz API #31496
 80186. refactor: split large controller into smaller functions #80186
 47005. docs: write FAQ section #47005
+27298. perf: lazy-load components #27298
