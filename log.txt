@@ -1597,3 +1597,4 @@
 91374. perf: reduce image load time #91374
 83102. refactor: remove redundant code blocks #83102
 10311. docs: clarify environment setup #10311
+67014. docs: update README with setup steps #67014
