@@ -6621,3 +6621,4 @@
 59758. style: remove trailing whitespace #59758
 68734. test: add integration test for /submit endpoint #68734
 75190. feat: add user authentication #75190
+38611. perf: optimize database query for quiz results #38611
