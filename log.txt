@@ -5585,3 +5585,4 @@
 91254. fix: fix broken CSS in mobile view #91254
 94797. feat: add user authentication #94797
 90439. fix: resolve issue with date parsing #90439
+70598. perf: optimize database query for quiz results #70598
