@@ -11592,3 +11592,4 @@
 80186. refactor: split large controller into smaller functions #80186
 47005. docs: write FAQ section #47005
 27298. perf: lazy-load components #27298
+75024. style: apply consistent indentation #75024
