@@ -7598,3 +7598,4 @@
 61649. chore: clean up unused files #61649
 36388. fix: correct typo in registration form #36388
 77121. chore: bump dependencies #77121
+1065. fix: fix broken CSS in mobile view #1065
