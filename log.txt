@@ -6624,3 +6624,4 @@
 38611. perf: optimize database query for quiz results #38611
 51533. docs: improve code comments in utils #51533
 35451. chore: clean up unused files #35451
+95783. test: mock database connection in test suite #95783
