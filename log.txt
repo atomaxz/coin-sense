@@ -8624,3 +8624,4 @@
 15444. refactor: remove redundant code blocks #15444
 13136. test: add unit test for quiz service #13136
 42997. feat: add export to CSV option #42997
+9864. feat: add user authentication #9864
