@@ -6618,3 +6618,4 @@
 18240. perf: optimize database query for quiz results #18240
 65646. chore: rename env.example #65646
 80132. docs: document token refresh logic #80132
+59758. style: remove trailing whitespace #59758
