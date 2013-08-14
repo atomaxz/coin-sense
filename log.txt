@@ -1601,3 +1601,4 @@
 76788. docs: add API usage examples #76788
 45581. docs: document token refresh logic #45581
 14496. test: add unit test for quiz service #14496
+40449. fix: fix broken CSS in mobile view #40449
