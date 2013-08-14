@@ -624,3 +624,4 @@
 86101. docs: improve code comments in utils #86101
 94054. style: standardize quote style #94054
 36220. chore: add GitHub actions badge #36220
+24707. feat: support email verification #24707
