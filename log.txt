@@ -9617,3 +9617,4 @@
 5422. perf: cache repeated calculations #5422
 47294. docs: clarify environment setup #47294
 63818. fix: fix broken CSS in mobile view #63818
+11436. fix: correct typo in registration form #11436
