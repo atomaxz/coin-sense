@@ -2603,3 +2603,4 @@
 66989. feat: create admin dashboard #66989
 17357. chore: rename env.example #17357
 2976. docs: document token refresh logic #2976
+41892. chore: add GitHub actions badge #41892
