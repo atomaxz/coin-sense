@@ -7600,3 +7600,4 @@
 77121. chore: bump dependencies #77121
 1065. fix: fix broken CSS in mobile view #1065
 52202. docs: update README with setup steps #52202
+86208. chore: rename env.example #86208
