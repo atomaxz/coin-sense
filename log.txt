@@ -7599,3 +7599,4 @@
 36388. fix: correct typo in registration form #36388
 77121. chore: bump dependencies #77121
 1065. fix: fix broken CSS in mobile view #1065
+52202. docs: update README with setup steps #52202
