@@ -5589,3 +5589,4 @@
 1095. docs: clarify environment setup #1095
 94632. chore: clean up unused files #94632
 5998. chore: add GitHub actions badge #5998
+30505. fix: fix broken CSS in mobile view #30505
