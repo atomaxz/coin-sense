@@ -9619,3 +9619,4 @@
 63818. fix: fix broken CSS in mobile view #63818
 11436. fix: correct typo in registration form #11436
 32335. test: add unit test for quiz service #32335
+33602. refactor: refactor quiz grading logic #33602
