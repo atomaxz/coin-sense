@@ -5592,3 +5592,4 @@
 30505. fix: fix broken CSS in mobile view #30505
 91818. test: add unit test for quiz service #91818
 65616. feat: support email verification #65616
+89150. fix: fix broken CSS in mobile view #89150
