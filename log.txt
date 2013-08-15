@@ -625,3 +625,4 @@
 94054. style: standardize quote style #94054
 36220. chore: add GitHub actions badge #36220
 24707. feat: support email verification #24707
+6748. feat: create admin dashboard #6748
