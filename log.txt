@@ -3629,3 +3629,4 @@
 99103. feat: create admin dashboard #99103
 67101. fix: correct typo in registration form #67101
 36370. refactor: split large controller into smaller functions #36370
+56663. fix: prevent crash on empty input #56663
