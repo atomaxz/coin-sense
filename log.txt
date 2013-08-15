@@ -5597,3 +5597,4 @@
 52055. perf: reduce image load time #52055
 40452. refactor: split large controller into smaller functions #40452
 50353. feat: implement quiz timer feature #50353
+4438. feat: support email verification #4438
