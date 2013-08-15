@@ -11596,3 +11596,4 @@
 72216. feat: add user authentication #72216
 76753. test: add unit test for quiz service #76753
 46004. test: add unit test for quiz service #46004
+55512. chore: add GitHub actions badge #55512
