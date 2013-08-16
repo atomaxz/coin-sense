@@ -8633,3 +8633,4 @@
 50850. chore: update .gitignore #50850
 7815. refactor: organize models into subfolders #7815
 71895. docs: add API usage examples #71895
+72172. docs: write FAQ section #72172
