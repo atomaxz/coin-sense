@@ -7602,3 +7602,4 @@
 52202. docs: update README with setup steps #52202
 86208. chore: rename env.example #86208
 12565. perf: cache repeated calculations #12565
+5778. fix: fix broken CSS in mobile view #5778
