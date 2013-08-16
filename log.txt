@@ -2610,3 +2610,4 @@
 94482. test: increase coverage on auth module #94482
 51138. feat: implement quiz timer feature #51138
 63747. test: add integration test for /submit endpoint #63747
+26920. chore: rename env.example #26920
