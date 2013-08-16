@@ -8637,3 +8637,4 @@
 49805. style: standardize quote style #49805
 41049. fix: resolve issue with date parsing #41049
 99992. style: apply consistent indentation #99992
+49961. feat: support email verification #49961
