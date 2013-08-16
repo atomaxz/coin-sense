@@ -2609,3 +2609,4 @@
 85391. test: add unit test for quiz service #85391
 94482. test: increase coverage on auth module #94482
 51138. feat: implement quiz timer feature #51138
+63747. test: add integration test for /submit endpoint #63747
