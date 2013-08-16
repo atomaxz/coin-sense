@@ -627,3 +627,4 @@
 24707. feat: support email verification #24707
 6748. feat: create admin dashboard #6748
 82251. test: add unit test for quiz service #82251
+95853. feat: enable dark mode toggle #95853
