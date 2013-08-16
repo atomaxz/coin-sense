@@ -2608,3 +2608,4 @@
 87344. fix: fix broken CSS in mobile view #87344
 85391. test: add unit test for quiz service #85391
 94482. test: increase coverage on auth module #94482
+51138. feat: implement quiz timer feature #51138
