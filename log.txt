@@ -3632,3 +3632,4 @@
 56663. fix: prevent crash on empty input #56663
 98180. refactor: remove redundant code blocks #98180
 48093. chore: add GitHub actions badge #48093
+96968. test: mock database connection in test suite #96968
