@@ -6632,3 +6632,4 @@
 32516. fix: resolve issue with date parsing #32516
 14014. refactor: remove redundant code blocks #14014
 54830. docs: update README with setup steps #54830
+68293. feat: support email verification #68293
