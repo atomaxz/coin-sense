@@ -3636,3 +3636,4 @@
 33257. docs: update README with setup steps #33257
 30350. perf: lazy-load components #30350
 48768. chore: clean up unused files #48768
+88647. chore: add GitHub actions badge #88647
