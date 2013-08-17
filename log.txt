@@ -3638,3 +3638,4 @@
 48768. chore: clean up unused files #48768
 88647. chore: add GitHub actions badge #88647
 15725. fix: correct typo in registration form #15725
+65870. docs: add API usage examples #65870
