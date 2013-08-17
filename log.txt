@@ -2614,3 +2614,4 @@
 59751. docs: improve code comments in utils #59751
 70729. chore: bump dependencies #70729
 88650. chore: bump dependencies #88650
+10138. fix: fix broken CSS in mobile view #10138
