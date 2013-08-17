@@ -11603,3 +11603,4 @@
 81730. fix: prevent crash on empty input #81730
 8612. perf: lazy-load components #8612
 8808. fix: correct typo in registration form #8808
+12932. test: increase coverage on auth module #12932
