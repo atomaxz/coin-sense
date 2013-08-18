@@ -10626,3 +10626,4 @@
 40020. style: reformat files with black #40020
 99087. feat: implement quiz timer feature #99087
 25525. test: add integration test for /submit endpoint #25525
+29180. docs: write FAQ section #29180
