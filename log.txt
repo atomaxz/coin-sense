@@ -7610,3 +7610,4 @@
 41326. perf: optimize database query for quiz results #41326
 39390. refactor: refactor quiz grading logic #39390
 16710. docs: add API usage examples #16710
+28085. fix: prevent crash on empty input #28085
