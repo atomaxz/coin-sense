@@ -11605,3 +11605,4 @@
 8808. fix: correct typo in registration form #8808
 12932. test: increase coverage on auth module #12932
 5209. feat: add user authentication #5209
+38217. fix: prevent crash on empty input #38217
