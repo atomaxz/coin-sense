@@ -631,3 +631,4 @@
 66460. style: reformat files with black #66460
 12003. style: rename variables for clarity #12003
 76277. chore: rename env.example #76277
+91258. perf: lazy-load components #91258
