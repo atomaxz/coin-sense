@@ -4636,3 +4636,4 @@
 55893. test: add integration test for /submit endpoint #55893
 44930. docs: update README with setup steps #44930
 78486. style: apply consistent indentation #78486
+27620. refactor: clean up auth middleware #27620
