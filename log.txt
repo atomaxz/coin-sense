@@ -6641,3 +6641,4 @@
 38503. feat: create admin dashboard #38503
 81475. fix: resolve issue with date parsing #81475
 57963. perf: reduce image load time #57963
+92363. chore: bump dependencies #92363
