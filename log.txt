@@ -4638,3 +4638,4 @@
 78486. style: apply consistent indentation #78486
 27620. refactor: clean up auth middleware #27620
 80582. fix: fix null pointer exception on login #80582
+39427. chore: clean up unused files #39427
