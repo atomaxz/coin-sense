@@ -7615,3 +7615,4 @@
 88705. style: reformat files with black #88705
 24020. feat: enable dark mode toggle #24020
 99271. refactor: remove redundant code blocks #99271
+32034. style: standardize quote style #32034
