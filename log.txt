@@ -11609,3 +11609,4 @@
 75222. refactor: split large controller into smaller functions #75222
 3996. refactor: remove redundant code blocks #3996
 80545. docs: add API usage examples #80545
+81301. perf: lazy-load components #81301
