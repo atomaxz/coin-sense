@@ -10628,3 +10628,4 @@
 25525. test: add integration test for /submit endpoint #25525
 29180. docs: write FAQ section #29180
 26360. feat: enable dark mode toggle #26360
+44464. style: remove trailing whitespace #44464
