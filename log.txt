@@ -5608,3 +5608,4 @@
 49324. feat: create admin dashboard #49324
 18050. chore: add GitHub actions badge #18050
 1454. docs: write FAQ section #1454
+51144. fix: handle 500 error in quiz API #51144
