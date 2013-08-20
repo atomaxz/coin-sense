@@ -3650,3 +3650,4 @@
 75704. fix: prevent crash on empty input #75704
 9722. chore: bump dependencies #9722
 35340. perf: cache repeated calculations #35340
+51500. refactor: organize models into subfolders #51500
