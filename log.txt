@@ -1616,3 +1616,4 @@
 24439. docs: update README with setup steps #24439
 44948. chore: bump dependencies #44948
 27060. test: test user registration edge cases #27060
+46464. chore: add GitHub actions badge #46464
