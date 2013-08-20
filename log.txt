@@ -2616,3 +2616,4 @@
 88650. chore: bump dependencies #88650
 10138. fix: fix broken CSS in mobile view #10138
 81069. fix: fix null pointer exception on login #81069
+87094. test: add integration test for /submit endpoint #87094
