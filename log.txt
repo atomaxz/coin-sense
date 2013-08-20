@@ -9636,3 +9636,4 @@
 77061. chore: add GitHub actions badge #77061
 80031. test: mock database connection in test suite #80031
 58455. chore: update .gitignore #58455
+96199. test: add integration test for /submit endpoint #96199
