@@ -8651,3 +8651,4 @@
 86541. fix: fix broken CSS in mobile view #86541
 11348. chore: update .gitignore #11348
 77704. chore: add GitHub actions badge #77704
+69126. feat: create admin dashboard #69126
