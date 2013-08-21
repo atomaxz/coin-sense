@@ -1621,3 +1621,4 @@
 73582. perf: lazy-load components #73582
 30397. refactor: clean up auth middleware #30397
 60965. refactor: clean up auth middleware #60965
+83474. test: add integration test for /submit endpoint #83474
