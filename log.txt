@@ -10630,3 +10630,4 @@
 26360. feat: enable dark mode toggle #26360
 44464. style: remove trailing whitespace #44464
 87236. refactor: clean up auth middleware #87236
+16971. feat: add user authentication #16971
