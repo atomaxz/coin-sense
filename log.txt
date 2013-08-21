@@ -8649,3 +8649,4 @@
 55628. docs: add API usage examples #55628
 22922. perf: reduce image load time #22922
 86541. fix: fix broken CSS in mobile view #86541
+11348. chore: update .gitignore #11348
