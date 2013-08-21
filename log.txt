@@ -1619,3 +1619,4 @@
 46464. chore: add GitHub actions badge #46464
 76111. docs: update README with setup steps #76111
 73582. perf: lazy-load components #73582
+30397. refactor: clean up auth middleware #30397
