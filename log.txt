@@ -10632,3 +10632,4 @@
 87236. refactor: clean up auth middleware #87236
 16971. feat: add user authentication #16971
 66500. docs: write FAQ section #66500
+21441. chore: clean up unused files #21441
