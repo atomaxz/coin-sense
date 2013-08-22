@@ -6649,3 +6649,4 @@
 35932. style: reformat files with black #35932
 91958. perf: reduce image load time #91958
 94976. feat: add export to CSV option #94976
+60507. test: increase coverage on auth module #60507
