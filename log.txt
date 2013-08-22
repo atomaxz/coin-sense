@@ -4645,3 +4645,4 @@
 88803. feat: add export to CSV option #88803
 17029. test: increase coverage on auth module #17029
 6466. chore: bump dependencies #6466
+86582. refactor: clean up auth middleware #86582
