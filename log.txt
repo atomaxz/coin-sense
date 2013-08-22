@@ -2624,3 +2624,4 @@
 98489. fix: correct typo in registration form #98489
 33378. refactor: split large controller into smaller functions #33378
 78209. chore: add GitHub actions badge #78209
+24341. test: add unit test for quiz service #24341
