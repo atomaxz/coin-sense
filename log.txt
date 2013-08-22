@@ -636,3 +636,4 @@
 72022. style: reformat files with black #72022
 3646. style: reformat files with black #3646
 50585. style: standardize quote style #50585
+30652. refactor: clean up auth middleware #30652
