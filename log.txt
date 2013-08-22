@@ -7623,3 +7623,4 @@
 97952. chore: rename env.example #97952
 69738. perf: optimize database query for quiz results #69738
 36562. test: add unit test for quiz service #36562
+70944. style: remove trailing whitespace #70944
