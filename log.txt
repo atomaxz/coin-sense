@@ -2621,3 +2621,4 @@
 71250. feat: add user authentication #71250
 9641. feat: add export to CSV option #9641
 47886. docs: add API usage examples #47886
+98489. fix: correct typo in registration form #98489
