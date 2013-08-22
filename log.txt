@@ -1624,3 +1624,4 @@
 83474. test: add integration test for /submit endpoint #83474
 47323. chore: update .gitignore #47323
 80750. refactor: split large controller into smaller functions #80750
+52673. fix: fix broken CSS in mobile view #52673
