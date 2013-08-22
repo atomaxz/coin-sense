@@ -1625,3 +1625,4 @@
 47323. chore: update .gitignore #47323
 80750. refactor: split large controller into smaller functions #80750
 52673. fix: fix broken CSS in mobile view #52673
+67168. feat: add export to CSV option #67168
