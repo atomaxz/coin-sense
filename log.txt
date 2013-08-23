@@ -2630,3 +2630,4 @@
 33705. style: standardize quote style #33705
 67747. fix: correct typo in registration form #67747
 12603. style: apply consistent indentation #12603
+98571. chore: rename env.example #98571
