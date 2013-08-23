@@ -2628,3 +2628,4 @@
 27516. refactor: split large controller into smaller functions #27516
 10636. chore: clean up unused files #10636
 33705. style: standardize quote style #33705
+67747. fix: correct typo in registration form #67747
