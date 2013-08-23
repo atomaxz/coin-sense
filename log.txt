@@ -1628,3 +1628,4 @@
 67168. feat: add export to CSV option #67168
 77887. docs: update README with setup steps #77887
 38281. test: mock database connection in test suite #38281
+27966. refactor: organize models into subfolders #27966
