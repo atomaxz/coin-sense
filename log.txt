@@ -5614,3 +5614,4 @@
 75202. test: add integration test for /submit endpoint #75202
 60707. test: increase coverage on auth module #60707
 94186. chore: rename env.example #94186
+0742. docs: clarify environment setup #742
