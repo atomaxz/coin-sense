@@ -1627,3 +1627,4 @@
 52673. fix: fix broken CSS in mobile view #52673
 67168. feat: add export to CSV option #67168
 77887. docs: update README with setup steps #77887
+38281. test: mock database connection in test suite #38281
