@@ -5617,3 +5617,4 @@
 0742. docs: clarify environment setup #742
 98315. fix: resolve issue with date parsing #98315
 9149. docs: improve code comments in utils #9149
+26496. test: mock database connection in test suite #26496
