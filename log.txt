@@ -1631,3 +1631,4 @@
 27966. refactor: organize models into subfolders #27966
 63267. fix: fix null pointer exception on login #63267
 95594. test: add unit test for quiz service #95594
+24421. perf: reduce image load time #24421
