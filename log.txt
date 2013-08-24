@@ -642,3 +642,4 @@
 59691. style: reformat files with black #59691
 9983. fix: correct typo in registration form #9983
 95866. test: add integration test for /submit endpoint #95866
+10149. docs: update README with setup steps #10149
