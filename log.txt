@@ -9648,3 +9648,4 @@
 45095. perf: lazy-load components #45095
 24164. fix: fix broken CSS in mobile view #24164
 36283. style: reformat files with black #36283
+68453. perf: lazy-load components #68453
