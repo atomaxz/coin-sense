@@ -1630,3 +1630,4 @@
 38281. test: mock database connection in test suite #38281
 27966. refactor: organize models into subfolders #27966
 63267. fix: fix null pointer exception on login #63267
+95594. test: add unit test for quiz service #95594
