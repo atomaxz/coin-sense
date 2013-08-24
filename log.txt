@@ -11622,3 +11622,4 @@
 14851. docs: update README with setup steps #14851
 40780. fix: fix broken CSS in mobile view #40780
 38790. refactor: clean up auth middleware #38790
+24621. perf: lazy-load components #24621
