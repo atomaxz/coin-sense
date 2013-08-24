@@ -11620,3 +11620,4 @@
 44204. style: reformat files with black #44204
 80411. refactor: remove redundant code blocks #80411
 14851. docs: update README with setup steps #14851
+40780. fix: fix broken CSS in mobile view #40780
