@@ -10639,3 +10639,4 @@
 78010. docs: add API usage examples #78010
 48116. test: mock database connection in test suite #48116
 62885. fix: handle 500 error in quiz API #62885
+94574. feat: support email verification #94574
