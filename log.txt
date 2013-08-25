@@ -1638,3 +1638,4 @@
 47210. test: add integration test for /submit endpoint #47210
 90466. style: standardize quote style #90466
 65192. test: add integration test for /submit endpoint #65192
+69217. test: mock database connection in test suite #69217
