@@ -8659,3 +8659,4 @@
 94288. style: apply consistent indentation #94288
 46196. chore: update .gitignore #46196
 3033. chore: update .gitignore #3033
+23726. fix: correct typo in registration form #23726
