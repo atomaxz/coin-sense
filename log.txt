@@ -1640,3 +1640,4 @@
 65192. test: add integration test for /submit endpoint #65192
 69217. test: mock database connection in test suite #69217
 83546. fix: fix broken CSS in mobile view #83546
+86316. test: mock database connection in test suite #86316
