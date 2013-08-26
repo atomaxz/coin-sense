@@ -647,3 +647,4 @@
 78085. feat: enable dark mode toggle #78085
 5101. perf: optimize database query for quiz results #5101
 69084. chore: add GitHub actions badge #69084
+36995. feat: support email verification #36995
