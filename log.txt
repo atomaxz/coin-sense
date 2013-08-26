@@ -9655,3 +9655,4 @@
 50001. refactor: clean up auth middleware #50001
 4337. refactor: remove redundant code blocks #4337
 11585. chore: add GitHub actions badge #11585
+24338. docs: document token refresh logic #24338
