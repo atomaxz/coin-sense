@@ -8661,3 +8661,4 @@
 3033. chore: update .gitignore #3033
 23726. fix: correct typo in registration form #23726
 16260. fix: prevent crash on empty input #16260
+25660. fix: fix broken CSS in mobile view #25660
