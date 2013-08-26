@@ -8662,3 +8662,4 @@
 23726. fix: correct typo in registration form #23726
 16260. fix: prevent crash on empty input #16260
 25660. fix: fix broken CSS in mobile view #25660
+16097. refactor: clean up auth middleware #16097
