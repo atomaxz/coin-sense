@@ -1642,3 +1642,4 @@
 83546. fix: fix broken CSS in mobile view #83546
 86316. test: mock database connection in test suite #86316
 21485. fix: handle 500 error in quiz API #21485
+69316. fix: correct typo in registration form #69316
