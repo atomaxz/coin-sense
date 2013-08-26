@@ -3661,3 +3661,4 @@
 55307. chore: add GitHub actions badge #55307
 72606. chore: add GitHub actions badge #72606
 53601. test: increase coverage on auth module #53601
+85720. fix: prevent crash on empty input #85720
