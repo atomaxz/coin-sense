@@ -9656,3 +9656,4 @@
 4337. refactor: remove redundant code blocks #4337
 11585. chore: add GitHub actions badge #11585
 24338. docs: document token refresh logic #24338
+46991. perf: lazy-load components #46991
