@@ -10647,3 +10647,4 @@
 46623. docs: write FAQ section #46623
 9142. feat: create admin dashboard #9142
 72911. chore: update .gitignore #72911
+10528. chore: bump dependencies #10528
