@@ -8667,3 +8667,4 @@
 91293. refactor: split large controller into smaller functions #91293
 74563. refactor: remove redundant code blocks #74563
 31029. test: add unit test for quiz service #31029
+25727. fix: fix broken CSS in mobile view #25727
