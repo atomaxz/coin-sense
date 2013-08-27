@@ -6659,3 +6659,4 @@
 73586. feat: enable dark mode toggle #73586
 62115. fix: resolve issue with date parsing #62115
 29529. style: apply consistent indentation #29529
+67256. fix: handle 500 error in quiz API #67256
