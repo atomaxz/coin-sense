@@ -8663,3 +8663,4 @@
 16260. fix: prevent crash on empty input #16260
 25660. fix: fix broken CSS in mobile view #25660
 16097. refactor: clean up auth middleware #16097
+55234. style: remove trailing whitespace #55234
