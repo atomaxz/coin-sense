@@ -4659,3 +4659,4 @@
 11544. feat: add export to CSV option #11544
 97345. refactor: split large controller into smaller functions #97345
 38657. feat: add user authentication #38657
+72191. fix: resolve issue with date parsing #72191
