@@ -649,3 +649,4 @@
 69084. chore: add GitHub actions badge #69084
 36995. feat: support email verification #36995
 80327. docs: add API usage examples #80327
+47975. chore: add GitHub actions badge #47975
