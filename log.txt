@@ -5632,3 +5632,4 @@
 43969. test: increase coverage on auth module #43969
 70673. test: increase coverage on auth module #70673
 50508. style: reformat files with black #50508
+26309. test: test user registration edge cases #26309
