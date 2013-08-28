@@ -655,3 +655,4 @@
 29258. perf: cache repeated calculations #29258
 21707. fix: handle 500 error in quiz API #21707
 22166. style: remove trailing whitespace #22166
+65697. test: test user registration edge cases #65697
