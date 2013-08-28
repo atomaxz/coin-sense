@@ -1647,3 +1647,4 @@
 75687. test: test user registration edge cases #75687
 26680. refactor: refactor quiz grading logic #26680
 58569. style: apply consistent indentation #58569
+71479. docs: clarify environment setup #71479
