@@ -11631,3 +11631,4 @@
 81700. feat: add export to CSV option #81700
 68008. feat: add user authentication #68008
 85170. perf: lazy-load components #85170
+23156. docs: write FAQ section #23156
