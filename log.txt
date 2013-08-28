@@ -8670,3 +8670,4 @@
 25727. fix: fix broken CSS in mobile view #25727
 19243. docs: update README with setup steps #19243
 34782. docs: add API usage examples #34782
+54516. fix: fix null pointer exception on login #54516
