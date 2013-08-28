@@ -2641,3 +2641,4 @@
 53919. chore: bump dependencies #53919
 81511. docs: document token refresh logic #81511
 60677. chore: add GitHub actions badge #60677
+56955. refactor: clean up auth middleware #56955
