@@ -5634,3 +5634,4 @@
 50508. style: reformat files with black #50508
 26309. test: test user registration edge cases #26309
 32681. chore: rename env.example #32681
+43733. feat: support email verification #43733
