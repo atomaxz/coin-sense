@@ -7636,3 +7636,4 @@
 89012. chore: update .gitignore #89012
 85535. docs: clarify environment setup #85535
 30503. feat: create admin dashboard #30503
+92176. test: increase coverage on auth module #92176
