@@ -7642,3 +7642,4 @@
 92988. chore: clean up unused files #92988
 23029. refactor: remove redundant code blocks #23029
 19641. feat: add export to CSV option #19641
+82773. fix: prevent crash on empty input #82773
