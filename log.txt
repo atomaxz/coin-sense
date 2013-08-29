@@ -6662,3 +6662,4 @@
 67256. fix: handle 500 error in quiz API #67256
 84450. docs: update README with setup steps #84450
 3909. chore: add GitHub actions badge #3909
+70536. refactor: clean up auth middleware #70536
