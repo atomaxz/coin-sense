@@ -8672,3 +8672,4 @@
 34782. docs: add API usage examples #34782
 54516. fix: fix null pointer exception on login #54516
 11612. fix: resolve issue with date parsing #11612
+95444. fix: fix null pointer exception on login #95444
