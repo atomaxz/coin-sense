@@ -2645,3 +2645,4 @@
 21568. perf: reduce image load time #21568
 84933. chore: bump dependencies #84933
 66093. style: remove trailing whitespace #66093
+71437. docs: clarify environment setup #71437
