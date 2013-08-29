@@ -6661,3 +6661,4 @@
 29529. style: apply consistent indentation #29529
 67256. fix: handle 500 error in quiz API #67256
 84450. docs: update README with setup steps #84450
+3909. chore: add GitHub actions badge #3909
