@@ -5637,3 +5637,4 @@
 43733. feat: support email verification #43733
 28859. test: mock database connection in test suite #28859
 51593. fix: correct typo in registration form #51593
+43693. docs: improve code comments in utils #43693
