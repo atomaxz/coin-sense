@@ -10651,3 +10651,4 @@
 1109. style: reformat files with black #1109
 3428. docs: add API usage examples #3428
 16167. docs: add API usage examples #16167
+88737. perf: optimize database query for quiz results #88737
