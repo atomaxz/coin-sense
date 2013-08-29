@@ -7644,3 +7644,4 @@
 19641. feat: add export to CSV option #19641
 82773. fix: prevent crash on empty input #82773
 77508. chore: rename env.example #77508
+37206. chore: add GitHub actions badge #37206
