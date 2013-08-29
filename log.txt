@@ -6664,3 +6664,4 @@
 3909. chore: add GitHub actions badge #3909
 70536. refactor: clean up auth middleware #70536
 59208. style: apply consistent indentation #59208
+57540. perf: lazy-load components #57540
