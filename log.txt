@@ -2646,3 +2646,4 @@
 84933. chore: bump dependencies #84933
 66093. style: remove trailing whitespace #66093
 71437. docs: clarify environment setup #71437
+81076. fix: handle 500 error in quiz API #81076
