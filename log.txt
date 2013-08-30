@@ -7645,3 +7645,4 @@
 82773. fix: prevent crash on empty input #82773
 77508. chore: rename env.example #77508
 37206. chore: add GitHub actions badge #37206
+39114. style: rename variables for clarity #39114
