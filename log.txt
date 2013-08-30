@@ -10654,3 +10654,4 @@
 88737. perf: optimize database query for quiz results #88737
 65947. style: reformat files with black #65947
 90339. feat: create admin dashboard #90339
+52309. chore: add GitHub actions badge #52309
