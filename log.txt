@@ -6667,3 +6667,4 @@
 57540. perf: lazy-load components #57540
 5853. perf: cache repeated calculations #5853
 53169. fix: handle 500 error in quiz API #53169
+5879. test: mock database connection in test suite #5879
