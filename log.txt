@@ -11640,3 +11640,4 @@
 85951. perf: optimize database query for quiz results #85951
 88066. feat: implement quiz timer feature #88066
 47704. refactor: split large controller into smaller functions #47704
+12411. feat: enable dark mode toggle #12411
