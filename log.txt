@@ -9666,3 +9666,4 @@
 75619. fix: fix null pointer exception on login #75619
 97166. chore: update .gitignore #97166
 48177. refactor: refactor quiz grading logic #48177
+17378. refactor: clean up auth middleware #17378
