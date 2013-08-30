@@ -4670,3 +4670,4 @@
 86223. fix: correct typo in registration form #86223
 60589. fix: correct typo in registration form #60589
 73073. fix: fix broken CSS in mobile view #73073
+20431. style: remove trailing whitespace #20431
