@@ -5644,3 +5644,4 @@
 5986. docs: clarify environment setup #5986
 95169. chore: clean up unused files #95169
 94100. test: mock database connection in test suite #94100
+15502. feat: support email verification #15502
