@@ -8675,3 +8675,4 @@
 95444. fix: fix null pointer exception on login #95444
 12662. refactor: refactor quiz grading logic #12662
 94944. refactor: organize models into subfolders #94944
+89999. test: test user registration edge cases #89999
