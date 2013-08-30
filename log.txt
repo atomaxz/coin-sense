@@ -7646,3 +7646,4 @@
 77508. chore: rename env.example #77508
 37206. chore: add GitHub actions badge #37206
 39114. style: rename variables for clarity #39114
+57444. feat: add export to CSV option #57444
