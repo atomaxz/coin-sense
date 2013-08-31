@@ -3671,3 +3671,4 @@
 60418. chore: clean up unused files #60418
 14502. refactor: organize models into subfolders #14502
 94265. style: standardize quote style #94265
+41674. style: remove trailing whitespace #41674
