@@ -11641,3 +11641,4 @@
 88066. feat: implement quiz timer feature #88066
 47704. refactor: split large controller into smaller functions #47704
 12411. feat: enable dark mode toggle #12411
+5266. test: add unit test for quiz service #5266
