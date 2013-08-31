@@ -6669,3 +6669,4 @@
 53169. fix: handle 500 error in quiz API #53169
 5879. test: mock database connection in test suite #5879
 14978. perf: cache repeated calculations #14978
+43302. test: add unit test for quiz service #43302
