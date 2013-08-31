@@ -2648,3 +2648,4 @@
 71437. docs: clarify environment setup #71437
 81076. fix: handle 500 error in quiz API #81076
 89373. fix: fix broken CSS in mobile view #89373
+64286. test: add unit test for quiz service #64286
