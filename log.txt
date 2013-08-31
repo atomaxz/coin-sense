@@ -1653,3 +1653,4 @@
 9976. chore: bump dependencies #9976
 90799. docs: add API usage examples #90799
 89323. chore: clean up unused files #89323
+11364. chore: add GitHub actions badge #11364
