@@ -2649,3 +2649,4 @@
 81076. fix: handle 500 error in quiz API #81076
 89373. fix: fix broken CSS in mobile view #89373
 64286. test: add unit test for quiz service #64286
+36707. docs: improve code comments in utils #36707
