@@ -3673,3 +3673,4 @@
 94265. style: standardize quote style #94265
 41674. style: remove trailing whitespace #41674
 3329. fix: fix null pointer exception on login #3329
+65336. feat: add user authentication #65336
