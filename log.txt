@@ -4672,3 +4672,4 @@
 73073. fix: fix broken CSS in mobile view #73073
 20431. style: remove trailing whitespace #20431
 17880. refactor: refactor quiz grading logic #17880
+4657. docs: write FAQ section #4657
