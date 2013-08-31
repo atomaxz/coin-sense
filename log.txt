@@ -9670,3 +9670,4 @@
 65980. style: apply consistent indentation #65980
 42941. perf: cache repeated calculations #42941
 98730. fix: fix broken CSS in mobile view #98730
+91572. fix: prevent crash on empty input #91572
