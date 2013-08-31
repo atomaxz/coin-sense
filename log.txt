@@ -7651,3 +7651,4 @@
 54260. test: mock database connection in test suite #54260
 48410. refactor: remove redundant code blocks #48410
 49330. perf: reduce image load time #49330
+46702. perf: optimize database query for quiz results #46702
