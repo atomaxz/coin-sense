@@ -5647,3 +5647,4 @@
 15502. feat: support email verification #15502
 25067. refactor: split large controller into smaller functions #25067
 54404. feat: add export to CSV option #54404
+66855. fix: handle 500 error in quiz API #66855
