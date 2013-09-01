@@ -9672,3 +9672,4 @@
 98730. fix: fix broken CSS in mobile view #98730
 91572. fix: prevent crash on empty input #91572
 83981. perf: cache repeated calculations #83981
+87612. docs: clarify environment setup #87612
