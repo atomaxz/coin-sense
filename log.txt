@@ -8681,3 +8681,4 @@
 84355. test: increase coverage on auth module #84355
 64792. docs: improve code comments in utils #64792
 26124. docs: clarify environment setup #26124
+99524. chore: update .gitignore #99524
