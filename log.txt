@@ -6673,3 +6673,4 @@
 22021. fix: correct typo in registration form #22021
 21513. docs: improve code comments in utils #21513
 92961. feat: add user authentication #92961
+6824. feat: create admin dashboard #6824
