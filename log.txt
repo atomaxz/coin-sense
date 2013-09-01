@@ -4676,3 +4676,4 @@
 48125. test: increase coverage on auth module #48125
 14112. chore: update .gitignore #14112
 39176. docs: write FAQ section #39176
+36531. feat: add export to CSV option #36531
