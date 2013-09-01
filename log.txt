@@ -5649,3 +5649,4 @@
 54404. feat: add export to CSV option #54404
 66855. fix: handle 500 error in quiz API #66855
 79854. fix: handle 500 error in quiz API #79854
+61107. fix: resolve issue with date parsing #61107
