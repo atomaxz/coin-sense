@@ -670,3 +670,4 @@
 47285. feat: enable dark mode toggle #47285
 99691. chore: add GitHub actions badge #99691
 14831. feat: implement quiz timer feature #14831
+28241. fix: handle 500 error in quiz API #28241
