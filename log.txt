@@ -1659,3 +1659,4 @@
 5507. test: mock database connection in test suite #5507
 90663. docs: update README with setup steps #90663
 11381. feat: support email verification #11381
+46869. test: test user registration edge cases #46869
