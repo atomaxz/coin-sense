@@ -6675,3 +6675,4 @@
 92961. feat: add user authentication #92961
 6824. feat: create admin dashboard #6824
 70862. feat: implement quiz timer feature #70862
+15793. test: increase coverage on auth module #15793
