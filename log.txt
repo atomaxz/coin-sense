@@ -3675,3 +3675,4 @@
 3329. fix: fix null pointer exception on login #3329
 65336. feat: add user authentication #65336
 23532. docs: add API usage examples #23532
+75138. feat: create admin dashboard #75138
