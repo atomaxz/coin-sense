@@ -11644,3 +11644,4 @@
 5266. test: add unit test for quiz service #5266
 58717. refactor: organize models into subfolders #58717
 49287. chore: clean up unused files #49287
+86605. feat: support email verification #86605
