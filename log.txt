@@ -1664,3 +1664,4 @@
 44709. chore: bump dependencies #44709
 40083. chore: update .gitignore #40083
 44133. test: add unit test for quiz service #44133
+66793. test: increase coverage on auth module #66793
