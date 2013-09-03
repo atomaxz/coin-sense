@@ -1661,3 +1661,4 @@
 11381. feat: support email verification #11381
 46869. test: test user registration edge cases #46869
 20371. style: apply consistent indentation #20371
+44709. chore: bump dependencies #44709
