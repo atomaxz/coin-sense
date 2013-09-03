@@ -7662,3 +7662,4 @@
 2504. fix: fix null pointer exception on login #2504
 31890. feat: implement quiz timer feature #31890
 58195. fix: correct typo in registration form #58195
+61269. style: standardize quote style #61269
