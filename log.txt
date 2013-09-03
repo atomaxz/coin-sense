@@ -671,3 +671,4 @@
 99691. chore: add GitHub actions badge #99691
 14831. feat: implement quiz timer feature #14831
 28241. fix: handle 500 error in quiz API #28241
+86615. test: test user registration edge cases #86615
