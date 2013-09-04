@@ -8689,3 +8689,4 @@
 42479. fix: fix broken CSS in mobile view #42479
 46540. test: increase coverage on auth module #46540
 58518. fix: resolve issue with date parsing #58518
+71122. test: add integration test for /submit endpoint #71122
