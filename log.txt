@@ -2656,3 +2656,4 @@
 51059. style: reformat files with black #51059
 43028. test: test user registration edge cases #43028
 36235. fix: prevent crash on empty input #36235
+98396. test: add unit test for quiz service #98396
