@@ -6679,3 +6679,4 @@
 78255. fix: fix null pointer exception on login #78255
 84852. refactor: refactor quiz grading logic #84852
 2779. style: remove trailing whitespace #2779
+30249. chore: add GitHub actions badge #30249
