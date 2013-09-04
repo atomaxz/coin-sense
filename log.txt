@@ -2655,3 +2655,4 @@
 45129. perf: cache repeated calculations #45129
 51059. style: reformat files with black #51059
 43028. test: test user registration edge cases #43028
+36235. fix: prevent crash on empty input #36235
