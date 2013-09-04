@@ -673,3 +673,4 @@
 28241. fix: handle 500 error in quiz API #28241
 86615. test: test user registration edge cases #86615
 87495. feat: enable dark mode toggle #87495
+81165. docs: write FAQ section #81165
