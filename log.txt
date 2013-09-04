@@ -674,3 +674,4 @@
 86615. test: test user registration edge cases #86615
 87495. feat: enable dark mode toggle #87495
 81165. docs: write FAQ section #81165
+62497. fix: correct typo in registration form #62497
