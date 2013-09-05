@@ -11652,3 +11652,4 @@
 88678. style: apply consistent indentation #88678
 72465. style: standardize quote style #72465
 7810. perf: optimize database query for quiz results #7810
+75763. chore: bump dependencies #75763
