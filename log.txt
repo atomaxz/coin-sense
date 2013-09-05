@@ -4691,3 +4691,4 @@
 32106. test: test user registration edge cases #32106
 30413. test: add integration test for /submit endpoint #30413
 48050. docs: clarify environment setup #48050
+73238. test: add unit test for quiz service #73238
