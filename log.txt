@@ -3680,3 +3680,4 @@
 55972. perf: lazy-load components #55972
 24938. perf: lazy-load components #24938
 14748. test: add integration test for /submit endpoint #14748
+43760. feat: enable dark mode toggle #43760
