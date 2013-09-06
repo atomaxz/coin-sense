@@ -6685,3 +6685,4 @@
 16471. fix: resolve issue with date parsing #16471
 66118. style: standardize quote style #66118
 16676. chore: clean up unused files #16676
+31134. perf: optimize database query for quiz results #31134
