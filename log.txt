@@ -8692,3 +8692,4 @@
 71122. test: add integration test for /submit endpoint #71122
 53321. perf: reduce image load time #53321
 95239. chore: clean up unused files #95239
+26606. perf: lazy-load components #26606
