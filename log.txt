@@ -10666,3 +10666,4 @@
 33275. docs: add API usage examples #33275
 30105. fix: fix null pointer exception on login #30105
 82204. refactor: split large controller into smaller functions #82204
+1849. fix: fix null pointer exception on login #1849
