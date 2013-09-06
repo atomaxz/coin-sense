@@ -677,3 +677,4 @@
 62497. fix: correct typo in registration form #62497
 96282. chore: bump dependencies #96282
 4295. test: add integration test for /submit endpoint #4295
+77076. chore: rename env.example #77076
