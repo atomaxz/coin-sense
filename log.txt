@@ -8693,3 +8693,4 @@
 53321. perf: reduce image load time #53321
 95239. chore: clean up unused files #95239
 26606. perf: lazy-load components #26606
+18541. docs: update README with setup steps #18541
