@@ -6688,3 +6688,4 @@
 31134. perf: optimize database query for quiz results #31134
 69209. fix: correct typo in registration form #69209
 75097. feat: add export to CSV option #75097
+50769. docs: write FAQ section #50769
