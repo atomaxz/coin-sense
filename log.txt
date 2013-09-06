@@ -1671,3 +1671,4 @@
 8505. perf: reduce image load time #8505
 19676. docs: improve code comments in utils #19676
 10690. docs: update README with setup steps #10690
+41412. perf: lazy-load components #41412
