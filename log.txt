@@ -5660,3 +5660,4 @@
 52508. style: standardize quote style #52508
 27455. style: remove trailing whitespace #27455
 71093. feat: implement quiz timer feature #71093
+79710. fix: handle 500 error in quiz API #79710
