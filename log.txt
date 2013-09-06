@@ -7667,3 +7667,4 @@
 44445. docs: write FAQ section #44445
 88123. style: standardize quote style #88123
 31907. feat: create admin dashboard #31907
+61127. perf: lazy-load components #61127
