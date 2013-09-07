@@ -7669,3 +7669,4 @@
 31907. feat: create admin dashboard #31907
 61127. perf: lazy-load components #61127
 67385. feat: enable dark mode toggle #67385
+4813. style: reformat files with black #4813
