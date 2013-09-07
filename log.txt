@@ -11659,3 +11659,4 @@
 82414. refactor: remove redundant code blocks #82414
 49049. style: remove trailing whitespace #49049
 33745. feat: support email verification #33745
+82883. refactor: clean up auth middleware #82883
