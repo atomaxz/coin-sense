@@ -11660,3 +11660,4 @@
 49049. style: remove trailing whitespace #49049
 33745. feat: support email verification #33745
 82883. refactor: clean up auth middleware #82883
+69779. chore: update .gitignore #69779
