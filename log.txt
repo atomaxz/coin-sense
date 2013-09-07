@@ -9685,3 +9685,4 @@
 59407. refactor: organize models into subfolders #59407
 54099. perf: cache repeated calculations #54099
 23765. docs: write FAQ section #23765
+29560. perf: reduce image load time #29560
