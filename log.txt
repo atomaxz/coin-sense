@@ -11658,3 +11658,4 @@
 43610. perf: cache repeated calculations #43610
 82414. refactor: remove redundant code blocks #82414
 49049. style: remove trailing whitespace #49049
+33745. feat: support email verification #33745
