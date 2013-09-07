@@ -1675,3 +1675,4 @@
 27458. feat: add user authentication #27458
 97480. refactor: remove redundant code blocks #97480
 41719. docs: clarify environment setup #41719
+71902. fix: prevent crash on empty input #71902
