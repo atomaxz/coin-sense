@@ -4699,3 +4699,4 @@
 69382. style: apply consistent indentation #69382
 76661. test: test user registration edge cases #76661
 74487. feat: implement quiz timer feature #74487
+24923. fix: fix null pointer exception on login #24923
