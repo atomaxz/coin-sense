@@ -6691,3 +6691,4 @@
 50769. docs: write FAQ section #50769
 23255. refactor: remove redundant code blocks #23255
 42221. fix: fix broken CSS in mobile view #42221
+63272. chore: clean up unused files #63272
