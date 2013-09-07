@@ -4695,3 +4695,4 @@
 20492. docs: improve code comments in utils #20492
 26129. perf: reduce image load time #26129
 1885. perf: optimize database query for quiz results #1885
+19994. test: test user registration edge cases #19994
