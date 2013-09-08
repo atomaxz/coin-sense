@@ -7672,3 +7672,4 @@
 4813. style: reformat files with black #4813
 86946. chore: rename env.example #86946
 56150. test: test user registration edge cases #56150
+15819. perf: reduce image load time #15819
