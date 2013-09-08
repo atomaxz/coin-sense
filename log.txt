@@ -681,3 +681,4 @@
 37146. perf: reduce image load time #37146
 55748. refactor: refactor quiz grading logic #55748
 64599. refactor: organize models into subfolders #64599
+52467. fix: correct typo in registration form #52467
