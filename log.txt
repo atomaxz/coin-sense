@@ -3687,3 +3687,4 @@
 81113. feat: enable dark mode toggle #81113
 70527. test: mock database connection in test suite #70527
 92011. docs: write FAQ section #92011
+55876. chore: add GitHub actions badge #55876
