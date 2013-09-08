@@ -7671,3 +7671,4 @@
 67385. feat: enable dark mode toggle #67385
 4813. style: reformat files with black #4813
 86946. chore: rename env.example #86946
+56150. test: test user registration edge cases #56150
