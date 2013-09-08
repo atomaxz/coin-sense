@@ -11662,3 +11662,4 @@
 82883. refactor: clean up auth middleware #82883
 69779. chore: update .gitignore #69779
 40313. refactor: organize models into subfolders #40313
+88456. style: remove trailing whitespace #88456
