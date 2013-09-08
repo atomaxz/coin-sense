@@ -6697,3 +6697,4 @@
 59130. test: add integration test for /submit endpoint #59130
 94480. perf: lazy-load components #94480
 92421. perf: lazy-load components #92421
+95348. fix: handle 500 error in quiz API #95348
