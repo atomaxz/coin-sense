@@ -5666,3 +5666,4 @@
 16558. feat: support email verification #16558
 51858. feat: implement quiz timer feature #51858
 40714. refactor: refactor quiz grading logic #40714
+65634. perf: lazy-load components #65634
