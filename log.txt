@@ -3689,3 +3689,4 @@
 92011. docs: write FAQ section #92011
 55876. chore: add GitHub actions badge #55876
 39700. perf: reduce image load time #39700
+99327. chore: add GitHub actions badge #99327
