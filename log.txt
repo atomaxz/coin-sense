@@ -10674,3 +10674,4 @@
 42076. style: apply consistent indentation #42076
 36097. style: apply consistent indentation #36097
 2678. test: add integration test for /submit endpoint #2678
+20736. perf: cache repeated calculations #20736
