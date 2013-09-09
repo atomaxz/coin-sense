@@ -683,3 +683,4 @@
 64599. refactor: organize models into subfolders #64599
 52467. fix: correct typo in registration form #52467
 31849. chore: update .gitignore #31849
+34074. chore: bump dependencies #34074
