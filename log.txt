@@ -2673,3 +2673,4 @@
 31101. style: standardize quote style #31101
 37719. feat: implement quiz timer feature #37719
 19850. refactor: clean up auth middleware #19850
+74743. refactor: refactor quiz grading logic #74743
