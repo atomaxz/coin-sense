@@ -8700,3 +8700,4 @@
 60624. perf: reduce image load time #60624
 28740. chore: bump dependencies #28740
 80142. perf: reduce image load time #80142
+42555. feat: add user authentication #42555
