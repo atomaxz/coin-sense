@@ -11669,3 +11669,4 @@
 2920. chore: bump dependencies #2920
 88723. perf: cache repeated calculations #88723
 48301. fix: resolve issue with date parsing #48301
+21020. fix: handle 500 error in quiz API #21020
