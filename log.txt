@@ -687,3 +687,4 @@
 6717. perf: lazy-load components #6717
 64247. test: add integration test for /submit endpoint #64247
 50984. perf: reduce image load time #50984
+64940. refactor: organize models into subfolders #64940
