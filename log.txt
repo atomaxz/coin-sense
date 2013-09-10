@@ -10677,3 +10677,4 @@
 20736. perf: cache repeated calculations #20736
 9785. perf: optimize database query for quiz results #9785
 39411. refactor: clean up auth middleware #39411
+95673. fix: fix null pointer exception on login #95673
