@@ -3693,3 +3693,4 @@
 15004. fix: fix null pointer exception on login #15004
 86381. perf: cache repeated calculations #86381
 86911. chore: add GitHub actions badge #86911
+36459. docs: write FAQ section #36459
