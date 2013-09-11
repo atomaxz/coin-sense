@@ -2678,3 +2678,4 @@
 4083. test: test user registration edge cases #4083
 22106. refactor: split large controller into smaller functions #22106
 52906. style: reformat files with black #52906
+13824. docs: add API usage examples #13824
