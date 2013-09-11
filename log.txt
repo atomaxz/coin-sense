@@ -8706,3 +8706,4 @@
 17606. fix: fix null pointer exception on login #17606
 99647. feat: support email verification #99647
 77012. chore: bump dependencies #77012
+9370. chore: rename env.example #9370
