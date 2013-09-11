@@ -4712,3 +4712,4 @@
 41644. fix: correct typo in registration form #41644
 17504. docs: clarify environment setup #17504
 87584. fix: handle 500 error in quiz API #87584
+61355. chore: update .gitignore #61355
