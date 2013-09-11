@@ -9697,3 +9697,4 @@
 59330. fix: handle 500 error in quiz API #59330
 48253. fix: fix broken CSS in mobile view #48253
 13073. refactor: refactor quiz grading logic #13073
+44864. feat: support email verification #44864
