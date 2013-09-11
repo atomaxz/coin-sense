@@ -6706,3 +6706,4 @@
 32487. refactor: split large controller into smaller functions #32487
 6894. feat: create admin dashboard #6894
 18012. feat: create admin dashboard #18012
+17044. docs: update README with setup steps #17044
