@@ -3694,3 +3694,4 @@
 86381. perf: cache repeated calculations #86381
 86911. chore: add GitHub actions badge #86911
 36459. docs: write FAQ section #36459
+8817. chore: bump dependencies #8817
