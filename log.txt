@@ -9698,3 +9698,4 @@
 48253. fix: fix broken CSS in mobile view #48253
 13073. refactor: refactor quiz grading logic #13073
 44864. feat: support email verification #44864
+45801. feat: support email verification #45801
