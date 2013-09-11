@@ -4711,3 +4711,4 @@
 36268. test: mock database connection in test suite #36268
 41644. fix: correct typo in registration form #41644
 17504. docs: clarify environment setup #17504
+87584. fix: handle 500 error in quiz API #87584
