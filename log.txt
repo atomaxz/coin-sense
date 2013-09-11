@@ -11672,3 +11672,4 @@
 21020. fix: handle 500 error in quiz API #21020
 46207. style: remove trailing whitespace #46207
 78245. style: reformat files with black #78245
+69447. feat: add user authentication #69447
