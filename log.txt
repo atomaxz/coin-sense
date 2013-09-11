@@ -5669,3 +5669,4 @@
 65634. perf: lazy-load components #65634
 68403. perf: cache repeated calculations #68403
 6771. refactor: refactor quiz grading logic #6771
+56114. docs: update README with setup steps #56114
