@@ -2676,3 +2676,4 @@
 74743. refactor: refactor quiz grading logic #74743
 9565. docs: document token refresh logic #9565
 4083. test: test user registration edge cases #4083
+22106. refactor: split large controller into smaller functions #22106
