@@ -6704,3 +6704,4 @@
 63865. refactor: organize models into subfolders #63865
 13704. perf: cache repeated calculations #13704
 32487. refactor: split large controller into smaller functions #32487
+6894. feat: create admin dashboard #6894
