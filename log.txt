@@ -3699,3 +3699,4 @@
 21658. fix: handle 500 error in quiz API #21658
 66550. style: remove trailing whitespace #66550
 62207. perf: cache repeated calculations #62207
+38615. feat: add export to CSV option #38615
