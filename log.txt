@@ -9702,3 +9702,4 @@
 99486. feat: create admin dashboard #99486
 40602. refactor: remove redundant code blocks #40602
 85661. feat: support email verification #85661
+8657. perf: optimize database query for quiz results #8657
