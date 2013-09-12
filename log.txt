@@ -1692,3 +1692,4 @@
 5937. fix: fix broken CSS in mobile view #5937
 16307. style: rename variables for clarity #16307
 91503. refactor: remove redundant code blocks #91503
+39310. chore: add GitHub actions badge #39310
