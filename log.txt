@@ -1693,3 +1693,4 @@
 16307. style: rename variables for clarity #16307
 91503. refactor: remove redundant code blocks #91503
 39310. chore: add GitHub actions badge #39310
+7350. refactor: organize models into subfolders #7350
