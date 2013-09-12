@@ -5676,3 +5676,4 @@
 18934. docs: improve code comments in utils #18934
 89080. fix: resolve issue with date parsing #89080
 78967. refactor: organize models into subfolders #78967
+14325. fix: prevent crash on empty input #14325
