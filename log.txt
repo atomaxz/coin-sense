@@ -5678,3 +5678,4 @@
 78967. refactor: organize models into subfolders #78967
 14325. fix: prevent crash on empty input #14325
 76375. chore: rename env.example #76375
+37715. perf: reduce image load time #37715
