@@ -6712,3 +6712,4 @@
 27396. feat: implement quiz timer feature #27396
 65640. perf: optimize database query for quiz results #65640
 25034. fix: correct typo in registration form #25034
+27216. docs: document token refresh logic #27216
