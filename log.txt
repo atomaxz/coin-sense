@@ -6708,3 +6708,4 @@
 18012. feat: create admin dashboard #18012
 17044. docs: update README with setup steps #17044
 71962. docs: update README with setup steps #71962
+84904. docs: add API usage examples #84904
