@@ -6710,3 +6710,4 @@
 71962. docs: update README with setup steps #71962
 84904. docs: add API usage examples #84904
 27396. feat: implement quiz timer feature #27396
+65640. perf: optimize database query for quiz results #65640
