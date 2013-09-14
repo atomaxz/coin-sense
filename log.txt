@@ -2686,3 +2686,4 @@
 84876. chore: update .gitignore #84876
 10226. style: rename variables for clarity #10226
 53485. docs: document token refresh logic #53485
+97899. test: test user registration edge cases #97899
