@@ -1699,3 +1699,4 @@
 40288. style: remove trailing whitespace #40288
 74921. perf: reduce image load time #74921
 64053. feat: add export to CSV option #64053
+93581. chore: add GitHub actions badge #93581
