@@ -3703,3 +3703,4 @@
 5645. feat: add export to CSV option #5645
 87497. fix: fix null pointer exception on login #87497
 35006. docs: document token refresh logic #35006
+67315. test: add integration test for /submit endpoint #67315
