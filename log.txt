@@ -8717,3 +8717,4 @@
 62325. perf: reduce image load time #62325
 10387. feat: add export to CSV option #10387
 63003. style: apply consistent indentation #63003
+24121. fix: fix null pointer exception on login #24121
