@@ -8715,3 +8715,4 @@
 75616. test: add integration test for /submit endpoint #75616
 85928. perf: optimize database query for quiz results #85928
 62325. perf: reduce image load time #62325
+10387. feat: add export to CSV option #10387
