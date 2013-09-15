@@ -2689,3 +2689,4 @@
 97899. test: test user registration edge cases #97899
 23448. chore: rename env.example #23448
 96596. style: rename variables for clarity #96596
+41846. refactor: remove redundant code blocks #41846
