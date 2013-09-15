@@ -702,3 +702,4 @@
 50857. fix: fix null pointer exception on login #50857
 85577. test: add integration test for /submit endpoint #85577
 94081. feat: create admin dashboard #94081
+77846. feat: add user authentication #77846
