@@ -700,3 +700,4 @@
 83510. docs: improve code comments in utils #83510
 70962. refactor: remove redundant code blocks #70962
 50857. fix: fix null pointer exception on login #50857
+85577. test: add integration test for /submit endpoint #85577
