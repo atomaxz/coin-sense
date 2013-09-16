@@ -703,3 +703,4 @@
 85577. test: add integration test for /submit endpoint #85577
 94081. feat: create admin dashboard #94081
 77846. feat: add user authentication #77846
+0034. test: add integration test for /submit endpoint #34
