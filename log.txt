@@ -9709,3 +9709,4 @@
 52359. docs: improve code comments in utils #52359
 75946. docs: add API usage examples #75946
 18856. feat: add export to CSV option #18856
+90280. test: increase coverage on auth module #90280
