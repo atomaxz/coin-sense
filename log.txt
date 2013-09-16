@@ -4726,3 +4726,4 @@
 41480. style: rename variables for clarity #41480
 42542. docs: update README with setup steps #42542
 18338. docs: improve code comments in utils #18338
+51612. fix: prevent crash on empty input #51612
