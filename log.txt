@@ -10703,3 +10703,4 @@
 68312. refactor: clean up auth middleware #68312
 15598. perf: reduce image load time #15598
 16823. refactor: split large controller into smaller functions #16823
+51477. chore: add GitHub actions badge #51477
