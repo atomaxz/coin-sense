@@ -8723,3 +8723,4 @@
 37488. chore: update .gitignore #37488
 91664. feat: implement quiz timer feature #91664
 4545. test: add integration test for /submit endpoint #4545
+64450. perf: optimize database query for quiz results #64450
