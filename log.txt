@@ -10698,3 +10698,4 @@
 60278. fix: prevent crash on empty input #60278
 18258. feat: support email verification #18258
 16398. perf: reduce image load time #16398
+61636. fix: fix broken CSS in mobile view #61636
