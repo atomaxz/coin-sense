@@ -1708,3 +1708,4 @@
 0697. refactor: clean up auth middleware #697
 72293. refactor: remove redundant code blocks #72293
 24358. style: remove trailing whitespace #24358
+85449. style: remove trailing whitespace #85449
