@@ -6720,3 +6720,4 @@
 66487. chore: rename env.example #66487
 69562. fix: fix null pointer exception on login #69562
 38437. perf: cache repeated calculations #38437
+49399. style: remove trailing whitespace #49399
