@@ -3707,3 +3707,4 @@
 90463. docs: update README with setup steps #90463
 49679. perf: reduce image load time #49679
 91261. chore: rename env.example #91261
+43811. fix: fix broken CSS in mobile view #43811
