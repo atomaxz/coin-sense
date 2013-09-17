@@ -2693,3 +2693,4 @@
 29167. docs: improve code comments in utils #29167
 25741. style: reformat files with black #25741
 93872. feat: create admin dashboard #93872
+36723. test: test user registration edge cases #36723
