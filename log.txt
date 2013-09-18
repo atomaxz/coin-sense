@@ -3709,3 +3709,4 @@
 91261. chore: rename env.example #91261
 43811. fix: fix broken CSS in mobile view #43811
 67505. test: add unit test for quiz service #67505
+21879. chore: bump dependencies #21879
