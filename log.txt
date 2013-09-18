@@ -2696,3 +2696,4 @@
 36723. test: test user registration edge cases #36723
 3193. feat: add user authentication #3193
 61546. docs: write FAQ section #61546
+72842. test: increase coverage on auth module #72842
