@@ -3711,3 +3711,4 @@
 67505. test: add unit test for quiz service #67505
 21879. chore: bump dependencies #21879
 50175. perf: lazy-load components #50175
+53979. feat: support email verification #53979
