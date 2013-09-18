@@ -11689,3 +11689,4 @@
 96782. chore: rename env.example #96782
 36183. feat: implement quiz timer feature #36183
 96543. test: increase coverage on auth module #96543
+75746. docs: update README with setup steps #75746
