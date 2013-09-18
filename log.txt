@@ -8728,3 +8728,4 @@
 80069. style: reformat files with black #80069
 17154. style: rename variables for clarity #17154
 49705. perf: cache repeated calculations #49705
+73517. style: standardize quote style #73517
