@@ -10708,3 +10708,4 @@
 81620. docs: write FAQ section #81620
 70262. style: apply consistent indentation #70262
 67800. docs: add API usage examples #67800
+77958. fix: handle 500 error in quiz API #77958
