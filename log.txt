@@ -7703,3 +7703,4 @@
 62214. fix: fix broken CSS in mobile view #62214
 10052. docs: write FAQ section #10052
 26240. fix: correct typo in registration form #26240
+1337. test: increase coverage on auth module #1337
