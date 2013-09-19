@@ -7704,3 +7704,4 @@
 10052. docs: write FAQ section #10052
 26240. fix: correct typo in registration form #26240
 1337. test: increase coverage on auth module #1337
+75726. test: test user registration edge cases #75726
