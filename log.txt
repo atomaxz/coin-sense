@@ -6722,3 +6722,4 @@
 38437. perf: cache repeated calculations #38437
 49399. style: remove trailing whitespace #49399
 89092. chore: clean up unused files #89092
+23718. fix: prevent crash on empty input #23718
