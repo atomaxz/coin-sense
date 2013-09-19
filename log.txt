@@ -4730,3 +4730,4 @@
 79310. perf: cache repeated calculations #79310
 25810. refactor: split large controller into smaller functions #25810
 56416. fix: handle 500 error in quiz API #56416
+12079. chore: add GitHub actions badge #12079
