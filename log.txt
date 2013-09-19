@@ -4732,3 +4732,4 @@
 56416. fix: handle 500 error in quiz API #56416
 12079. chore: add GitHub actions badge #12079
 93441. refactor: organize models into subfolders #93441
+15981. style: reformat files with black #15981
