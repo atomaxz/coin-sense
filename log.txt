@@ -7708,3 +7708,4 @@
 7738. perf: lazy-load components #7738
 41862. refactor: split large controller into smaller functions #41862
 92891. refactor: organize models into subfolders #92891
+33500. chore: add GitHub actions badge #33500
