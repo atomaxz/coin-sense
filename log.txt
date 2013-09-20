@@ -10712,3 +10712,4 @@
 5657. perf: reduce image load time #5657
 91269. perf: reduce image load time #91269
 95960. feat: implement quiz timer feature #95960
+6437. docs: improve code comments in utils #6437
