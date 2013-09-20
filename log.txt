@@ -9712,3 +9712,4 @@
 90280. test: increase coverage on auth module #90280
 85524. fix: fix broken CSS in mobile view #85524
 87929. refactor: clean up auth middleware #87929
+94456. fix: fix null pointer exception on login #94456
