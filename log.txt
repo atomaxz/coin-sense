@@ -1719,3 +1719,4 @@
 38707. fix: fix broken CSS in mobile view #38707
 57657. style: rename variables for clarity #57657
 22297. perf: cache repeated calculations #22297
+98260. chore: add GitHub actions badge #98260
