@@ -708,3 +708,4 @@
 30181. test: test user registration edge cases #30181
 88764. fix: fix broken CSS in mobile view #88764
 57019. fix: prevent crash on empty input #57019
+49267. chore: rename env.example #49267
