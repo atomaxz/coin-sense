@@ -4736,3 +4736,4 @@
 29110. refactor: split large controller into smaller functions #29110
 50070. test: mock database connection in test suite #50070
 57927. style: remove trailing whitespace #57927
+57453. docs: update README with setup steps #57453
