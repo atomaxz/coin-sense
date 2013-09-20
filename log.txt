@@ -10713,3 +10713,4 @@
 91269. perf: reduce image load time #91269
 95960. feat: implement quiz timer feature #95960
 6437. docs: improve code comments in utils #6437
+19857. chore: clean up unused files #19857
