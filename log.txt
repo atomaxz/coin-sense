@@ -11699,3 +11699,4 @@
 55057. test: mock database connection in test suite #55057
 81781. refactor: refactor quiz grading logic #81781
 98617. docs: write FAQ section #98617
+80567. test: test user registration edge cases #80567
