@@ -4740,3 +4740,4 @@
 89658. fix: correct typo in registration form #89658
 89425. docs: update README with setup steps #89425
 67734. perf: reduce image load time #67734
+74337. feat: enable dark mode toggle #74337
