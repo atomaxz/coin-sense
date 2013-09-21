@@ -9715,3 +9715,4 @@
 94456. fix: fix null pointer exception on login #94456
 61941. refactor: split large controller into smaller functions #61941
 53018. chore: bump dependencies #53018
+37643. feat: enable dark mode toggle #37643
