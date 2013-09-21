@@ -5702,3 +5702,4 @@
 2500. perf: lazy-load components #2500
 97745. perf: reduce image load time #97745
 39319. chore: update .gitignore #39319
+83713. perf: reduce image load time #83713
