@@ -3719,3 +3719,4 @@
 16520. perf: optimize database query for quiz results #16520
 91637. style: apply consistent indentation #91637
 7349. refactor: split large controller into smaller functions #7349
+89519. chore: add GitHub actions badge #89519
