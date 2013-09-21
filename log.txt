@@ -4739,3 +4739,4 @@
 57453. docs: update README with setup steps #57453
 89658. fix: correct typo in registration form #89658
 89425. docs: update README with setup steps #89425
+67734. perf: reduce image load time #67734
