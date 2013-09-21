@@ -4738,3 +4738,4 @@
 57927. style: remove trailing whitespace #57927
 57453. docs: update README with setup steps #57453
 89658. fix: correct typo in registration form #89658
+89425. docs: update README with setup steps #89425
