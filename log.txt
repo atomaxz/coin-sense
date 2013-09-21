@@ -714,3 +714,4 @@
 35697. perf: cache repeated calculations #35697
 16993. perf: optimize database query for quiz results #16993
 88217. fix: prevent crash on empty input #88217
+12336. docs: document token refresh logic #12336
