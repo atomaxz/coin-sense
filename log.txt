@@ -711,3 +711,4 @@
 49267. chore: rename env.example #49267
 23708. test: test user registration edge cases #23708
 46339. docs: clarify environment setup #46339
+35697. perf: cache repeated calculations #35697
