@@ -5705,3 +5705,4 @@
 83713. perf: reduce image load time #83713
 87044. style: remove trailing whitespace #87044
 75978. style: reformat files with black #75978
+12878. style: standardize quote style #12878
