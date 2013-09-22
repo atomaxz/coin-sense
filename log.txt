@@ -6731,3 +6731,4 @@
 2031. refactor: remove redundant code blocks #2031
 92991. fix: fix broken CSS in mobile view #92991
 45832. docs: update README with setup steps #45832
+58685. perf: lazy-load components #58685
