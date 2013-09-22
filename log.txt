@@ -5703,3 +5703,4 @@
 97745. perf: reduce image load time #97745
 39319. chore: update .gitignore #39319
 83713. perf: reduce image load time #83713
+87044. style: remove trailing whitespace #87044
