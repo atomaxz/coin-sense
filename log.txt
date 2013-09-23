@@ -7716,3 +7716,4 @@
 10937. test: add unit test for quiz service #10937
 41314. fix: prevent crash on empty input #41314
 82859. docs: clarify environment setup #82859
+42407. refactor: organize models into subfolders #42407
