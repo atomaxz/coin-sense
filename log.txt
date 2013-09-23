@@ -7714,3 +7714,4 @@
 83795. style: remove trailing whitespace #83795
 79952. fix: correct typo in registration form #79952
 10937. test: add unit test for quiz service #10937
+41314. fix: prevent crash on empty input #41314
