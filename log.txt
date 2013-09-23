@@ -5706,3 +5706,4 @@
 87044. style: remove trailing whitespace #87044
 75978. style: reformat files with black #75978
 12878. style: standardize quote style #12878
+15993. test: add integration test for /submit endpoint #15993
