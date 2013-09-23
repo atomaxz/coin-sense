@@ -5707,3 +5707,4 @@
 75978. style: reformat files with black #75978
 12878. style: standardize quote style #12878
 15993. test: add integration test for /submit endpoint #15993
+79638. feat: create admin dashboard #79638
