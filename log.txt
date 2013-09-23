@@ -11703,3 +11703,4 @@
 44050. style: reformat files with black #44050
 54007. style: rename variables for clarity #54007
 6605. fix: resolve issue with date parsing #6605
+70234. perf: lazy-load components #70234
