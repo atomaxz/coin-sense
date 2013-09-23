@@ -10718,3 +10718,4 @@
 31908. chore: add GitHub actions badge #31908
 32357. style: remove trailing whitespace #32357
 6474. feat: add export to CSV option #6474
+64137. style: remove trailing whitespace #64137
