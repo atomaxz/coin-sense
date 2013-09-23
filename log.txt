@@ -5709,3 +5709,4 @@
 15993. test: add integration test for /submit endpoint #15993
 79638. feat: create admin dashboard #79638
 17444. feat: create admin dashboard #17444
+7150. chore: add GitHub actions badge #7150
