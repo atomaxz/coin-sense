@@ -3724,3 +3724,4 @@
 43313. docs: add API usage examples #43313
 93852. style: standardize quote style #93852
 12010. style: standardize quote style #12010
+95090. feat: support email verification #95090
