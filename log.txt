@@ -3726,3 +3726,4 @@
 12010. style: standardize quote style #12010
 95090. feat: support email verification #95090
 66825. chore: clean up unused files #66825
+31215. fix: prevent crash on empty input #31215
