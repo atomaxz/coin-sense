@@ -11707,3 +11707,4 @@
 3438. test: test user registration edge cases #3438
 16291. docs: add API usage examples #16291
 58381. refactor: split large controller into smaller functions #58381
+82659. feat: support email verification #82659
