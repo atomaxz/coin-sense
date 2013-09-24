@@ -4748,3 +4748,4 @@
 12644. refactor: remove redundant code blocks #12644
 76105. feat: implement quiz timer feature #76105
 5096. refactor: split large controller into smaller functions #5096
+2585. refactor: clean up auth middleware #2585
