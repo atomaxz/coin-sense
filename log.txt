@@ -10720,3 +10720,4 @@
 6474. feat: add export to CSV option #6474
 64137. style: remove trailing whitespace #64137
 4407. refactor: refactor quiz grading logic #4407
+96891. feat: add user authentication #96891
