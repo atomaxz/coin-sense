@@ -6734,3 +6734,4 @@
 58685. perf: lazy-load components #58685
 7828. refactor: refactor quiz grading logic #7828
 17955. refactor: remove redundant code blocks #17955
+49796. refactor: clean up auth middleware #49796
