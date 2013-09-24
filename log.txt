@@ -8744,3 +8744,4 @@
 58324. test: test user registration edge cases #58324
 49526. feat: enable dark mode toggle #49526
 99985. test: increase coverage on auth module #99985
+86972. perf: lazy-load components #86972
