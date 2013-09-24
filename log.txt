@@ -5713,3 +5713,4 @@
 36981. test: test user registration edge cases #36981
 8696. chore: bump dependencies #8696
 41842. style: standardize quote style #41842
+82757. feat: add user authentication #82757
