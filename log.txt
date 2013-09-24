@@ -2708,3 +2708,4 @@
 10532. docs: improve code comments in utils #10532
 24807. feat: add user authentication #24807
 2005. feat: add user authentication #2005
+45851. fix: fix null pointer exception on login #45851
