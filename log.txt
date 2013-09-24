@@ -1726,3 +1726,4 @@
 91419. fix: fix broken CSS in mobile view #91419
 42704. chore: bump dependencies #42704
 96224. feat: add export to CSV option #96224
+16716. test: mock database connection in test suite #16716
