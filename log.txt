@@ -726,3 +726,4 @@
 48730. refactor: clean up auth middleware #48730
 98224. fix: correct typo in registration form #98224
 47887. fix: resolve issue with date parsing #47887
+56323. refactor: clean up auth middleware #56323
