@@ -724,3 +724,4 @@
 27346. perf: optimize database query for quiz results #27346
 51344. chore: rename env.example #51344
 48730. refactor: clean up auth middleware #48730
+98224. fix: correct typo in registration form #98224
