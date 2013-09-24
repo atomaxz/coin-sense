@@ -5712,3 +5712,4 @@
 7150. chore: add GitHub actions badge #7150
 36981. test: test user registration edge cases #36981
 8696. chore: bump dependencies #8696
+41842. style: standardize quote style #41842
