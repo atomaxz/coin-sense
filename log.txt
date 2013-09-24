@@ -2711,3 +2711,4 @@
 45851. fix: fix null pointer exception on login #45851
 27145. test: add unit test for quiz service #27145
 99002. chore: bump dependencies #99002
+39218. style: remove trailing whitespace #39218
