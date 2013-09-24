@@ -11708,3 +11708,4 @@
 16291. docs: add API usage examples #16291
 58381. refactor: split large controller into smaller functions #58381
 82659. feat: support email verification #82659
+61345. perf: cache repeated calculations #61345
