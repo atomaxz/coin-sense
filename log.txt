@@ -1727,3 +1727,4 @@
 42704. chore: bump dependencies #42704
 96224. feat: add export to CSV option #96224
 16716. test: mock database connection in test suite #16716
+74594. perf: reduce image load time #74594
