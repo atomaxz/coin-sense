@@ -11713,3 +11713,4 @@
 9912. feat: enable dark mode toggle #9912
 35085. fix: fix broken CSS in mobile view #35085
 21630. style: standardize quote style #21630
+91004. refactor: organize models into subfolders #91004
