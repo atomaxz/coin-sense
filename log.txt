@@ -10728,3 +10728,4 @@
 7084. test: add unit test for quiz service #7084
 31281. docs: clarify environment setup #31281
 72459. fix: fix broken CSS in mobile view #72459
+94876. perf: reduce image load time #94876
