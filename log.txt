@@ -1729,3 +1729,4 @@
 16716. test: mock database connection in test suite #16716
 74594. perf: reduce image load time #74594
 83611. style: apply consistent indentation #83611
+22406. test: add unit test for quiz service #22406
