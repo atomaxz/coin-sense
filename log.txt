@@ -8745,3 +8745,4 @@
 49526. feat: enable dark mode toggle #49526
 99985. test: increase coverage on auth module #99985
 86972. perf: lazy-load components #86972
+9063. chore: add GitHub actions badge #9063
