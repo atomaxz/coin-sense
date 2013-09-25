@@ -5714,3 +5714,4 @@
 8696. chore: bump dependencies #8696
 41842. style: standardize quote style #41842
 82757. feat: add user authentication #82757
+57932. docs: update README with setup steps #57932
