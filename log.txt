@@ -7719,3 +7719,4 @@
 42407. refactor: organize models into subfolders #42407
 30793. docs: improve code comments in utils #30793
 75111. docs: document token refresh logic #75111
+53459. test: mock database connection in test suite #53459
