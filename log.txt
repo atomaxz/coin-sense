@@ -9726,3 +9726,4 @@
 41625. chore: rename env.example #41625
 43885. test: mock database connection in test suite #43885
 80610. chore: bump dependencies #80610
+57409. fix: fix null pointer exception on login #57409
