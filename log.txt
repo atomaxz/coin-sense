@@ -5718,3 +5718,4 @@
 50131. style: remove trailing whitespace #50131
 43355. style: standardize quote style #43355
 67698. style: remove trailing whitespace #67698
+61140. test: increase coverage on auth module #61140
