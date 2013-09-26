@@ -11720,3 +11720,4 @@
 48786. fix: prevent crash on empty input #48786
 90824. docs: add API usage examples #90824
 22937. docs: improve code comments in utils #22937
+63178. chore: add GitHub actions badge #63178
