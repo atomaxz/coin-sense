@@ -729,3 +729,4 @@
 56323. refactor: clean up auth middleware #56323
 44310. feat: support email verification #44310
 16762. refactor: remove redundant code blocks #16762
+73181. perf: lazy-load components #73181
