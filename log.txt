@@ -11715,3 +11715,4 @@
 21630. style: standardize quote style #21630
 91004. refactor: organize models into subfolders #91004
 16091. style: standardize quote style #16091
+52280. style: standardize quote style #52280
