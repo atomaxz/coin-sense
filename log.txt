@@ -5719,3 +5719,4 @@
 43355. style: standardize quote style #43355
 67698. style: remove trailing whitespace #67698
 61140. test: increase coverage on auth module #61140
+52458. docs: add API usage examples #52458
