@@ -3729,3 +3729,4 @@
 31215. fix: prevent crash on empty input #31215
 23655. refactor: clean up auth middleware #23655
 89403. docs: improve code comments in utils #89403
+41410. fix: correct typo in registration form #41410
