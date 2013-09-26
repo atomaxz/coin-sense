@@ -4752,3 +4752,4 @@
 89291. feat: create admin dashboard #89291
 58604. feat: support email verification #58604
 34849. refactor: clean up auth middleware #34849
+94423. chore: bump dependencies #94423
