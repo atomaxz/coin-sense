@@ -9728,3 +9728,4 @@
 80610. chore: bump dependencies #80610
 57409. fix: fix null pointer exception on login #57409
 38371. style: apply consistent indentation #38371
+65380. feat: support email verification #65380
