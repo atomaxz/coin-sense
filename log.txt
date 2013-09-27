@@ -6741,3 +6741,4 @@
 76456. fix: fix null pointer exception on login #76456
 98996. chore: bump dependencies #98996
 34325. style: apply consistent indentation #34325
+28655. docs: update README with setup steps #28655
