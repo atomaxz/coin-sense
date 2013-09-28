@@ -6742,3 +6742,4 @@
 98996. chore: bump dependencies #98996
 34325. style: apply consistent indentation #34325
 28655. docs: update README with setup steps #28655
+42787. fix: prevent crash on empty input #42787
