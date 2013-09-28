@@ -5725,3 +5725,4 @@
 19852. perf: cache repeated calculations #19852
 96960. test: mock database connection in test suite #96960
 50019. fix: resolve issue with date parsing #50019
+79304. feat: support email verification #79304
