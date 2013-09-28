@@ -3732,3 +3732,4 @@
 41410. fix: correct typo in registration form #41410
 31795. perf: reduce image load time #31795
 72174. perf: lazy-load components #72174
+93779. fix: fix null pointer exception on login #93779
