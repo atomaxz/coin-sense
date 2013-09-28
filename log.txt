@@ -11725,3 +11725,4 @@
 7566. test: mock database connection in test suite #7566
 20336. fix: fix null pointer exception on login #20336
 28793. style: apply consistent indentation #28793
+89414. test: add unit test for quiz service #89414
