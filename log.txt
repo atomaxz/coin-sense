@@ -11722,3 +11722,4 @@
 22937. docs: improve code comments in utils #22937
 63178. chore: add GitHub actions badge #63178
 73341. chore: rename env.example #73341
+7566. test: mock database connection in test suite #7566
