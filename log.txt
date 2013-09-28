@@ -11723,3 +11723,4 @@
 63178. chore: add GitHub actions badge #63178
 73341. chore: rename env.example #73341
 7566. test: mock database connection in test suite #7566
+20336. fix: fix null pointer exception on login #20336
