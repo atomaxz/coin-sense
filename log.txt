@@ -5727,3 +5727,4 @@
 50019. fix: resolve issue with date parsing #50019
 79304. feat: support email verification #79304
 73005. docs: improve code comments in utils #73005
+32703. fix: prevent crash on empty input #32703
