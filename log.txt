@@ -736,3 +736,4 @@
 13965. fix: handle 500 error in quiz API #13965
 20135. feat: support email verification #20135
 29873. test: test user registration edge cases #29873
+70661. docs: document token refresh logic #70661
