@@ -1742,3 +1742,4 @@
 55078. style: reformat files with black #55078
 17938. chore: rename env.example #17938
 41650. fix: prevent crash on empty input #41650
+88736. chore: bump dependencies #88736
