@@ -3738,3 +3738,4 @@
 64706. style: standardize quote style #64706
 8865. feat: implement quiz timer feature #8865
 37997. perf: optimize database query for quiz results #37997
+39474. test: add integration test for /submit endpoint #39474
