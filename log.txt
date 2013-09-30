@@ -9742,3 +9742,4 @@
 42945. fix: fix null pointer exception on login #42945
 80465. chore: clean up unused files #80465
 85812. feat: enable dark mode toggle #85812
+86545. fix: prevent crash on empty input #86545
