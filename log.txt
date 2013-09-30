@@ -10738,3 +10738,4 @@
 60889. fix: prevent crash on empty input #60889
 85158. test: increase coverage on auth module #85158
 19045. fix: fix null pointer exception on login #19045
+56356. refactor: clean up auth middleware #56356
