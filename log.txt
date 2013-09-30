@@ -7727,3 +7727,4 @@
 2870. style: apply consistent indentation #2870
 98855. fix: prevent crash on empty input #98855
 7227. fix: handle 500 error in quiz API #7227
+93899. style: standardize quote style #93899
