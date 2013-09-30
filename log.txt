@@ -6749,3 +6749,4 @@
 75562. test: add integration test for /submit endpoint #75562
 57914. refactor: refactor quiz grading logic #57914
 85327. refactor: remove redundant code blocks #85327
+57587. fix: fix broken CSS in mobile view #57587
