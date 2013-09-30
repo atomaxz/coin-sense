@@ -7725,3 +7725,4 @@
 69446. feat: implement quiz timer feature #69446
 99470. refactor: refactor quiz grading logic #99470
 2870. style: apply consistent indentation #2870
+98855. fix: prevent crash on empty input #98855
