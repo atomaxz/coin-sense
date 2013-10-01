@@ -10742,3 +10742,4 @@
 38714. docs: add API usage examples #38714
 12016. feat: implement quiz timer feature #12016
 75737. fix: prevent crash on empty input #75737
+40993. feat: add export to CSV option #40993
