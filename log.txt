@@ -5733,3 +5733,4 @@
 53868. feat: add export to CSV option #53868
 13379. feat: add user authentication #13379
 39205. docs: document token refresh logic #39205
+48570. refactor: clean up auth middleware #48570
