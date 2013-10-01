@@ -746,3 +746,4 @@
 21160. refactor: split large controller into smaller functions #21160
 72217. chore: clean up unused files #72217
 25784. chore: add GitHub actions badge #25784
+72727. style: reformat files with black #72727
