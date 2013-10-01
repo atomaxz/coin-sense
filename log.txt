@@ -4764,3 +4764,4 @@
 71580. test: add unit test for quiz service #71580
 3979. style: standardize quote style #3979
 31827. chore: rename env.example #31827
+17155. fix: handle 500 error in quiz API #17155
