@@ -2729,3 +2729,4 @@
 92909. perf: lazy-load components #92909
 51123. test: add integration test for /submit endpoint #51123
 37849. perf: lazy-load components #37849
+32465. feat: support email verification #32465
