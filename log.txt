@@ -11733,3 +11733,4 @@
 54420. chore: clean up unused files #54420
 33957. docs: write FAQ section #33957
 7161. fix: handle 500 error in quiz API #7161
+54757. perf: lazy-load components #54757
