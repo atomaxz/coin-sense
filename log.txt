@@ -7730,3 +7730,4 @@
 93899. style: standardize quote style #93899
 22283. docs: write FAQ section #22283
 24367. test: increase coverage on auth module #24367
+12956. style: apply consistent indentation #12956
