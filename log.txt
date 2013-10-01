@@ -5735,3 +5735,4 @@
 39205. docs: document token refresh logic #39205
 48570. refactor: clean up auth middleware #48570
 93396. refactor: refactor quiz grading logic #93396
+63199. test: test user registration edge cases #63199
