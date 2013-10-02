@@ -9748,3 +9748,4 @@
 55475. chore: add GitHub actions badge #55475
 1859. style: remove trailing whitespace #1859
 8197. docs: add API usage examples #8197
+71130. perf: lazy-load components #71130
