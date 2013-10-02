@@ -6757,3 +6757,4 @@
 10330. test: add integration test for /submit endpoint #10330
 53226. refactor: refactor quiz grading logic #53226
 91707. fix: handle 500 error in quiz API #91707
+80757. perf: lazy-load components #80757
