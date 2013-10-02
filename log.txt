@@ -2731,3 +2731,4 @@
 37849. perf: lazy-load components #37849
 32465. feat: support email verification #32465
 82024. test: increase coverage on auth module #82024
+44678. chore: update .gitignore #44678
