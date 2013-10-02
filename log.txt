@@ -3743,3 +3743,4 @@
 41451. feat: enable dark mode toggle #41451
 95733. perf: lazy-load components #95733
 91079. perf: lazy-load components #91079
+12012. docs: clarify environment setup #12012
