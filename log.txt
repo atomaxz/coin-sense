@@ -11735,3 +11735,4 @@
 7161. fix: handle 500 error in quiz API #7161
 54757. perf: lazy-load components #54757
 2057. style: remove trailing whitespace #2057
+0206. docs: write FAQ section #206
