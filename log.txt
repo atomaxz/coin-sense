@@ -7732,3 +7732,4 @@
 24367. test: increase coverage on auth module #24367
 12956. style: apply consistent indentation #12956
 58886. docs: improve code comments in utils #58886
+97274. perf: optimize database query for quiz results #97274
