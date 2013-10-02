@@ -4768,3 +4768,4 @@
 10202. test: add integration test for /submit endpoint #10202
 22144. test: mock database connection in test suite #22144
 4902. refactor: refactor quiz grading logic #4902
+20212. test: test user registration edge cases #20212
