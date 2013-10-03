@@ -2733,3 +2733,4 @@
 82024. test: increase coverage on auth module #82024
 44678. chore: update .gitignore #44678
 45475. fix: handle 500 error in quiz API #45475
+78589. chore: bump dependencies #78589
