@@ -3746,3 +3746,4 @@
 12012. docs: clarify environment setup #12012
 38871. style: remove trailing whitespace #38871
 0490. test: test user registration edge cases #490
+28879. perf: optimize database query for quiz results #28879
