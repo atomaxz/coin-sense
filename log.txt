@@ -11742,3 +11742,4 @@
 70595. refactor: refactor quiz grading logic #70595
 4846. perf: lazy-load components #4846
 36988. refactor: clean up auth middleware #36988
+39705. fix: prevent crash on empty input #39705
