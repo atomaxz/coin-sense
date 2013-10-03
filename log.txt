@@ -1750,3 +1750,4 @@
 59182. docs: add API usage examples #59182
 24723. style: rename variables for clarity #24723
 25188. perf: lazy-load components #25188
+47845. refactor: refactor quiz grading logic #47845
