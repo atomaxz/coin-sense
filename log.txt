@@ -8766,3 +8766,4 @@
 0149. perf: lazy-load components #149
 86771. feat: add user authentication #86771
 51497. refactor: split large controller into smaller functions #51497
+21725. perf: lazy-load components #21725
