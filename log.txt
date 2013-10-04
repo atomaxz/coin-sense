@@ -5747,3 +5747,4 @@
 60683. feat: add user authentication #60683
 27556. refactor: split large controller into smaller functions #27556
 75997. refactor: refactor quiz grading logic #75997
+37660. test: mock database connection in test suite #37660
