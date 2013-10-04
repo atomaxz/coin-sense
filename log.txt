@@ -2739,3 +2739,4 @@
 68761. perf: cache repeated calculations #68761
 52790. feat: add export to CSV option #52790
 47278. refactor: clean up auth middleware #47278
+0509. chore: bump dependencies #509
