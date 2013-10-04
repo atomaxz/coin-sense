@@ -11745,3 +11745,4 @@
 39705. fix: prevent crash on empty input #39705
 81864. style: apply consistent indentation #81864
 12903. refactor: split large controller into smaller functions #12903
+26207. fix: handle 500 error in quiz API #26207
