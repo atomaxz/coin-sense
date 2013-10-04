@@ -11746,3 +11746,4 @@
 81864. style: apply consistent indentation #81864
 12903. refactor: split large controller into smaller functions #12903
 26207. fix: handle 500 error in quiz API #26207
+67595. test: test user registration edge cases #67595
