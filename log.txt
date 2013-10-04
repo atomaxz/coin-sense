@@ -10754,3 +10754,4 @@
 95213. test: add unit test for quiz service #95213
 10215. refactor: refactor quiz grading logic #10215
 30380. style: reformat files with black #30380
+55756. fix: correct typo in registration form #55756
