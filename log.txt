@@ -6762,3 +6762,4 @@
 40364. chore: rename env.example #40364
 63396. feat: enable dark mode toggle #63396
 1664. chore: clean up unused files #1664
+62930. fix: fix null pointer exception on login #62930
