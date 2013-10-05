@@ -11750,3 +11750,4 @@
 87796. perf: cache repeated calculations #87796
 15005. chore: update .gitignore #15005
 84741. perf: lazy-load components #84741
+87658. fix: resolve issue with date parsing #87658
