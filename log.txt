@@ -3749,3 +3749,4 @@
 28879. perf: optimize database query for quiz results #28879
 34964. docs: write FAQ section #34964
 44455. docs: document token refresh logic #44455
+73695. chore: update .gitignore #73695
