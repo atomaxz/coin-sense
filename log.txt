@@ -8769,3 +8769,4 @@
 21725. perf: lazy-load components #21725
 57004. docs: document token refresh logic #57004
 92265. style: rename variables for clarity #92265
+22816. chore: bump dependencies #22816
