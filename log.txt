@@ -11754,3 +11754,4 @@
 59570. test: add integration test for /submit endpoint #59570
 32789. perf: lazy-load components #32789
 56256. style: standardize quote style #56256
+58362. refactor: clean up auth middleware #58362
