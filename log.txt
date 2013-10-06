@@ -2742,3 +2742,4 @@
 0509. chore: bump dependencies #509
 82283. feat: support email verification #82283
 38529. chore: clean up unused files #38529
+64756. feat: add export to CSV option #64756
