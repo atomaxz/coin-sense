@@ -1758,3 +1758,4 @@
 70757. fix: fix broken CSS in mobile view #70757
 30216. fix: correct typo in registration form #30216
 40412. fix: handle 500 error in quiz API #40412
+14814. fix: resolve issue with date parsing #14814
