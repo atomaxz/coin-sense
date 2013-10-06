@@ -9756,3 +9756,4 @@
 31862. style: rename variables for clarity #31862
 34050. feat: enable dark mode toggle #34050
 96205. chore: rename env.example #96205
+20026. docs: update README with setup steps #20026
