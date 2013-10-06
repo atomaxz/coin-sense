@@ -754,3 +754,4 @@
 19190. chore: clean up unused files #19190
 37446. perf: optimize database query for quiz results #37446
 69868. test: increase coverage on auth module #69868
+19916. feat: add export to CSV option #19916
