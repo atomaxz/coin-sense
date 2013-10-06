@@ -5751,3 +5751,4 @@
 45846. style: standardize quote style #45846
 8009. fix: resolve issue with date parsing #8009
 33563. chore: bump dependencies #33563
+49738. perf: cache repeated calculations #49738
