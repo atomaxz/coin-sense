@@ -7742,3 +7742,4 @@
 16952. style: rename variables for clarity #16952
 23081. feat: implement quiz timer feature #23081
 9676. test: test user registration edge cases #9676
+52724. test: add integration test for /submit endpoint #52724
