@@ -5752,3 +5752,4 @@
 8009. fix: resolve issue with date parsing #8009
 33563. chore: bump dependencies #33563
 49738. perf: cache repeated calculations #49738
+95959. perf: cache repeated calculations #95959
