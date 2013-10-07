@@ -7743,3 +7743,4 @@
 23081. feat: implement quiz timer feature #23081
 9676. test: test user registration edge cases #9676
 52724. test: add integration test for /submit endpoint #52724
+8579. docs: improve code comments in utils #8579
