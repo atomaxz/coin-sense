@@ -11756,3 +11756,4 @@
 56256. style: standardize quote style #56256
 58362. refactor: clean up auth middleware #58362
 25904. feat: create admin dashboard #25904
+2368. docs: update README with setup steps #2368
