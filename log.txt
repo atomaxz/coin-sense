@@ -10764,3 +10764,4 @@
 77997. feat: create admin dashboard #77997
 25711. chore: clean up unused files #25711
 96721. style: apply consistent indentation #96721
+36604. style: reformat files with black #36604
