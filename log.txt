@@ -9758,3 +9758,4 @@
 96205. chore: rename env.example #96205
 20026. docs: update README with setup steps #20026
 10688. feat: add export to CSV option #10688
+83989. perf: cache repeated calculations #83989
