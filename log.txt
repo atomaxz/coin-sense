@@ -5753,3 +5753,4 @@
 33563. chore: bump dependencies #33563
 49738. perf: cache repeated calculations #49738
 95959. perf: cache repeated calculations #95959
+68483. docs: update README with setup steps #68483
