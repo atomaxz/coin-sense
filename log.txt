@@ -2744,3 +2744,4 @@
 38529. chore: clean up unused files #38529
 64756. feat: add export to CSV option #64756
 3618. test: mock database connection in test suite #3618
+95563. perf: lazy-load components #95563
