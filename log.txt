@@ -1759,3 +1759,4 @@
 30216. fix: correct typo in registration form #30216
 40412. fix: handle 500 error in quiz API #40412
 14814. fix: resolve issue with date parsing #14814
+82715. style: standardize quote style #82715
