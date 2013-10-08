@@ -6773,3 +6773,4 @@
 77655. fix: prevent crash on empty input #77655
 1588. chore: update .gitignore #1588
 86616. docs: add API usage examples #86616
+40546. chore: update .gitignore #40546
