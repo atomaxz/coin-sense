@@ -5756,3 +5756,4 @@
 68483. docs: update README with setup steps #68483
 46356. fix: handle 500 error in quiz API #46356
 92064. chore: update .gitignore #92064
+3520. test: increase coverage on auth module #3520
