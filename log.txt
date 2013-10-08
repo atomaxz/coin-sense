@@ -2746,3 +2746,4 @@
 3618. test: mock database connection in test suite #3618
 95563. perf: lazy-load components #95563
 3268. test: mock database connection in test suite #3268
+21768. docs: improve code comments in utils #21768
