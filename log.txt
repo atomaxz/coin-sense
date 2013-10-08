@@ -5758,3 +5758,4 @@
 92064. chore: update .gitignore #92064
 3520. test: increase coverage on auth module #3520
 24394. style: rename variables for clarity #24394
+1479. fix: prevent crash on empty input #1479
