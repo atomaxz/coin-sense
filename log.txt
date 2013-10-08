@@ -758,3 +758,4 @@
 70439. test: mock database connection in test suite #70439
 14013. test: add unit test for quiz service #14013
 86357. test: test user registration edge cases #86357
+28433. fix: handle 500 error in quiz API #28433
