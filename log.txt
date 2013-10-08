@@ -10767,3 +10767,4 @@
 36604. style: reformat files with black #36604
 36584. fix: correct typo in registration form #36584
 6816. test: test user registration edge cases #6816
+48773. test: test user registration edge cases #48773
