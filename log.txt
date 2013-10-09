@@ -10770,3 +10770,4 @@
 48773. test: test user registration edge cases #48773
 86989. fix: handle 500 error in quiz API #86989
 29401. perf: reduce image load time #29401
+36074. fix: correct typo in registration form #36074
