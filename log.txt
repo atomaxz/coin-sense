@@ -10773,3 +10773,4 @@
 36074. fix: correct typo in registration form #36074
 25662. test: add unit test for quiz service #25662
 16595. chore: clean up unused files #16595
+56580. test: mock database connection in test suite #56580
