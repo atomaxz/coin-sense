@@ -9766,3 +9766,4 @@
 79009. docs: improve code comments in utils #79009
 9888. chore: add GitHub actions badge #9888
 39270. fix: handle 500 error in quiz API #39270
+0168. fix: prevent crash on empty input #168
