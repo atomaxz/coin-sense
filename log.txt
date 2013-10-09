@@ -7747,3 +7747,4 @@
 4894. docs: improve code comments in utils #4894
 91448. feat: add export to CSV option #91448
 46946. docs: improve code comments in utils #46946
+58649. refactor: clean up auth middleware #58649
