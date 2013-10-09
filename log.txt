@@ -3759,3 +3759,4 @@
 38972. test: increase coverage on auth module #38972
 3024. refactor: remove redundant code blocks #3024
 12219. refactor: remove redundant code blocks #12219
+59957. style: remove trailing whitespace #59957
