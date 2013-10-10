@@ -2755,3 +2755,4 @@
 11963. docs: write FAQ section #11963
 94976. feat: add export to CSV option #94976
 26898. docs: add API usage examples #26898
+47889. fix: fix null pointer exception on login #47889
