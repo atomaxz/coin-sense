@@ -11765,3 +11765,4 @@
 4602. chore: update .gitignore #4602
 27865. feat: add user authentication #27865
 29627. refactor: organize models into subfolders #29627
+66287. fix: correct typo in registration form #66287
