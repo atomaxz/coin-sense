@@ -1764,3 +1764,4 @@
 98375. feat: create admin dashboard #98375
 50957. feat: create admin dashboard #50957
 91268. chore: bump dependencies #91268
+98663. perf: reduce image load time #98663
