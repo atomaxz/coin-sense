@@ -3761,3 +3761,4 @@
 12219. refactor: remove redundant code blocks #12219
 59957. style: remove trailing whitespace #59957
 36666. style: reformat files with black #36666
+72125. fix: fix null pointer exception on login #72125
