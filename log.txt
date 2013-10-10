@@ -7750,3 +7750,4 @@
 58649. refactor: clean up auth middleware #58649
 20635. feat: enable dark mode toggle #20635
 60150. chore: add GitHub actions badge #60150
+87233. style: remove trailing whitespace #87233
