@@ -763,3 +763,4 @@
 72849. fix: handle 500 error in quiz API #72849
 48457. fix: prevent crash on empty input #48457
 20517. test: add unit test for quiz service #20517
+91214. style: reformat files with black #91214
