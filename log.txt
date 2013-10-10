@@ -7751,3 +7751,4 @@
 20635. feat: enable dark mode toggle #20635
 60150. chore: add GitHub actions badge #60150
 87233. style: remove trailing whitespace #87233
+94152. fix: fix broken CSS in mobile view #94152
