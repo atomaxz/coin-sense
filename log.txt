@@ -8780,3 +8780,4 @@
 11040. feat: implement quiz timer feature #11040
 81381. chore: bump dependencies #81381
 64899. chore: rename env.example #64899
+55538. feat: add user authentication #55538
