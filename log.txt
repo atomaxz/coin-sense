@@ -2757,3 +2757,4 @@
 26898. docs: add API usage examples #26898
 47889. fix: fix null pointer exception on login #47889
 76228. test: add unit test for quiz service #76228
+83299. style: reformat files with black #83299
