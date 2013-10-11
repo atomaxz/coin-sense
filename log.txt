@@ -3767,3 +3767,4 @@
 70348. chore: add GitHub actions badge #70348
 6492. perf: lazy-load components #6492
 64199. chore: rename env.example #64199
+92139. fix: prevent crash on empty input #92139
