@@ -765,3 +765,4 @@
 20517. test: add unit test for quiz service #20517
 91214. style: reformat files with black #91214
 48275. feat: support email verification #48275
+47026. chore: rename env.example #47026
