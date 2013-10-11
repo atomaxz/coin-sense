@@ -11770,3 +11770,4 @@
 64611. feat: add export to CSV option #64611
 26287. fix: correct typo in registration form #26287
 49716. docs: write FAQ section #49716
+34676. refactor: split large controller into smaller functions #34676
