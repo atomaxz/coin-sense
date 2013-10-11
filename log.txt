@@ -3765,3 +3765,4 @@
 51125. docs: add API usage examples #51125
 64285. fix: resolve issue with date parsing #64285
 70348. chore: add GitHub actions badge #70348
+6492. perf: lazy-load components #6492
