@@ -1770,3 +1770,4 @@
 35932. style: reformat files with black #35932
 3401. docs: document token refresh logic #3401
 93008. test: add unit test for quiz service #93008
+23713. docs: document token refresh logic #23713
