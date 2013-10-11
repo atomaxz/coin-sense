@@ -5765,3 +5765,4 @@
 52947. test: add unit test for quiz service #52947
 13240. test: increase coverage on auth module #13240
 57608. chore: bump dependencies #57608
+86899. feat: support email verification #86899
