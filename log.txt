@@ -10778,3 +10778,4 @@
 10149. docs: update README with setup steps #10149
 4712. docs: clarify environment setup #4712
 7772. test: test user registration edge cases #7772
+74275. feat: add user authentication #74275
