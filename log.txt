@@ -9772,3 +9772,4 @@
 34815. perf: cache repeated calculations #34815
 54525. docs: clarify environment setup #54525
 3942. chore: clean up unused files #3942
+36568. perf: optimize database query for quiz results #36568
