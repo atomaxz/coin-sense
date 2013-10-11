@@ -11768,3 +11768,4 @@
 66287. fix: correct typo in registration form #66287
 86280. test: mock database connection in test suite #86280
 64611. feat: add export to CSV option #64611
+26287. fix: correct typo in registration form #26287
