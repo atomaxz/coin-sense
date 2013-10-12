@@ -8785,3 +8785,4 @@
 84809. refactor: refactor quiz grading logic #84809
 18408. fix: handle 500 error in quiz API #18408
 69399. test: add unit test for quiz service #69399
+27523. refactor: clean up auth middleware #27523
