@@ -10781,3 +10781,4 @@
 74275. feat: add user authentication #74275
 23717. feat: add export to CSV option #23717
 82877. chore: add GitHub actions badge #82877
+57073. refactor: remove redundant code blocks #57073
