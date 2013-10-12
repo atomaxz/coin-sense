@@ -5769,3 +5769,4 @@
 51959. fix: handle 500 error in quiz API #51959
 27827. test: add integration test for /submit endpoint #27827
 99175. style: apply consistent indentation #99175
+43627. refactor: refactor quiz grading logic #43627
