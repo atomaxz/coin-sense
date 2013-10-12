@@ -2764,3 +2764,4 @@
 74129. style: standardize quote style #74129
 8796. docs: write FAQ section #8796
 50087. style: remove trailing whitespace #50087
+25319. test: increase coverage on auth module #25319
