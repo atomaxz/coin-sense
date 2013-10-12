@@ -8784,3 +8784,4 @@
 47256. style: standardize quote style #47256
 84809. refactor: refactor quiz grading logic #84809
 18408. fix: handle 500 error in quiz API #18408
+69399. test: add unit test for quiz service #69399
