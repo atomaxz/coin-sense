@@ -1772,3 +1772,4 @@
 93008. test: add unit test for quiz service #93008
 23713. docs: document token refresh logic #23713
 26291. style: apply consistent indentation #26291
+69174. docs: document token refresh logic #69174
