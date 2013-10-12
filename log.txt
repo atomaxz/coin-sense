@@ -2767,3 +2767,4 @@
 25319. test: increase coverage on auth module #25319
 70863. refactor: refactor quiz grading logic #70863
 1850. test: add integration test for /submit endpoint #1850
+12316. refactor: clean up auth middleware #12316
