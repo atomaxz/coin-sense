@@ -6789,3 +6789,4 @@
 1536. fix: resolve issue with date parsing #1536
 73241. style: standardize quote style #73241
 97572. test: test user registration edge cases #97572
+52534. docs: document token refresh logic #52534
