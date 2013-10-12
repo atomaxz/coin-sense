@@ -2763,3 +2763,4 @@
 29249. docs: add API usage examples #29249
 74129. style: standardize quote style #74129
 8796. docs: write FAQ section #8796
+50087. style: remove trailing whitespace #50087
