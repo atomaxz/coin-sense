@@ -7762,3 +7762,4 @@
 35673. chore: clean up unused files #35673
 26625. style: rename variables for clarity #26625
 76780. chore: add GitHub actions badge #76780
+18066. docs: document token refresh logic #18066
