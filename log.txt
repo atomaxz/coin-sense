@@ -5766,3 +5766,4 @@
 13240. test: increase coverage on auth module #13240
 57608. chore: bump dependencies #57608
 86899. feat: support email verification #86899
+51959. fix: handle 500 error in quiz API #51959
