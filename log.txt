@@ -5767,3 +5767,4 @@
 57608. chore: bump dependencies #57608
 86899. feat: support email verification #86899
 51959. fix: handle 500 error in quiz API #51959
+27827. test: add integration test for /submit endpoint #27827
