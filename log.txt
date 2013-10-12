@@ -11772,3 +11772,4 @@
 49716. docs: write FAQ section #49716
 34676. refactor: split large controller into smaller functions #34676
 54461. refactor: organize models into subfolders #54461
+99452. fix: handle 500 error in quiz API #99452
