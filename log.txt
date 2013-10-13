@@ -1778,3 +1778,4 @@
 62290. feat: support email verification #62290
 94187. style: remove trailing whitespace #94187
 66625. fix: fix null pointer exception on login #66625
+33502. refactor: clean up auth middleware #33502
