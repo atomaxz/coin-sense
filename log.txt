@@ -2769,3 +2769,4 @@
 1850. test: add integration test for /submit endpoint #1850
 12316. refactor: clean up auth middleware #12316
 36631. chore: bump dependencies #36631
+79400. fix: fix null pointer exception on login #79400
