@@ -5775,3 +5775,4 @@
 74621. style: apply consistent indentation #74621
 27938. docs: add API usage examples #27938
 3402. refactor: organize models into subfolders #3402
+93908. fix: prevent crash on empty input #93908
