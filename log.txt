@@ -4791,3 +4791,4 @@
 10886. docs: add API usage examples #10886
 70644. perf: optimize database query for quiz results #70644
 83557. style: apply consistent indentation #83557
+93789. perf: optimize database query for quiz results #93789
