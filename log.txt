@@ -7766,3 +7766,4 @@
 40387. refactor: organize models into subfolders #40387
 52874. docs: update README with setup steps #52874
 4571. feat: add export to CSV option #4571
+64046. docs: clarify environment setup #64046
