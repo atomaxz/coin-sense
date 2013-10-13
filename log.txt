@@ -11774,3 +11774,4 @@
 54461. refactor: organize models into subfolders #54461
 99452. fix: handle 500 error in quiz API #99452
 34781. style: remove trailing whitespace #34781
+59218. refactor: clean up auth middleware #59218
