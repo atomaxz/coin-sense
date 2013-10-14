@@ -770,3 +770,4 @@
 11343. feat: implement quiz timer feature #11343
 31422. chore: bump dependencies #31422
 2562. perf: optimize database query for quiz results #2562
+56827. docs: update README with setup steps #56827
