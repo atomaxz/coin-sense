@@ -7768,3 +7768,4 @@
 4571. feat: add export to CSV option #4571
 64046. docs: clarify environment setup #64046
 46949. test: increase coverage on auth module #46949
+28084. fix: fix broken CSS in mobile view #28084
