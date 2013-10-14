@@ -9783,3 +9783,4 @@
 76936. perf: optimize database query for quiz results #76936
 39788. perf: optimize database query for quiz results #39788
 67939. test: test user registration edge cases #67939
+66819. fix: prevent crash on empty input #66819
