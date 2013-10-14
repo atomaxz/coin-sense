@@ -10784,3 +10784,4 @@
 57073. refactor: remove redundant code blocks #57073
 27678. perf: reduce image load time #27678
 86964. fix: fix broken CSS in mobile view #86964
+66659. style: reformat files with black #66659
