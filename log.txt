@@ -3773,3 +3773,4 @@
 53907. style: remove trailing whitespace #53907
 18488. style: remove trailing whitespace #18488
 0685. fix: prevent crash on empty input #685
+20489. test: add integration test for /submit endpoint #20489
