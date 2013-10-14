@@ -1782,3 +1782,4 @@
 30611. docs: write FAQ section #30611
 84831. test: increase coverage on auth module #84831
 67744. refactor: clean up auth middleware #67744
+52397. test: add unit test for quiz service #52397
