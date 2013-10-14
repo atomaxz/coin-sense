@@ -10782,3 +10782,4 @@
 23717. feat: add export to CSV option #23717
 82877. chore: add GitHub actions badge #82877
 57073. refactor: remove redundant code blocks #57073
+27678. perf: reduce image load time #27678
