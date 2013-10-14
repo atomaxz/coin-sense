@@ -1780,3 +1780,4 @@
 66625. fix: fix null pointer exception on login #66625
 33502. refactor: clean up auth middleware #33502
 30611. docs: write FAQ section #30611
+84831. test: increase coverage on auth module #84831
