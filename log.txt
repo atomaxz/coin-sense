@@ -1781,3 +1781,4 @@
 33502. refactor: clean up auth middleware #33502
 30611. docs: write FAQ section #30611
 84831. test: increase coverage on auth module #84831
+67744. refactor: clean up auth middleware #67744
