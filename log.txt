@@ -771,3 +771,4 @@
 31422. chore: bump dependencies #31422
 2562. perf: optimize database query for quiz results #2562
 56827. docs: update README with setup steps #56827
+79631. style: apply consistent indentation #79631
