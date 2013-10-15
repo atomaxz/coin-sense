@@ -6796,3 +6796,4 @@
 44013. chore: bump dependencies #44013
 46528. feat: support email verification #46528
 41556. style: standardize quote style #41556
+21849. test: increase coverage on auth module #21849
