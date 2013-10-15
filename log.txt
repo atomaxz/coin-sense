@@ -7770,3 +7770,4 @@
 46949. test: increase coverage on auth module #46949
 28084. fix: fix broken CSS in mobile view #28084
 13319. feat: support email verification #13319
+38066. feat: support email verification #38066
