@@ -6794,3 +6794,4 @@
 79430. style: rename variables for clarity #79430
 91307. style: standardize quote style #91307
 44013. chore: bump dependencies #44013
+46528. feat: support email verification #46528
