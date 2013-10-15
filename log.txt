@@ -779,3 +779,4 @@
 66079. style: rename variables for clarity #66079
 88400. test: mock database connection in test suite #88400
 99977. chore: rename env.example #99977
+1112. test: add unit test for quiz service #1112
