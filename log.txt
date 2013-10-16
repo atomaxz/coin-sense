@@ -5783,3 +5783,4 @@
 50745. feat: create admin dashboard #50745
 91299. style: standardize quote style #91299
 79792. chore: bump dependencies #79792
+20376. fix: fix broken CSS in mobile view #20376
