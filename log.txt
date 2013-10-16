@@ -8790,3 +8790,4 @@
 55588. style: standardize quote style #55588
 76235. chore: bump dependencies #76235
 35727. perf: cache repeated calculations #35727
+6749. style: apply consistent indentation #6749
