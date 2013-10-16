@@ -7772,3 +7772,4 @@
 13319. feat: support email verification #13319
 38066. feat: support email verification #38066
 89659. docs: add API usage examples #89659
+76513. fix: fix null pointer exception on login #76513
