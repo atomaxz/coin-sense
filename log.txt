@@ -3776,3 +3776,4 @@
 20489. test: add integration test for /submit endpoint #20489
 69866. perf: reduce image load time #69866
 45095. perf: lazy-load components #45095
+77908. test: test user registration edge cases #77908
