@@ -5782,3 +5782,4 @@
 15237. chore: bump dependencies #15237
 50745. feat: create admin dashboard #50745
 91299. style: standardize quote style #91299
+79792. chore: bump dependencies #79792
