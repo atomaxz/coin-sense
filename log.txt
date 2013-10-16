@@ -3775,3 +3775,4 @@
 0685. fix: prevent crash on empty input #685
 20489. test: add integration test for /submit endpoint #20489
 69866. perf: reduce image load time #69866
+45095. perf: lazy-load components #45095
