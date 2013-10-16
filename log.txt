@@ -3777,3 +3777,4 @@
 69866. perf: reduce image load time #69866
 45095. perf: lazy-load components #45095
 77908. test: test user registration edge cases #77908
+36397. chore: rename env.example #36397
