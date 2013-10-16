@@ -7776,3 +7776,4 @@
 41585. perf: cache repeated calculations #41585
 22264. fix: fix null pointer exception on login #22264
 83572. perf: lazy-load components #83572
+57251. test: add unit test for quiz service #57251
