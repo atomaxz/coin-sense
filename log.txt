@@ -7773,3 +7773,4 @@
 38066. feat: support email verification #38066
 89659. docs: add API usage examples #89659
 76513. fix: fix null pointer exception on login #76513
+41585. perf: cache repeated calculations #41585
