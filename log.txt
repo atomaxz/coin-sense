@@ -1789,3 +1789,4 @@
 73142. fix: resolve issue with date parsing #73142
 76515. fix: resolve issue with date parsing #76515
 87851. perf: optimize database query for quiz results #87851
+45428. test: mock database connection in test suite #45428
