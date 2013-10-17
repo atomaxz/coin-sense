@@ -8792,3 +8792,4 @@
 35727. perf: cache repeated calculations #35727
 6749. style: apply consistent indentation #6749
 86536. docs: document token refresh logic #86536
+73950. refactor: split large controller into smaller functions #73950
