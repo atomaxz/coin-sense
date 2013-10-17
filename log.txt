@@ -11785,3 +11785,4 @@
 45912. fix: handle 500 error in quiz API #45912
 95226. docs: document token refresh logic #95226
 88251. refactor: split large controller into smaller functions #88251
+96359. perf: lazy-load components #96359
