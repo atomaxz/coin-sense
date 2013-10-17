@@ -11787,3 +11787,4 @@
 88251. refactor: split large controller into smaller functions #88251
 96359. perf: lazy-load components #96359
 99369. style: apply consistent indentation #99369
+64391. refactor: clean up auth middleware #64391
