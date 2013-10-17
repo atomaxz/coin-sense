@@ -2779,3 +2779,4 @@
 40987. chore: clean up unused files #40987
 73916. refactor: refactor quiz grading logic #73916
 43120. test: add integration test for /submit endpoint #43120
+72063. fix: handle 500 error in quiz API #72063
