@@ -2782,3 +2782,4 @@
 72063. fix: handle 500 error in quiz API #72063
 83632. docs: add API usage examples #83632
 20958. chore: update .gitignore #20958
+80297. fix: fix broken CSS in mobile view #80297
