@@ -3780,3 +3780,4 @@
 36397. chore: rename env.example #36397
 40639. test: add unit test for quiz service #40639
 99812. fix: resolve issue with date parsing #99812
+41949. test: mock database connection in test suite #41949
