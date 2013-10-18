@@ -2785,3 +2785,4 @@
 80297. fix: fix broken CSS in mobile view #80297
 49899. feat: add export to CSV option #49899
 71353. perf: lazy-load components #71353
+75979. chore: update .gitignore #75979
