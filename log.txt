@@ -4806,3 +4806,4 @@
 89040. refactor: split large controller into smaller functions #89040
 47276. perf: reduce image load time #47276
 41456. test: add integration test for /submit endpoint #41456
+70151. chore: add GitHub actions badge #70151
