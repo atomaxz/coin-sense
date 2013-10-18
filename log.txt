@@ -6805,3 +6805,4 @@
 5526. feat: support email verification #5526
 98917. perf: lazy-load components #98917
 86208. chore: rename env.example #86208
+38261. fix: handle 500 error in quiz API #38261
