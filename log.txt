@@ -6804,3 +6804,4 @@
 25304. fix: resolve issue with date parsing #25304
 5526. feat: support email verification #5526
 98917. perf: lazy-load components #98917
+86208. chore: rename env.example #86208
