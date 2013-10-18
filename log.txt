@@ -7783,3 +7783,4 @@
 80005. docs: clarify environment setup #80005
 98518. test: add integration test for /submit endpoint #98518
 90133. style: remove trailing whitespace #90133
+79674. docs: document token refresh logic #79674
