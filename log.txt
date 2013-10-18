@@ -9791,3 +9791,4 @@
 28012. fix: fix broken CSS in mobile view #28012
 61424. feat: create admin dashboard #61424
 41524. chore: rename env.example #41524
+31409. perf: reduce image load time #31409
