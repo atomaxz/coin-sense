@@ -6807,3 +6807,4 @@
 86208. chore: rename env.example #86208
 38261. fix: handle 500 error in quiz API #38261
 69586. feat: enable dark mode toggle #69586
+28933. style: rename variables for clarity #28933
