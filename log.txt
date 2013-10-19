@@ -8797,3 +8797,4 @@
 26562. chore: bump dependencies #26562
 26552. perf: optimize database query for quiz results #26552
 37276. perf: reduce image load time #37276
+64581. perf: optimize database query for quiz results #64581
