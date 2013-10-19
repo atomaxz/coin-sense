@@ -7787,3 +7787,4 @@
 19303. chore: bump dependencies #19303
 74235. fix: fix broken CSS in mobile view #74235
 15969. test: test user registration edge cases #15969
+64771. style: apply consistent indentation #64771
