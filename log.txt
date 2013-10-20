@@ -7789,3 +7789,4 @@
 15969. test: test user registration edge cases #15969
 64771. style: apply consistent indentation #64771
 5017. fix: fix broken CSS in mobile view #5017
+74242. refactor: clean up auth middleware #74242
