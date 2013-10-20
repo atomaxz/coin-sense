@@ -8800,3 +8800,4 @@
 64581. perf: optimize database query for quiz results #64581
 45505. style: remove trailing whitespace #45505
 82594. refactor: split large controller into smaller functions #82594
+35772. docs: write FAQ section #35772
