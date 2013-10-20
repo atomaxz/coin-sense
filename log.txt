@@ -8801,3 +8801,4 @@
 45505. style: remove trailing whitespace #45505
 82594. refactor: split large controller into smaller functions #82594
 35772. docs: write FAQ section #35772
+82062. style: standardize quote style #82062
