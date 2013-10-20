@@ -2789,3 +2789,4 @@
 29811. perf: optimize database query for quiz results #29811
 48117. test: mock database connection in test suite #48117
 88536. fix: fix broken CSS in mobile view #88536
+59531. feat: enable dark mode toggle #59531
