@@ -4814,3 +4814,4 @@
 98997. refactor: organize models into subfolders #98997
 56674. test: add unit test for quiz service #56674
 52844. feat: support email verification #52844
+35497. refactor: remove redundant code blocks #35497
