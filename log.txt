@@ -2794,3 +2794,4 @@
 0983. chore: rename env.example #983
 75088. feat: create admin dashboard #75088
 16814. test: test user registration edge cases #16814
+62938. fix: correct typo in registration form #62938
