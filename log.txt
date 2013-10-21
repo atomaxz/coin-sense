@@ -7790,3 +7790,4 @@
 64771. style: apply consistent indentation #64771
 5017. fix: fix broken CSS in mobile view #5017
 74242. refactor: clean up auth middleware #74242
+95687. feat: add user authentication #95687
