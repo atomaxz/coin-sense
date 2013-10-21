@@ -796,3 +796,4 @@
 52345. feat: create admin dashboard #52345
 11408. refactor: split large controller into smaller functions #11408
 79963. docs: update README with setup steps #79963
+68858. fix: handle 500 error in quiz API #68858
