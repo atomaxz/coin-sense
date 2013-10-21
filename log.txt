@@ -9801,3 +9801,4 @@
 85840. feat: support email verification #85840
 43209. docs: document token refresh logic #43209
 13771. fix: prevent crash on empty input #13771
+72614. fix: fix broken CSS in mobile view #72614
