@@ -2797,3 +2797,4 @@
 62938. fix: correct typo in registration form #62938
 8374. chore: bump dependencies #8374
 45333. refactor: refactor quiz grading logic #45333
+12650. test: add integration test for /submit endpoint #12650
