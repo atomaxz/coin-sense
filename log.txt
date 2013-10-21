@@ -1795,3 +1795,4 @@
 48484. refactor: refactor quiz grading logic #48484
 12301. feat: add user authentication #12301
 71564. chore: bump dependencies #71564
+2574. perf: lazy-load components #2574
