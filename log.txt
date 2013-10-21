@@ -8805,3 +8805,4 @@
 65348. test: add integration test for /submit endpoint #65348
 17225. test: add integration test for /submit endpoint #17225
 93380. docs: write FAQ section #93380
+51326. test: test user registration edge cases #51326
