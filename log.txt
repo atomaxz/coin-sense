@@ -9800,3 +9800,4 @@
 30732. chore: bump dependencies #30732
 85840. feat: support email verification #85840
 43209. docs: document token refresh logic #43209
+13771. fix: prevent crash on empty input #13771
