@@ -6814,3 +6814,4 @@
 2786. refactor: clean up auth middleware #2786
 21570. perf: reduce image load time #21570
 44948. chore: bump dependencies #44948
+85129. style: apply consistent indentation #85129
