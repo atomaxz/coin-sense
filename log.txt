@@ -6817,3 +6817,4 @@
 85129. style: apply consistent indentation #85129
 81752. fix: correct typo in registration form #81752
 14116. fix: fix null pointer exception on login #14116
+81798. feat: support email verification #81798
