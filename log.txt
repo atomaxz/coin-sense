@@ -793,3 +793,4 @@
 25743. refactor: clean up auth middleware #25743
 18387. chore: add GitHub actions badge #18387
 35208. style: remove trailing whitespace #35208
+52345. feat: create admin dashboard #52345
