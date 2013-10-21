@@ -6816,3 +6816,4 @@
 44948. chore: bump dependencies #44948
 85129. style: apply consistent indentation #85129
 81752. fix: correct typo in registration form #81752
+14116. fix: fix null pointer exception on login #14116
