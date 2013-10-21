@@ -7791,3 +7791,4 @@
 5017. fix: fix broken CSS in mobile view #5017
 74242. refactor: clean up auth middleware #74242
 95687. feat: add user authentication #95687
+68596. fix: fix null pointer exception on login #68596
