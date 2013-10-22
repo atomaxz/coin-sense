@@ -7794,3 +7794,4 @@
 68596. fix: fix null pointer exception on login #68596
 23261. docs: clarify environment setup #23261
 45114. chore: update .gitignore #45114
+27390. chore: rename env.example #27390
