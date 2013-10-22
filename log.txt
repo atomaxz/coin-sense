@@ -5801,3 +5801,4 @@
 79115. style: standardize quote style #79115
 79865. chore: clean up unused files #79865
 6827. perf: cache repeated calculations #6827
+11385. refactor: clean up auth middleware #11385
