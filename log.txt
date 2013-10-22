@@ -10797,3 +10797,4 @@
 54944. feat: add export to CSV option #54944
 48510. test: add integration test for /submit endpoint #48510
 46654. chore: bump dependencies #46654
+66480. fix: fix broken CSS in mobile view #66480
