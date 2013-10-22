@@ -3792,3 +3792,4 @@
 89687. feat: enable dark mode toggle #89687
 73754. fix: resolve issue with date parsing #73754
 59660. docs: improve code comments in utils #59660
+46695. docs: update README with setup steps #46695
