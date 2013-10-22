@@ -6821,3 +6821,4 @@
 64553. feat: add export to CSV option #64553
 95870. perf: lazy-load components #95870
 70335. feat: support email verification #70335
+37599. fix: prevent crash on empty input #37599
