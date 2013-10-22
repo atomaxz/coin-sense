@@ -6820,3 +6820,4 @@
 81798. feat: support email verification #81798
 64553. feat: add export to CSV option #64553
 95870. perf: lazy-load components #95870
+70335. feat: support email verification #70335
