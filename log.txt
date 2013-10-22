@@ -7793,3 +7793,4 @@
 95687. feat: add user authentication #95687
 68596. fix: fix null pointer exception on login #68596
 23261. docs: clarify environment setup #23261
+45114. chore: update .gitignore #45114
