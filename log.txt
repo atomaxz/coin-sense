@@ -800,3 +800,4 @@
 97421. chore: clean up unused files #97421
 25503. style: standardize quote style #25503
 85798. feat: support email verification #85798
+72615. fix: prevent crash on empty input #72615
