@@ -1800,3 +1800,4 @@
 71174. docs: write FAQ section #71174
 64613. refactor: remove redundant code blocks #64613
 51463. test: mock database connection in test suite #51463
+83363. docs: add API usage examples #83363
