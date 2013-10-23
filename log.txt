@@ -11803,3 +11803,4 @@
 91086. refactor: clean up auth middleware #91086
 20898. feat: add export to CSV option #20898
 59509. refactor: organize models into subfolders #59509
+68855. test: mock database connection in test suite #68855
