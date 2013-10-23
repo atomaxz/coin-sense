@@ -5805,3 +5805,4 @@
 6288. feat: add export to CSV option #6288
 64927. feat: add user authentication #64927
 28753. test: test user registration edge cases #28753
+1902. style: apply consistent indentation #1902
