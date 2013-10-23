@@ -801,3 +801,4 @@
 25503. style: standardize quote style #25503
 85798. feat: support email verification #85798
 72615. fix: prevent crash on empty input #72615
+19493. feat: enable dark mode toggle #19493
