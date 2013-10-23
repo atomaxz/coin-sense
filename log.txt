@@ -5804,3 +5804,4 @@
 11385. refactor: clean up auth middleware #11385
 6288. feat: add export to CSV option #6288
 64927. feat: add user authentication #64927
+28753. test: test user registration edge cases #28753
