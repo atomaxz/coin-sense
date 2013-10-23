@@ -11807,3 +11807,4 @@
 97165. style: standardize quote style #97165
 81375. test: test user registration edge cases #81375
 21060. style: reformat files with black #21060
+53419. refactor: clean up auth middleware #53419
