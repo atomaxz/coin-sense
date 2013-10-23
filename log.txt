@@ -3796,3 +3796,4 @@
 72740. style: rename variables for clarity #72740
 33048. style: remove trailing whitespace #33048
 92084. docs: add API usage examples #92084
+60105. docs: update README with setup steps #60105
