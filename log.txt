@@ -3798,3 +3798,4 @@
 92084. docs: add API usage examples #92084
 60105. docs: update README with setup steps #60105
 81906. fix: resolve issue with date parsing #81906
+24699. feat: enable dark mode toggle #24699
