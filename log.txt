@@ -6825,3 +6825,4 @@
 88997. perf: reduce image load time #88997
 74742. refactor: clean up auth middleware #74742
 68597. perf: lazy-load components #68597
+19631. fix: prevent crash on empty input #19631
