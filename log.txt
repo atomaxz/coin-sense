@@ -7799,3 +7799,4 @@
 2879. perf: reduce image load time #2879
 13667. chore: rename env.example #13667
 14863. style: apply consistent indentation #14863
+76691. style: remove trailing whitespace #76691
