@@ -8810,3 +8810,4 @@
 96093. fix: fix null pointer exception on login #96093
 88065. feat: add export to CSV option #88065
 93686. refactor: refactor quiz grading logic #93686
+1576. fix: handle 500 error in quiz API #1576
