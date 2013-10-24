@@ -1803,3 +1803,4 @@
 83363. docs: add API usage examples #83363
 80608. feat: support email verification #80608
 15931. test: add integration test for /submit endpoint #15931
+20936. chore: bump dependencies #20936
