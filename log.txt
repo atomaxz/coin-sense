@@ -10801,3 +10801,4 @@
 19205. chore: add GitHub actions badge #19205
 17677. perf: lazy-load components #17677
 65063. fix: prevent crash on empty input #65063
+84004. perf: reduce image load time #84004
