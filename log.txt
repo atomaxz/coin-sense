@@ -2809,3 +2809,4 @@
 99368. style: remove trailing whitespace #99368
 25775. style: reformat files with black #25775
 99779. docs: write FAQ section #99779
+85888. test: add integration test for /submit endpoint #85888
