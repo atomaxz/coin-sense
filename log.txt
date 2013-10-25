@@ -3802,3 +3802,4 @@
 45672. chore: add GitHub actions badge #45672
 21276. docs: improve code comments in utils #21276
 47350. style: apply consistent indentation #47350
+95357. refactor: clean up auth middleware #95357
