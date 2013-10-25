@@ -2806,3 +2806,4 @@
 35216. refactor: clean up auth middleware #35216
 32019. feat: add user authentication #32019
 30902. refactor: split large controller into smaller functions #30902
+99368. style: remove trailing whitespace #99368
