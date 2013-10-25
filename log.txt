@@ -2807,3 +2807,4 @@
 32019. feat: add user authentication #32019
 30902. refactor: split large controller into smaller functions #30902
 99368. style: remove trailing whitespace #99368
+25775. style: reformat files with black #25775
