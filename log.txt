@@ -9812,3 +9812,4 @@
 92761. feat: add user authentication #92761
 44610. perf: reduce image load time #44610
 30052. feat: add export to CSV option #30052
+9932. chore: add GitHub actions badge #9932
