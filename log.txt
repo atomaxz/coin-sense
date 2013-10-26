@@ -8816,3 +8816,4 @@
 17216. chore: rename env.example #17216
 11736. chore: update .gitignore #11736
 59465. fix: prevent crash on empty input #59465
+21334. test: add integration test for /submit endpoint #21334
