@@ -807,3 +807,4 @@
 34229. refactor: refactor quiz grading logic #34229
 10786. fix: fix broken CSS in mobile view #10786
 8233. style: reformat files with black #8233
+86113. refactor: remove redundant code blocks #86113
