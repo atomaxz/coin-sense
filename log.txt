@@ -1808,3 +1808,4 @@
 96226. test: test user registration edge cases #96226
 50850. chore: update .gitignore #50850
 0864. test: add unit test for quiz service #864
+69380. perf: lazy-load components #69380
