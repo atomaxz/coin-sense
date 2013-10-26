@@ -4828,3 +4828,4 @@
 34808. refactor: split large controller into smaller functions #34808
 34769. test: mock database connection in test suite #34769
 86262. perf: reduce image load time #86262
+91079. perf: lazy-load components #91079
