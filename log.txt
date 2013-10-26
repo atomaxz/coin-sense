@@ -10806,3 +10806,4 @@
 18980. feat: add user authentication #18980
 75942. feat: create admin dashboard #75942
 34258. perf: cache repeated calculations #34258
+5250. feat: enable dark mode toggle #5250
