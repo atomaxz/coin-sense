@@ -8815,3 +8815,4 @@
 47360. fix: fix null pointer exception on login #47360
 17216. chore: rename env.example #17216
 11736. chore: update .gitignore #11736
+59465. fix: prevent crash on empty input #59465
