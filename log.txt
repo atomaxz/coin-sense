@@ -5809,3 +5809,4 @@
 70720. fix: handle 500 error in quiz API #70720
 22918. test: test user registration edge cases #22918
 63928. refactor: split large controller into smaller functions #63928
+2306. style: reformat files with black #2306
