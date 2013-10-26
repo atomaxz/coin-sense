@@ -7805,3 +7805,4 @@
 15188. docs: add API usage examples #15188
 99297. chore: bump dependencies #99297
 83671. perf: cache repeated calculations #83671
+96120. fix: fix broken CSS in mobile view #96120
