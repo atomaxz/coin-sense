@@ -805,3 +805,4 @@
 88952. refactor: remove redundant code blocks #88952
 84077. refactor: remove redundant code blocks #84077
 34229. refactor: refactor quiz grading logic #34229
+10786. fix: fix broken CSS in mobile view #10786
