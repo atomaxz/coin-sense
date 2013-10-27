@@ -810,3 +810,4 @@
 86113. refactor: remove redundant code blocks #86113
 28131. refactor: organize models into subfolders #28131
 22842. test: add integration test for /submit endpoint #22842
+66662. chore: add GitHub actions badge #66662
