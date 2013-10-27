@@ -6835,3 +6835,4 @@
 84404. feat: implement quiz timer feature #84404
 4713. docs: document token refresh logic #4713
 4248. fix: prevent crash on empty input #4248
+19364. fix: fix broken CSS in mobile view #19364
