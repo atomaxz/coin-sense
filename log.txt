@@ -5813,3 +5813,4 @@
 41500. test: increase coverage on auth module #41500
 85438. chore: clean up unused files #85438
 41694. docs: add API usage examples #41694
+56034. chore: add GitHub actions badge #56034
