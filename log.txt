@@ -11814,3 +11814,4 @@
 19768. fix: prevent crash on empty input #19768
 2048. style: apply consistent indentation #2048
 89593. docs: document token refresh logic #89593
+92436. style: reformat files with black #92436
