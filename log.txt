@@ -8819,3 +8819,4 @@
 21334. test: add integration test for /submit endpoint #21334
 50510. refactor: refactor quiz grading logic #50510
 38512. perf: lazy-load components #38512
+53992. feat: support email verification #53992
