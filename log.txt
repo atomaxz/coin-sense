@@ -2812,3 +2812,4 @@
 85888. test: add integration test for /submit endpoint #85888
 32949. style: rename variables for clarity #32949
 11411. feat: support email verification #11411
+68706. test: mock database connection in test suite #68706
