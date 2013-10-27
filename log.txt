@@ -2811,3 +2811,4 @@
 99779. docs: write FAQ section #99779
 85888. test: add integration test for /submit endpoint #85888
 32949. style: rename variables for clarity #32949
+11411. feat: support email verification #11411
