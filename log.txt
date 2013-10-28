@@ -9816,3 +9816,4 @@
 91720. style: remove trailing whitespace #91720
 89312. style: apply consistent indentation #89312
 72676. fix: fix broken CSS in mobile view #72676
+6010. refactor: split large controller into smaller functions #6010
