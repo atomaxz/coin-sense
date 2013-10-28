@@ -815,3 +815,4 @@
 88351. feat: support email verification #88351
 10027. feat: create admin dashboard #10027
 49665. feat: create admin dashboard #49665
+21416. perf: optimize database query for quiz results #21416
