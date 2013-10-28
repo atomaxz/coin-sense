@@ -7811,3 +7811,4 @@
 94194. test: add unit test for quiz service #94194
 63242. feat: implement quiz timer feature #63242
 27302. perf: cache repeated calculations #27302
+50448. fix: handle 500 error in quiz API #50448
