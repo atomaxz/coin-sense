@@ -10812,3 +10812,4 @@
 5792. style: rename variables for clarity #5792
 67529. fix: prevent crash on empty input #67529
 77190. perf: cache repeated calculations #77190
+38915. chore: bump dependencies #38915
