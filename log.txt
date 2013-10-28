@@ -2814,3 +2814,4 @@
 11411. feat: support email verification #11411
 68706. test: mock database connection in test suite #68706
 51546. style: standardize quote style #51546
+47011. style: reformat files with black #47011
