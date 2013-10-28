@@ -816,3 +816,4 @@
 10027. feat: create admin dashboard #10027
 49665. feat: create admin dashboard #49665
 21416. perf: optimize database query for quiz results #21416
+12893. docs: write FAQ section #12893
