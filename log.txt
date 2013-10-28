@@ -11816,3 +11816,4 @@
 89593. docs: document token refresh logic #89593
 92436. style: reformat files with black #92436
 87040. chore: rename env.example #87040
+45178. fix: handle 500 error in quiz API #45178
