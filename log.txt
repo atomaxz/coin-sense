@@ -2819,3 +2819,4 @@
 8656. fix: resolve issue with date parsing #8656
 4884. docs: add API usage examples #4884
 1053. perf: optimize database query for quiz results #1053
+49050. docs: write FAQ section #49050
