@@ -3809,3 +3809,4 @@
 85278. fix: resolve issue with date parsing #85278
 0570. feat: support email verification #570
 48709. perf: lazy-load components #48709
+15349. feat: support email verification #15349
