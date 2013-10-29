@@ -1815,3 +1815,4 @@
 20412. style: apply consistent indentation #20412
 7195. fix: resolve issue with date parsing #7195
 6716. refactor: organize models into subfolders #6716
+62525. fix: prevent crash on empty input #62525
