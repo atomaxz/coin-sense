@@ -11819,3 +11819,4 @@
 45178. fix: handle 500 error in quiz API #45178
 85385. docs: improve code comments in utils #85385
 28987. docs: clarify environment setup #28987
+34922. perf: optimize database query for quiz results #34922
