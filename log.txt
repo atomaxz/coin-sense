@@ -5818,3 +5818,4 @@
 60260. chore: clean up unused files #60260
 14208. feat: implement quiz timer feature #14208
 63872. chore: clean up unused files #63872
+27452. feat: support email verification #27452
