@@ -8823,3 +8823,4 @@
 28864. feat: support email verification #28864
 85554. fix: prevent crash on empty input #85554
 82638. style: reformat files with black #82638
+88328. test: add integration test for /submit endpoint #88328
