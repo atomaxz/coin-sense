@@ -1816,3 +1816,4 @@
 7195. fix: resolve issue with date parsing #7195
 6716. refactor: organize models into subfolders #6716
 62525. fix: prevent crash on empty input #62525
+57927. style: remove trailing whitespace #57927
