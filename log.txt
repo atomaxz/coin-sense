@@ -5820,3 +5820,4 @@
 63872. chore: clean up unused files #63872
 27452. feat: support email verification #27452
 30180. style: remove trailing whitespace #30180
+1195. refactor: clean up auth middleware #1195
