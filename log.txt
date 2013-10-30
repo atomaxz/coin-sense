@@ -8824,3 +8824,4 @@
 85554. fix: prevent crash on empty input #85554
 82638. style: reformat files with black #82638
 88328. test: add integration test for /submit endpoint #88328
+76576. fix: handle 500 error in quiz API #76576
