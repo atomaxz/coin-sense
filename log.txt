@@ -1820,3 +1820,4 @@
 32119. perf: reduce image load time #32119
 67535. test: test user registration edge cases #67535
 76275. docs: add API usage examples #76275
+64877. perf: reduce image load time #64877
