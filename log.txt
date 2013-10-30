@@ -4835,3 +4835,4 @@
 7318. refactor: clean up auth middleware #7318
 61935. style: apply consistent indentation #61935
 72757. test: add unit test for quiz service #72757
+41375. fix: fix broken CSS in mobile view #41375
