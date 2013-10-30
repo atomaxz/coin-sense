@@ -7817,3 +7817,4 @@
 96208. docs: add API usage examples #96208
 32981. refactor: clean up auth middleware #32981
 1845. refactor: clean up auth middleware #1845
+61187. perf: lazy-load components #61187
