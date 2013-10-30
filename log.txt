@@ -6842,3 +6842,4 @@
 15186. refactor: refactor quiz grading logic #15186
 12558. test: add unit test for quiz service #12558
 24448. docs: update README with setup steps #24448
+2422. test: mock database connection in test suite #2422
