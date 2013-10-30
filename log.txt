@@ -9823,3 +9823,4 @@
 99857. test: mock database connection in test suite #99857
 60152. refactor: clean up auth middleware #60152
 73056. chore: bump dependencies #73056
+27743. fix: fix broken CSS in mobile view #27743
