@@ -3817,3 +3817,4 @@
 85387. docs: add API usage examples #85387
 67953. chore: bump dependencies #67953
 0756. style: rename variables for clarity #756
+16663. test: mock database connection in test suite #16663
