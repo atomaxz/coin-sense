@@ -1817,3 +1817,4 @@
 6716. refactor: organize models into subfolders #6716
 62525. fix: prevent crash on empty input #62525
 57927. style: remove trailing whitespace #57927
+32119. perf: reduce image load time #32119
