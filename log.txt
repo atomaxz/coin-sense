@@ -4834,3 +4834,4 @@
 73543. docs: clarify environment setup #73543
 7318. refactor: clean up auth middleware #7318
 61935. style: apply consistent indentation #61935
+72757. test: add unit test for quiz service #72757
