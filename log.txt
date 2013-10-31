@@ -11824,3 +11824,4 @@
 39018. chore: add GitHub actions badge #39018
 20080. feat: add export to CSV option #20080
 48983. style: reformat files with black #48983
+63991. feat: support email verification #63991
