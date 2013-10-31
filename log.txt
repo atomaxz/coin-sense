@@ -4837,3 +4837,4 @@
 72757. test: add unit test for quiz service #72757
 41375. fix: fix broken CSS in mobile view #41375
 89468. perf: cache repeated calculations #89468
+74171. fix: fix null pointer exception on login #74171
