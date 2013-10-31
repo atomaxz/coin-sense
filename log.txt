@@ -9825,3 +9825,4 @@
 73056. chore: bump dependencies #73056
 27743. fix: fix broken CSS in mobile view #27743
 93712. test: mock database connection in test suite #93712
+25886. feat: enable dark mode toggle #25886
