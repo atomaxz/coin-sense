@@ -2823,3 +2823,4 @@
 70647. perf: reduce image load time #70647
 55103. test: mock database connection in test suite #55103
 0820. style: apply consistent indentation #820
+40421. perf: lazy-load components #40421
