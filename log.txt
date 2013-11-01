@@ -7820,3 +7820,4 @@
 61187. perf: lazy-load components #61187
 35087. feat: support email verification #35087
 63686. refactor: remove redundant code blocks #63686
+70669. fix: handle 500 error in quiz API #70669
