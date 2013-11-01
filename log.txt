@@ -2829,3 +2829,4 @@
 78131. feat: add export to CSV option #78131
 7330. refactor: organize models into subfolders #7330
 50881. chore: clean up unused files #50881
+82245. perf: optimize database query for quiz results #82245
