@@ -10820,3 +10820,4 @@
 85771. docs: update README with setup steps #85771
 65391. test: add unit test for quiz service #65391
 41358. style: reformat files with black #41358
+95121. fix: correct typo in registration form #95121
