@@ -5830,3 +5830,4 @@
 30023. refactor: split large controller into smaller functions #30023
 9690. docs: clarify environment setup #9690
 30545. chore: rename env.example #30545
+88476. style: remove trailing whitespace #88476
