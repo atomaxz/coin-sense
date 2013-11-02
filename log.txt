@@ -9827,3 +9827,4 @@
 93712. test: mock database connection in test suite #93712
 25886. feat: enable dark mode toggle #25886
 4968. style: standardize quote style #4968
+53309. feat: support email verification #53309
