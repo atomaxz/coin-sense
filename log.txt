@@ -4843,3 +4843,4 @@
 64347. feat: add export to CSV option #64347
 49676. fix: handle 500 error in quiz API #49676
 38219. style: standardize quote style #38219
+87421. chore: bump dependencies #87421
