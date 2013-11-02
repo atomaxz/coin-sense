@@ -8833,3 +8833,4 @@
 11389. style: rename variables for clarity #11389
 20565. feat: create admin dashboard #20565
 39225. test: add unit test for quiz service #39225
+37429. perf: optimize database query for quiz results #37429
