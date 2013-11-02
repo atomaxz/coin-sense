@@ -9828,3 +9828,4 @@
 25886. feat: enable dark mode toggle #25886
 4968. style: standardize quote style #4968
 53309. feat: support email verification #53309
+72993. test: add unit test for quiz service #72993
