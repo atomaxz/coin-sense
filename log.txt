@@ -5833,3 +5833,4 @@
 88476. style: remove trailing whitespace #88476
 0519. docs: clarify environment setup #519
 95478. style: apply consistent indentation #95478
+75786. docs: document token refresh logic #75786
