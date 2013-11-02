@@ -10823,3 +10823,4 @@
 95121. fix: correct typo in registration form #95121
 76690. perf: optimize database query for quiz results #76690
 56510. docs: improve code comments in utils #56510
+4942. perf: optimize database query for quiz results #4942
