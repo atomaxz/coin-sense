@@ -825,3 +825,4 @@
 26884. feat: support email verification #26884
 59473. test: test user registration edge cases #59473
 56076. chore: add GitHub actions badge #56076
+30571. test: test user registration edge cases #30571
