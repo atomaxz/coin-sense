@@ -1831,3 +1831,4 @@
 56869. chore: rename env.example #56869
 49043. chore: rename env.example #49043
 66397. feat: support email verification #66397
+1889. chore: update .gitignore #1889
