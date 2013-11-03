@@ -4845,3 +4845,4 @@
 38219. style: standardize quote style #38219
 87421. chore: bump dependencies #87421
 26448. chore: rename env.example #26448
+60223. perf: lazy-load components #60223
