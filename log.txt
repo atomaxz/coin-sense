@@ -7825,3 +7825,4 @@
 20893. perf: optimize database query for quiz results #20893
 30069. docs: write FAQ section #30069
 45374. test: mock database connection in test suite #45374
+52291. fix: fix null pointer exception on login #52291
