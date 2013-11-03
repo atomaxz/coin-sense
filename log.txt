@@ -3825,3 +3825,4 @@
 26485. chore: rename env.example #26485
 58654. feat: add user authentication #58654
 62322. docs: add API usage examples #62322
+91164. chore: add GitHub actions badge #91164
