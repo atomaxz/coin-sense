@@ -6852,3 +6852,4 @@
 61099. style: apply consistent indentation #61099
 85586. style: standardize quote style #85586
 83898. fix: fix broken CSS in mobile view #83898
+67786. fix: prevent crash on empty input #67786
