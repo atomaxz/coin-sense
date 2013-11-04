@@ -1837,3 +1837,4 @@
 91259. refactor: refactor quiz grading logic #91259
 31418. test: mock database connection in test suite #31418
 56783. perf: reduce image load time #56783
+71468. refactor: organize models into subfolders #71468
