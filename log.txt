@@ -7828,3 +7828,4 @@
 52291. fix: fix null pointer exception on login #52291
 22736. style: rename variables for clarity #22736
 14419. chore: bump dependencies #14419
+65472. fix: fix broken CSS in mobile view #65472
