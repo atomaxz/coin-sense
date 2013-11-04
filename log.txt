@@ -2836,3 +2836,4 @@
 99187. docs: clarify environment setup #99187
 10464. feat: add export to CSV option #10464
 72383. perf: cache repeated calculations #72383
+5019. fix: prevent crash on empty input #5019
