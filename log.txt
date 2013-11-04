@@ -8841,3 +8841,4 @@
 81199. style: apply consistent indentation #81199
 23010. perf: reduce image load time #23010
 0086. chore: bump dependencies #86
+28150. style: standardize quote style #28150
