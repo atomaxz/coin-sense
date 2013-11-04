@@ -9833,3 +9833,4 @@
 39785. perf: reduce image load time #39785
 48991. feat: create admin dashboard #48991
 8912. test: add unit test for quiz service #8912
+16285. fix: prevent crash on empty input #16285
