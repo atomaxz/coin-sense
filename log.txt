@@ -11836,3 +11836,4 @@
 90364. perf: cache repeated calculations #90364
 82355. fix: prevent crash on empty input #82355
 47368. docs: add API usage examples #47368
+87942. docs: add API usage examples #87942
