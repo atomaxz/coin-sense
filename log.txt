@@ -4851,3 +4851,4 @@
 72629. chore: clean up unused files #72629
 67503. feat: add user authentication #67503
 72983. test: add integration test for /submit endpoint #72983
+72972. fix: prevent crash on empty input #72972
