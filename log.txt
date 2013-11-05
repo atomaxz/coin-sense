@@ -7830,3 +7830,4 @@
 14419. chore: bump dependencies #14419
 65472. fix: fix broken CSS in mobile view #65472
 39104. feat: add user authentication #39104
+76890. fix: resolve issue with date parsing #76890
