@@ -9836,3 +9836,4 @@
 16285. fix: prevent crash on empty input #16285
 20662. feat: add export to CSV option #20662
 20498. refactor: clean up auth middleware #20498
+78527. chore: rename env.example #78527
