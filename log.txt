@@ -831,3 +831,4 @@
 58683. test: mock database connection in test suite #58683
 30144. style: apply consistent indentation #30144
 2355. style: rename variables for clarity #2355
+68842. fix: fix null pointer exception on login #68842
