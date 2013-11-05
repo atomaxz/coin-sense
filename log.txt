@@ -10834,3 +10834,4 @@
 46769. chore: bump dependencies #46769
 9970. perf: cache repeated calculations #9970
 52429. fix: handle 500 error in quiz API #52429
+0907. fix: fix broken CSS in mobile view #907
