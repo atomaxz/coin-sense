@@ -2843,3 +2843,4 @@
 13955. refactor: refactor quiz grading logic #13955
 99327. chore: add GitHub actions badge #99327
 64065. test: mock database connection in test suite #64065
+78332. test: add unit test for quiz service #78332
