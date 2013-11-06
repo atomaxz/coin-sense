@@ -5838,3 +5838,4 @@
 77747. docs: improve code comments in utils #77747
 55838. perf: reduce image load time #55838
 68015. docs: improve code comments in utils #68015
+39603. docs: write FAQ section #39603
