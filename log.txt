@@ -4854,3 +4854,4 @@
 72972. fix: prevent crash on empty input #72972
 87753. test: increase coverage on auth module #87753
 65762. style: apply consistent indentation #65762
+66117. feat: support email verification #66117
