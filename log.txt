@@ -836,3 +836,4 @@
 6143. refactor: refactor quiz grading logic #6143
 41464. style: reformat files with black #41464
 89749. fix: prevent crash on empty input #89749
+13427. fix: correct typo in registration form #13427
