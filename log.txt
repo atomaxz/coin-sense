@@ -835,3 +835,4 @@
 10366. feat: add export to CSV option #10366
 6143. refactor: refactor quiz grading logic #6143
 41464. style: reformat files with black #41464
+89749. fix: prevent crash on empty input #89749
