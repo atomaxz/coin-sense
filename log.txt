@@ -5839,3 +5839,4 @@
 55838. perf: reduce image load time #55838
 68015. docs: improve code comments in utils #68015
 39603. docs: write FAQ section #39603
+17124. feat: support email verification #17124
