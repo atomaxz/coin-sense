@@ -842,3 +842,4 @@
 82484. chore: clean up unused files #82484
 41141. chore: rename env.example #41141
 8224. chore: update .gitignore #8224
+86098. perf: optimize database query for quiz results #86098
