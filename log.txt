@@ -3844,3 +3844,4 @@
 84953. style: standardize quote style #84953
 46779. fix: fix null pointer exception on login #46779
 66126. fix: prevent crash on empty input #66126
+70288. style: apply consistent indentation #70288
