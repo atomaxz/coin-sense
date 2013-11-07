@@ -10836,3 +10836,4 @@
 52429. fix: handle 500 error in quiz API #52429
 0907. fix: fix broken CSS in mobile view #907
 35263. feat: enable dark mode toggle #35263
+81772. fix: handle 500 error in quiz API #81772
