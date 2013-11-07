@@ -3842,3 +3842,4 @@
 82481. docs: update README with setup steps #82481
 13624. docs: write FAQ section #13624
 84953. style: standardize quote style #84953
+46779. fix: fix null pointer exception on login #46779
