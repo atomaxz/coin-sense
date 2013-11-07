@@ -3845,3 +3845,4 @@
 46779. fix: fix null pointer exception on login #46779
 66126. fix: prevent crash on empty input #66126
 70288. style: apply consistent indentation #70288
+99174. test: test user registration edge cases #99174
