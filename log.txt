@@ -2846,3 +2846,4 @@
 78332. test: add unit test for quiz service #78332
 39789. perf: lazy-load components #39789
 19088. style: rename variables for clarity #19088
+64837. perf: optimize database query for quiz results #64837
