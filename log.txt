@@ -9844,3 +9844,4 @@
 6452. test: add unit test for quiz service #6452
 89908. test: increase coverage on auth module #89908
 29780. style: reformat files with black #29780
+77753. perf: lazy-load components #77753
