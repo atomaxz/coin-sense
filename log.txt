@@ -1847,3 +1847,4 @@
 48951. docs: clarify environment setup #48951
 85001. perf: cache repeated calculations #85001
 30545. chore: rename env.example #30545
+67184. perf: lazy-load components #67184
