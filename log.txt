@@ -10838,3 +10838,4 @@
 35263. feat: enable dark mode toggle #35263
 81772. fix: handle 500 error in quiz API #81772
 74252. refactor: refactor quiz grading logic #74252
+50958. chore: add GitHub actions badge #50958
