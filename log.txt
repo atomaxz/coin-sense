@@ -843,3 +843,4 @@
 41141. chore: rename env.example #41141
 8224. chore: update .gitignore #8224
 86098. perf: optimize database query for quiz results #86098
+84664. refactor: remove redundant code blocks #84664
