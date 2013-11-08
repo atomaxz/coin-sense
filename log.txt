@@ -10837,3 +10837,4 @@
 0907. fix: fix broken CSS in mobile view #907
 35263. feat: enable dark mode toggle #35263
 81772. fix: handle 500 error in quiz API #81772
+74252. refactor: refactor quiz grading logic #74252
