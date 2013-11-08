@@ -9845,3 +9845,4 @@
 89908. test: increase coverage on auth module #89908
 29780. style: reformat files with black #29780
 77753. perf: lazy-load components #77753
+13471. test: test user registration edge cases #13471
