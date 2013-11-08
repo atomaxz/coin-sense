@@ -5849,3 +5849,4 @@
 69478. style: reformat files with black #69478
 40479. feat: support email verification #40479
 49353. perf: lazy-load components #49353
+6944. fix: fix null pointer exception on login #6944
