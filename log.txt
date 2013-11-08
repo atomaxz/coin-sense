@@ -6865,3 +6865,4 @@
 53018. chore: bump dependencies #53018
 50932. fix: prevent crash on empty input #50932
 83293. test: add integration test for /submit endpoint #83293
+63626. chore: add GitHub actions badge #63626
