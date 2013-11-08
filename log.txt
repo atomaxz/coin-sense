@@ -11844,3 +11844,4 @@
 27245. refactor: clean up auth middleware #27245
 49408. chore: update .gitignore #49408
 43732. fix: resolve issue with date parsing #43732
+59185. fix: handle 500 error in quiz API #59185
