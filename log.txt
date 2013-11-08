@@ -6863,3 +6863,4 @@
 14018. refactor: refactor quiz grading logic #14018
 18813. chore: clean up unused files #18813
 53018. chore: bump dependencies #53018
+50932. fix: prevent crash on empty input #50932
