@@ -4859,3 +4859,4 @@
 13908. feat: add export to CSV option #13908
 5165. feat: add export to CSV option #5165
 43375. chore: update .gitignore #43375
+63661. fix: prevent crash on empty input #63661
