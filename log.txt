@@ -10842,3 +10842,4 @@
 29099. fix: handle 500 error in quiz API #29099
 85038. style: rename variables for clarity #85038
 32142. perf: lazy-load components #32142
+10228. fix: correct typo in registration form #10228
