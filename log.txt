@@ -7843,3 +7843,4 @@
 90462. feat: support email verification #90462
 49501. perf: lazy-load components #49501
 86497. refactor: clean up auth middleware #86497
+71269. test: test user registration edge cases #71269
