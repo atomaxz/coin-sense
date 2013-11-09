@@ -11847,3 +11847,4 @@
 59185. fix: handle 500 error in quiz API #59185
 41403. chore: clean up unused files #41403
 34465. chore: update .gitignore #34465
+43983. style: standardize quote style #43983
