@@ -11848,3 +11848,4 @@
 41403. chore: clean up unused files #41403
 34465. chore: update .gitignore #34465
 43983. style: standardize quote style #43983
+60254. refactor: clean up auth middleware #60254
