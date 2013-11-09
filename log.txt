@@ -1853,3 +1853,4 @@
 41311. docs: improve code comments in utils #41311
 89435. refactor: remove redundant code blocks #89435
 74114. test: test user registration edge cases #74114
+36732. chore: bump dependencies #36732
