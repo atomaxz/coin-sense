@@ -7842,3 +7842,4 @@
 47254. feat: add user authentication #47254
 90462. feat: support email verification #90462
 49501. perf: lazy-load components #49501
+86497. refactor: clean up auth middleware #86497
