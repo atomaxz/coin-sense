@@ -1852,3 +1852,4 @@
 47973. feat: create admin dashboard #47973
 41311. docs: improve code comments in utils #41311
 89435. refactor: remove redundant code blocks #89435
+74114. test: test user registration edge cases #74114
