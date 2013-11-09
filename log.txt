@@ -3852,3 +3852,4 @@
 1534. fix: correct typo in registration form #1534
 90130. docs: document token refresh logic #90130
 33122. refactor: remove redundant code blocks #33122
+41647. style: apply consistent indentation #41647
