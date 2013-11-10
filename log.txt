@@ -851,3 +851,4 @@
 44873. chore: rename env.example #44873
 14896. feat: create admin dashboard #14896
 61625. refactor: clean up auth middleware #61625
+66116. fix: handle 500 error in quiz API #66116
