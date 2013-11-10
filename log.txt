@@ -5856,3 +5856,4 @@
 67852. test: increase coverage on auth module #67852
 56562. feat: add export to CSV option #56562
 53821. style: standardize quote style #53821
+97674. test: increase coverage on auth module #97674
