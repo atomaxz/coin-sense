@@ -6873,3 +6873,4 @@
 83881. chore: add GitHub actions badge #83881
 49229. fix: handle 500 error in quiz API #49229
 84881. style: reformat files with black #84881
+94774. docs: write FAQ section #94774
