@@ -3856,3 +3856,4 @@
 46865. docs: write FAQ section #46865
 78342. chore: add GitHub actions badge #78342
 55709. chore: clean up unused files #55709
+44120. test: increase coverage on auth module #44120
