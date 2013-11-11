@@ -7845,3 +7845,4 @@
 86497. refactor: clean up auth middleware #86497
 71269. test: test user registration edge cases #71269
 31540. docs: improve code comments in utils #31540
+58210. test: increase coverage on auth module #58210
