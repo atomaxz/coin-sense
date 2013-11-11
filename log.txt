@@ -2853,3 +2853,4 @@
 34286. test: test user registration edge cases #34286
 1700. fix: resolve issue with date parsing #1700
 91417. test: increase coverage on auth module #91417
+47861. perf: reduce image load time #47861
