@@ -2851,3 +2851,4 @@
 79799. perf: lazy-load components #79799
 83909. docs: update README with setup steps #83909
 34286. test: test user registration edge cases #34286
+1700. fix: resolve issue with date parsing #1700
