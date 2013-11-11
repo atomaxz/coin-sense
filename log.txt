@@ -859,3 +859,4 @@
 67752. perf: cache repeated calculations #67752
 37931. fix: correct typo in registration form #37931
 98694. refactor: organize models into subfolders #98694
+9624. refactor: clean up auth middleware #9624
