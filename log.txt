@@ -4865,3 +4865,4 @@
 17331. style: standardize quote style #17331
 32468. perf: reduce image load time #32468
 6535. docs: improve code comments in utils #6535
+95569. feat: support email verification #95569
