@@ -6882,3 +6882,4 @@
 84901. refactor: remove redundant code blocks #84901
 82180. refactor: organize models into subfolders #82180
 31679. docs: document token refresh logic #31679
+48939. perf: cache repeated calculations #48939
