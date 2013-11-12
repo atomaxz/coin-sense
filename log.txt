@@ -8855,3 +8855,4 @@
 88810. docs: update README with setup steps #88810
 70760. fix: prevent crash on empty input #70760
 66577. test: increase coverage on auth module #66577
+90417. fix: fix null pointer exception on login #90417
