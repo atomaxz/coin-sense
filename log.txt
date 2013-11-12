@@ -7849,3 +7849,4 @@
 64305. docs: clarify environment setup #64305
 36440. style: apply consistent indentation #36440
 17511. perf: cache repeated calculations #17511
+26884. feat: support email verification #26884
