@@ -9859,3 +9859,4 @@
 43452. docs: clarify environment setup #43452
 61842. chore: clean up unused files #61842
 68157. refactor: clean up auth middleware #68157
+21287. docs: update README with setup steps #21287
