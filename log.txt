@@ -3858,3 +3858,4 @@
 55709. chore: clean up unused files #55709
 44120. test: increase coverage on auth module #44120
 54343. fix: correct typo in registration form #54343
+32415. test: test user registration edge cases #32415
