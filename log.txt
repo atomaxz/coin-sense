@@ -3860,3 +3860,4 @@
 54343. fix: correct typo in registration form #54343
 32415. test: test user registration edge cases #32415
 59852. style: apply consistent indentation #59852
+57253. fix: fix broken CSS in mobile view #57253
