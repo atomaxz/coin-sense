@@ -6884,3 +6884,4 @@
 31679. docs: document token refresh logic #31679
 48939. perf: cache repeated calculations #48939
 90929. refactor: remove redundant code blocks #90929
+40351. test: increase coverage on auth module #40351
