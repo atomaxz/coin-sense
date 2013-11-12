@@ -1865,3 +1865,4 @@
 87569. fix: prevent crash on empty input #87569
 99077. chore: bump dependencies #99077
 57674. chore: rename env.example #57674
+73276. docs: document token refresh logic #73276
