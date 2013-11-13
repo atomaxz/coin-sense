@@ -863,3 +863,4 @@
 31560. fix: fix broken CSS in mobile view #31560
 78202. perf: cache repeated calculations #78202
 79421. feat: create admin dashboard #79421
+35248. docs: document token refresh logic #35248
