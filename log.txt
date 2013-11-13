@@ -10857,3 +10857,4 @@
 75637. feat: enable dark mode toggle #75637
 80444. style: remove trailing whitespace #80444
 62214. fix: fix broken CSS in mobile view #62214
+65229. test: test user registration edge cases #65229
