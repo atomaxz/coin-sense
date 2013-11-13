@@ -11857,3 +11857,4 @@
 46269. docs: write FAQ section #46269
 95709. perf: reduce image load time #95709
 92319. test: increase coverage on auth module #92319
+37961. perf: optimize database query for quiz results #37961
