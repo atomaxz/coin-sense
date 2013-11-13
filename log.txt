@@ -9861,3 +9861,4 @@
 68157. refactor: clean up auth middleware #68157
 21287. docs: update README with setup steps #21287
 43637. perf: reduce image load time #43637
+49690. fix: prevent crash on empty input #49690
