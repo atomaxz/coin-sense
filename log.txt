@@ -6886,3 +6886,4 @@
 90929. refactor: remove redundant code blocks #90929
 40351. test: increase coverage on auth module #40351
 76355. chore: bump dependencies #76355
+51558. chore: add GitHub actions badge #51558
