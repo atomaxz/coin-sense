@@ -9864,3 +9864,4 @@
 49690. fix: prevent crash on empty input #49690
 26113. feat: add user authentication #26113
 79844. refactor: clean up auth middleware #79844
+70843. fix: handle 500 error in quiz API #70843
