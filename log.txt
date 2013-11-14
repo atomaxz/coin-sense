@@ -3865,3 +3865,4 @@
 20590. docs: clarify environment setup #20590
 6430. docs: clarify environment setup #6430
 26262. perf: optimize database query for quiz results #26262
+16438. fix: fix broken CSS in mobile view #16438
