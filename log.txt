@@ -2859,3 +2859,4 @@
 11257. chore: bump dependencies #11257
 27658. test: mock database connection in test suite #27658
 60404. feat: add user authentication #60404
+95404. style: standardize quote style #95404
