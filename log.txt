@@ -5861,3 +5861,4 @@
 56668. feat: implement quiz timer feature #56668
 26392. fix: resolve issue with date parsing #26392
 32412. test: increase coverage on auth module #32412
+29868. fix: fix null pointer exception on login #29868
