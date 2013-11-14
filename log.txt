@@ -4869,3 +4869,4 @@
 29386. perf: reduce image load time #29386
 98784. chore: clean up unused files #98784
 64646. feat: add export to CSV option #64646
+30054. perf: lazy-load components #30054
