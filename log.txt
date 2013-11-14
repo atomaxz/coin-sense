@@ -7857,3 +7857,4 @@
 65800. perf: lazy-load components #65800
 23706. fix: prevent crash on empty input #23706
 25420. test: increase coverage on auth module #25420
+18357. test: increase coverage on auth module #18357
