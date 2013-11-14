@@ -1870,3 +1870,4 @@
 81049. chore: rename env.example #81049
 64734. feat: support email verification #64734
 11835. refactor: remove redundant code blocks #11835
+27791. refactor: clean up auth middleware #27791
