@@ -9870,3 +9870,4 @@
 68638. test: add unit test for quiz service #68638
 86249. style: reformat files with black #86249
 48375. test: add unit test for quiz service #48375
+21686. refactor: clean up auth middleware #21686
