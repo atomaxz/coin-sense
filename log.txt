@@ -11861,3 +11861,4 @@
 25665. test: add unit test for quiz service #25665
 59253. chore: add GitHub actions badge #59253
 74396. feat: support email verification #74396
+44980. style: standardize quote style #44980
