@@ -10864,3 +10864,4 @@
 63103. feat: add user authentication #63103
 42747. test: mock database connection in test suite #42747
 72511. fix: fix broken CSS in mobile view #72511
+95305. fix: prevent crash on empty input #95305
