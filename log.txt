@@ -1874,3 +1874,4 @@
 28134. style: remove trailing whitespace #28134
 72248. style: rename variables for clarity #72248
 24214. chore: add GitHub actions badge #24214
+26114. refactor: clean up auth middleware #26114
