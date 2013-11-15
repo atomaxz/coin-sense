@@ -7858,3 +7858,4 @@
 23706. fix: prevent crash on empty input #23706
 25420. test: increase coverage on auth module #25420
 18357. test: increase coverage on auth module #18357
+86018. chore: add GitHub actions badge #86018
