@@ -870,3 +870,4 @@
 81412. refactor: split large controller into smaller functions #81412
 35320. docs: improve code comments in utils #35320
 8204. style: remove trailing whitespace #8204
+57717. test: increase coverage on auth module #57717
