@@ -1876,3 +1876,4 @@
 24214. chore: add GitHub actions badge #24214
 26114. refactor: clean up auth middleware #26114
 6029. test: mock database connection in test suite #6029
+6517. chore: clean up unused files #6517
