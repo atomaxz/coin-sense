@@ -9875,3 +9875,4 @@
 45075. feat: enable dark mode toggle #45075
 26753. refactor: refactor quiz grading logic #26753
 26211. fix: correct typo in registration form #26211
+33466. chore: clean up unused files #33466
