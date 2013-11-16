@@ -874,3 +874,4 @@
 4748. docs: clarify environment setup #4748
 20156. refactor: refactor quiz grading logic #20156
 28948. style: remove trailing whitespace #28948
+15506. test: increase coverage on auth module #15506
