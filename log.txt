@@ -1880,3 +1880,4 @@
 92014. fix: resolve issue with date parsing #92014
 40091. fix: resolve issue with date parsing #40091
 61308. docs: update README with setup steps #61308
+85350. test: mock database connection in test suite #85350
