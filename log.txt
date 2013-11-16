@@ -7860,3 +7860,4 @@
 18357. test: increase coverage on auth module #18357
 86018. chore: add GitHub actions badge #86018
 23174. fix: fix broken CSS in mobile view #23174
+27450. test: increase coverage on auth module #27450
