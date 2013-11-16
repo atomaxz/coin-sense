@@ -4876,3 +4876,4 @@
 98180. refactor: remove redundant code blocks #98180
 0557. docs: update README with setup steps #557
 53622. perf: reduce image load time #53622
+35573. test: increase coverage on auth module #35573
