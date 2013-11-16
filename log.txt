@@ -3867,3 +3867,4 @@
 26262. perf: optimize database query for quiz results #26262
 16438. fix: fix broken CSS in mobile view #16438
 33633. fix: fix broken CSS in mobile view #33633
+28010. test: test user registration edge cases #28010
