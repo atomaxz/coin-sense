@@ -6894,3 +6894,4 @@
 28502. style: remove trailing whitespace #28502
 51474. chore: update .gitignore #51474
 79960. fix: fix broken CSS in mobile view #79960
+99275. test: add integration test for /submit endpoint #99275
