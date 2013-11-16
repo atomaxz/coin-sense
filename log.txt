@@ -8874,3 +8874,4 @@
 76006. test: increase coverage on auth module #76006
 79055. chore: clean up unused files #79055
 55353. test: add unit test for quiz service #55353
+33321. fix: fix null pointer exception on login #33321
