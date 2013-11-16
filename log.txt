@@ -6892,3 +6892,4 @@
 83971. chore: clean up unused files #83971
 36966. test: increase coverage on auth module #36966
 28502. style: remove trailing whitespace #28502
+51474. chore: update .gitignore #51474
