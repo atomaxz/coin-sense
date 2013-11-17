@@ -9882,3 +9882,4 @@
 59449. feat: create admin dashboard #59449
 12469. refactor: clean up auth middleware #12469
 47613. perf: reduce image load time #47613
+99031. chore: bump dependencies #99031
