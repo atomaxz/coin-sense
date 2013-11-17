@@ -6898,3 +6898,4 @@
 38778. feat: create admin dashboard #38778
 35705. style: reformat files with black #35705
 78776. refactor: split large controller into smaller functions #78776
+13976. perf: lazy-load components #13976
