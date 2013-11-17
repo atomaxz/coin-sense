@@ -7862,3 +7862,4 @@
 23174. fix: fix broken CSS in mobile view #23174
 27450. test: increase coverage on auth module #27450
 2288. feat: add user authentication #2288
+0651. test: mock database connection in test suite #651
