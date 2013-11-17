@@ -878,3 +878,4 @@
 18320. feat: add user authentication #18320
 1262. chore: bump dependencies #1262
 70722. feat: implement quiz timer feature #70722
+5615. test: test user registration edge cases #5615
