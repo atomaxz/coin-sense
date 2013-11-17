@@ -9884,3 +9884,4 @@
 47613. perf: reduce image load time #47613
 99031. chore: bump dependencies #99031
 90834. docs: add API usage examples #90834
+16399. refactor: remove redundant code blocks #16399
