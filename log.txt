@@ -880,3 +880,4 @@
 70722. feat: implement quiz timer feature #70722
 5615. test: test user registration edge cases #5615
 33357. perf: lazy-load components #33357
+84736. fix: prevent crash on empty input #84736
