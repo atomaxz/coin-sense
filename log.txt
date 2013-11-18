@@ -2875,3 +2875,4 @@
 74350. perf: cache repeated calculations #74350
 27400. perf: lazy-load components #27400
 72841. docs: improve code comments in utils #72841
+94529. chore: update .gitignore #94529
