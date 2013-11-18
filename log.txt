@@ -7868,3 +7868,4 @@
 6100. chore: bump dependencies #6100
 29116. refactor: refactor quiz grading logic #29116
 86905. perf: optimize database query for quiz results #86905
+84951. fix: fix null pointer exception on login #84951
