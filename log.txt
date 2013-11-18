@@ -10874,3 +10874,4 @@
 58385. perf: lazy-load components #58385
 2082. test: increase coverage on auth module #2082
 14454. chore: add GitHub actions badge #14454
+20150. style: standardize quote style #20150
