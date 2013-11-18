@@ -882,3 +882,4 @@
 33357. perf: lazy-load components #33357
 84736. fix: prevent crash on empty input #84736
 87375. refactor: split large controller into smaller functions #87375
+49255. fix: resolve issue with date parsing #49255
