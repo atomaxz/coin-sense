@@ -7867,3 +7867,4 @@
 17145. style: reformat files with black #17145
 6100. chore: bump dependencies #6100
 29116. refactor: refactor quiz grading logic #29116
+86905. perf: optimize database query for quiz results #86905
