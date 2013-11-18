@@ -2876,3 +2876,4 @@
 27400. perf: lazy-load components #27400
 72841. docs: improve code comments in utils #72841
 94529. chore: update .gitignore #94529
+82523. test: increase coverage on auth module #82523
