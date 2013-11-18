@@ -1885,3 +1885,4 @@
 0142. test: test user registration edge cases #142
 50572. refactor: clean up auth middleware #50572
 38067. style: reformat files with black #38067
+27580. docs: add API usage examples #27580
