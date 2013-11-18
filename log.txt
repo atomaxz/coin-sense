@@ -9887,3 +9887,4 @@
 16399. refactor: remove redundant code blocks #16399
 31330. chore: clean up unused files #31330
 85164. chore: clean up unused files #85164
+75717. fix: handle 500 error in quiz API #75717
