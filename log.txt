@@ -6900,3 +6900,4 @@
 78776. refactor: split large controller into smaller functions #78776
 13976. perf: lazy-load components #13976
 2979. chore: update .gitignore #2979
+13333. docs: clarify environment setup #13333
