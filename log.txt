@@ -2880,3 +2880,4 @@
 76508. docs: add API usage examples #76508
 42888. test: mock database connection in test suite #42888
 93231. perf: cache repeated calculations #93231
+71745. test: test user registration edge cases #71745
