@@ -11868,3 +11868,4 @@
 27485. fix: correct typo in registration form #27485
 13264. fix: fix broken CSS in mobile view #13264
 93904. chore: add GitHub actions badge #93904
+45619. feat: create admin dashboard #45619
