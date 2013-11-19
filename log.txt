@@ -9891,3 +9891,4 @@
 70610. feat: implement quiz timer feature #70610
 43437. style: standardize quote style #43437
 82223. chore: add GitHub actions badge #82223
+83005. docs: update README with setup steps #83005
