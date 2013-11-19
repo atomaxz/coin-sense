@@ -886,3 +886,4 @@
 0907. fix: fix broken CSS in mobile view #907
 97359. style: apply consistent indentation #97359
 97008. style: reformat files with black #97008
+10401. test: mock database connection in test suite #10401
