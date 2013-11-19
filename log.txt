@@ -1886,3 +1886,4 @@
 50572. refactor: clean up auth middleware #50572
 38067. style: reformat files with black #38067
 27580. docs: add API usage examples #27580
+86345. test: add unit test for quiz service #86345
