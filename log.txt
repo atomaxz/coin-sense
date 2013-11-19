@@ -11867,3 +11867,4 @@
 21119. refactor: organize models into subfolders #21119
 27485. fix: correct typo in registration form #27485
 13264. fix: fix broken CSS in mobile view #13264
+93904. chore: add GitHub actions badge #93904
