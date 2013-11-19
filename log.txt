@@ -3880,3 +3880,4 @@
 60190. style: reformat files with black #60190
 57951. docs: write FAQ section #57951
 1161. style: apply consistent indentation #1161
+25281. refactor: organize models into subfolders #25281
