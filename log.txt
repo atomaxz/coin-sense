@@ -4882,3 +4882,4 @@
 98749. perf: lazy-load components #98749
 71190. test: mock database connection in test suite #71190
 80794. refactor: refactor quiz grading logic #80794
+43126. fix: prevent crash on empty input #43126
