@@ -10879,3 +10879,4 @@
 70063. perf: lazy-load components #70063
 73055. test: add unit test for quiz service #73055
 6371. fix: fix broken CSS in mobile view #6371
+16880. test: increase coverage on auth module #16880
