@@ -10876,3 +10876,4 @@
 14454. chore: add GitHub actions badge #14454
 20150. style: standardize quote style #20150
 16723. docs: improve code comments in utils #16723
+70063. perf: lazy-load components #70063
