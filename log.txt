@@ -3881,3 +3881,4 @@
 57951. docs: write FAQ section #57951
 1161. style: apply consistent indentation #1161
 25281. refactor: organize models into subfolders #25281
+26189. test: test user registration edge cases #26189
