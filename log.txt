@@ -7870,3 +7870,4 @@
 86905. perf: optimize database query for quiz results #86905
 84951. fix: fix null pointer exception on login #84951
 21867. perf: reduce image load time #21867
+42138. perf: lazy-load components #42138
