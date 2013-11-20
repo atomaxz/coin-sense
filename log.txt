@@ -1890,3 +1890,4 @@
 63213. chore: bump dependencies #63213
 7075. perf: reduce image load time #7075
 35461. feat: support email verification #35461
+30453. test: test user registration edge cases #30453
