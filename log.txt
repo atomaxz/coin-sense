@@ -8881,3 +8881,4 @@
 29531. feat: enable dark mode toggle #29531
 16976. fix: fix null pointer exception on login #16976
 20341. chore: add GitHub actions badge #20341
+17921. perf: lazy-load components #17921
