@@ -9893,3 +9893,4 @@
 82223. chore: add GitHub actions badge #82223
 83005. docs: update README with setup steps #83005
 62139. refactor: remove redundant code blocks #62139
+74827. fix: fix null pointer exception on login #74827
