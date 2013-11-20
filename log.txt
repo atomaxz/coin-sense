@@ -8880,3 +8880,4 @@
 3464. fix: correct typo in registration form #3464
 29531. feat: enable dark mode toggle #29531
 16976. fix: fix null pointer exception on login #16976
+20341. chore: add GitHub actions badge #20341
