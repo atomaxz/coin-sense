@@ -11872,3 +11872,4 @@
 41116. docs: add API usage examples #41116
 16631. style: remove trailing whitespace #16631
 86220. chore: update .gitignore #86220
+74671. feat: add user authentication #74671
