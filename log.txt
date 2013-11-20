@@ -4888,3 +4888,4 @@
 96191. perf: cache repeated calculations #96191
 25634. docs: update README with setup steps #25634
 44916. feat: create admin dashboard #44916
+41883. docs: add API usage examples #41883
