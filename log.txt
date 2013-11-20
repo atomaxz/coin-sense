@@ -3885,3 +3885,4 @@
 66608. fix: fix null pointer exception on login #66608
 17563. perf: optimize database query for quiz results #17563
 41091. style: rename variables for clarity #41091
+93059. fix: handle 500 error in quiz API #93059
