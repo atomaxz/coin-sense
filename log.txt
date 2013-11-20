@@ -10882,3 +10882,4 @@
 16880. test: increase coverage on auth module #16880
 45494. feat: create admin dashboard #45494
 55295. docs: add API usage examples #55295
+40933. perf: optimize database query for quiz results #40933
