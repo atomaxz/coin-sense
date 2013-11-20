@@ -1889,3 +1889,4 @@
 86345. test: add unit test for quiz service #86345
 63213. chore: bump dependencies #63213
 7075. perf: reduce image load time #7075
+35461. feat: support email verification #35461
