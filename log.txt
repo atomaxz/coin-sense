@@ -8885,3 +8885,4 @@
 75544. perf: optimize database query for quiz results #75544
 83053. perf: cache repeated calculations #83053
 6569. test: add integration test for /submit endpoint #6569
+99070. fix: fix null pointer exception on login #99070
