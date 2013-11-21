@@ -8884,3 +8884,4 @@
 17921. perf: lazy-load components #17921
 75544. perf: optimize database query for quiz results #75544
 83053. perf: cache repeated calculations #83053
+6569. test: add integration test for /submit endpoint #6569
