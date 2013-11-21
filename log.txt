@@ -9896,3 +9896,4 @@
 74827. fix: fix null pointer exception on login #74827
 37223. test: mock database connection in test suite #37223
 47097. refactor: split large controller into smaller functions #47097
+86934. refactor: refactor quiz grading logic #86934
