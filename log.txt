@@ -4890,3 +4890,4 @@
 44916. feat: create admin dashboard #44916
 41883. docs: add API usage examples #41883
 33604. feat: support email verification #33604
+62610. test: test user registration edge cases #62610
