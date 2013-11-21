@@ -6907,3 +6907,4 @@
 26255. perf: reduce image load time #26255
 79820. perf: reduce image load time #79820
 80775. feat: implement quiz timer feature #80775
+24437. docs: clarify environment setup #24437
