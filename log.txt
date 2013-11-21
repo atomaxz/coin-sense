@@ -10886,3 +10886,4 @@
 6431. refactor: refactor quiz grading logic #6431
 97259. fix: prevent crash on empty input #97259
 90054. fix: prevent crash on empty input #90054
+34309. chore: add GitHub actions badge #34309
