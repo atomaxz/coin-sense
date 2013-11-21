@@ -2882,3 +2882,4 @@
 93231. perf: cache repeated calculations #93231
 71745. test: test user registration edge cases #71745
 16547. test: add integration test for /submit endpoint #16547
+70440. feat: support email verification #70440
