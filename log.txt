@@ -1891,3 +1891,4 @@
 7075. perf: reduce image load time #7075
 35461. feat: support email verification #35461
 30453. test: test user registration edge cases #30453
+12940. test: add unit test for quiz service #12940
