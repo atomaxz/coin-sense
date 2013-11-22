@@ -4891,3 +4891,4 @@
 41883. docs: add API usage examples #41883
 33604. feat: support email verification #33604
 62610. test: test user registration edge cases #62610
+45482. perf: lazy-load components #45482
