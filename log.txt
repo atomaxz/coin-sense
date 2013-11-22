@@ -4893,3 +4893,4 @@
 62610. test: test user registration edge cases #62610
 45482. perf: lazy-load components #45482
 9384. feat: implement quiz timer feature #9384
+46997. docs: document token refresh logic #46997
