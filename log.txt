@@ -11878,3 +11878,4 @@
 85015. test: mock database connection in test suite #85015
 89666. refactor: remove redundant code blocks #89666
 86811. feat: add export to CSV option #86811
+39864. fix: fix null pointer exception on login #39864
