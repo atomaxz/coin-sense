@@ -7878,3 +7878,4 @@
 25805. fix: fix null pointer exception on login #25805
 93104. fix: correct typo in registration form #93104
 9048. chore: add GitHub actions badge #9048
+95007. refactor: split large controller into smaller functions #95007
