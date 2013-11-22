@@ -4894,3 +4894,4 @@
 45482. perf: lazy-load components #45482
 9384. feat: implement quiz timer feature #9384
 46997. docs: document token refresh logic #46997
+38266. test: test user registration edge cases #38266
