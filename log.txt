@@ -5878,3 +5878,4 @@
 85787. style: rename variables for clarity #85787
 61651. refactor: clean up auth middleware #61651
 14975. test: test user registration edge cases #14975
+77790. chore: rename env.example #77790
