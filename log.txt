@@ -7879,3 +7879,4 @@
 93104. fix: correct typo in registration form #93104
 9048. chore: add GitHub actions badge #9048
 95007. refactor: split large controller into smaller functions #95007
+96571. fix: fix broken CSS in mobile view #96571
