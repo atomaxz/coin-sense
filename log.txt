@@ -1892,3 +1892,4 @@
 35461. feat: support email verification #35461
 30453. test: test user registration edge cases #30453
 12940. test: add unit test for quiz service #12940
+34793. fix: correct typo in registration form #34793
