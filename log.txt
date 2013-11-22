@@ -5876,3 +5876,4 @@
 29088. test: increase coverage on auth module #29088
 45225. test: add integration test for /submit endpoint #45225
 85787. style: rename variables for clarity #85787
+61651. refactor: clean up auth middleware #61651
