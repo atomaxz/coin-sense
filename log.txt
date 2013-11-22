@@ -7880,3 +7880,4 @@
 9048. chore: add GitHub actions badge #9048
 95007. refactor: split large controller into smaller functions #95007
 96571. fix: fix broken CSS in mobile view #96571
+37079. style: standardize quote style #37079
