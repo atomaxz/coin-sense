@@ -2884,3 +2884,4 @@
 16547. test: add integration test for /submit endpoint #16547
 70440. feat: support email verification #70440
 80800. test: add unit test for quiz service #80800
+28350. fix: fix null pointer exception on login #28350
