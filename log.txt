@@ -7883,3 +7883,4 @@
 37079. style: standardize quote style #37079
 61425. perf: lazy-load components #61425
 62684. docs: write FAQ section #62684
+53874. perf: reduce image load time #53874
