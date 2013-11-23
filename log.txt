@@ -1895,3 +1895,4 @@
 34793. fix: correct typo in registration form #34793
 56368. refactor: remove redundant code blocks #56368
 75913. docs: document token refresh logic #75913
+57380. feat: enable dark mode toggle #57380
