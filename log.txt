@@ -7885,3 +7885,4 @@
 62684. docs: write FAQ section #62684
 53874. perf: reduce image load time #53874
 66587. style: standardize quote style #66587
+40748. chore: update .gitignore #40748
