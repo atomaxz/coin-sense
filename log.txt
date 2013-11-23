@@ -11880,3 +11880,4 @@
 86811. feat: add export to CSV option #86811
 39864. fix: fix null pointer exception on login #39864
 27657. test: increase coverage on auth module #27657
+87507. feat: enable dark mode toggle #87507
