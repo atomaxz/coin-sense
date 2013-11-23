@@ -895,3 +895,4 @@
 37949. test: increase coverage on auth module #37949
 47737. style: standardize quote style #47737
 76895. style: apply consistent indentation #76895
+54335. fix: fix broken CSS in mobile view #54335
