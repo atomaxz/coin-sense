@@ -6914,3 +6914,4 @@
 42877. style: standardize quote style #42877
 13332. refactor: clean up auth middleware #13332
 12716. docs: write FAQ section #12716
+51308. fix: prevent crash on empty input #51308
