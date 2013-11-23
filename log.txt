@@ -7882,3 +7882,4 @@
 96571. fix: fix broken CSS in mobile view #96571
 37079. style: standardize quote style #37079
 61425. perf: lazy-load components #61425
+62684. docs: write FAQ section #62684
