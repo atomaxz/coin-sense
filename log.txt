@@ -894,3 +894,4 @@
 15734. test: mock database connection in test suite #15734
 37949. test: increase coverage on auth module #37949
 47737. style: standardize quote style #47737
+76895. style: apply consistent indentation #76895
