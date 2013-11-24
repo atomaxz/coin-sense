@@ -1898,3 +1898,4 @@
 57380. feat: enable dark mode toggle #57380
 3022. style: rename variables for clarity #3022
 4014. perf: lazy-load components #4014
+81963. test: increase coverage on auth module #81963
