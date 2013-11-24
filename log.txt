@@ -11886,3 +11886,4 @@
 95289. docs: add API usage examples #95289
 22848. perf: cache repeated calculations #22848
 78725. refactor: organize models into subfolders #78725
+9745. refactor: clean up auth middleware #9745
