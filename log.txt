@@ -4900,3 +4900,4 @@
 7401. style: rename variables for clarity #7401
 58632. refactor: refactor quiz grading logic #58632
 10102. feat: add export to CSV option #10102
+26965. refactor: remove redundant code blocks #26965
