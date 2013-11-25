@@ -4903,3 +4903,4 @@
 26965. refactor: remove redundant code blocks #26965
 36138. style: standardize quote style #36138
 37690. fix: resolve issue with date parsing #37690
+37856. fix: fix broken CSS in mobile view #37856
