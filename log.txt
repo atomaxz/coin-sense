@@ -5887,3 +5887,4 @@
 96467. docs: clarify environment setup #96467
 54532. fix: fix null pointer exception on login #54532
 22132. perf: reduce image load time #22132
+2966. fix: correct typo in registration form #2966
