@@ -6919,3 +6919,4 @@
 31913. refactor: refactor quiz grading logic #31913
 50218. refactor: refactor quiz grading logic #50218
 27393. refactor: clean up auth middleware #27393
+5641. fix: prevent crash on empty input #5641
