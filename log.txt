@@ -6918,3 +6918,4 @@
 70227. style: apply consistent indentation #70227
 31913. refactor: refactor quiz grading logic #31913
 50218. refactor: refactor quiz grading logic #50218
+27393. refactor: clean up auth middleware #27393
