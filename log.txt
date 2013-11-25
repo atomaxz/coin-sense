@@ -10893,3 +10893,4 @@
 84476. perf: reduce image load time #84476
 62936. docs: document token refresh logic #62936
 41347. perf: optimize database query for quiz results #41347
+38847. test: test user registration edge cases #38847
