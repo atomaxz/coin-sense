@@ -7890,3 +7890,4 @@
 62265. refactor: organize models into subfolders #62265
 50509. docs: document token refresh logic #50509
 42190. fix: resolve issue with date parsing #42190
+62406. refactor: clean up auth middleware #62406
