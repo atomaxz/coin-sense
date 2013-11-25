@@ -5882,3 +5882,4 @@
 35638. perf: optimize database query for quiz results #35638
 1928. refactor: organize models into subfolders #1928
 70089. test: add integration test for /submit endpoint #70089
+60754. chore: add GitHub actions badge #60754
