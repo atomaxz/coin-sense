@@ -7887,3 +7887,4 @@
 66587. style: standardize quote style #66587
 40748. chore: update .gitignore #40748
 37966. docs: write FAQ section #37966
+62265. refactor: organize models into subfolders #62265
