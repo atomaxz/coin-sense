@@ -8894,3 +8894,4 @@
 33465. feat: enable dark mode toggle #33465
 11146. style: standardize quote style #11146
 51181. fix: prevent crash on empty input #51181
+7959. docs: write FAQ section #7959
