@@ -3904,3 +3904,4 @@
 85479. feat: support email verification #85479
 96094. refactor: organize models into subfolders #96094
 60962. style: standardize quote style #60962
+17889. chore: update .gitignore #17889
