@@ -5885,3 +5885,4 @@
 60754. chore: add GitHub actions badge #60754
 11124. style: reformat files with black #11124
 96467. docs: clarify environment setup #96467
+54532. fix: fix null pointer exception on login #54532
