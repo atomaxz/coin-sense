@@ -3905,3 +3905,4 @@
 96094. refactor: organize models into subfolders #96094
 60962. style: standardize quote style #60962
 17889. chore: update .gitignore #17889
+60279. refactor: clean up auth middleware #60279
