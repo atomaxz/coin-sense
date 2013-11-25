@@ -3901,3 +3901,4 @@
 29068. chore: update .gitignore #29068
 45483. feat: create admin dashboard #45483
 78194. fix: fix null pointer exception on login #78194
+85479. feat: support email verification #85479
