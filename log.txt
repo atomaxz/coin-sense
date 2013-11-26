@@ -2896,3 +2896,4 @@
 97152. test: mock database connection in test suite #97152
 51579. docs: clarify environment setup #51579
 71669. docs: update README with setup steps #71669
+98619. docs: document token refresh logic #98619
