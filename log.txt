@@ -2897,3 +2897,4 @@
 51579. docs: clarify environment setup #51579
 71669. docs: update README with setup steps #71669
 98619. docs: document token refresh logic #98619
+93973. fix: handle 500 error in quiz API #93973
