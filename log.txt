@@ -11889,3 +11889,4 @@
 9745. refactor: clean up auth middleware #9745
 29261. chore: update .gitignore #29261
 89155. feat: add export to CSV option #89155
+59520. fix: resolve issue with date parsing #59520
