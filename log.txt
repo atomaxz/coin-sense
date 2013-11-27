@@ -5893,3 +5893,4 @@
 65653. docs: write FAQ section #65653
 20578. docs: write FAQ section #20578
 35573. test: increase coverage on auth module #35573
+12436. fix: correct typo in registration form #12436
