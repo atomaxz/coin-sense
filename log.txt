@@ -6926,3 +6926,4 @@
 91255. refactor: organize models into subfolders #91255
 79407. docs: document token refresh logic #79407
 78385. perf: reduce image load time #78385
+24781. perf: lazy-load components #24781
