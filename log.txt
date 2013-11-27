@@ -11893,3 +11893,4 @@
 82663. perf: reduce image load time #82663
 22472. feat: add user authentication #22472
 18031. test: add integration test for /submit endpoint #18031
+99504. fix: fix null pointer exception on login #99504
