@@ -11891,3 +11891,4 @@
 89155. feat: add export to CSV option #89155
 59520. fix: resolve issue with date parsing #59520
 82663. perf: reduce image load time #82663
+22472. feat: add user authentication #22472
