@@ -2900,3 +2900,4 @@
 93973. fix: handle 500 error in quiz API #93973
 60254. refactor: clean up auth middleware #60254
 38502. style: apply consistent indentation #38502
+1217. feat: support email verification #1217
