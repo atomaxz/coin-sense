@@ -10898,3 +10898,4 @@
 32038. feat: add user authentication #32038
 98547. test: increase coverage on auth module #98547
 18675. fix: prevent crash on empty input #18675
+18001. perf: optimize database query for quiz results #18001
