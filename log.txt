@@ -4906,3 +4906,4 @@
 37856. fix: fix broken CSS in mobile view #37856
 14889. style: apply consistent indentation #14889
 54959. style: remove trailing whitespace #54959
+33114. style: reformat files with black #33114
