@@ -5896,3 +5896,4 @@
 12436. fix: correct typo in registration form #12436
 63558. feat: enable dark mode toggle #63558
 2866. perf: optimize database query for quiz results #2866
+91935. refactor: split large controller into smaller functions #91935
