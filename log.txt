@@ -10899,3 +10899,4 @@
 98547. test: increase coverage on auth module #98547
 18675. fix: prevent crash on empty input #18675
 18001. perf: optimize database query for quiz results #18001
+63045. test: mock database connection in test suite #63045
