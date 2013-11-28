@@ -2901,3 +2901,4 @@
 60254. refactor: clean up auth middleware #60254
 38502. style: apply consistent indentation #38502
 1217. feat: support email verification #1217
+46714. style: remove trailing whitespace #46714
