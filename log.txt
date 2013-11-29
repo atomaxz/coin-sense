@@ -6929,3 +6929,4 @@
 24781. perf: lazy-load components #24781
 66184. docs: clarify environment setup #66184
 92120. docs: update README with setup steps #92120
+26078. fix: handle 500 error in quiz API #26078
