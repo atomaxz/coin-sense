@@ -10906,3 +10906,4 @@
 9257. feat: support email verification #9257
 12218. refactor: split large controller into smaller functions #12218
 38464. feat: enable dark mode toggle #38464
+9819. docs: write FAQ section #9819
