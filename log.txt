@@ -3913,3 +3913,4 @@
 86151. chore: clean up unused files #86151
 88375. style: remove trailing whitespace #88375
 79355. chore: update .gitignore #79355
+78478. fix: correct typo in registration form #78478
