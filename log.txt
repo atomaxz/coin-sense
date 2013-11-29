@@ -6931,3 +6931,4 @@
 92120. docs: update README with setup steps #92120
 26078. fix: handle 500 error in quiz API #26078
 8456. chore: clean up unused files #8456
+1607. feat: support email verification #1607
