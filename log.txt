@@ -911,3 +911,4 @@
 57385. chore: clean up unused files #57385
 63164. test: mock database connection in test suite #63164
 87336. refactor: organize models into subfolders #87336
+12920. perf: lazy-load components #12920
