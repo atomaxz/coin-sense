@@ -8899,3 +8899,4 @@
 96643. feat: enable dark mode toggle #96643
 62760. chore: clean up unused files #62760
 55603. test: increase coverage on auth module #55603
+76960. refactor: organize models into subfolders #76960
