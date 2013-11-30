@@ -10910,3 +10910,4 @@
 54697. refactor: clean up auth middleware #54697
 34334. refactor: clean up auth middleware #34334
 62151. style: standardize quote style #62151
+90329. fix: fix null pointer exception on login #90329
