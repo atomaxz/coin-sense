@@ -11900,3 +11900,4 @@
 31854. test: increase coverage on auth module #31854
 38551. test: add unit test for quiz service #38551
 90789. refactor: refactor quiz grading logic #90789
+54961. perf: lazy-load components #54961
