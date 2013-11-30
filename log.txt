@@ -4914,3 +4914,4 @@
 83169. perf: cache repeated calculations #83169
 5551. refactor: clean up auth middleware #5551
 9733. feat: add export to CSV option #9733
+5176. perf: reduce image load time #5176
