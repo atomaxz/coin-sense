@@ -2906,3 +2906,4 @@
 52735. chore: add GitHub actions badge #52735
 15886. style: rename variables for clarity #15886
 36902. feat: support email verification #36902
+76991. fix: handle 500 error in quiz API #76991
