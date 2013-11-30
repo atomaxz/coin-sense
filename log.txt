@@ -5902,3 +5902,4 @@
 72427. feat: create admin dashboard #72427
 79194. fix: correct typo in registration form #79194
 26889. docs: write FAQ section #26889
+39515. chore: rename env.example #39515
