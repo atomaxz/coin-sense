@@ -2909,3 +2909,4 @@
 76991. fix: handle 500 error in quiz API #76991
 67094. feat: enable dark mode toggle #67094
 86566. chore: rename env.example #86566
+70092. fix: fix null pointer exception on login #70092
