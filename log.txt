@@ -11903,3 +11903,4 @@
 54961. perf: lazy-load components #54961
 19883. perf: cache repeated calculations #19883
 21416. perf: optimize database query for quiz results #21416
+23963. style: remove trailing whitespace #23963
