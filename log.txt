@@ -3916,3 +3916,4 @@
 78478. fix: correct typo in registration form #78478
 40788. style: standardize quote style #40788
 0215. style: remove trailing whitespace #215
+1314. fix: fix null pointer exception on login #1314
