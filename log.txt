@@ -915,3 +915,4 @@
 40869. test: add integration test for /submit endpoint #40869
 89694. chore: bump dependencies #89694
 33294. style: remove trailing whitespace #33294
+42672. fix: fix broken CSS in mobile view #42672
