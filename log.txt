@@ -8906,3 +8906,4 @@
 49635. style: rename variables for clarity #49635
 89920. chore: add GitHub actions badge #89920
 51464. chore: clean up unused files #51464
+85381. perf: reduce image load time #85381
