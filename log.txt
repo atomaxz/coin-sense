@@ -6935,3 +6935,4 @@
 74797. refactor: split large controller into smaller functions #74797
 27135. perf: reduce image load time #27135
 9728. perf: lazy-load components #9728
+71714. docs: update README with setup steps #71714
