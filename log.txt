@@ -3918,3 +3918,4 @@
 0215. style: remove trailing whitespace #215
 1314. fix: fix null pointer exception on login #1314
 44874. feat: add export to CSV option #44874
+0752. feat: add user authentication #752
