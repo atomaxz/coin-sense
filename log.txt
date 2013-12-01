@@ -8904,3 +8904,4 @@
 89784. perf: cache repeated calculations #89784
 28010. test: test user registration edge cases #28010
 49635. style: rename variables for clarity #49635
+89920. chore: add GitHub actions badge #89920
