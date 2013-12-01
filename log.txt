@@ -2911,3 +2911,4 @@
 86566. chore: rename env.example #86566
 70092. fix: fix null pointer exception on login #70092
 89052. refactor: remove redundant code blocks #89052
+73380. fix: prevent crash on empty input #73380
