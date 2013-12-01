@@ -5907,3 +5907,4 @@
 2024. style: apply consistent indentation #2024
 28978. docs: clarify environment setup #28978
 54023. refactor: organize models into subfolders #54023
+65019. perf: optimize database query for quiz results #65019
