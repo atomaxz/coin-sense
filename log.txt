@@ -5909,3 +5909,4 @@
 54023. refactor: organize models into subfolders #54023
 65019. perf: optimize database query for quiz results #65019
 78822. feat: implement quiz timer feature #78822
+65014. perf: optimize database query for quiz results #65014
