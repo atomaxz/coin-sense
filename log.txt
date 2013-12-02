@@ -11911,3 +11911,4 @@
 21589. docs: update README with setup steps #21589
 79316. fix: correct typo in registration form #79316
 95426. chore: rename env.example #95426
+15061. style: reformat files with black #15061
