@@ -6941,3 +6941,4 @@
 67664. style: rename variables for clarity #67664
 36206. fix: handle 500 error in quiz API #36206
 8707. docs: document token refresh logic #8707
+56801. test: add integration test for /submit endpoint #56801
