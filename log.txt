@@ -9920,3 +9920,4 @@
 98960. refactor: remove redundant code blocks #98960
 90010. perf: cache repeated calculations #90010
 69924. feat: support email verification #69924
+23071. refactor: clean up auth middleware #23071
