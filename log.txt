@@ -2916,3 +2916,4 @@
 60989. refactor: refactor quiz grading logic #60989
 3580. test: mock database connection in test suite #3580
 16986. style: standardize quote style #16986
+36779. fix: correct typo in registration form #36779
