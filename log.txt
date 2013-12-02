@@ -2919,3 +2919,4 @@
 36779. fix: correct typo in registration form #36779
 69736. chore: add GitHub actions badge #69736
 29750. docs: update README with setup steps #29750
+60553. style: reformat files with black #60553
