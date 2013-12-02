@@ -2918,3 +2918,4 @@
 16986. style: standardize quote style #16986
 36779. fix: correct typo in registration form #36779
 69736. chore: add GitHub actions badge #69736
+29750. docs: update README with setup steps #29750
