@@ -6939,3 +6939,4 @@
 39242. test: test user registration edge cases #39242
 62490. test: mock database connection in test suite #62490
 67664. style: rename variables for clarity #67664
+36206. fix: handle 500 error in quiz API #36206
