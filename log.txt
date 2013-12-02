@@ -8910,3 +8910,4 @@
 92855. perf: reduce image load time #92855
 20933. perf: optimize database query for quiz results #20933
 92603. fix: fix broken CSS in mobile view #92603
+95388. test: add integration test for /submit endpoint #95388
