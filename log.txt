@@ -11912,3 +11912,4 @@
 79316. fix: correct typo in registration form #79316
 95426. chore: rename env.example #95426
 15061. style: reformat files with black #15061
+57351. test: test user registration edge cases #57351
