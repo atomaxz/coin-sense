@@ -9921,3 +9921,4 @@
 90010. perf: cache repeated calculations #90010
 69924. feat: support email verification #69924
 23071. refactor: clean up auth middleware #23071
+17269. chore: add GitHub actions badge #17269
