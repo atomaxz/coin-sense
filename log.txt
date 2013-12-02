@@ -8913,3 +8913,4 @@
 95388. test: add integration test for /submit endpoint #95388
 6122. refactor: clean up auth middleware #6122
 49220. style: apply consistent indentation #49220
+38098. feat: support email verification #38098
