@@ -7905,3 +7905,4 @@
 0937. style: apply consistent indentation #937
 22297. perf: cache repeated calculations #22297
 91917. fix: fix broken CSS in mobile view #91917
+30611. docs: write FAQ section #30611
