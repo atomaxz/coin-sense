@@ -3920,3 +3920,4 @@
 44874. feat: add export to CSV option #44874
 0752. feat: add user authentication #752
 69981. style: apply consistent indentation #69981
+62641. refactor: clean up auth middleware #62641
