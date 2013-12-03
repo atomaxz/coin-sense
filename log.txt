@@ -5919,3 +5919,4 @@
 37878. style: reformat files with black #37878
 63703. docs: document token refresh logic #63703
 74339. feat: create admin dashboard #74339
+50550. feat: support email verification #50550
