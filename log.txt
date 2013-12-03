@@ -7908,3 +7908,4 @@
 30611. docs: write FAQ section #30611
 59786. style: reformat files with black #59786
 21567. feat: enable dark mode toggle #21567
+46387. refactor: clean up auth middleware #46387
