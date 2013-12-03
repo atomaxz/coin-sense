@@ -10922,3 +10922,4 @@
 49425. style: remove trailing whitespace #49425
 65013. style: reformat files with black #65013
 6029. test: mock database connection in test suite #6029
+76749. perf: lazy-load components #76749
