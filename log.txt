@@ -11914,3 +11914,4 @@
 15061. style: reformat files with black #15061
 57351. test: test user registration edge cases #57351
 25126. perf: cache repeated calculations #25126
+28534. docs: write FAQ section #28534
