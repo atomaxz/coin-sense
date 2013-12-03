@@ -1913,3 +1913,4 @@
 61533. chore: update .gitignore #61533
 97737. perf: reduce image load time #97737
 50680. chore: rename env.example #50680
+35057. docs: update README with setup steps #35057
