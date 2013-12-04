@@ -10927,3 +10927,4 @@
 62090. refactor: split large controller into smaller functions #62090
 9873. style: standardize quote style #9873
 13362. chore: rename env.example #13362
+38898. feat: add user authentication #38898
