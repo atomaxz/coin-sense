@@ -7910,3 +7910,4 @@
 21567. feat: enable dark mode toggle #21567
 46387. refactor: clean up auth middleware #46387
 91357. style: standardize quote style #91357
+3188. refactor: organize models into subfolders #3188
