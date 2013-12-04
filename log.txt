@@ -3924,3 +3924,4 @@
 44414. chore: rename env.example #44414
 59178. fix: handle 500 error in quiz API #59178
 18081. style: apply consistent indentation #18081
+0638. feat: add user authentication #638
