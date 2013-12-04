@@ -5921,3 +5921,4 @@
 74339. feat: create admin dashboard #74339
 50550. feat: support email verification #50550
 76236. docs: add API usage examples #76236
+91169. refactor: clean up auth middleware #91169
