@@ -8915,3 +8915,4 @@
 49220. style: apply consistent indentation #49220
 38098. feat: support email verification #38098
 65397. feat: create admin dashboard #65397
+78002. refactor: organize models into subfolders #78002
