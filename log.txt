@@ -11923,3 +11923,4 @@
 0809. fix: handle 500 error in quiz API #809
 93576. style: reformat files with black #93576
 5574. docs: improve code comments in utils #5574
+87478. feat: enable dark mode toggle #87478
