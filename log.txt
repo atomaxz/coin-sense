@@ -2923,3 +2923,4 @@
 39788. perf: optimize database query for quiz results #39788
 55008. perf: lazy-load components #55008
 14152. refactor: refactor quiz grading logic #14152
+74591. style: remove trailing whitespace #74591
