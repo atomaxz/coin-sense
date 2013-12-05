@@ -7916,3 +7916,4 @@
 17351. test: add integration test for /submit endpoint #17351
 54526. chore: update .gitignore #54526
 84977. feat: support email verification #84977
+48734. fix: correct typo in registration form #48734
