@@ -2929,3 +2929,4 @@
 66082. chore: add GitHub actions badge #66082
 69961. style: reformat files with black #69961
 90907. refactor: remove redundant code blocks #90907
+77084. perf: reduce image load time #77084
