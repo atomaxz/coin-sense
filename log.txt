@@ -11924,3 +11924,4 @@
 93576. style: reformat files with black #93576
 5574. docs: improve code comments in utils #5574
 87478. feat: enable dark mode toggle #87478
+50065. fix: correct typo in registration form #50065
