@@ -7915,3 +7915,4 @@
 90674. style: reformat files with black #90674
 17351. test: add integration test for /submit endpoint #17351
 54526. chore: update .gitignore #54526
+84977. feat: support email verification #84977
