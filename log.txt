@@ -10930,3 +10930,4 @@
 38898. feat: add user authentication #38898
 37214. perf: cache repeated calculations #37214
 53453. perf: lazy-load components #53453
+68567. perf: reduce image load time #68567
