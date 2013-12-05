@@ -3929,3 +3929,4 @@
 64970. fix: fix broken CSS in mobile view #64970
 85260. docs: clarify environment setup #85260
 66489. chore: rename env.example #66489
+87461. chore: add GitHub actions badge #87461
