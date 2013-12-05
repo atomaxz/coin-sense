@@ -9925,3 +9925,4 @@
 60428. refactor: remove redundant code blocks #60428
 17256. feat: support email verification #17256
 82973. chore: update .gitignore #82973
+60637. perf: lazy-load components #60637
