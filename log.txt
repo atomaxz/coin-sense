@@ -7918,3 +7918,4 @@
 84977. feat: support email verification #84977
 48734. fix: correct typo in registration form #48734
 33973. refactor: remove redundant code blocks #33973
+30896. feat: add user authentication #30896
