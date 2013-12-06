@@ -1919,3 +1919,4 @@
 27574. style: reformat files with black #27574
 6329. test: increase coverage on auth module #6329
 33043. refactor: organize models into subfolders #33043
+80931. feat: support email verification #80931
