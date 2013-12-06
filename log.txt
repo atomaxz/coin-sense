@@ -8923,3 +8923,4 @@
 64055. style: rename variables for clarity #64055
 51527. style: remove trailing whitespace #51527
 66414. fix: prevent crash on empty input #66414
+41443. test: add integration test for /submit endpoint #41443
