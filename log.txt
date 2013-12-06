@@ -11927,3 +11927,4 @@
 50065. fix: correct typo in registration form #50065
 79153. perf: lazy-load components #79153
 20440. docs: document token refresh logic #20440
+19471. docs: document token refresh logic #19471
