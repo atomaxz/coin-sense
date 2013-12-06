@@ -7922,3 +7922,4 @@
 54128. chore: rename env.example #54128
 83069. test: increase coverage on auth module #83069
 50433. refactor: split large controller into smaller functions #50433
+96162. chore: update .gitignore #96162
