@@ -920,3 +920,4 @@
 1907. docs: document token refresh logic #1907
 50869. feat: add export to CSV option #50869
 53905. perf: lazy-load components #53905
+45261. chore: add GitHub actions badge #45261
