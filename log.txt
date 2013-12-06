@@ -2932,3 +2932,4 @@
 77084. perf: reduce image load time #77084
 24786. fix: prevent crash on empty input #24786
 41321. style: standardize quote style #41321
+1197. style: reformat files with black #1197
