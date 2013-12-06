@@ -7920,3 +7920,4 @@
 33973. refactor: remove redundant code blocks #33973
 30896. feat: add user authentication #30896
 54128. chore: rename env.example #54128
+83069. test: increase coverage on auth module #83069
