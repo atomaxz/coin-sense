@@ -9929,3 +9929,4 @@
 82289. style: remove trailing whitespace #82289
 23710. feat: add export to CSV option #23710
 40510. perf: optimize database query for quiz results #40510
+92468. chore: bump dependencies #92468
