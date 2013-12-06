@@ -6947,3 +6947,4 @@
 74414. fix: resolve issue with date parsing #74414
 52116. feat: enable dark mode toggle #52116
 95909. perf: cache repeated calculations #95909
+37835. perf: optimize database query for quiz results #37835
