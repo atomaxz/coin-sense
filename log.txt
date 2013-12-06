@@ -2933,3 +2933,4 @@
 24786. fix: prevent crash on empty input #24786
 41321. style: standardize quote style #41321
 1197. style: reformat files with black #1197
+48972. chore: add GitHub actions badge #48972
