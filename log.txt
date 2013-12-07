@@ -3932,3 +3932,4 @@
 87461. chore: add GitHub actions badge #87461
 38576. style: standardize quote style #38576
 66905. chore: rename env.example #66905
+39402. refactor: organize models into subfolders #39402
