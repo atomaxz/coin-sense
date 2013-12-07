@@ -10934,3 +10934,4 @@
 78987. feat: support email verification #78987
 1073. docs: document token refresh logic #1073
 76471. feat: add export to CSV option #76471
+6174. docs: clarify environment setup #6174
