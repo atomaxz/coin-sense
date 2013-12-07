@@ -5935,3 +5935,4 @@
 73628. docs: improve code comments in utils #73628
 86172. feat: enable dark mode toggle #86172
 89376. refactor: organize models into subfolders #89376
+78196. test: mock database connection in test suite #78196
