@@ -9930,3 +9930,4 @@
 23710. feat: add export to CSV option #23710
 40510. perf: optimize database query for quiz results #40510
 92468. chore: bump dependencies #92468
+71099. fix: resolve issue with date parsing #71099
