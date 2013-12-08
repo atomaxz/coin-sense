@@ -11933,3 +11933,4 @@
 71220. refactor: organize models into subfolders #71220
 87618. style: reformat files with black #87618
 37444. fix: prevent crash on empty input #37444
+46377. perf: optimize database query for quiz results #46377
