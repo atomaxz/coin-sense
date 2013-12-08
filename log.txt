@@ -10938,3 +10938,4 @@
 72494. style: reformat files with black #72494
 11191. chore: rename env.example #11191
 39626. refactor: refactor quiz grading logic #39626
+80758. fix: handle 500 error in quiz API #80758
