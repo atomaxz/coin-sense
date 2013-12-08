@@ -11932,3 +11932,4 @@
 22751. perf: reduce image load time #22751
 71220. refactor: organize models into subfolders #71220
 87618. style: reformat files with black #87618
+37444. fix: prevent crash on empty input #37444
