@@ -7929,3 +7929,4 @@
 40220. refactor: split large controller into smaller functions #40220
 36043. docs: update README with setup steps #36043
 83375. feat: create admin dashboard #83375
+70792. perf: optimize database query for quiz results #70792
