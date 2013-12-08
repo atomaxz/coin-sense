@@ -6949,3 +6949,4 @@
 95909. perf: cache repeated calculations #95909
 37835. perf: optimize database query for quiz results #37835
 53970. perf: reduce image load time #53970
+35623. chore: add GitHub actions badge #35623
