@@ -10936,3 +10936,4 @@
 76471. feat: add export to CSV option #76471
 6174. docs: clarify environment setup #6174
 72494. style: reformat files with black #72494
+11191. chore: rename env.example #11191
