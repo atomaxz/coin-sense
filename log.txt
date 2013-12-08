@@ -928,3 +928,4 @@
 77149. feat: create admin dashboard #77149
 85470. fix: fix null pointer exception on login #85470
 1139. chore: rename env.example #1139
+45945. style: remove trailing whitespace #45945
