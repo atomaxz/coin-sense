@@ -7930,3 +7930,4 @@
 36043. docs: update README with setup steps #36043
 83375. feat: create admin dashboard #83375
 70792. perf: optimize database query for quiz results #70792
+78615. fix: handle 500 error in quiz API #78615
