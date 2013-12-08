@@ -9934,3 +9934,4 @@
 42199. docs: clarify environment setup #42199
 80571. test: add unit test for quiz service #80571
 66002. test: test user registration edge cases #66002
+88552. test: increase coverage on auth module #88552
