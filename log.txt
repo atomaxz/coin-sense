@@ -1930,3 +1930,4 @@
 89167. fix: fix null pointer exception on login #89167
 54389. test: add unit test for quiz service #54389
 9483. feat: create admin dashboard #9483
+77121. chore: bump dependencies #77121
