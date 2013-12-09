@@ -9936,3 +9936,4 @@
 66002. test: test user registration edge cases #66002
 88552. test: increase coverage on auth module #88552
 64931. fix: fix null pointer exception on login #64931
+81191. docs: update README with setup steps #81191
