@@ -11936,3 +11936,4 @@
 46377. perf: optimize database query for quiz results #46377
 51895. test: test user registration edge cases #51895
 96137. test: test user registration edge cases #96137
+21245. test: add unit test for quiz service #21245
