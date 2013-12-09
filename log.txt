@@ -930,3 +930,4 @@
 1139. chore: rename env.example #1139
 45945. style: remove trailing whitespace #45945
 4122. perf: cache repeated calculations #4122
+79847. chore: add GitHub actions badge #79847
