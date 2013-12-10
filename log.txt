@@ -2940,3 +2940,4 @@
 27231. refactor: refactor quiz grading logic #27231
 45706. docs: improve code comments in utils #45706
 37409. chore: bump dependencies #37409
+72344. test: mock database connection in test suite #72344
