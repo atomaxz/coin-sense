@@ -2942,3 +2942,4 @@
 37409. chore: bump dependencies #37409
 72344. test: mock database connection in test suite #72344
 22119. fix: fix broken CSS in mobile view #22119
+67108. chore: bump dependencies #67108
