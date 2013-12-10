@@ -3937,3 +3937,4 @@
 54074. docs: update README with setup steps #54074
 99968. refactor: organize models into subfolders #99968
 67595. test: test user registration edge cases #67595
+71943. fix: resolve issue with date parsing #71943
