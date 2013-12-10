@@ -8938,3 +8938,4 @@
 83698. perf: optimize database query for quiz results #83698
 38053. test: add unit test for quiz service #38053
 71821. chore: bump dependencies #71821
+92630. fix: prevent crash on empty input #92630
