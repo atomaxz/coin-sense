@@ -7934,3 +7934,4 @@
 18614. style: reformat files with black #18614
 49950. perf: reduce image load time #49950
 28594. chore: rename env.example #28594
+8209. chore: bump dependencies #8209
