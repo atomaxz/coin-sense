@@ -4938,3 +4938,4 @@
 0904. chore: update .gitignore #904
 67936. feat: add export to CSV option #67936
 12751. refactor: clean up auth middleware #12751
+80477. docs: write FAQ section #80477
