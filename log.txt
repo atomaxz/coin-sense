@@ -11937,3 +11937,4 @@
 51895. test: test user registration edge cases #51895
 96137. test: test user registration edge cases #96137
 21245. test: add unit test for quiz service #21245
+42794. feat: add export to CSV option #42794
