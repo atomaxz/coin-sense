@@ -10941,3 +10941,4 @@
 80758. fix: handle 500 error in quiz API #80758
 49814. docs: document token refresh logic #49814
 70122. feat: implement quiz timer feature #70122
+76928. fix: correct typo in registration form #76928
