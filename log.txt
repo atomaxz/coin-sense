@@ -4941,3 +4941,4 @@
 80477. docs: write FAQ section #80477
 91225. style: apply consistent indentation #91225
 96732. chore: rename env.example #96732
+18343. test: increase coverage on auth module #18343
