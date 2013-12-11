@@ -11943,3 +11943,4 @@
 20260. perf: lazy-load components #20260
 26430. docs: document token refresh logic #26430
 10329. refactor: split large controller into smaller functions #10329
+66660. chore: bump dependencies #66660
