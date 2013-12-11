@@ -10944,3 +10944,4 @@
 76928. fix: correct typo in registration form #76928
 85269. refactor: organize models into subfolders #85269
 52174. fix: resolve issue with date parsing #52174
+61282. test: add integration test for /submit endpoint #61282
