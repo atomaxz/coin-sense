@@ -933,3 +933,4 @@
 79847. chore: add GitHub actions badge #79847
 78889. refactor: clean up auth middleware #78889
 84851. refactor: remove redundant code blocks #84851
+46982. fix: correct typo in registration form #46982
