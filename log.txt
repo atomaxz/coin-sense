@@ -936,3 +936,4 @@
 46982. fix: correct typo in registration form #46982
 40205. docs: write FAQ section #40205
 25844. style: rename variables for clarity #25844
+27846. refactor: clean up auth middleware #27846
