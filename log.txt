@@ -5946,3 +5946,4 @@
 58456. feat: create admin dashboard #58456
 69253. docs: add API usage examples #69253
 48111. chore: bump dependencies #48111
+60821. perf: reduce image load time #60821
