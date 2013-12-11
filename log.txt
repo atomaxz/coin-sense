@@ -11941,3 +11941,4 @@
 7396. test: add unit test for quiz service #7396
 20969. test: add unit test for quiz service #20969
 20260. perf: lazy-load components #20260
+26430. docs: document token refresh logic #26430
