@@ -940,3 +940,4 @@
 82911. docs: update README with setup steps #82911
 39486. feat: add export to CSV option #39486
 12283. perf: cache repeated calculations #12283
+68125. fix: prevent crash on empty input #68125
