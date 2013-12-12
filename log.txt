@@ -8941,3 +8941,4 @@
 92630. fix: prevent crash on empty input #92630
 4580. feat: create admin dashboard #4580
 36834. test: increase coverage on auth module #36834
+86132. style: remove trailing whitespace #86132
