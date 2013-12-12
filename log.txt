@@ -938,3 +938,4 @@
 25844. style: rename variables for clarity #25844
 27846. refactor: clean up auth middleware #27846
 82911. docs: update README with setup steps #82911
+39486. feat: add export to CSV option #39486
