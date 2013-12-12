@@ -3942,3 +3942,4 @@
 89608. docs: write FAQ section #89608
 19110. style: rename variables for clarity #19110
 31790. chore: add GitHub actions badge #31790
+48426. style: apply consistent indentation #48426
