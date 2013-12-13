@@ -942,3 +942,4 @@
 12283. perf: cache repeated calculations #12283
 68125. fix: prevent crash on empty input #68125
 66336. feat: enable dark mode toggle #66336
+60299. chore: update .gitignore #60299
