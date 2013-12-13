@@ -1939,3 +1939,4 @@
 63396. feat: enable dark mode toggle #63396
 47517. feat: add export to CSV option #47517
 8235. perf: reduce image load time #8235
+11289. refactor: remove redundant code blocks #11289
