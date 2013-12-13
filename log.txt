@@ -7946,3 +7946,4 @@
 56671. feat: add export to CSV option #56671
 68233. feat: add user authentication #68233
 63664. style: rename variables for clarity #63664
+41947. fix: fix null pointer exception on login #41947
