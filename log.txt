@@ -5948,3 +5948,4 @@
 48111. chore: bump dependencies #48111
 60821. perf: reduce image load time #60821
 94376. chore: update .gitignore #94376
+30684. docs: write FAQ section #30684
