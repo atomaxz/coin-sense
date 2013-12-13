@@ -2946,3 +2946,4 @@
 14228. perf: reduce image load time #14228
 28186. style: standardize quote style #28186
 48815. feat: enable dark mode toggle #48815
+32068. perf: lazy-load components #32068
