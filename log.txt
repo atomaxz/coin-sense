@@ -5950,3 +5950,4 @@
 94376. chore: update .gitignore #94376
 30684. docs: write FAQ section #30684
 29458. test: test user registration edge cases #29458
+20906. test: increase coverage on auth module #20906
