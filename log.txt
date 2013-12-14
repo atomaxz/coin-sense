@@ -9952,3 +9952,4 @@
 34423. refactor: clean up auth middleware #34423
 71076. style: reformat files with black #71076
 62141. chore: bump dependencies #62141
+50761. docs: update README with setup steps #50761
