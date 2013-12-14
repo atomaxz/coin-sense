@@ -7948,3 +7948,4 @@
 63664. style: rename variables for clarity #63664
 41947. fix: fix null pointer exception on login #41947
 62653. docs: add API usage examples #62653
+19953. docs: update README with setup steps #19953
