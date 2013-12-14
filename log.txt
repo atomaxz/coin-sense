@@ -946,3 +946,4 @@
 56914. style: rename variables for clarity #56914
 88258. docs: update README with setup steps #88258
 72991. docs: clarify environment setup #72991
+91684. test: mock database connection in test suite #91684
