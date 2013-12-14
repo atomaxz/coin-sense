@@ -10950,3 +10950,4 @@
 39975. fix: handle 500 error in quiz API #39975
 70365. fix: resolve issue with date parsing #70365
 27113. style: rename variables for clarity #27113
+42864. refactor: clean up auth middleware #42864
