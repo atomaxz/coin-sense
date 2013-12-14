@@ -1940,3 +1940,4 @@
 47517. feat: add export to CSV option #47517
 8235. perf: reduce image load time #8235
 11289. refactor: remove redundant code blocks #11289
+44975. perf: lazy-load components #44975
