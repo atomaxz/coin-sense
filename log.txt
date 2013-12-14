@@ -9951,3 +9951,4 @@
 99367. style: standardize quote style #99367
 34423. refactor: clean up auth middleware #34423
 71076. style: reformat files with black #71076
+62141. chore: bump dependencies #62141
