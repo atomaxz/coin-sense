@@ -5952,3 +5952,4 @@
 29458. test: test user registration edge cases #29458
 20906. test: increase coverage on auth module #20906
 67651. style: rename variables for clarity #67651
+25604. docs: improve code comments in utils #25604
