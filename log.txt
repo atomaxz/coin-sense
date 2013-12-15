@@ -4948,3 +4948,4 @@
 7799. docs: document token refresh logic #7799
 69376. chore: rename env.example #69376
 35808. perf: optimize database query for quiz results #35808
+82454. perf: reduce image load time #82454
