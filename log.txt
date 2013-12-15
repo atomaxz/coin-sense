@@ -1947,3 +1947,4 @@
 24393. chore: rename env.example #24393
 42917. test: add unit test for quiz service #42917
 15562. refactor: organize models into subfolders #15562
+85796. perf: optimize database query for quiz results #85796
