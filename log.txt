@@ -11953,3 +11953,4 @@
 35580. style: reformat files with black #35580
 14759. refactor: refactor quiz grading logic #14759
 64001. test: test user registration edge cases #64001
+51321. test: add unit test for quiz service #51321
