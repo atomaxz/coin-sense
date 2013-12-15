@@ -5955,3 +5955,4 @@
 25604. docs: improve code comments in utils #25604
 91023. chore: clean up unused files #91023
 3886. refactor: refactor quiz grading logic #3886
+45233. test: increase coverage on auth module #45233
