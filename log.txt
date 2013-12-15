@@ -8945,3 +8945,4 @@
 44879. refactor: split large controller into smaller functions #44879
 43023. refactor: organize models into subfolders #43023
 16265. test: mock database connection in test suite #16265
+58406. style: remove trailing whitespace #58406
