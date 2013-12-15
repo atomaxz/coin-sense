@@ -11952,3 +11952,4 @@
 22992. docs: update README with setup steps #22992
 35580. style: reformat files with black #35580
 14759. refactor: refactor quiz grading logic #14759
+64001. test: test user registration edge cases #64001
