@@ -1946,3 +1946,4 @@
 61596. refactor: remove redundant code blocks #61596
 24393. chore: rename env.example #24393
 42917. test: add unit test for quiz service #42917
+15562. refactor: organize models into subfolders #15562
