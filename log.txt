@@ -2949,3 +2949,4 @@
 32068. perf: lazy-load components #32068
 24247. refactor: split large controller into smaller functions #24247
 52472. fix: correct typo in registration form #52472
+8499. refactor: clean up auth middleware #8499
