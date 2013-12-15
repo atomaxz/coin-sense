@@ -6962,3 +6962,4 @@
 30084. chore: clean up unused files #30084
 15550. chore: add GitHub actions badge #15550
 79685. style: rename variables for clarity #79685
+6172. fix: handle 500 error in quiz API #6172
