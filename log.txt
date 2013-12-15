@@ -8948,3 +8948,4 @@
 58406. style: remove trailing whitespace #58406
 84757. fix: resolve issue with date parsing #84757
 97283. test: increase coverage on auth module #97283
+82593. chore: bump dependencies #82593
