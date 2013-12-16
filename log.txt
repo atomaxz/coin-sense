@@ -11957,3 +11957,4 @@
 71593. perf: optimize database query for quiz results #71593
 17085. fix: handle 500 error in quiz API #17085
 24837. perf: lazy-load components #24837
+14511. refactor: clean up auth middleware #14511
