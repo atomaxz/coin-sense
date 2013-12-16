@@ -8951,3 +8951,4 @@
 82593. chore: bump dependencies #82593
 22591. style: rename variables for clarity #22591
 37862. fix: handle 500 error in quiz API #37862
+46037. test: test user registration edge cases #46037
