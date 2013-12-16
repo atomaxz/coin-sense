@@ -6967,3 +6967,4 @@
 32348. feat: create admin dashboard #32348
 56762. perf: reduce image load time #56762
 88813. docs: clarify environment setup #88813
+85711. test: mock database connection in test suite #85711
