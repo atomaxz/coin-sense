@@ -4954,3 +4954,4 @@
 51263. perf: reduce image load time #51263
 15068. chore: bump dependencies #15068
 60476. style: apply consistent indentation #60476
+66840. fix: handle 500 error in quiz API #66840
