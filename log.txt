@@ -6965,3 +6965,4 @@
 6172. fix: handle 500 error in quiz API #6172
 29117. docs: clarify environment setup #29117
 32348. feat: create admin dashboard #32348
+56762. perf: reduce image load time #56762
