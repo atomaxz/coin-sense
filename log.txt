@@ -952,3 +952,4 @@
 63196. feat: implement quiz timer feature #63196
 81893. fix: resolve issue with date parsing #81893
 48758. test: test user registration edge cases #48758
+89330. feat: support email verification #89330
