@@ -10956,3 +10956,4 @@
 99103. feat: create admin dashboard #99103
 48683. style: apply consistent indentation #48683
 14172. chore: bump dependencies #14172
+53297. chore: add GitHub actions badge #53297
