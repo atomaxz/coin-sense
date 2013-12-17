@@ -955,3 +955,4 @@
 89330. feat: support email verification #89330
 94713. refactor: refactor quiz grading logic #94713
 41638. test: mock database connection in test suite #41638
+7636. refactor: remove redundant code blocks #7636
