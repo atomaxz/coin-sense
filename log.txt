@@ -9955,3 +9955,4 @@
 50761. docs: update README with setup steps #50761
 24229. fix: resolve issue with date parsing #24229
 41174. fix: fix broken CSS in mobile view #41174
+34984. docs: document token refresh logic #34984
