@@ -6971,3 +6971,4 @@
 98421. refactor: organize models into subfolders #98421
 36077. refactor: organize models into subfolders #36077
 23725. perf: cache repeated calculations #23725
+41755. fix: handle 500 error in quiz API #41755
