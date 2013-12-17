@@ -7951,3 +7951,4 @@
 19953. docs: update README with setup steps #19953
 15514. docs: document token refresh logic #15514
 43879. chore: update .gitignore #43879
+22023. perf: lazy-load components #22023
