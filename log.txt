@@ -6969,3 +6969,4 @@
 88813. docs: clarify environment setup #88813
 85711. test: mock database connection in test suite #85711
 98421. refactor: organize models into subfolders #98421
+36077. refactor: organize models into subfolders #36077
