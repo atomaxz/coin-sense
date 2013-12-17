@@ -11962,3 +11962,4 @@
 73049. test: add unit test for quiz service #73049
 78967. refactor: organize models into subfolders #78967
 42540. feat: add export to CSV option #42540
+66447. style: reformat files with black #66447
