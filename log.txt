@@ -954,3 +954,4 @@
 48758. test: test user registration edge cases #48758
 89330. feat: support email verification #89330
 94713. refactor: refactor quiz grading logic #94713
+41638. test: mock database connection in test suite #41638
