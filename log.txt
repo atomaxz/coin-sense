@@ -1959,3 +1959,4 @@
 72477. refactor: clean up auth middleware #72477
 14500. style: remove trailing whitespace #14500
 93708. style: apply consistent indentation #93708
+15266. fix: handle 500 error in quiz API #15266
