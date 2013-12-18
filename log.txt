@@ -3956,3 +3956,4 @@
 53510. perf: reduce image load time #53510
 23727. chore: add GitHub actions badge #23727
 28173. fix: handle 500 error in quiz API #28173
+10820. test: add integration test for /submit endpoint #10820
