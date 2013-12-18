@@ -10958,3 +10958,4 @@
 14172. chore: bump dependencies #14172
 53297. chore: add GitHub actions badge #53297
 33617. fix: fix broken CSS in mobile view #33617
+11800. fix: correct typo in registration form #11800
