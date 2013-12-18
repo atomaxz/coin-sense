@@ -8958,3 +8958,4 @@
 11439. docs: document token refresh logic #11439
 26716. fix: handle 500 error in quiz API #26716
 13984. chore: clean up unused files #13984
+52246. perf: lazy-load components #52246
