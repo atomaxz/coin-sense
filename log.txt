@@ -2958,3 +2958,4 @@
 66827. test: add unit test for quiz service #66827
 71349. style: remove trailing whitespace #71349
 75008. docs: improve code comments in utils #75008
+66746. refactor: clean up auth middleware #66746
