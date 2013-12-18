@@ -1957,3 +1957,4 @@
 95263. perf: cache repeated calculations #95263
 91563. feat: create admin dashboard #91563
 72477. refactor: clean up auth middleware #72477
+14500. style: remove trailing whitespace #14500
