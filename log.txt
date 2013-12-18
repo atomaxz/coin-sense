@@ -8961,3 +8961,4 @@
 52246. perf: lazy-load components #52246
 38263. test: add integration test for /submit endpoint #38263
 14505. test: add integration test for /submit endpoint #14505
+27831. perf: lazy-load components #27831
