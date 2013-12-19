@@ -3959,3 +3959,4 @@
 10820. test: add integration test for /submit endpoint #10820
 26413. test: mock database connection in test suite #26413
 92540. perf: cache repeated calculations #92540
+60332. feat: add user authentication #60332
