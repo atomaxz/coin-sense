@@ -10962,3 +10962,4 @@
 83212. feat: create admin dashboard #83212
 66476. style: remove trailing whitespace #66476
 74655. refactor: clean up auth middleware #74655
+70596. docs: document token refresh logic #70596
