@@ -5964,3 +5964,4 @@
 44147. docs: document token refresh logic #44147
 88043. docs: add API usage examples #88043
 99490. docs: improve code comments in utils #99490
+87511. test: mock database connection in test suite #87511
