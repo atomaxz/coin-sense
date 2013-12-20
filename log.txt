@@ -8965,3 +8965,4 @@
 62826. refactor: split large controller into smaller functions #62826
 21283. fix: prevent crash on empty input #21283
 21872. refactor: clean up auth middleware #21872
+12838. test: add integration test for /submit endpoint #12838
