@@ -8971,3 +8971,4 @@
 47767. fix: fix null pointer exception on login #47767
 85786. chore: bump dependencies #85786
 84519. feat: add user authentication #84519
+31236. style: standardize quote style #31236
