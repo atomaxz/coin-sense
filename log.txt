@@ -10970,3 +10970,4 @@
 94592. test: add integration test for /submit endpoint #94592
 16774. chore: clean up unused files #16774
 10909. test: test user registration edge cases #10909
+49791. refactor: remove redundant code blocks #49791
