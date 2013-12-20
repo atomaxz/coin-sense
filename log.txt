@@ -6975,3 +6975,4 @@
 81329. perf: cache repeated calculations #81329
 0983. chore: rename env.example #983
 60754. chore: add GitHub actions badge #60754
+46790. perf: reduce image load time #46790
