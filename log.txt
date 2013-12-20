@@ -8969,3 +8969,4 @@
 54938. test: add integration test for /submit endpoint #54938
 53000. chore: rename env.example #53000
 47767. fix: fix null pointer exception on login #47767
+85786. chore: bump dependencies #85786
