@@ -2961,3 +2961,4 @@
 66746. refactor: clean up auth middleware #66746
 32730. style: standardize quote style #32730
 64492. fix: correct typo in registration form #64492
+28082. feat: enable dark mode toggle #28082
