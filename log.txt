@@ -6977,3 +6977,4 @@
 60754. chore: add GitHub actions badge #60754
 46790. perf: reduce image load time #46790
 8069. fix: fix broken CSS in mobile view #8069
+39820. test: add integration test for /submit endpoint #39820
