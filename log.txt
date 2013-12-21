@@ -8973,3 +8973,4 @@
 84519. feat: add user authentication #84519
 31236. style: standardize quote style #31236
 24060. chore: add GitHub actions badge #24060
+41027. fix: prevent crash on empty input #41027
