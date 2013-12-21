@@ -10973,3 +10973,4 @@
 49791. refactor: remove redundant code blocks #49791
 89430. refactor: refactor quiz grading logic #89430
 34458. style: reformat files with black #34458
+75899. test: add integration test for /submit endpoint #75899
