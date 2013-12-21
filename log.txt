@@ -1969,3 +1969,4 @@
 51049. feat: enable dark mode toggle #51049
 97565. chore: rename env.example #97565
 83791. perf: reduce image load time #83791
+16162. refactor: clean up auth middleware #16162
