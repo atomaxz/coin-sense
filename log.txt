@@ -5969,3 +5969,4 @@
 96984. chore: bump dependencies #96984
 8219. perf: cache repeated calculations #8219
 37247. feat: support email verification #37247
+79573. fix: correct typo in registration form #79573
