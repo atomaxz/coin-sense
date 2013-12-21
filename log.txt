@@ -5970,3 +5970,4 @@
 8219. perf: cache repeated calculations #8219
 37247. feat: support email verification #37247
 79573. fix: correct typo in registration form #79573
+42216. docs: write FAQ section #42216
