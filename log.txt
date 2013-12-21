@@ -4968,3 +4968,4 @@
 28313. perf: cache repeated calculations #28313
 25509. chore: clean up unused files #25509
 67350. test: add integration test for /submit endpoint #67350
+32557. chore: add GitHub actions badge #32557
