@@ -962,3 +962,4 @@
 98372. style: apply consistent indentation #98372
 53152. feat: implement quiz timer feature #53152
 75630. perf: reduce image load time #75630
+52450. refactor: clean up auth middleware #52450
