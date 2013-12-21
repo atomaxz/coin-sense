@@ -2967,3 +2967,4 @@
 98768. test: add integration test for /submit endpoint #98768
 44994. style: apply consistent indentation #44994
 73548. docs: write FAQ section #73548
+41299. fix: fix null pointer exception on login #41299
