@@ -6979,3 +6979,4 @@
 8069. fix: fix broken CSS in mobile view #8069
 39820. test: add integration test for /submit endpoint #39820
 94039. test: increase coverage on auth module #94039
+89046. refactor: remove redundant code blocks #89046
