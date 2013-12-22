@@ -2968,3 +2968,4 @@
 44994. style: apply consistent indentation #44994
 73548. docs: write FAQ section #73548
 41299. fix: fix null pointer exception on login #41299
+92681. fix: handle 500 error in quiz API #92681
