@@ -1970,3 +1970,4 @@
 97565. chore: rename env.example #97565
 83791. perf: reduce image load time #83791
 16162. refactor: clean up auth middleware #16162
+71313. fix: correct typo in registration form #71313
