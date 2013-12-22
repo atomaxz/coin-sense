@@ -5972,3 +5972,4 @@
 79573. fix: correct typo in registration form #79573
 42216. docs: write FAQ section #42216
 12537. docs: improve code comments in utils #12537
+75741. refactor: split large controller into smaller functions #75741
