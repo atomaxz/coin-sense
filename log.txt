@@ -7968,3 +7968,4 @@
 35346. fix: fix null pointer exception on login #35346
 80290. fix: handle 500 error in quiz API #80290
 85838. refactor: split large controller into smaller functions #85838
+69771. test: mock database connection in test suite #69771
