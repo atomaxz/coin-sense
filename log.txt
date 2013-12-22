@@ -3970,3 +3970,4 @@
 51260. docs: improve code comments in utils #51260
 18887. feat: enable dark mode toggle #18887
 24246. perf: lazy-load components #24246
+64812. docs: document token refresh logic #64812
