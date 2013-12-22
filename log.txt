@@ -4970,3 +4970,4 @@
 67350. test: add integration test for /submit endpoint #67350
 32557. chore: add GitHub actions badge #32557
 39543. style: apply consistent indentation #39543
+85350. test: mock database connection in test suite #85350
