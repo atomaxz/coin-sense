@@ -974,3 +974,4 @@
 58159. chore: bump dependencies #58159
 17354. chore: update .gitignore #17354
 10082. fix: handle 500 error in quiz API #10082
+85233. perf: lazy-load components #85233
