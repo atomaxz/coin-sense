@@ -5975,3 +5975,4 @@
 75741. refactor: split large controller into smaller functions #75741
 44067. chore: update .gitignore #44067
 37732. test: increase coverage on auth module #37732
+43813. test: increase coverage on auth module #43813
