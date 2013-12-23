@@ -1973,3 +1973,4 @@
 71313. fix: correct typo in registration form #71313
 90247. fix: fix null pointer exception on login #90247
 99798. refactor: split large controller into smaller functions #99798
+27500. refactor: clean up auth middleware #27500
