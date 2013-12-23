@@ -6980,3 +6980,4 @@
 39820. test: add integration test for /submit endpoint #39820
 94039. test: increase coverage on auth module #94039
 89046. refactor: remove redundant code blocks #89046
+0044. chore: add GitHub actions badge #44
