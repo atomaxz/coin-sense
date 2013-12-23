@@ -973,3 +973,4 @@
 25251. test: mock database connection in test suite #25251
 58159. chore: bump dependencies #58159
 17354. chore: update .gitignore #17354
+10082. fix: handle 500 error in quiz API #10082
