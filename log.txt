@@ -9964,3 +9964,4 @@
 83151. docs: write FAQ section #83151
 91052. feat: add export to CSV option #91052
 7611. style: reformat files with black #7611
+68298. perf: cache repeated calculations #68298
