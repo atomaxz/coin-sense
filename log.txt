@@ -7972,3 +7972,4 @@
 32093. style: remove trailing whitespace #32093
 22229. perf: lazy-load components #22229
 67140. perf: lazy-load components #67140
+12418. test: increase coverage on auth module #12418
