@@ -1974,3 +1974,4 @@
 90247. fix: fix null pointer exception on login #90247
 99798. refactor: split large controller into smaller functions #99798
 27500. refactor: clean up auth middleware #27500
+32923. refactor: remove redundant code blocks #32923
