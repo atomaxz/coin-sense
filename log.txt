@@ -5978,3 +5978,4 @@
 43813. test: increase coverage on auth module #43813
 67023. feat: add export to CSV option #67023
 15135. fix: fix broken CSS in mobile view #15135
+23018. feat: support email verification #23018
