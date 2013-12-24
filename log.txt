@@ -7973,3 +7973,4 @@
 22229. perf: lazy-load components #22229
 67140. perf: lazy-load components #67140
 12418. test: increase coverage on auth module #12418
+67272. fix: fix broken CSS in mobile view #67272
