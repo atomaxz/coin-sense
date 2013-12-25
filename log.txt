@@ -978,3 +978,4 @@
 67328. style: standardize quote style #67328
 91969. feat: add export to CSV option #91969
 60643. docs: clarify environment setup #60643
+64617. test: increase coverage on auth module #64617
