@@ -10982,3 +10982,4 @@
 52935. style: rename variables for clarity #52935
 18153. feat: support email verification #18153
 67755. chore: clean up unused files #67755
+30668. docs: update README with setup steps #30668
