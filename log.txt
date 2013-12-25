@@ -8984,3 +8984,4 @@
 15027. feat: add user authentication #15027
 30476. refactor: refactor quiz grading logic #30476
 54644. perf: optimize database query for quiz results #54644
+94019. feat: support email verification #94019
