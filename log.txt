@@ -11985,3 +11985,4 @@
 98942. test: add integration test for /submit endpoint #98942
 48531. perf: optimize database query for quiz results #48531
 99314. test: add integration test for /submit endpoint #99314
+7214. perf: optimize database query for quiz results #7214
