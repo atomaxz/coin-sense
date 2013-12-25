@@ -11983,3 +11983,4 @@
 2425. chore: bump dependencies #2425
 66586. feat: implement quiz timer feature #66586
 98942. test: add integration test for /submit endpoint #98942
+48531. perf: optimize database query for quiz results #48531
