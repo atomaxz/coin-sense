@@ -980,3 +980,4 @@
 60643. docs: clarify environment setup #60643
 64617. test: increase coverage on auth module #64617
 72072. fix: resolve issue with date parsing #72072
+1078. perf: optimize database query for quiz results #1078
