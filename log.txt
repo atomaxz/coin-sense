@@ -5981,3 +5981,4 @@
 23018. feat: support email verification #23018
 63353. perf: reduce image load time #63353
 91260. docs: improve code comments in utils #91260
+98552. chore: bump dependencies #98552
