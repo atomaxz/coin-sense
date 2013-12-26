@@ -10984,3 +10984,4 @@
 67755. chore: clean up unused files #67755
 30668. docs: update README with setup steps #30668
 44838. perf: reduce image load time #44838
+58512. chore: update .gitignore #58512
