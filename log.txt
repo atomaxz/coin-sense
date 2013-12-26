@@ -10985,3 +10985,4 @@
 30668. docs: update README with setup steps #30668
 44838. perf: reduce image load time #44838
 58512. chore: update .gitignore #58512
+84390. test: test user registration edge cases #84390
