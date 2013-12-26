@@ -7982,3 +7982,4 @@
 33208. test: add unit test for quiz service #33208
 23462. feat: create admin dashboard #23462
 50804. fix: correct typo in registration form #50804
+13846. chore: add GitHub actions badge #13846
