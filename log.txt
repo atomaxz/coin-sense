@@ -7983,3 +7983,4 @@
 23462. feat: create admin dashboard #23462
 50804. fix: correct typo in registration form #50804
 13846. chore: add GitHub actions badge #13846
+98618. test: mock database connection in test suite #98618
