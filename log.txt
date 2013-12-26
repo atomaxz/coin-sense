@@ -2987,3 +2987,4 @@
 91224. perf: lazy-load components #91224
 19835. perf: optimize database query for quiz results #19835
 55529. chore: add GitHub actions badge #55529
+51936. fix: handle 500 error in quiz API #51936
