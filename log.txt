@@ -2986,3 +2986,4 @@
 99626. style: standardize quote style #99626
 91224. perf: lazy-load components #91224
 19835. perf: optimize database query for quiz results #19835
+55529. chore: add GitHub actions badge #55529
