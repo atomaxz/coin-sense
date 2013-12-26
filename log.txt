@@ -1984,3 +1984,4 @@
 95991. chore: rename env.example #95991
 54971. test: add integration test for /submit endpoint #54971
 52645. chore: clean up unused files #52645
+21395. style: rename variables for clarity #21395
