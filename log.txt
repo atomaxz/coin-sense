@@ -6986,3 +6986,4 @@
 58951. style: apply consistent indentation #58951
 24421. perf: reduce image load time #24421
 88372. fix: prevent crash on empty input #88372
+47347. docs: write FAQ section #47347
