@@ -1988,3 +1988,4 @@
 30409. chore: update .gitignore #30409
 88533. feat: support email verification #88533
 38533. chore: add GitHub actions badge #38533
+34669. chore: clean up unused files #34669
