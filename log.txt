@@ -9975,3 +9975,4 @@
 72857. chore: rename env.example #72857
 61087. chore: rename env.example #61087
 74594. perf: reduce image load time #74594
+73212. docs: clarify environment setup #73212
