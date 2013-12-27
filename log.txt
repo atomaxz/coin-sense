@@ -6988,3 +6988,4 @@
 88372. fix: prevent crash on empty input #88372
 47347. docs: write FAQ section #47347
 57987. feat: implement quiz timer feature #57987
+74648. feat: add export to CSV option #74648
