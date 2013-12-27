@@ -9982,3 +9982,4 @@
 86974. perf: optimize database query for quiz results #86974
 3556. chore: bump dependencies #3556
 70616. refactor: remove redundant code blocks #70616
+75281. refactor: clean up auth middleware #75281
