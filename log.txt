@@ -11989,3 +11989,4 @@
 5731. chore: update .gitignore #5731
 17145. style: reformat files with black #17145
 68144. chore: bump dependencies #68144
+13648. perf: cache repeated calculations #13648
