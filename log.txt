@@ -3981,3 +3981,4 @@
 8884. feat: implement quiz timer feature #8884
 93263. chore: rename env.example #93263
 28632. feat: add export to CSV option #28632
+96196. refactor: clean up auth middleware #96196
