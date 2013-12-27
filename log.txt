@@ -3984,3 +3984,4 @@
 96196. refactor: clean up auth middleware #96196
 70681. fix: fix null pointer exception on login #70681
 97889. feat: add user authentication #97889
+40441. chore: update .gitignore #40441
