@@ -2990,3 +2990,4 @@
 51936. fix: handle 500 error in quiz API #51936
 17170. docs: improve code comments in utils #17170
 37994. style: rename variables for clarity #37994
+7050. test: test user registration edge cases #7050
