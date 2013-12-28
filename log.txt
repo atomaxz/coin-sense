@@ -8990,3 +8990,4 @@
 60496. refactor: refactor quiz grading logic #60496
 88721. refactor: refactor quiz grading logic #88721
 59461. style: standardize quote style #59461
+35279. test: test user registration edge cases #35279
