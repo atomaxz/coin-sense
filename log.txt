@@ -3987,3 +3987,4 @@
 40441. chore: update .gitignore #40441
 25876. test: mock database connection in test suite #25876
 38612. style: reformat files with black #38612
+32961. fix: fix null pointer exception on login #32961
