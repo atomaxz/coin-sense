@@ -9986,3 +9986,4 @@
 22534. test: add unit test for quiz service #22534
 83358. perf: reduce image load time #83358
 36867. perf: lazy-load components #36867
+1308. test: add unit test for quiz service #1308
