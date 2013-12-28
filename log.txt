@@ -9984,3 +9984,4 @@
 70616. refactor: remove redundant code blocks #70616
 75281. refactor: clean up auth middleware #75281
 22534. test: add unit test for quiz service #22534
+83358. perf: reduce image load time #83358
