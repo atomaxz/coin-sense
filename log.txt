@@ -4987,3 +4987,4 @@
 67238. style: standardize quote style #67238
 20198. feat: create admin dashboard #20198
 66625. fix: fix null pointer exception on login #66625
+92169. test: test user registration edge cases #92169
