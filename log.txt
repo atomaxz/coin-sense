@@ -4989,3 +4989,4 @@
 66625. fix: fix null pointer exception on login #66625
 92169. test: test user registration edge cases #92169
 67643. docs: write FAQ section #67643
+3629. refactor: clean up auth middleware #3629
