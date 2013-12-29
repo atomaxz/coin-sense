@@ -9987,3 +9987,4 @@
 83358. perf: reduce image load time #83358
 36867. perf: lazy-load components #36867
 1308. test: add unit test for quiz service #1308
+44439. feat: support email verification #44439
