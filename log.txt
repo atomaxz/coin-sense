@@ -9989,3 +9989,4 @@
 1308. test: add unit test for quiz service #1308
 44439. feat: support email verification #44439
 89120. refactor: split large controller into smaller functions #89120
+37937. feat: support email verification #37937
