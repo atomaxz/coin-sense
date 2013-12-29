@@ -3992,3 +3992,4 @@
 32334. refactor: organize models into subfolders #32334
 76818. perf: reduce image load time #76818
 94762. feat: add export to CSV option #94762
+35704. perf: lazy-load components #35704
