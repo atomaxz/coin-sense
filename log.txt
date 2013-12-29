@@ -10991,3 +10991,4 @@
 60036. chore: add GitHub actions badge #60036
 49556. style: remove trailing whitespace #49556
 16963. test: add unit test for quiz service #16963
+1423. refactor: split large controller into smaller functions #1423
