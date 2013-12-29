@@ -1992,3 +1992,4 @@
 20899. style: apply consistent indentation #20899
 55057. test: mock database connection in test suite #55057
 68665. refactor: split large controller into smaller functions #68665
+11360. fix: fix null pointer exception on login #11360
