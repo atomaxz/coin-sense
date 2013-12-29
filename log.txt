@@ -983,3 +983,4 @@
 1078. perf: optimize database query for quiz results #1078
 95683. feat: create admin dashboard #95683
 49526. feat: enable dark mode toggle #49526
+36038. docs: improve code comments in utils #36038
