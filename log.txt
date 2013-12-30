@@ -2997,3 +2997,4 @@
 6306. fix: prevent crash on empty input #6306
 23315. style: remove trailing whitespace #23315
 78517. test: add integration test for /submit endpoint #78517
+31891. docs: document token refresh logic #31891
