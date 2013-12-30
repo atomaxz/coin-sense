@@ -10993,3 +10993,4 @@
 16963. test: add unit test for quiz service #16963
 1423. refactor: split large controller into smaller functions #1423
 78745. test: increase coverage on auth module #78745
+32000. fix: correct typo in registration form #32000
