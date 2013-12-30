@@ -5992,3 +5992,4 @@
 97093. style: standardize quote style #97093
 47187. perf: cache repeated calculations #47187
 8356. docs: document token refresh logic #8356
+71169. fix: fix broken CSS in mobile view #71169
