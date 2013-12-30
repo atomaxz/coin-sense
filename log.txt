@@ -990,3 +990,4 @@
 57219. fix: fix null pointer exception on login #57219
 14483. feat: add user authentication #14483
 92872. fix: fix null pointer exception on login #92872
+40412. fix: handle 500 error in quiz API #40412
