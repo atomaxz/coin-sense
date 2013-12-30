@@ -6992,3 +6992,4 @@
 23305. refactor: organize models into subfolders #23305
 64916. refactor: refactor quiz grading logic #64916
 0758. fix: correct typo in registration form #758
+82073. feat: create admin dashboard #82073
