@@ -6993,3 +6993,4 @@
 64916. refactor: refactor quiz grading logic #64916
 0758. fix: correct typo in registration form #758
 82073. feat: create admin dashboard #82073
+47673. fix: fix broken CSS in mobile view #47673
