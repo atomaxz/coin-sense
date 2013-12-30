@@ -4992,3 +4992,4 @@
 3629. refactor: clean up auth middleware #3629
 49321. chore: update .gitignore #49321
 99029. chore: rename env.example #99029
+41386. test: increase coverage on auth module #41386
