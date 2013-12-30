@@ -3994,3 +3994,4 @@
 94762. feat: add export to CSV option #94762
 35704. perf: lazy-load components #35704
 7625. docs: clarify environment setup #7625
+94714. perf: cache repeated calculations #94714
