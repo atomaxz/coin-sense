@@ -4991,3 +4991,4 @@
 67643. docs: write FAQ section #67643
 3629. refactor: clean up auth middleware #3629
 49321. chore: update .gitignore #49321
+99029. chore: rename env.example #99029
