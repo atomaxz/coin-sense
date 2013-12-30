@@ -4993,3 +4993,4 @@
 49321. chore: update .gitignore #49321
 99029. chore: rename env.example #99029
 41386. test: increase coverage on auth module #41386
+62250. perf: lazy-load components #62250
