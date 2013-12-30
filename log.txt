@@ -8996,3 +8996,4 @@
 41657. perf: reduce image load time #41657
 35459. perf: cache repeated calculations #35459
 84426. test: test user registration edge cases #84426
+93563. style: standardize quote style #93563
