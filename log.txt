@@ -2994,3 +2994,4 @@
 54390. fix: fix broken CSS in mobile view #54390
 54999. refactor: organize models into subfolders #54999
 46996. feat: enable dark mode toggle #46996
+6306. fix: prevent crash on empty input #6306
