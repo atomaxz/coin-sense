@@ -3993,3 +3993,4 @@
 76818. perf: reduce image load time #76818
 94762. feat: add export to CSV option #94762
 35704. perf: lazy-load components #35704
+7625. docs: clarify environment setup #7625
