@@ -10997,3 +10997,4 @@
 88857. docs: improve code comments in utils #88857
 20382. style: rename variables for clarity #20382
 60148. refactor: refactor quiz grading logic #60148
+48835. fix: fix null pointer exception on login #48835
