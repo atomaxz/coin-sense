@@ -9993,3 +9993,4 @@
 89472. fix: fix broken CSS in mobile view #89472
 59620. refactor: remove redundant code blocks #59620
 89633. style: apply consistent indentation #89633
+91087. docs: document token refresh logic #91087
