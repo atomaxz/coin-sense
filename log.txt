@@ -6995,3 +6995,4 @@
 82073. feat: create admin dashboard #82073
 47673. fix: fix broken CSS in mobile view #47673
 53073. feat: create admin dashboard #53073
+31538. docs: write FAQ section #31538
