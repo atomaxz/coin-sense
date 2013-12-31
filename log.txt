@@ -7995,3 +7995,4 @@
 1694. chore: update .gitignore #1694
 12374. style: apply consistent indentation #12374
 40309. docs: add API usage examples #40309
+50502. perf: lazy-load components #50502
