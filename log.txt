@@ -3997,3 +3997,4 @@
 94714. perf: cache repeated calculations #94714
 6722. refactor: remove redundant code blocks #6722
 31516. chore: add GitHub actions badge #31516
+91461. perf: optimize database query for quiz results #91461
