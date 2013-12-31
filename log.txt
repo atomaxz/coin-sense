@@ -8997,3 +8997,4 @@
 35459. perf: cache repeated calculations #35459
 84426. test: test user registration edge cases #84426
 93563. style: standardize quote style #93563
+17646. fix: fix null pointer exception on login #17646
