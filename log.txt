@@ -6997,3 +6997,4 @@
 53073. feat: create admin dashboard #53073
 31538. docs: write FAQ section #31538
 60634. chore: bump dependencies #60634
+17866. feat: add user authentication #17866
