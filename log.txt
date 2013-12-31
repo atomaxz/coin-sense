@@ -994,3 +994,4 @@
 94342. fix: correct typo in registration form #94342
 10380. feat: create admin dashboard #10380
 74851. docs: document token refresh logic #74851
+5647. style: rename variables for clarity #5647
